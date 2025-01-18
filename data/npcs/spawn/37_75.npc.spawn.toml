@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.gull'
+x = 2381
+y = 4843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 2382
+y = 4858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 2405
+y = 4860
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 2408
+y = 4859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 2416
+y = 4858
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gull'
+x = 2417
+y = 4832
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.gull'
+x = 2421
+y = 4842
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 2385
+y = 4838
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 2413
+y = 4836
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2387
+y = 4846
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2391
+y = 4829
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2399
+y = 4856
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bird'
+x = 2380
+y = 4839
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird'
+x = 2392
+y = 4856
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bird'
+x = 2409
+y = 4853
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2396
+y = 4858
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2407
+y = 4827
+plane = 0
+direction = 'EAST'

@@ -1,0 +1,114 @@
+[[spawns]]
+id = 'npc.lesser_demon'
+x = 2831
+y = 9562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon'
+x = 2840
+y = 9552
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2006'
+x = 2841
+y = 9559
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2007'
+x = 2837
+y = 9565
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2008'
+x = 2836
+y = 9558
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_2018'
+x = 2843
+y = 9557
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2834
+y = 9568
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2856
+y = 9575
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2861
+y = 9568
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2834
+y = 9580
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2834
+y = 9584
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2836
+y = 9576
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2838
+y = 9582
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2842
+y = 9583
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton'
+x = 2848
+y = 9581
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton'
+x = 2864
+y = 9568
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_71'
+x = 2853
+y = 9573
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_72'
+x = 2860
+y = 9577
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_73'
+x = 2859
+y = 9572
+plane = 0
+direction = 'NONE'

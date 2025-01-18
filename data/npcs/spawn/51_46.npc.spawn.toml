@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3266
+y = 2955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3271
+y = 2967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3279
+y = 2957
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3280
+y = 2975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3284
+y = 2959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3294
+y = 2964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3295
+y = 2978
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3305
+y = 2966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3307
+y = 2959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3309
+y = 2973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_695'
+x = 3272
+y = 2977
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bandit_695'
+x = 3280
+y = 2957
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bandit_695'
+x = 3281
+y = 2969
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bandit_695'
+x = 3293
+y = 2959
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bandit_695'
+x = 3302
+y = 2977
+plane = 0
+direction = 'NORTH'

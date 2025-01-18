@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.rocks'
+x = 1200
+y = 3588
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 1197
+y = 3587
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 1199
+y = 3584
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 1204
+y = 3590
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 1213
+y = 3596
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1182
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1184
+y = 3591
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1185
+y = 3598
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1187
+y = 3596
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1188
+y = 3593
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ketsal_kuk'
+x = 1179
+y = 3627
+plane = 0
+direction = 'NONE'

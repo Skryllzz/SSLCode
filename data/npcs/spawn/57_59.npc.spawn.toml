@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.gull'
+x = 3660
+y = 3828
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3663
+y = 3837
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3680
+y = 3825
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3680
+y = 3835
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3686
+y = 3823
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3690
+y = 3831
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3692
+y = 3816
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3692
+y = 3838
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3693
+y = 3823
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_7755'
+x = 3708
+y = 3836
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_7756'
+x = 3705
+y = 3838
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tar_bubbles'
+x = 3666
+y = 3792
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3664
+y = 3784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3665
+y = 3803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3666
+y = 3780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3666
+y = 3806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3678
+y = 3804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3682
+y = 3807
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3695
+y = 3802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3699
+y = 3799
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7831'
+x = 3696
+y = 3796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7832'
+x = 3704
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7833'
+x = 3705
+y = 3827
+plane = 0
+direction = 'NONE'

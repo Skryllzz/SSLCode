@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2696
+y = 9969
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2698
+y = 9962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2699
+y = 9977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2704
+y = 9959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2705
+y = 9969
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2709
+y = 9976
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2710
+y = 9963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2713
+y = 9970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2716
+y = 9964
+plane = 0
+direction = 'NONE'

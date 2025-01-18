@@ -1,0 +1,8 @@
+
+[[spawns]]
+id = 'npc.key_master'
+x = 1310
+y = 1251
+plane = 0
+direction = 'SOUTH'
+

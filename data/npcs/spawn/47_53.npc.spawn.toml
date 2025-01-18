@@ -1,0 +1,186 @@
+[[spawns]]
+id = 'npc.nulodion'
+x = 3011
+y = 3453
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1401'
+x = 3016
+y = 3450
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1402'
+x = 3021
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1403'
+x = 3016
+y = 3448
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1404'
+x = 3017
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard'
+x = 3012
+y = 3444
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_1410'
+x = 3015
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_1411'
+x = 3019
+y = 3446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_1412'
+x = 3014
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.engineering_assistant'
+x = 3013
+y = 3451
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.engineering_assistant_1414'
+x = 3013
+y = 3449
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.engineer'
+x = 3008
+y = 3442
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.squirrel'
+x = 3038
+y = 3428
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 3049
+y = 3427
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 3063
+y = 3422
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 3026
+y = 3432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 3044
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 3054
+y = 3418
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 3033
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 3048
+y = 3418
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raccoon'
+x = 3044
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raccoon'
+x = 3064
+y = 3444
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raccoon_1420'
+x = 3039
+y = 3449
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raccoon_1420'
+x = 3062
+y = 3439
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.raccoon_1421'
+x = 3040
+y = 3440
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.raccoon_1421'
+x = 3065
+y = 3435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3008
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3015
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3021
+y = 3437
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3029
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rolad'
+x = 3022
+y = 3452
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,324 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3792
+y = 2840
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_1954'
+x = 3787
+y = 2824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1956'
+x = 3787
+y = 2827
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1957'
+x = 3786
+y = 2827
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1958'
+x = 3788
+y = 2826
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1959'
+x = 3788
+y = 2825
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk'
+x = 3786
+y = 2827
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monk_543'
+x = 3786
+y = 2824
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_544'
+x = 3785
+y = 2827
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_545'
+x = 3784
+y = 2824
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.puffin'
+x = 3779
+y = 2826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3789
+y = 2817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3794
+y = 2821
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3808
+y = 2823
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3812
+y = 2861
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3813
+y = 2822
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3818
+y = 2862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3819
+y = 2870
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3821
+y = 2824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.puffin'
+x = 3831
+y = 2828
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3808
+y = 2845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3812
+y = 2846
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3815
+y = 2844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3819
+y = 2839
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3819
+y = 2851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3819
+y = 2838
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3823
+y = 2836
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones'
+x = 3823
+y = 2846
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones_562'
+x = 3810
+y = 2843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones_562'
+x = 3813
+y = 2844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones_562'
+x = 3821
+y = 2837
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sorebones_562'
+x = 3820
+y = 2840
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorebones_562'
+x = 3820
+y = 2851
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sorebones_562'
+x = 3823
+y = 2839
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.zombie_pirate'
+x = 3811
+y = 2826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_565'
+x = 3827
+y = 2833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_567'
+x = 3815
+y = 2859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_568'
+x = 3793
+y = 2851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_569'
+x = 3784
+y = 2843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_571'
+x = 3803
+y = 2843
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_pirate_572'
+x = 3810
+y = 2833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_573'
+x = 3824
+y = 2857
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_574'
+x = 3817
+y = 2824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_575'
+x = 3799
+y = 2855
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_576'
+x = 3796
+y = 2858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_578'
+x = 3795
+y = 2845
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_pirate_580'
+x = 3792
+y = 2830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_581'
+x = 3803
+y = 2872
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_584'
+x = 3800
+y = 2835
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_590'
+x = 3794
+y = 2873
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_592'
+x = 3804
+y = 2873
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_593'
+x = 3805
+y = 2874
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_pirate_595'
+x = 3794
+y = 2874
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_pirate_599'
+x = 3803
+y = 2848
+plane = 0
+direction = 'NONE'

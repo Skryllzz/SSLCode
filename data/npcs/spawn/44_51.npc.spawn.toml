@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.lesser_demon_2007'
+x = 2837
+y = 3280
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2018'
+x = 2832
+y = 3278
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 2842
+y = 3298
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 2844
+y = 3291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 2851
+y = 3298
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 2855
+y = 3303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 2859
+y = 3283
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 2861
+y = 3295
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2818
+y = 3291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2822
+y = 3282
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2822
+y = 3288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2824
+y = 3298
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2834
+y = 3305
+plane = 0
+direction = 'NONE'

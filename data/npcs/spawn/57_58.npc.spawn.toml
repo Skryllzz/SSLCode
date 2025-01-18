@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.charles_charlington'
+x = 3654
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tar_bubbles'
+x = 3669
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tar_bubbles'
+x = 3676
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tar_bubbles'
+x = 3677
+y = 3767
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tar_bubbles'
+x = 3683
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3678
+y = 3753
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3680
+y = 3756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3684
+y = 3771
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hoop_snake'
+x = 3686
+y = 3766
+plane = 0
+direction = 'NONE'

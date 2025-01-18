@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.william'
+x = 3218
+y = 3879
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3212
+y = 3846
+plane = 0
+direction = 'NONE'

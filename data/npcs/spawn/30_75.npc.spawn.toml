@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.gull_284'
+x = 1940
+y = 4831
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_284'
+x = 1944
+y = 4814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 1948
+y = 4833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 1965
+y = 4816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.murphy_5610'
+x = 1947
+y = 4827
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shark_5611'
+x = 1955
+y = 4833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shark_5612'
+x = 1950
+y = 4819
+plane = 0
+direction = 'NONE'

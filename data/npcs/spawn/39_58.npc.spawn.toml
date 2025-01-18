@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.rocks'
+x = 2502
+y = 3754
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2514
+y = 3766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2522
+y = 3716
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2523
+y = 3723
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2534
+y = 3719
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2537
+y = 3765
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2553
+y = 3746
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2501
+y = 3755
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2512
+y = 3765
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2512
+y = 3766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2521
+y = 3756
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2524
+y = 3724
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2529
+y = 3740
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2530
+y = 3762
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2531
+y = 3721
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2532
+y = 3760
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2541
+y = 3757
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2543
+y = 3754
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2548
+y = 3734
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jarvald_10407'
+x = 2544
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2260'
+x = 2539
+y = 3739
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2503
+y = 3730
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2526
+y = 3739
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.eagleeye_shultz'
+x = 2140
+y = 3916
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jack_sails'
+x = 2138
+y = 3912
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.betty_bboppin'
+x = 2138
+y = 3907
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.beedyeye_jones'
+x = 2141
+y = 3904
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jenny_blade'
+x = 2143
+y = 3905
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jenny_blade'
+x = 2142
+y = 3911
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah'
+x = 2114
+y = 3938
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah'
+x = 2116
+y = 3945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah'
+x = 2137
+y = 3946
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.suqah'
+x = 2142
+y = 3939
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah'
+x = 2148
+y = 3935
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah'
+x = 2149
+y = 3940
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah'
+x = 2155
+y = 3943
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.suqah_788'
+x = 2122
+y = 3939
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_790'
+x = 2117
+y = 3926
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.suqah_790'
+x = 2117
+y = 3951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_790'
+x = 2133
+y = 3942
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_791'
+x = 2147
+y = 3944
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_792'
+x = 2160
+y = 3937
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_793'
+x = 2135
+y = 3930
+plane = 0
+direction = 'NONE'

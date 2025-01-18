@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.null_1967'
+x = 3213
+y = 2956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf'
+x = 3237
+y = 2968
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ugthanki'
+x = 3237
+y = 3000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ugthanki'
+x = 3245
+y = 2960
+plane = 0
+direction = 'NONE'

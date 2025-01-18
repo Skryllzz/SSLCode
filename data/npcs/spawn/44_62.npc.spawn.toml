@@ -1,0 +1,240 @@
+[[spawns]]
+id = 'npc.iceberg'
+x = 2824
+y = 4002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2826
+y = 3978
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2826
+y = 4009
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2829
+y = 3973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2831
+y = 3990
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2832
+y = 3978
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2836
+y = 3994
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2837
+y = 3970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2840
+y = 3974
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2842
+y = 3985
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2844
+y = 4005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2845
+y = 3971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2848
+y = 3975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2848
+y = 3982
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2851
+y = 3971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2852
+y = 3992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2856
+y = 3973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2859
+y = 3996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2860
+y = 3977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2860
+y = 3983
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2860
+y = 4012
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2863
+y = 3971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2869
+y = 3968
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2869
+y = 3975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2869
+y = 3990
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2872
+y = 4005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2878
+y = 3976
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2820
+y = 3985
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2826
+y = 4004
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2829
+y = 3975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2833
+y = 3992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2839
+y = 3971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2845
+y = 3984
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2845
+y = 4006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2852
+y = 3980
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2858
+y = 3993
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2861
+y = 3979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2869
+y = 3993
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2878
+y = 3979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8414'
+x = 2851
+y = 3968
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.greater_demon'
+x = 3804
+y = 9829
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2026'
+x = 3810
+y = 9825
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2028'
+x = 3811
+y = 9830
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2029'
+x = 3805
+y = 9825
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sister_naoj'
+x = 3798
+y = 9817
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.strong_ronny'
+x = 3784
+y = 9793
+plane = 1
+direction = 'NONE'

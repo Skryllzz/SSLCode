@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.goat'
+x = 3335
+y = 3019
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat'
+x = 3366
+y = 3034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1793'
+x = 3338
+y = 3021
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1793'
+x = 3364
+y = 3033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1793'
+x = 3365
+y = 3036
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat'
+x = 3364
+y = 3034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1795'
+x = 3337
+y = 3020
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizard'
+x = 3387
+y = 3017
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizard'
+x = 3387
+y = 3068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_lizard'
+x = 3384
+y = 3015
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_lizard_460'
+x = 3386
+y = 3065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard'
+x = 3384
+y = 3013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard'
+x = 3387
+y = 3014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3385
+y = 3067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3389
+y = 3065
+plane = 0
+direction = 'NONE'

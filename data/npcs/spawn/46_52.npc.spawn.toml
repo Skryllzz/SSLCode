@@ -1,0 +1,582 @@
+[[spawns]]
+id = 'npc.null_10428'
+x = 2990
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10648'
+x = 2956
+y = 3367
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 2966
+y = 3346
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hairdresser'
+x = 2946
+y = 3379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.emily'
+x = 2954
+y = 3373
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.kaylee'
+x = 2957
+y = 3370
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.tina'
+x = 2956
+y = 3373
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2945
+y = 3366
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2946
+y = 3366
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2947
+y = 3366
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2948
+y = 3366
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2956
+y = 3337
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2962
+y = 3338
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2972
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2978
+y = 3348
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2983
+y = 3330
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2983
+y = 3334
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2983
+y = 3343
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2987
+y = 3341
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2996
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2958
+y = 3341
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2961
+y = 3351
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2969
+y = 3329
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2969
+y = 3338
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2974
+y = 3337
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2978
+y = 3329
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight'
+x = 2981
+y = 3339
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2973
+y = 3347
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2976
+y = 3339
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2963
+y = 3336
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2982
+y = 3345
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2983
+y = 3335
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2989
+y = 3338
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2972
+y = 3329
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2984
+y = 3350
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_knight_1799'
+x = 2985
+y = 3343
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_knight_1800'
+x = 2987
+y = 3345
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight_1800'
+x = 2964
+y = 3352
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight_1800'
+x = 2966
+y = 3328
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight_1800'
+x = 2975
+y = 3328
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight_1800'
+x = 2990
+y = 3346
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.white_knight_1800'
+x = 2963
+y = 3340
+plane = 3
+direction = 'EAST'
+[[spawns]]
+id = 'npc.white_knight_1829'
+x = 2957
+y = 3341
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight_1829'
+x = 2960
+y = 3338
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_knight_1829'
+x = 2982
+y = 3352
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 2958
+y = 3358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 2961
+y = 3360
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 2967
+y = 3361
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 2970
+y = 3359
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 2975
+y = 3358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 2978
+y = 3358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 2989
+y = 3383
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2977
+y = 3357
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2981
+y = 3358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2992
+y = 3383
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2978
+y = 3356
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2982
+y = 3357
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2989
+y = 3384
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2992
+y = 3384
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2982
+y = 3358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_2003'
+x = 2990
+y = 3379
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.drake'
+x = 2993
+y = 3386
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ambassador_spanfipple'
+x = 2984
+y = 3342
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.heskel'
+x = 3001
+y = 3373
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.town_crier_278'
+x = 2952
+y = 3380
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shop_keeper_2819'
+x = 2957
+y = 3386
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shop_assistant_2820'
+x = 2955
+y = 3389
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.estate_agent'
+x = 2983
+y = 3369
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sir_renitee'
+x = 2981
+y = 3341
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cassie'
+x = 2979
+y = 3383
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drunken_man'
+x = 2956
+y = 3369
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cecilia'
+x = 2990
+y = 3384
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3269'
+x = 2948
+y = 3353
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3269'
+x = 2962
+y = 3381
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3269'
+x = 2965
+y = 3384
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3270'
+x = 2944
+y = 3376
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_3271'
+x = 2956
+y = 3382
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3271'
+x = 2964
+y = 3376
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3271'
+x = 2965
+y = 3391
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3272'
+x = 2950
+y = 3376
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3272'
+x = 2968
+y = 3379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gardener'
+x = 2996
+y = 3381
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.apprentice_workman'
+x = 2970
+y = 3369
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.workman_3278'
+x = 2973
+y = 3369
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sir_tiffy_cashien'
+x = 2997
+y = 3373
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sir_vyvin'
+x = 2983
+y = 3335
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squire_4737'
+x = 2977
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_amik_varze_4771'
+x = 2960
+y = 3336
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2947
+y = 3329
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2951
+y = 3360
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sir_rebral'
+x = 2977
+y = 3346
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.flynn'
+x = 2951
+y = 3386
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6523'
+x = 2949
+y = 3366
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.herquin'
+x = 2944
+y = 3334
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc._6800'
+x = 2990
+y = 3345
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_7457'
+x = 2953
+y = 3390
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7458'
+x = 2976
+y = 3347
+plane = 0
+direction = 'NONE'

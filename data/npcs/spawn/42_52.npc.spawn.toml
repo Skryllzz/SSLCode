@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.null_10712'
+x = 2724
+y = 3368
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10713'
+x = 2724
+y = 3378
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2691
+y = 3341
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2692
+y = 3333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2694
+y = 3344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2698
+y = 3331
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2702
+y = 3344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2706
+y = 3330
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2708
+y = 3336
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2716
+y = 3336
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2718
+y = 3330
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.legends_guard'
+x = 2726
+y = 3349
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.legends_guard_3952'
+x = 2731
+y = 3348
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fionella'
+x = 2725
+y = 3378
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.siegfried_erkle'
+x = 2725
+y = 3381
+plane = 2
+direction = 'NORTH'

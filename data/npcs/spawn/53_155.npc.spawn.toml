@@ -1,0 +1,306 @@
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3403
+y = 9968
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3406
+y = 9961
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3406
+y = 9971
+plane = 3
+direction = 'EAST'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3407
+y = 9957
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3411
+y = 9961
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3412
+y = 9969
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3413
+y = 9965
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3414
+y = 9954
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3417
+y = 9959
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3417
+y = 9970
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3424
+y = 9960
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nechryael_11'
+x = 3424
+y = 9969
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3427
+y = 9943
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3428
+y = 9932
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3432
+y = 9937
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3432
+y = 9947
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3433
+y = 9942
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3434
+y = 9932
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3437
+y = 9948
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3439
+y = 9932
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3439
+y = 9943
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3440
+y = 9928
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3440
+y = 9936
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gargoyle_1543'
+x = 3444
+y = 9931
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3427
+y = 9965
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3432
+y = 9965
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3433
+y = 9956
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3433
+y = 9961
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3436
+y = 9964
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3436
+y = 9971
+plane = 3
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3437
+y = 9967
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3438
+y = 9954
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3440
+y = 9960
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3440
+y = 9971
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3441
+y = 9974
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3442
+y = 9956
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3442
+y = 9966
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.abyssal_demon_416'
+x = 3445
+y = 9970
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 3409
+y = 9939
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 3416
+y = 9942
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 3417
+y = 9931
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 3417
+y = 9937
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 3423
+y = 9935
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 3403
+y = 9934
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 3404
+y = 9940
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 3405
+y = 9929
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 3406
+y = 9949
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 3411
+y = 9945
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 3412
+y = 9935
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 3421
+y = 9939
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raulyn'
+x = 3424
+y = 9953
+plane = 3
+direction = 'NORTH'

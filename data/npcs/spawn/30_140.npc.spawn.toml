@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.black_dragon'
+x = 1942
+y = 8967
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_dragon_256'
+x = 1946
+y = 8971
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_261'
+x = 1944
+y = 8996
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_262'
+x = 1939
+y = 8991
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon'
+x = 1928
+y = 8973
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blue_dragon_266'
+x = 1925
+y = 8968
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_267'
+x = 1931
+y = 8967
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_268'
+x = 1930
+y = 8986
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_269'
+x = 1931
+y = 8979
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 1978
+y = 8979
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 1979
+y = 8991
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 1983
+y = 9004
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ponts_the_bridgemaster'
+x = 1969
+y = 8987
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 1970
+y = 9022
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 1976
+y = 9012
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1974
+y = 9017
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1977
+y = 9023
+plane = 1
+direction = 'NONE'

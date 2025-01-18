@@ -1,0 +1,408 @@
+[[spawns]]
+id = 'npc.male_slave'
+x = 3266
+y = 9459
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rowdy_slave'
+x = 3273
+y = 9420
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rowdy_slave'
+x = 3288
+y = 9446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4660'
+x = 3268
+y = 9417
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4660'
+x = 3277
+y = 9452
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_4660'
+x = 3286
+y = 9466
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4660'
+x = 3298
+y = 9432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4660'
+x = 3317
+y = 9441
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4661'
+x = 3299
+y = 9467
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4663'
+x = 3287
+y = 9416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4665'
+x = 3287
+y = 9414
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4666'
+x = 3291
+y = 9423
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.guard_4666'
+x = 3293
+y = 9435
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guard_4667'
+x = 3279
+y = 9416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4668'
+x = 3279
+y = 9414
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3271
+y = 9450
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3272
+y = 9429
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3276
+y = 9464
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3281
+y = 9438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3292
+y = 9460
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3297
+y = 9412
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3297
+y = 9463
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3298
+y = 9438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3299
+y = 9425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3300
+y = 9453
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3301
+y = 9413
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3304
+y = 9451
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3307
+y = 9424
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3307
+y = 9457
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3320
+y = 9465
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3323
+y = 9432
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3266
+y = 9457
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3267
+y = 9431
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3267
+y = 9443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3269
+y = 9420
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3273
+y = 9430
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3274
+y = 9465
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3282
+y = 9446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3290
+y = 9466
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3292
+y = 9413
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3295
+y = 9468
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3303
+y = 9425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3323
+y = 9439
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3272
+y = 9433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3272
+y = 9452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3273
+y = 9422
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3275
+y = 9459
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3277
+y = 9454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3289
+y = 9459
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3289
+y = 9468
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3297
+y = 9426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3297
+y = 9468
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3298
+y = 9413
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3305
+y = 9443
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3306
+y = 9412
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3306
+y = 9425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3314
+y = 9458
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3322
+y = 9426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3267
+y = 9428
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3267
+y = 9441
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3270
+y = 9415
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3273
+y = 9460
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3276
+y = 9434
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3294
+y = 9413
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3300
+y = 9412
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3301
+y = 9425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3309
+y = 9422
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6230'
+x = 3302
+y = 9466
+plane = 0
+direction = 'NONE'

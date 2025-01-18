@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.ordan'
+x = 1936
+y = 4966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jorzik'
+x = 1939
+y = 4968
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blast_furnace_foreman'
+x = 1944
+y = 4958
+plane = 0
+direction = 'NONE'

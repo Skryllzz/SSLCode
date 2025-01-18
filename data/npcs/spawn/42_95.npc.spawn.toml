@@ -1,0 +1,498 @@
+[[spawns]]
+id = 'npc.butterfly'
+x = 2689
+y = 6083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2689
+y = 6088
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2690
+y = 6094
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2691
+y = 6084
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2692
+y = 6081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2692
+y = 6090
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2693
+y = 6083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2693
+y = 6085
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2693
+y = 6090
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2694
+y = 6083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2694
+y = 6086
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2695
+y = 6082
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2695
+y = 6085
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2695
+y = 6088
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2695
+y = 6091
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2695
+y = 6121
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2698
+y = 6121
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2699
+y = 6082
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2699
+y = 6085
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2700
+y = 6084
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2701
+y = 6085
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2702
+y = 6081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2702
+y = 6083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2703
+y = 6119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2704
+y = 6117
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2705
+y = 6121
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2730
+y = 6091
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2732
+y = 6095
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2734
+y = 6090
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2735
+y = 6094
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2735
+y = 6097
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2738
+y = 6098
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2688
+y = 6092
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2690
+y = 6087
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2690
+y = 6095
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2692
+y = 6082
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2692
+y = 6088
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2692
+y = 6123
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2693
+y = 6081
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2694
+y = 6125
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2695
+y = 6087
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2697
+y = 6086
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2697
+y = 6087
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2698
+y = 6081
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2698
+y = 6124
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2700
+y = 6083
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2702
+y = 6084
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2726
+y = 6085
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2727
+y = 6081
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2729
+y = 6083
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2732
+y = 6084
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_237'
+x = 2725
+y = 6127
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2723
+y = 6105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2739
+y = 6123
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2744
+y = 6108
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2688
+y = 6108
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2691
+y = 6105
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2712
+y = 6084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2721
+y = 6126
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2722
+y = 6108
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2727
+y = 6102
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2741
+y = 6119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2743
+y = 6121
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2745
+y = 6120
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 2689
+y = 6107
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 2690
+y = 6108
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 2745
+y = 6119
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2690
+y = 6106
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2713
+y = 6085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2726
+y = 6104
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2744
+y = 6120
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.grizzly_bear_3423'
+x = 2741
+y = 6100
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear_cub'
+x = 2739
+y = 6100
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear_cub_3425'
+x = 2740
+y = 6097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2742
+y = 6129
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2744
+y = 6131
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 2729
+y = 6086
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 2731
+y = 6080
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 2731
+y = 6089
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 2744
+y = 6139
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3441'
+x = 2730
+y = 6084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4259'
+x = 2704
+y = 6112
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4556'
+x = 2704
+y = 6111
+plane = 0
+direction = 'SOUTH'

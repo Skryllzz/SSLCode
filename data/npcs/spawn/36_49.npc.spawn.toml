@@ -1,0 +1,252 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2346
+y = 3164
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ram_1262'
+x = 2322
+y = 3189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eudav'
+x = 2334
+y = 3182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oronwen'
+x = 2324
+y = 3179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_1479'
+x = 2352
+y = 3166
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_1480'
+x = 2354
+y = 3166
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dalldav'
+x = 2324
+y = 3164
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gethin'
+x = 2341
+y = 3158
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.liliwen'
+x = 2346
+y = 3160
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 2319
+y = 3191
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2697'
+x = 2325
+y = 3190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2699'
+x = 2322
+y = 3192
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_3206'
+x = 2326
+y = 3149
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3427'
+x = 2349
+y = 3173
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4007'
+x = 2352
+y = 3170
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4258'
+x = 2351
+y = 3174
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_4260'
+x = 2351
+y = 3170
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4261'
+x = 2352
+y = 3174
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_4539'
+x = 2353
+y = 3175
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_4540'
+x = 2337
+y = 3177
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4542'
+x = 2349
+y = 3170
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4544'
+x = 2353
+y = 3179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4546'
+x = 2354
+y = 3176
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4547'
+x = 2339
+y = 3164
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4549'
+x = 2353
+y = 3173
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4550'
+x = 2354
+y = 3174
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5292'
+x = 2353
+y = 3172
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.elf_warrior'
+x = 2345
+y = 3175
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elf_warrior_5294'
+x = 2329
+y = 3173
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.elf_archer'
+x = 2329
+y = 3170
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elf_archer_5296'
+x = 2336
+y = 3167
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goreu'
+x = 2337
+y = 3159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5298'
+x = 2337
+y = 3166
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.arvel'
+x = 2335
+y = 3177
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mawrth'
+x = 2331
+y = 3165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eoin'
+x = 2340
+y = 3173
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.iona'
+x = 2335
+y = 3169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6286'
+x = 2353
+y = 3171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8817'
+x = 2323
+y = 3160
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8824'
+x = 2354
+y = 3155
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8828'
+x = 2326
+y = 3161
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9234'
+x = 2344
+y = 3172
+plane = 1
+direction = 'NONE'

@@ -1,0 +1,114 @@
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1280
+y = 3837
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1301
+y = 3837
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1316
+y = 3839
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.darcor_quo_narga'
+x = 1300
+y = 3828
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.uurrak_quo_narga'
+x = 1312
+y = 3827
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.marmor_quo_narga'
+x = 1291
+y = 3808
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lornor_quo_narga'
+x = 1332
+y = 3822
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gorhak_quo_narga'
+x = 1322
+y = 3821
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fornek_quo_maten'
+x = 1301
+y = 3820
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vornas_quo_maten'
+x = 1311
+y = 3833
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.xorrah_quo_sihar'
+x = 1309
+y = 3819
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.corkat_quo_sihar'
+x = 1302
+y = 3806
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lokraa_quo_sihar'
+x = 1324
+y = 3798
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wengra_quo_sihar'
+x = 1291
+y = 3788
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.haldor_quo_keran'
+x = 1280
+y = 3806
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vortas_quo_keran'
+x = 1326
+y = 3812
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mallak_quo_keran'
+x = 1339
+y = 3801
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.konar_quo_maten'
+x = 1308
+y = 3784
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.leke_quo_keran'
+x = 1297
+y = 3796
+plane = 0
+direction = 'SOUTH'

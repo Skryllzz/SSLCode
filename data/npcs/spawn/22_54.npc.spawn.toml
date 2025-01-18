@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 1427
+y = 3517
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 1425
+y = 3515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 1428
+y = 3513
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_80'
+x = 1431
+y = 3517
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_81'
+x = 1431
+y = 3515
+plane = 0
+direction = 'NONE'

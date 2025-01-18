@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.wolf'
+x = 2602
+y = 2955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2605
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2607
+y = 2967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2610
+y = 2958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2610
+y = 2961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2610
+y = 2965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2595
+y = 2964
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2595
+y = 2968
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2596
+y = 2962
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2596
+y = 2970
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2599
+y = 2962
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2599
+y = 2970
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2602
+y = 2969
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_toad'
+x = 2603
+y = 2966
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2568
+y = 2991
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2574
+y = 2988
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2584
+y = 2967
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2585
+y = 2977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2592
+y = 2965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2608
+y = 2980
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2609
+y = 2990
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2614
+y = 2998
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_chieftain'
+x = 2615
+y = 2987
+plane = 0
+direction = 'NONE'

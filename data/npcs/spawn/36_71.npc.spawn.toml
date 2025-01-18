@@ -1,0 +1,288 @@
+[[spawns]]
+id = 'npc.chicken'
+x = 2312
+y = 4560
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 2314
+y = 4561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2313
+y = 4560
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2324
+y = 4599
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2325
+y = 4597
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2326
+y = 4589
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2326
+y = 4595
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2327
+y = 4591
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2327
+y = 4595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2328
+y = 4593
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2329
+y = 4593
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2332
+y = 4588
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2308
+y = 4581
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2321
+y = 4595
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2324
+y = 4592
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2328
+y = 4589
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2328
+y = 4596
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2331
+y = 4597
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 2318
+y = 4588
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2322
+y = 4566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2344
+y = 4596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2345
+y = 4598
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2348
+y = 4566
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2350
+y = 4549
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2357
+y = 4546
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2359
+y = 4589
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2364
+y = 4563
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2304
+y = 4587
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2306
+y = 4585
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2307
+y = 4583
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2309
+y = 4582
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2309
+y = 4584
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2334
+y = 4606
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2336
+y = 4603
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2362
+y = 4577
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2364
+y = 4573
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 2308
+y = 4583
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2305
+y = 4583
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2305
+y = 4584
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2307
+y = 4582
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2307
+y = 4584
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2307
+y = 4587
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 2334
+y = 4604
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.grizzly_bear_3423'
+x = 2343
+y = 4579
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear_cub'
+x = 2345
+y = 4579
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard'
+x = 2312
+y = 4556
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard'
+x = 2314
+y = 4556
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard'
+x = 2316
+y = 4556
+plane = 0
+direction = 'NONE'

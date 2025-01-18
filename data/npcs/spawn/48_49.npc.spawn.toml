@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.lesser_demon'
+x = 3110
+y = 3157
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.professor_onglewip'
+x = 3115
+y = 3160
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.wizard_jalarast'
+x = 3108
+y = 3161
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 3107
+y = 3158
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 3110
+y = 3158
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 3111
+y = 3166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 3111
+y = 3168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 3107
+y = 3157
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 3112
+y = 3157
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5005'
+x = 3103
+y = 3163
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.wizard_grayzag'
+x = 3110
+y = 3161
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_traiborn'
+x = 3112
+y = 3162
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5931'
+x = 3108
+y = 3164
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6108'
+x = 3112
+y = 3158
+plane = 0
+direction = 'EAST'

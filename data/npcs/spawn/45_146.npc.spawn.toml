@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.undead_one'
+x = 2886
+y = 9356
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one'
+x = 2888
+y = 9381
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5343'
+x = 2895
+y = 9349
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5343'
+x = 2899
+y = 9368
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5344'
+x = 2891
+y = 9366
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5344'
+x = 2910
+y = 9349
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5345'
+x = 2892
+y = 9384
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5345'
+x = 2896
+y = 9362
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5346'
+x = 2888
+y = 9376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5346'
+x = 2908
+y = 9354
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5347'
+x = 2889
+y = 9363
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5347'
+x = 2923
+y = 9355
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5348'
+x = 2894
+y = 9358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_one_5348'
+x = 2928
+y = 9348
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5349'
+x = 2898
+y = 9365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5349'
+x = 2917
+y = 9353
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5350'
+x = 2886
+y = 9360
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5350'
+x = 2916
+y = 9347
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.undead_one_5351'
+x = 2901
+y = 9355
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5351'
+x = 2928
+y = 9354
+plane = 0
+direction = 'NONE'

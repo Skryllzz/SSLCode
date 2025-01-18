@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.null_1035'
+x = 3548
+y = 3516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10443'
+x = 3566
+y = 3457
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spider_10443'
+x = 3567
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3565
+y = 3503
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bat'
+x = 3567
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3580
+y = 3491
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.leech'
+x = 3537
+y = 3496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3545
+y = 3502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3546
+y = 3462
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3548
+y = 3480
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.leech'
+x = 3551
+y = 3489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3554
+y = 3506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3560
+y = 3462
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3566
+y = 3483
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3567
+y = 3474
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3572
+y = 3492
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3574
+y = 3507
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3556
+y = 3470
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3570
+y = 3507
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.tree'
+x = 3577
+y = 3493
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3579
+y = 3477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.werewolf_5928'
+x = 3544
+y = 3462
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9516'
+x = 3549
+y = 3517
+plane = 0
+direction = 'NONE'

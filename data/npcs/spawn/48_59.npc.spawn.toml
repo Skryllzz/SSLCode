@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.edmond'
+x = 3072
+y = 3811
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon'
+x = 3118
+y = 3820
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_261'
+x = 3107
+y = 3812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_262'
+x = 3098
+y = 3821
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_263'
+x = 3092
+y = 3810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_264'
+x = 3078
+y = 3810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3134
+y = 3786
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,246 @@
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2704
+y = 9109
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2707
+y = 9112
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2708
+y = 9103
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2710
+y = 9135
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2711
+y = 9109
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2711
+y = 9130
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2714
+y = 9135
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2715
+y = 9132
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2735
+y = 9119
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2736
+y = 9121
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2738
+y = 9124
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2740
+y = 9120
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2741
+y = 9103
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2741
+y = 9124
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2743
+y = 9105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2744
+y = 9100
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton_5237'
+x = 2745
+y = 9102
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2694
+y = 9104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2694
+y = 9138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2698
+y = 9127
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2704
+y = 9104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2711
+y = 9137
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2712
+y = 9108
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2716
+y = 9096
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2716
+y = 9146
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2729
+y = 9118
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2732
+y = 9130
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2741
+y = 9122
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2743
+y = 9107
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2748
+y = 9100
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2748
+y = 9143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2694
+y = 9115
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2697
+y = 9130
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2698
+y = 9145
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2702
+y = 9093
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2714
+y = 9095
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2719
+y = 9147
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2726
+y = 9107
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2728
+y = 9097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2740
+y = 9138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_zombie'
+x = 2742
+y = 9146
+plane = 0
+direction = 'EAST'

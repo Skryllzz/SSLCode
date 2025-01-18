@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Bedsheets",
+    "id": 30100,
+    "examine": "Crisp, cheap bedsheets."
+  },
+  {
+    "name": "Chains",
+    "id": 30101,
+    "examine": "Strong, though slightly rusty, iron chains."
+  },
+  {
+    "name": "Christmas ghost hood",
+    "id": 30102,
+    "examine": "This hood has been hewn from bedsheets."
+  },
+  {
+    "name": "Christmas ghost top",
+    "id": 30103,
+    "examine": "This robe top has been hewn from bedsheets and wrapped in chains."
+  },
+  {
+    "name": "Christmas ghost bottoms",
+    "id": 30104,
+    "examine": "These robe bottoms have been hewn from bedsheets and wrapped in chains."
+  },
+  {
+    "name": "Candy cane",
+    "id": 30105,
+    "examine": "A must-have Christmas accessory."
+  },
+  {
+    "name": "Bucket of icy water",
+    "id": 30106,
+    "examine": "It's a bucket of ice-cold water."
+  },
+  {
+    "name": "Turkey drumstick",
+    "id": 30107,
+    "examine": "Mmm, this looks tasty."
+  },
+  {
+    "name": "Roast potatoes",
+    "id": 30108,
+    "examine": "Mmm, these look good."
+  },
+  {
+    "name": "Yule log",
+    "id": 30109,
+    "examine": "Yum, that looks scrumptious."
+  },
+  {
+    "name": "Mulled wine",
+    "id": 30110,
+    "examine": "Nice, mulled wine."
+  },
+  {
+    "name": "Snowball",
+    "id": 30111,
+    "examine": "It's a ball made of snow! Uncanny."
+  },
+  {
+    "name": "Snowball",
+    "id": 30112,
+    "examine": "It's a ball made of snow! Uncanny."
+  },
+  {
+    "name": "Ice amulet",
+    "id": 30113,
+    "examine": "A spiky amulet made of ice crystals. It has been enchanted so it will not melt."
+  },
+  {
+    "name": "Snow imp",
+    "id": 30114,
+    "examine": "Small, blue and mischievous - it's a snow imp all right."
+  },
+  {
+    "name": "Christmas scythe",
+    "id": 30115,
+    "examine": "Looks like if you tried to eat this it would hurt."
+  },
+  {
+    "name": "Graceful dye",
+    "id": 2710,
+    "examine": "A magical dye which can recolour one piece of your graceful outfit to any Hosidius colour."
+  },
+  {
+    "name": "Pet mystery box",
+    "id": 30031,
+    "examine": "Oooh, I wonder who could be inside?"
+  },
+  {
+    "name": "Chocatrice cape",
+    "id": 30116,
+    "examine": "A thick, orange cape."
+  },
+  {
+    "name": "Sunflower seeds",
+    "id": 30117,
+    "examine": "A small pile of sunflower seeds."
+  },
+  {
+    "name": "Cracker bits",
+    "id": 30118,
+    "examine": "A small pile of crumbled crackers."
+  },
+  {
+    "name": "Worm bits",
+    "id": 30119,
+    "examine": "A small pile of wriggly worms' bits."
+  },
+  {
+    "name": "Poppy seeds",
+    "id": 30120,
+    "examine": "A small pile of poppy seeds."
+  },
+  {
+    "name": "Chimney",
+    "id": 30121,
+    "examine": "A chimney that looks like it will fit on the incubator."
+  },
+  {
+    "name": "Cog",
+    "id": 30122,
+    "examine": "Looks like this might fit onto the incubator."
+  },
+  {
+    "name": "Pistons",
+    "id": 30123,
+    "examine": "Looks like these might fit onto the incubator."
+  },
+  {
+    "name": "Wet pipe",
+    "id": 30124,
+    "examine": "Looks like this might fit onto the incubator."
+  },
+  {
+    "name": "Clean pipe",
+    "id": 30125,
+    "examine": "Looks like this might fit onto the incubator."
+  },
+  {
+    "name": "Sooty pipe",
+    "id": 30126,
+    "examine": "Looks like this might fit onto the incubator."
+  },
+  {
+    "name": "Incubator blueprint",
+    "id": 30127,
+    "examine": "Instructions on how to build the Incubator 9000."
+  },
+  {
+    "name": "Impling net",
+    "id": 30128,
+    "examine": "For catching implings..."
+  },
+  {
+    "name": "Impling jar",
+    "id": 30129,
+    "examine": "It's got little holes in the top."
+  },
+  {
+    "name": "Easter impling jar",
+    "id": 30130,
+    "examine": "An Easter impling in a jar. That's a bit cruel."
+  },
+  {
+    "name": "Easter carrot",
+    "id": 30131,
+    "examine": "Spreading carroty goodness since 2009."
+  },
+  {
+	"name": "Xeric's guard",
+    "id": 22388,
+    "examine": "Awarded for completing 10 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's guard",
+    "id": 22389,
+    "examine": "Awarded for completing 10 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's warrior",
+    "id": 22390,
+    "examine": "Awarded for completing 25 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's warrior",
+    "id": 22391,
+    "examine": "Awarded for completing 25 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's sentinel",
+    "id": 22392,
+    "examine": "Awarded for completing 75 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's sentinel",
+    "id": 22393,
+    "examine": "Awarded for completing 75 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's general",
+    "id": 22394,
+    "examine": "Awarded for completing 150 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's general",
+    "id": 22395,
+    "examine": "Awarded for completing 150 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's champion",
+    "id": 22396,
+    "examine": "Awarded for completing 300 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Xeric's champion",
+    "id": 22397,
+    "examine": "Awarded for completing 300 Chambers of Xeric in challenge mode."
+  },
+  {
+	"name": "Sherlock's notes",
+    "id": 30210,
+    "examine": "Use these notes on a clue scroll to progress a step, consuming the notes in the process."
+  },
+  {
+	"name": "Tome of experience",
+    "id": 30215,
+    "examine": "Provides the reader with five minutes of 50% bonus experience. Does not stack with the global bonus experience."
+  },
+  {
+	"name": "Sherlock's notes",
+    "id": 30217,
+    "examine": "Use these notes on a clue scroll to progress a step, consuming the notes in the process."
+  },
+  {
+	"name": "Tome of experience",
+    "id": 30216,
+    "examine": "Provides the reader with five minutes of 50% bonus experience. Does not stack with the global bonus experience."
+  }
+]

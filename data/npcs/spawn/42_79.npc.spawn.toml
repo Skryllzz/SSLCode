@@ -1,0 +1,366 @@
+[[spawns]]
+id = 'npc.bat'
+x = 2693
+y = 5102
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2699
+y = 5083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2707
+y = 5106
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2721
+y = 5062
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2735
+y = 5073
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2735
+y = 5105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2742
+y = 5097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2744
+y = 5065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2709
+y = 5086
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2693
+y = 5111
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2699
+y = 5069
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2700
+y = 5061
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2706
+y = 5114
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2707
+y = 5079
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2708
+y = 5070
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2712
+y = 5110
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2713
+y = 5061
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2721
+y = 5076
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2724
+y = 5113
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2739
+y = 5112
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2741
+y = 5077
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 2721
+y = 5102
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 2737
+y = 5062
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2694
+y = 5067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2717
+y = 5081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2718
+y = 5108
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2721
+y = 5104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2726
+y = 5091
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2731
+y = 5060
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2732
+y = 5073
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2740
+y = 5083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2742
+y = 5103
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_hound'
+x = 2747
+y = 5094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2693
+y = 5075
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2695
+y = 5089
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2697
+y = 5096
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2703
+y = 5064
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2710
+y = 5105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2719
+y = 5078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2719
+y = 5112
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2720
+y = 5096
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2726
+y = 5086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2729
+y = 5096
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2735
+y = 5061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2740
+y = 5069
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2740
+y = 5085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2746
+y = 5092
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2746
+y = 5114
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2693
+y = 5065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2693
+y = 5089
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2704
+y = 5091
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2710
+y = 5095
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2712
+y = 5076
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2714
+y = 5108
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2716
+y = 5092
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2719
+y = 5071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2722
+y = 5061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2732
+y = 5087
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2739
+y = 5078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2740
+y = 5104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2747
+y = 5083
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,8 @@
+
+[[spawns]]
+id = 'npc.jury'
+x = 1815
+y = 4272
+plane = 0
+direction = 'WEST'
+

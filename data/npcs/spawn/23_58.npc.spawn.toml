@@ -1,0 +1,366 @@
+[[spawns]]
+id = 'npc.null_11145'
+x = 1483
+y = 3748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11146'
+x = 1482
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11147'
+x = 1487
+y = 3748
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1403'
+x = 1498
+y = 3762
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dwarf_1404'
+x = 1506
+y = 3760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1405'
+x = 1509
+y = 3770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1406'
+x = 1480
+y = 3767
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1407'
+x = 1503
+y = 3770
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1407'
+x = 1507
+y = 3753
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1407'
+x = 1511
+y = 3768
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1408'
+x = 1512
+y = 3769
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf_1408'
+x = 1507
+y = 3755
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bat'
+x = 1532
+y = 3727
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1501
+y = 3740
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1505
+y = 3738
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1529
+y = 3729
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1532
+y = 3732
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1483
+y = 3766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1497
+y = 3767
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1500
+y = 3759
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1511
+y = 3761
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1515
+y = 3757
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1515
+y = 3759
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1522
+y = 3753
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_6868'
+x = 1482
+y = 3721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6868'
+x = 1502
+y = 3715
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6869'
+x = 1489
+y = 3716
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_6870'
+x = 1488
+y = 3718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6870'
+x = 1501
+y = 3718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6871'
+x = 1484
+y = 3717
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6871'
+x = 1499
+y = 3719
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman'
+x = 1486
+y = 3719
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman'
+x = 1503
+y = 3717
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1480
+y = 3719
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1491
+y = 3715
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1511
+y = 3714
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1514
+y = 3716
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_6916'
+x = 1482
+y = 3715
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6916'
+x = 1506
+y = 3716
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1487
+y = 3721
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1493
+y = 3718
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1498
+y = 3721
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1501
+y = 3712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1513
+y = 3715
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_brute'
+x = 1490
+y = 3719
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1481
+y = 3717
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1484
+y = 3722
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1495
+y = 3716
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1505
+y = 3720
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1511
+y = 3717
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_7078'
+x = 1522
+y = 3736
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_7078'
+x = 1530
+y = 3736
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_7080'
+x = 1520
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_7080'
+x = 1524
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_7080'
+x = 1528
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_7082'
+x = 1522
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_7082'
+x = 1526
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_7082'
+x = 1530
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.armourer_tier_5'
+x = 1524
+y = 3750
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7227'
+x = 1517
+y = 3733
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dwarf_8496'
+x = 1482
+y = 3756
+plane = 0
+direction = 'NONE'

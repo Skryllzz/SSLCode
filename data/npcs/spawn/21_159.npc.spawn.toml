@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.hellhound'
+x = 1344
+y = 10199
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 1345
+y = 10204
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 1349
+y = 10197
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 1351
+y = 10194
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 1354
+y = 10198
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1347
+y = 10229
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1349
+y = 10236
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1356
+y = 10239
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sulphur_lizard'
+x = 1346
+y = 10182
+plane = 1
+direction = 'SOUTH'

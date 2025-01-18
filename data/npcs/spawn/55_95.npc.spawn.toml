@@ -1,0 +1,312 @@
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3524
+y = 6108
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3524
+y = 6115
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3526
+y = 6101
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3526
+y = 6122
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3530
+y = 6095
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3530
+y = 6128
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3535
+y = 6090
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3535
+y = 6133
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3541
+y = 6086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3544
+y = 6108
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3544
+y = 6110
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3544
+y = 6113
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3544
+y = 6115
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3545
+y = 6106
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3545
+y = 6117
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3546
+y = 6105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3546
+y = 6118
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3548
+y = 6084
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3548
+y = 6104
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3548
+y = 6119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3550
+y = 6104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3550
+y = 6119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3553
+y = 6104
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3553
+y = 6119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3555
+y = 6084
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3555
+y = 6104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3555
+y = 6119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3557
+y = 6105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3557
+y = 6118
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3558
+y = 6106
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3558
+y = 6117
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3559
+y = 6108
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3559
+y = 6110
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3559
+y = 6113
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3559
+y = 6115
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3562
+y = 6086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3568
+y = 6090
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3568
+y = 6134
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3573
+y = 6095
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3573
+y = 6129
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3573
+y = 6138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3573
+y = 6141
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3576
+y = 6138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3576
+y = 6141
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3577
+y = 6101
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3577
+y = 6122
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3579
+y = 6108
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3579
+y = 6115
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3541
+y = 6137
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3548
+y = 6139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3555
+y = 6139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3562
+y = 6137
+plane = 0
+direction = 'EAST'

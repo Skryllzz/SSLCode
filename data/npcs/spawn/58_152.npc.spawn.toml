@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.bat'
+x = 3727
+y = 9755
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3729
+y = 9763
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3727
+y = 9779
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3730
+y = 9781
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3733
+y = 9780
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3735
+y = 9781
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sister_salohcin'
+x = 3742
+y = 9768
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9824'
+x = 3727
+y = 9759
+plane = 1
+direction = 'NONE'

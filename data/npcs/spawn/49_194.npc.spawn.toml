@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3161
+y = 12457
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3163
+y = 12448
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3163
+y = 12454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3168
+y = 12447
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3168
+y = 12454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3170
+y = 12451
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3172
+y = 12474
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3174
+y = 12475
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3175
+y = 12471
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3178
+y = 12469
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3179
+y = 12475
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3182
+y = 12476
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3184
+y = 12469
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3184
+y = 12472
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3185
+y = 12445
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3185
+y = 12448
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3187
+y = 12451
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3190
+y = 12447
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3192
+y = 12450
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 3192
+y = 12454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3158
+y = 12427
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3161
+y = 12422
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3165
+y = 12431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3169
+y = 12425
+plane = 0
+direction = 'NONE'

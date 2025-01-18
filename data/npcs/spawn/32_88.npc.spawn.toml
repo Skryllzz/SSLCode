@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.demonic_gorilla'
+x = 2072
+y = 5651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla'
+x = 2073
+y = 5645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2082
+y = 5676
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2102
+y = 5679
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2095
+y = 5658
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2096
+y = 5645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2105
+y = 5659
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7146'
+x = 2072
+y = 5681
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.demonic_gorilla_7147'
+x = 2095
+y = 5673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7148'
+x = 2080
+y = 5651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7148'
+x = 2102
+y = 5672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7148'
+x = 2094
+y = 5651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7148'
+x = 2111
+y = 5661
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7149'
+x = 2072
+y = 5673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7149'
+x = 2079
+y = 5644
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7149'
+x = 2100
+y = 5641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7149'
+x = 2102
+y = 5651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7149'
+x = 2107
+y = 5646
+plane = 0
+direction = 'NONE'

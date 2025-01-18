@@ -1,0 +1,204 @@
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2880
+y = 9927
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2883
+y = 9932
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2883
+y = 9965
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2884
+y = 9959
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2887
+y = 9955
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2890
+y = 9950
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2891
+y = 9941
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lorelai'
+x = 2909
+y = 9972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rory'
+x = 2908
+y = 9972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2137'
+x = 2906
+y = 9960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2137'
+x = 2911
+y = 9959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2137'
+x = 2919
+y = 9961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2137'
+x = 2929
+y = 9959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2137'
+x = 2937
+y = 9971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2138'
+x = 2906
+y = 9963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2138'
+x = 2928
+y = 9972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2138'
+x = 2938
+y = 9958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2139'
+x = 2913
+y = 9971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2139'
+x = 2919
+y = 9964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2139'
+x = 2933
+y = 9963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2139'
+x = 2937
+y = 9963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2140'
+x = 2913
+y = 9963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2140'
+x = 2918
+y = 9971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2140'
+x = 2924
+y = 9971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2140'
+x = 2927
+y = 9964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2141'
+x = 2919
+y = 9968
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2141'
+x = 2924
+y = 9958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2141'
+x = 2932
+y = 9966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2141'
+x = 2932
+y = 9970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2142'
+x = 2916
+y = 9958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2142'
+x = 2927
+y = 9967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2142'
+x = 2933
+y = 9959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2885
+y = 9962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2887
+y = 9936
+plane = 0
+direction = 'NONE'

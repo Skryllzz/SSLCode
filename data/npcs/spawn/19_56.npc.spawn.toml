@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1235
+y = 3641
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1240
+y = 3636
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1241
+y = 3647
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1246
+y = 3632
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1250
+y = 3631
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1259
+y = 3637
+plane = 0
+direction = 'EAST'

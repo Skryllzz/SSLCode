@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.chicken'
+x = 2780
+y = 3064
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 2808
+y = 3067
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2788
+y = 3061
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2805
+y = 3064
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.horned_graahk'
+x = 2766
+y = 3008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2780
+y = 3029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2780
+y = 3031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2787
+y = 3013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2791
+y = 3013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2794
+y = 3013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_424'
+x = 2757
+y = 3061
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fishing_spot_4710'
+x = 2791
+y = 3019
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4710'
+x = 2801
+y = 3010
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4710'
+x = 2807
+y = 3021
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2771
+y = 3014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2773
+y = 3017
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2777
+y = 3068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2801
+y = 3067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6236'
+x = 2781
+y = 3057
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6238'
+x = 2790
+y = 3054
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6240'
+x = 2800
+y = 3057
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6557'
+x = 2794
+y = 3065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6559'
+x = 2799
+y = 3047
+plane = 0
+direction = 'EAST'

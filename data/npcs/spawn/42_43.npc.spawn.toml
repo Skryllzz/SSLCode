@@ -1,0 +1,240 @@
+[[spawns]]
+id = 'npc.null_1450'
+x = 2693
+y = 2784
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2734
+y = 2792
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_5238'
+x = 2749
+y = 2768
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2694
+y = 2761
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2698
+y = 2788
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2723
+y = 2805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2700
+y = 2776
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2704
+y = 2769
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2705
+y = 2785
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2714
+y = 2781
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2722
+y = 2790
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2701
+y = 2762
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2702
+y = 2780
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2703
+y = 2769
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2715
+y = 2782
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2724
+y = 2787
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2727
+y = 2791
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_child'
+x = 2743
+y = 2795
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_monkeys_uncle'
+x = 2737
+y = 2793
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_monkeys_aunt'
+x = 2738
+y = 2794
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2713
+y = 2753
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2713
+y = 2755
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2713
+y = 2757
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2713
+y = 2761
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2715
+y = 2763
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2727
+y = 2763
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2729
+y = 2753
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2729
+y = 2755
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_5273'
+x = 2729
+y = 2757
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6807'
+x = 2750
+y = 2797
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6808'
+x = 2721
+y = 2766
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_archer_6813'
+x = 2712
+y = 2756
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_6813'
+x = 2713
+y = 2759
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_6813'
+x = 2729
+y = 2759
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_6813'
+x = 2729
+y = 2761
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_archer_6813'
+x = 2730
+y = 2756
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7175'
+x = 2726
+y = 2765
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7177'
+x = 2726
+y = 2766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7197'
+x = 2712
+y = 2792
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7198'
+x = 2711
+y = 2802
+plane = 0
+direction = 'NONE'

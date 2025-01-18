@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.jogre'
+x = 2896
+y = 2945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jogre'
+x = 2903
+y = 2945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jogre'
+x = 2918
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jogre'
+x = 2921
+y = 2959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jogre'
+x = 2923
+y = 2985
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jogre'
+x = 2925
+y = 2956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jogre'
+x = 2931
+y = 2987
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penwie'
+x = 2932
+y = 2972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2924
+y = 2979
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2927
+y = 2977
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2928
+y = 2973
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2933
+y = 2981
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2935
+y = 2973
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2936
+y = 2986
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2937
+y = 2978
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2939
+y = 2985
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2883
+y = 2996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2884
+y = 3005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2887
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2888
+y = 2946
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2888
+y = 2998
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2890
+y = 3007
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2891
+y = 2994
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2892
+y = 2946
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2892
+y = 2997
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2892
+y = 3000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2893
+y = 2948
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2894
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2896
+y = 3000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_forester_3955'
+x = 2935
+y = 2945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2918
+y = 2987
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2937
+y = 2993
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2938
+y = 2995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2940
+y = 2991
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tribesman'
+x = 2942
+y = 2995
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_8695'
+x = 2883
+y = 2951
+plane = 0
+direction = 'NONE'

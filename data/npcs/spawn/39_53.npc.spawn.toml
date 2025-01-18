@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.rod_fishing_spot_1508'
+x = 2508
+y = 3421
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1508'
+x = 2527
+y = 3412
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1508'
+x = 2530
+y = 3412
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1508'
+x = 2533
+y = 3410
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1508'
+x = 2534
+y = 3403
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1508'
+x = 2537
+y = 3406
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant'
+x = 2549
+y = 3408
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 2554
+y = 3409
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 2554
+y = 3401
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 2556
+y = 3406
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2556
+y = 3444
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hadley'
+x = 2516
+y = 3428
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gerald'
+x = 2528
+y = 3414
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6104'
+x = 2555
+y = 3444
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rasolo'
+x = 2535
+y = 3432
+plane = 0
+direction = 'NONE'

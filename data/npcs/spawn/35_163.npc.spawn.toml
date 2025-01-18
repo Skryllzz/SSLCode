@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.spider_8137'
+x = 2257
+y = 10463
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_8137'
+x = 2261
+y = 10472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_8137'
+x = 2267
+y = 10478
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_8137'
+x = 2273
+y = 10472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_8137'
+x = 2277
+y = 10456
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_8137'
+x = 2283
+y = 10483
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_8137'
+x = 2284
+y = 10466
+plane = 0
+direction = 'NONE'

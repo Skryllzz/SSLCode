@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.guard_1371'
+x = 2760
+y = 3660
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1372'
+x = 2798
+y = 3667
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hamal_the_chieftain'
+x = 2811
+y = 3673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ragnar'
+x = 2765
+y = 3676
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jokul'
+x = 2811
+y = 3681
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.camp_dweller'
+x = 2794
+y = 3668
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.camp_dweller_1380'
+x = 2801
+y = 3669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.camp_dweller_1381'
+x = 2803
+y = 3668
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.camp_dweller_1382'
+x = 2797
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.camp_dweller_1383'
+x = 2802
+y = 3674
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_goat'
+x = 2813
+y = 3687
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_1385'
+x = 2812
+y = 3685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_1386'
+x = 2811
+y = 3687
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_1387'
+x = 2810
+y = 3684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bald_headed_eagle'
+x = 2757
+y = 3674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bald_headed_eagle'
+x = 2762
+y = 3671
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bald_headed_eagle'
+x = 2785
+y = 3658
+plane = 0
+direction = 'NONE'

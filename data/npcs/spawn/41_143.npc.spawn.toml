@@ -1,0 +1,264 @@
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2638
+y = 9195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2639
+y = 9193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2640
+y = 9199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2643
+y = 9195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2644
+y = 9199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2645
+y = 9192
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2657
+y = 9155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2660
+y = 9153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2664
+y = 9157
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2665
+y = 9199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2665
+y = 9203
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2666
+y = 9153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2669
+y = 9198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2670
+y = 9206
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2672
+y = 9202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2652
+y = 9200
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2657
+y = 9203
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2664
+y = 9169
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2666
+y = 9173
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2637
+y = 9198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2642
+y = 9193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2642
+y = 9200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2646
+y = 9197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2657
+y = 9153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2660
+y = 9156
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2663
+y = 9154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2666
+y = 9156
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2666
+y = 9202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2667
+y = 9197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2667
+y = 9205
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2668
+y = 9200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2671
+y = 9199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2671
+y = 9205
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2627
+y = 9201
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2628
+y = 9199
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2631
+y = 9201
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2648
+y = 9184
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2653
+y = 9177
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2655
+y = 9175
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2657
+y = 9202
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2663
+y = 9173
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2664
+y = 9180
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2665
+y = 9185
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_archer'
+x = 2666
+y = 9184
+plane = 1
+direction = 'NONE'

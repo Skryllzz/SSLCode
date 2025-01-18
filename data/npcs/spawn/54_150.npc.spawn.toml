@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.null_8277'
+x = 3494
+y = 9628
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_8283'
+x = 3497
+y = 9626
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_8286'
+x = 3494
+y = 9626
+plane = 0
+direction = 'NONE'

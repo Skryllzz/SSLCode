@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.hellrat_behemoth'
+x = 3069
+y = 9895
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellrat_behemoth'
+x = 3070
+y = 9881
+plane = 0
+direction = 'SOUTH'

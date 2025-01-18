@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.null_9269'
+x = 2466
+y = 4010
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.haskell_9272'
+x = 2471
+y = 3995
+plane = 0
+direction = 'NONE'

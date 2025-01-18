@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.forester_7238'
+x = 1582
+y = 3479
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.forester_7238'
+x = 1594
+y = 3489
+plane = 0
+direction = 'EAST'

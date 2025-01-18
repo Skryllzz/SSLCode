@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3098
+y = 3652
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3106
+y = 3677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3110
+y = 3664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3119
+y = 3673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3120
+y = 3653
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3125
+y = 3693
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 3088
+y = 3700
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_86'
+x = 3092
+y = 3692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_87'
+x = 3097
+y = 3700
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_90'
+x = 3105
+y = 3696
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_92'
+x = 3113
+y = 3689
+plane = 0
+direction = 'SOUTH'

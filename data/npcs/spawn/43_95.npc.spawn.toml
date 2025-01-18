@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2794
+y = 6108
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.eudav'
+x = 2782
+y = 6126
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.oronwen'
+x = 2772
+y = 6123
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_1479'
+x = 2800
+y = 6110
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_1480'
+x = 2802
+y = 6110
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dalldav'
+x = 2772
+y = 6108
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gethin'
+x = 2789
+y = 6102
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.liliwen'
+x = 2794
+y = 6104
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_3206'
+x = 2774
+y = 6093
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4008'
+x = 2801
+y = 6116
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4555'
+x = 2784
+y = 6116
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4557'
+x = 2799
+y = 6118
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.elf_warrior'
+x = 2791
+y = 6111
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elf_warrior_5294'
+x = 2777
+y = 6117
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.elf_archer'
+x = 2777
+y = 6114
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.elf_archer_5296'
+x = 2784
+y = 6111
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goreu'
+x = 2785
+y = 6103
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.arvel'
+x = 2781
+y = 6122
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mawrth'
+x = 2779
+y = 6109
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eoin'
+x = 2790
+y = 6121
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iona'
+x = 2780
+y = 6119
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_8817'
+x = 2771
+y = 6104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8824'
+x = 2802
+y = 6099
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8828'
+x = 2774
+y = 6105
+plane = 0
+direction = 'NONE'

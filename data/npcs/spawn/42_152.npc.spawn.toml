@@ -1,0 +1,264 @@
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2703
+y = 9734
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2730
+y = 9769
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2731
+y = 9763
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2731
+y = 9774
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2734
+y = 9770
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2693
+y = 9776
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2697
+y = 9773
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2697
+y = 9779
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2700
+y = 9770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2700
+y = 9774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2700
+y = 9777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2701
+y = 9781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2703
+y = 9770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2703
+y = 9774
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2703
+y = 9779
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2705
+y = 9757
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2705
+y = 9760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2705
+y = 9766
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2706
+y = 9753
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2706
+y = 9763
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2706
+y = 9772
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2707
+y = 9756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2707
+y = 9761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_warrior'
+x = 2708
+y = 9758
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2710
+y = 9753
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2711
+y = 9746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2712
+y = 9741
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2712
+y = 9749
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2712
+y = 9754
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2713
+y = 9742
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2715
+y = 9749
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2716
+y = 9744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2718
+y = 9751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2720
+y = 9742
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2720
+y = 9759
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2721
+y = 9746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2721
+y = 9754
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2723
+y = 9738
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2723
+y = 9744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2724
+y = 9749
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2725
+y = 9758
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2727
+y = 9741
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2727
+y = 9747
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pit_scorpion'
+x = 2728
+y = 9744
+plane = 0
+direction = 'NONE'

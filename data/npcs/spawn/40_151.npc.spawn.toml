@@ -1,0 +1,192 @@
+[[spawns]]
+id = 'npc.null_1150'
+x = 2574
+y = 9714
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.claus_the_chef'
+x = 2566
+y = 9670
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.alomone'
+x = 2609
+y = 9670
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.clivet'
+x = 2566
+y = 9683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hazeel_cultist'
+x = 2602
+y = 9680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hazeel_cultist'
+x = 2605
+y = 9670
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hazeel_cultist'
+x = 2607
+y = 9680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hazeel_cultist'
+x = 2608
+y = 9674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hazeel_cultist'
+x = 2610
+y = 9686
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2567
+y = 9680
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2569
+y = 9681
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2573
+y = 9690
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2576
+y = 9689
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2576
+y = 9691
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2577
+y = 9689
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2578
+y = 9688
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2600
+y = 9709
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2601
+y = 9711
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2602
+y = 9681
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2602
+y = 9709
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2605
+y = 9673
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2606
+y = 9688
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2607
+y = 9676
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2608
+y = 9683
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2617
+y = 9724
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2619
+y = 9724
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2619
+y = 9726
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dungeon_rat_2866'
+x = 2577
+y = 9692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mugger_8732'
+x = 2574
+y = 9708
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.knight_of_ardougne_8800'
+x = 2568
+y = 9709
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.knight_of_ardougne_8801'
+x = 2570
+y = 9713
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.knight_of_ardougne_8801'
+x = 2571
+y = 9705
+plane = 0
+direction = 'NONE'

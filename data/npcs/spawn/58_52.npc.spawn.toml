@@ -1,0 +1,180 @@
+[[spawns]]
+id = 'npc.sleepwalker'
+x = 3746
+y = 3334
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sleepwalker'
+x = 3746
+y = 3334
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1033'
+x = 3720
+y = 3359
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3726
+y = 3381
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3745
+y = 3359
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3749
+y = 3365
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3750
+y = 3354
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3757
+y = 3363
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3763
+y = 3337
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3734
+y = 3360
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4437'
+x = 3731
+y = 3358
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4438'
+x = 3732
+y = 3356
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3752
+y = 3358
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3754
+y = 3355
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3754
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3756
+y = 3354
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3756
+y = 3367
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3757
+y = 3357
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8300'
+x = 3722
+y = 3369
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8300'
+x = 3750
+y = 3370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8301'
+x = 3730
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8302'
+x = 3745
+y = 3382
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8303'
+x = 3748
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8304'
+x = 3719
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8305'
+x = 3728
+y = 3374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8306'
+x = 3737
+y = 3377
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8307'
+x = 3713
+y = 3368
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_8307'
+x = 3740
+y = 3371
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_9825'
+x = 3718
+y = 3358
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9826'
+x = 3719
+y = 3359
+plane = 1
+direction = 'NONE'

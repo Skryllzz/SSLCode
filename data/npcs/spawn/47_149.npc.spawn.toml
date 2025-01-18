@@ -1,0 +1,240 @@
+[[spawns]]
+id = 'npc.null_1427'
+x = 3058
+y = 9558
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_giant_2088'
+x = 3061
+y = 9573
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ice_giant_2089'
+x = 3057
+y = 9573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_giant_2089'
+x = 3065
+y = 9571
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3044
+y = 9581
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3046
+y = 9575
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3048
+y = 9583
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3049
+y = 9590
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3053
+y = 9576
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3056
+y = 9583
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3056
+y = 9587
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3062
+y = 9576
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 3062
+y = 9581
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior_2842'
+x = 3056
+y = 9572
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior_2842'
+x = 3060
+y = 9572
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 3010
+y = 9578
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 3010
+y = 9593
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 3010
+y = 9595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 3011
+y = 9579
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 3016
+y = 9578
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 3016
+y = 9594
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3050'
+x = 3019
+y = 9591
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeletal_wyvern'
+x = 3025
+y = 9543
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern'
+x = 3063
+y = 9554
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern'
+x = 3040
+y = 9569
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern'
+x = 3070
+y = 9566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_466'
+x = 3025
+y = 9553
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_466'
+x = 3057
+y = 9539
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_466'
+x = 3042
+y = 9562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_466'
+x = 3070
+y = 9560
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_466'
+x = 3071
+y = 9574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_467'
+x = 3033
+y = 9554
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_467'
+x = 3045
+y = 9553
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_467'
+x = 3047
+y = 9560
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeletal_wyvern_467'
+x = 3071
+y = 9554
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_467'
+x = 3071
+y = 9581
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_468'
+x = 3039
+y = 9541
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_468'
+x = 3066
+y = 9545
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_468'
+x = 3066
+y = 9562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_468'
+x = 3070
+y = 9586
+plane = 0
+direction = 'NONE'

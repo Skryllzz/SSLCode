@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3588
+y = 5924
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3592
+y = 5924
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3587
+y = 5924
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3594
+y = 5926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3600
+y = 5930
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3605
+y = 5935
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3609
+y = 5941
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3611
+y = 5948
+plane = 0
+direction = 'NONE'

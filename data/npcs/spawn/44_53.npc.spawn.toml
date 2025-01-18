@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2863
+y = 3432
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2842
+y = 3450
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2864
+y = 3453
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2870
+y = 3438
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2872
+y = 3445
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_1518'
+x = 2836
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1518'
+x = 2838
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1519'
+x = 2844
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1519'
+x = 2853
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1520'
+x = 2846
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1520'
+x = 2855
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1520'
+x = 2859
+y = 3426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ellena'
+x = 2861
+y = 3432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_3108'
+x = 2816
+y = 3442
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.woman_3112'
+x = 2817
+y = 3443
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.hickton'
+x = 2822
+y = 3442
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.harry'
+x = 2834
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4986'
+x = 2819
+y = 3451
+plane = 0
+direction = 'NONE'

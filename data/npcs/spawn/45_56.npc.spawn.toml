@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.troll_spectator'
+x = 2906
+y = 3623
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.troll_spectator_4124'
+x = 2920
+y = 3622
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.troll_spectator_4125'
+x = 2923
+y = 3616
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.troll_spectator_4126'
+x = 2923
+y = 3612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.troll_spectator_4127'
+x = 2916
+y = 3601
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.troll_spectator_4128'
+x = 2902
+y = 3604
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.troll_spectator_4129'
+x = 2922
+y = 3606
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dad'
+x = 2911
+y = 3612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_4143'
+x = 2904
+y = 3642
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 2916
+y = 3631
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 2917
+y = 3634
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_939'
+x = 2909
+y = 3641
+plane = 0
+direction = 'NONE'

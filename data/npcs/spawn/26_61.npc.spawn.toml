@@ -1,0 +1,8 @@
+
+[[spawns]]
+id = 'npc.rakkar'
+x = 1704
+y = 3940
+plane = 0
+direction = 'EAST'
+

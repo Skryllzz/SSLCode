@@ -1,0 +1,8 @@
+
+[[spawns]]
+id = 'npc.guardian_mummy'
+x = 1934
+y = 4427
+plane = 3
+direction = 'NONE'
+

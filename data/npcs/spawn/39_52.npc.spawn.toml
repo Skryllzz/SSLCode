@@ -1,0 +1,252 @@
+[[spawns]]
+id = 'npc.guard_1111'
+x = 2510
+y = 3378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1111'
+x = 2511
+y = 3383
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_1111'
+x = 2515
+y = 3356
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1111'
+x = 2519
+y = 3356
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guard_1111'
+x = 2521
+y = 3383
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1111'
+x = 2524
+y = 3362
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1111'
+x = 2525
+y = 3383
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1112'
+x = 2519
+y = 3366
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1112'
+x = 2525
+y = 3369
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1112'
+x = 2531
+y = 3368
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1113'
+x = 2508
+y = 3370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1113'
+x = 2512
+y = 3374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1113'
+x = 2518
+y = 3371
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1113'
+x = 2525
+y = 3380
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2523
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2523
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2526
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2526
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2529
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2529
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2531
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_1153'
+x = 2532
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2499
+y = 3330
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2500
+y = 3331
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2503
+y = 3330
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2503
+y = 3333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2508
+y = 3330
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2514
+y = 3330
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2514
+y = 3334
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2517
+y = 3332
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2518
+y = 3329
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2521
+y = 3329
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2525
+y = 3334
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2529
+y = 3328
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2530
+y = 3332
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2532
+y = 3330
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2535
+y = 3332
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shop_keeper_2894'
+x = 2514
+y = 3385
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ted_rehnison'
+x = 2531
+y = 3331
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.martha_rehnison'
+x = 2531
+y = 3333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_rehnison'
+x = 2530
+y = 3331
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.milli_rehnison'
+x = 2531
+y = 3330
+plane = 1
+direction = 'NONE'

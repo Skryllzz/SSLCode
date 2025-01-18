@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.null_7495'
+x = 3583
+y = 3974
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jardric_8107'
+x = 3582
+y = 3973
+plane = 0
+direction = 'NONE'

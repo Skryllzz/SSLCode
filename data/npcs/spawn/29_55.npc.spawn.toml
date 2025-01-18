@@ -1,0 +1,132 @@
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1857
+y = 3542
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1860
+y = 3552
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1861
+y = 3537
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1861
+y = 3560
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1864
+y = 3544
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1868
+y = 3561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1870
+y = 3553
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1870
+y = 3566
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1874
+y = 3546
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1876
+y = 3556
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1879
+y = 3551
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1858
+y = 3547
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1859
+y = 3559
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1863
+y = 3536
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1863
+y = 3542
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1863
+y = 3561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1868
+y = 3545
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1868
+y = 3555
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1869
+y = 3557
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1871
+y = 3565
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1874
+y = 3558
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1876
+y = 3554
+plane = 0
+direction = 'SOUTH'

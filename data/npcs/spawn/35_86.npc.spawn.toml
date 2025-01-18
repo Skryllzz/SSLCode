@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.mouse_5127'
+x = 2278
+y = 5549
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5127'
+x = 2267
+y = 5516
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5127'
+x = 2278
+y = 5545
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5127'
+x = 2277
+y = 5526
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5127'
+x = 2279
+y = 5554
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5127'
+x = 2278
+y = 5523
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5127'
+x = 2278
+y = 5544
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5128'
+x = 2267
+y = 5516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5128'
+x = 2278
+y = 5533
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5128'
+x = 2277
+y = 5525
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5128'
+x = 2270
+y = 5516
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mouse_5128'
+x = 2279
+y = 5541
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mouse_5128'
+x = 2264
+y = 5516
+plane = 3
+direction = 'SOUTH'

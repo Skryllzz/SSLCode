@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.doug_deeping'
+x = 3351
+y = 9756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton'
+x = 3373
+y = 9748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton'
+x = 3378
+y = 9748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton'
+x = 3382
+y = 9753
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_71'
+x = 3368
+y = 9748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_71'
+x = 3378
+y = 9757
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_71'
+x = 3383
+y = 9746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_72'
+x = 3376
+y = 9751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_72'
+x = 3380
+y = 9756
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_73'
+x = 3377
+y = 9743
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_73'
+x = 3377
+y = 9754
+plane = 0
+direction = 'NONE'

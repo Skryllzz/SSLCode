@@ -1,0 +1,366 @@
+[[spawns]]
+id = 'npc.banknote_exchange_merchant'
+x = 3359
+y = 2990
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1974'
+x = 3353
+y = 3002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1975'
+x = 3354
+y = 2987
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1975'
+x = 3354
+y = 3000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1975'
+x = 3361
+y = 3003
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1975'
+x = 3362
+y = 2988
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_1975'
+x = 3371
+y = 2984
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_1976'
+x = 3354
+y = 2994
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1976'
+x = 3357
+y = 3001
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1976'
+x = 3360
+y = 2999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1976'
+x = 3367
+y = 2997
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rug_merchant_20'
+x = 3350
+y = 3001
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey'
+x = 3350
+y = 3000
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ali_the_dyer'
+x = 3364
+y = 3001
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.drunken_ali'
+x = 3360
+y = 2957
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ali_the_barman'
+x = 3361
+y = 2955
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ali_the_kebab_seller'
+x = 3352
+y = 2974
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.market_seller'
+x = 3359
+y = 2987
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ali_the_camel_man'
+x = 3350
+y = 2967
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.street_urchin'
+x = 3352
+y = 2958
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.street_urchin'
+x = 3355
+y = 2972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.street_urchin'
+x = 3364
+y = 2980
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ali_the_hag'
+x = 3346
+y = 2987
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ali_the_snake_charmer'
+x = 3354
+y = 2953
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ali_the_camel'
+x = 3342
+y = 2962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ali_the_camel'
+x = 3343
+y = 2964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3328
+y = 2952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3328
+y = 2957
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3331
+y = 2955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3331
+y = 2961
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.snake_3545'
+x = 3354
+y = 2952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ali_the_operator'
+x = 3334
+y = 2949
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.aristarchus'
+x = 3338
+y = 2961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6134'
+x = 3360
+y = 2970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6135'
+x = 3351
+y = 2971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6136'
+x = 3334
+y = 2956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3333
+y = 2952
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3338
+y = 2946
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3338
+y = 2950
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3342
+y = 2958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3344
+y = 2950
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3346
+y = 2945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3346
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3347
+y = 2961
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3351
+y = 2961
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6138'
+x = 3352
+y = 2951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6139'
+x = 3355
+y = 2949
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6139'
+x = 3358
+y = 2969
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6139'
+x = 3362
+y = 2975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6139'
+x = 3356
+y = 2984
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6140'
+x = 3342
+y = 2954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6140'
+x = 3355
+y = 2957
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6140'
+x = 3361
+y = 2969
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6140'
+x = 3363
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6140'
+x = 3367
+y = 2991
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6141'
+x = 3349
+y = 2954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6141'
+x = 3359
+y = 2975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6141'
+x = 3361
+y = 2967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6141'
+x = 3365
+y = 2991
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6141'
+x = 3367
+y = 2983
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cowardly_bandit'
+x = 3359
+y = 3000
+plane = 0
+direction = 'NONE'

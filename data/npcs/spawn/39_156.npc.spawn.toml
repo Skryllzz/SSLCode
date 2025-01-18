@@ -1,0 +1,132 @@
+[[spawns]]
+id = 'npc.dagannoth_970'
+x = 2513
+y = 10018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_970'
+x = 2518
+y = 10027
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_970'
+x = 2520
+y = 10018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_970'
+x = 2522
+y = 10028
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_970'
+x = 2527
+y = 10019
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_971'
+x = 2515
+y = 10030
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_971'
+x = 2518
+y = 10013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_971'
+x = 2521
+y = 10015
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_971'
+x = 2522
+y = 10023
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_971'
+x = 2524
+y = 10033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_971'
+x = 2532
+y = 10023
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_971'
+x = 2535
+y = 10030
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_972'
+x = 2514
+y = 10012
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_972'
+x = 2524
+y = 10014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_972'
+x = 2526
+y = 10035
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_973'
+x = 2515
+y = 10016
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_973'
+x = 2523
+y = 10019
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_974'
+x = 2511
+y = 10020
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_974'
+x = 2514
+y = 10027
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_974'
+x = 2534
+y = 10025
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_975'
+x = 2519
+y = 10031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_975'
+x = 2527
+y = 10024
+plane = 0
+direction = 'NONE'

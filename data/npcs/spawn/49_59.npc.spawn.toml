@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.moss_giant'
+x = 3144
+y = 3822
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 3139
+y = 3818
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 3140
+y = 3805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 3141
+y = 3826
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 3145
+y = 3812
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 3147
+y = 3805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3136
+y = 3782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3139
+y = 3780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3140
+y = 3784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3187
+y = 3812
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3190
+y = 3834
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 3143
+y = 3802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 3137
+y = 3798
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 3179
+y = 3786
+plane = 0
+direction = 'NONE'

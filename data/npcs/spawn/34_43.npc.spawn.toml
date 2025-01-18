@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2234
+y = 2802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2184
+y = 2782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 2227
+y = 2805
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 2227
+y = 2815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2180
+y = 2798
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2209
+y = 2812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2217
+y = 2780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2193
+y = 2789
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2194
+y = 2797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2204
+y = 2791
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2216
+y = 2787
+plane = 0
+direction = 'NONE'

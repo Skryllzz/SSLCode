@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2251
+y = 5985
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2255
+y = 5992
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2256
+y = 5972
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2262
+y = 6006
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2273
+y = 5994
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2281
+y = 5965
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2290
+y = 6007
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2292
+y = 5986
+plane = 2
+direction = 'NONE'

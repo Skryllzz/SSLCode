@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.null_5324'
+x = 3319
+y = 9615
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_miner'
+x = 3312
+y = 9652
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.cave_goblin_miner'
+x = 3316
+y = 9632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_miner_5331'
+x = 3312
+y = 9646
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.cave_goblin_miner_5331'
+x = 3314
+y = 9636
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_goblin_miner_5332'
+x = 3315
+y = 9620
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_goblin_miner_5332'
+x = 3324
+y = 9621
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cave_goblin_miner_5333'
+x = 3314
+y = 9630
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.cave_goblin_guard'
+x = 3318
+y = 9602
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_goblin_guard'
+x = 3323
+y = 9645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_guard_5335'
+x = 3320
+y = 9632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_guard_5335'
+x = 3322
+y = 9617
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.cave_goblin_miner_5339'
+x = 3321
+y = 9646
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.nardok'
+x = 3324
+y = 9607
+plane = 0
+direction = 'EAST'

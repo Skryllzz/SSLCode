@@ -1,0 +1,276 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3008
+y = 3370
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tau'
+x = 3047
+y = 3343
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.larry_10418'
+x = 3038
+y = 3366
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10633'
+x = 3022
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_294'
+x = 3025
+y = 3347
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_295'
+x = 3012
+y = 3337
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_295'
+x = 3010
+y = 3341
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dwarf_296'
+x = 3019
+y = 3333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_296'
+x = 3017
+y = 3348
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_3094'
+x = 3010
+y = 3353
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_3094'
+x = 3011
+y = 3353
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_3094'
+x = 3012
+y = 3353
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_3094'
+x = 3013
+y = 3353
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_3094'
+x = 3014
+y = 3353
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.garden_supplier'
+x = 3017
+y = 3374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_3264'
+x = 3029
+y = 3352
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.man_3265'
+x = 3047
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.norman'
+x = 3036
+y = 3345
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3269'
+x = 3036
+y = 3355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3270'
+x = 3041
+y = 3355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3273'
+x = 3028
+y = 3329
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3273'
+x = 3039
+y = 3388
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3273'
+x = 3051
+y = 3329
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3273'
+x = 3056
+y = 3389
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3274'
+x = 3031
+y = 3389
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3274'
+x = 3038
+y = 3329
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3274'
+x = 3049
+y = 3389
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3274'
+x = 3059
+y = 3330
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3274'
+x = 3064
+y = 3384
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gardener'
+x = 3019
+y = 3370
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gardener_3276'
+x = 3011
+y = 3386
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wyson_the_gardener'
+x = 3027
+y = 3379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.party_pete'
+x = 3052
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.megan'
+x = 3043
+y = 3373
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lucy'
+x = 3046
+y = 3383
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6110'
+x = 3053
+y = 3378
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6523'
+x = 3015
+y = 3353
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6707'
+x = 3010
+y = 3379
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6707'
+x = 3023
+y = 3339
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6707'
+x = 3025
+y = 3360
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6707'
+x = 3045
+y = 3339
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6707'
+x = 3058
+y = 3371
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mysterious_old_man_6742'
+x = 3049
+y = 3356
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf_7712'
+x = 3017
+y = 3340
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_7713'
+x = 3021
+y = 3338
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gadrin'
+x = 3018
+y = 3337
+plane = 0
+direction = 'NONE'

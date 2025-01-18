@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.lesser_demon'
+x = 2835
+y = 9602
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2006'
+x = 2839
+y = 9604
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2007'
+x = 2838
+y = 9610
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lesser_demon_2008'
+x = 2845
+y = 9612
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_2018'
+x = 2837
+y = 9623
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2860
+y = 9635
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2862
+y = 9638
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7326'
+x = 2857
+y = 9645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2832
+y = 9661
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2834
+y = 9650
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 2834
+y = 9658
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 2830
+y = 9657
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 2840
+y = 9649
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_80'
+x = 2834
+y = 9655
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_81'
+x = 2838
+y = 9653
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_816'
+x = 2852
+y = 9637
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2840
+y = 9638
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2842
+y = 9632
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2843
+y = 9645
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2844
+y = 9628
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_83'
+x = 2840
+y = 9628
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_83'
+x = 2841
+y = 9643
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton_83'
+x = 2845
+y = 9636
+plane = 0
+direction = 'EAST'

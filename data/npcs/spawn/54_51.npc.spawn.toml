@@ -1,0 +1,342 @@
+[[spawns]]
+id = 'npc.dampe'
+x = 3479
+y = 3320
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3474
+y = 3280
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3478
+y = 3307
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3479
+y = 3283
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3480
+y = 3271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3482
+y = 3302
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3483
+y = 3283
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3483
+y = 3295
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3487
+y = 3272
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3488
+y = 3282
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3488
+y = 3288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3489
+y = 3267
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3489
+y = 3302
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3492
+y = 3285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3493
+y = 3293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3496
+y = 3277
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3496
+y = 3296
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3500
+y = 3286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3501
+y = 3294
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3501
+y = 3297
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3501
+y = 3313
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3501
+y = 3321
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3504
+y = 3299
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3507
+y = 3301
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3513
+y = 3321
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loar_shadow'
+x = 3516
+y = 3315
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.afflictedulsquire'
+x = 3496
+y = 3289
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflictedrazmire'
+x = 3489
+y = 3296
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.afflicted'
+x = 3466
+y = 3306
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted'
+x = 3471
+y = 3285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted'
+x = 3479
+y = 3300
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted'
+x = 3499
+y = 3298
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted'
+x = 3502
+y = 3277
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted'
+x = 3511
+y = 3300
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.afflicted'
+x = 3517
+y = 3285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3466
+y = 3309
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3476
+y = 3288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3481
+y = 3305
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3485
+y = 3271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3488
+y = 3284
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3495
+y = 3285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3503
+y = 3302
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3506
+y = 3304
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1294'
+x = 3509
+y = 3284
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1297'
+x = 3469
+y = 3308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1297'
+x = 3474
+y = 3293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1297'
+x = 3491
+y = 3291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1297'
+x = 3496
+y = 3271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1297'
+x = 3503
+y = 3288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3472
+y = 3304
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3475
+y = 3274
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3477
+y = 3308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3481
+y = 3277
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3487
+y = 3277
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3493
+y = 3299
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3504
+y = 3281
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.afflicted_1298'
+x = 3515
+y = 3302
+plane = 0
+direction = 'NONE'

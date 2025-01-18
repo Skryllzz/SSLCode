@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.black_dragon_253'
+x = 3179
+y = 6179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 3167
+y = 6169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 3179
+y = 6158
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 3196
+y = 6161
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 3188
+y = 6183
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 3191
+y = 6181
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 3191
+y = 6184
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 3192
+y = 6179
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 3194
+y = 6180
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_6469'
+x = 3188
+y = 6171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_6469'
+x = 3190
+y = 6168
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dire_wolf_9181'
+x = 3156
+y = 6177
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.lesser_demon'
+x = 2416
+y = 4684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2006'
+x = 2413
+y = 4681
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2007'
+x = 2412
+y = 4677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.san_tojalon'
+x = 2384
+y = 4706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.san_tojalon'
+x = 2393
+y = 4713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.san_tojalon'
+x = 2394
+y = 4731
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.san_tojalon'
+x = 2395
+y = 4721
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.irvig_senay'
+x = 2401
+y = 4705
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.irvig_senay'
+x = 2405
+y = 4712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.irvig_senay'
+x = 2412
+y = 4723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.irvig_senay'
+x = 2414
+y = 4731
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranalph_devere'
+x = 2408
+y = 4698
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranalph_devere'
+x = 2417
+y = 4699
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranalph_devere'
+x = 2424
+y = 4701
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranalph_devere'
+x = 2428
+y = 4696
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.boulder_3967'
+x = 2373
+y = 4692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.boulder_3967'
+x = 2386
+y = 4689
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.boulder_3967'
+x = 2392
+y = 4678
+plane = 0
+direction = 'NONE'

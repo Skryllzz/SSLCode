@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.crocodile'
+x = 3264
+y = 2886
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3267
+y = 2891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3268
+y = 2881
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3269
+y = 2885
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3296
+y = 2912
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3297
+y = 2919
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3301
+y = 2920
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3308
+y = 2916
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3265
+y = 2931
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3265
+y = 2935
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3268
+y = 2932
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3268
+y = 2935
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3316
+y = 2900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3319
+y = 2897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3320
+y = 2901
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3321
+y = 2899
+plane = 0
+direction = 'NONE'

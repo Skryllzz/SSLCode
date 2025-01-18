@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.fadli'
+x = 3383
+y = 3269
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.aabla'
+x = 3362
+y = 3273
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sabreen'
+x = 3368
+y = 3278
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.surgeon_general_tafani'
+x = 3373
+y = 3272
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jaraah'
+x = 3358
+y = 3276
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zahwa'
+x = 3372
+y = 3279
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hamid'
+x = 3375
+y = 3285
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.flying_book'
+x = 3367
+y = 3304
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.flying_book_5976'
+x = 3364
+y = 3308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.flying_book_5976'
+x = 3365
+y = 3318
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.entrance_guardian'
+x = 3363
+y = 3304
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rewards_guardian'
+x = 3362
+y = 3318
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior'
+x = 3359
+y = 3304
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior_5986'
+x = 3364
+y = 3311
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior_5987'
+x = 3363
+y = 3307
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior_5988'
+x = 3364
+y = 3311
+plane = 0
+direction = 'NONE'

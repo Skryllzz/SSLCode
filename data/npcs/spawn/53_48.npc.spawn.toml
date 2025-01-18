@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3402
+y = 3134
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3403
+y = 3090
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3405
+y = 3101
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3405
+y = 3133
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3407
+y = 3132
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3408
+y = 3095
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3410
+y = 3088
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3412
+y = 3081
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3414
+y = 3075
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3415
+y = 3080
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.orange_salamander'
+x = 3417
+y = 3073
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3402
+y = 3095
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3406
+y = 3097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3407
+y = 3085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3410
+y = 3085
+plane = 0
+direction = 'NONE'

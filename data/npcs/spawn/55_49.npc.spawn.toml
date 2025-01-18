@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.null_3489'
+x = 3530
+y = 3169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3527
+y = 3169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3529
+y = 3165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3530
+y = 3165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3531
+y = 3169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3534
+y = 3175
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3536
+y = 3177
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3538
+y = 3179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3540
+y = 3178
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4477'
+x = 3543
+y = 3180
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9517'
+x = 3529
+y = 3168
+plane = 0
+direction = 'NONE'

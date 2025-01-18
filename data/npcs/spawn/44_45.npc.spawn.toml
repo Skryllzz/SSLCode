@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.oomlie_bird'
+x = 2819
+y = 2900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oomlie_bird'
+x = 2821
+y = 2910
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oomlie_bird'
+x = 2827
+y = 2927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oomlie_bird'
+x = 2834
+y = 2911
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oomlie_bird'
+x = 2837
+y = 2897
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.oomlie_bird'
+x = 2859
+y = 2904
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.oomlie_bird'
+x = 2863
+y = 2916
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_wolf'
+x = 2824
+y = 2896
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_wolf'
+x = 2827
+y = 2924
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_wolf'
+x = 2842
+y = 2899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_wolf'
+x = 2861
+y = 2907
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_wolf'
+x = 2862
+y = 2899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_forester'
+x = 2824
+y = 2940
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_forester'
+x = 2863
+y = 2941
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_forester_3955'
+x = 2817
+y = 2940
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_forester_3955'
+x = 2872
+y = 2941
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tormented_warrior'
+x = 2821
+y = 2927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tormented_warrior'
+x = 2824
+y = 2907
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tormented_warrior'
+x = 2837
+y = 2918
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tormented_warrior'
+x = 2840
+y = 2899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tormented_warrior'
+x = 2845
+y = 2928
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tormented_warrior'
+x = 2859
+y = 2923
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tormented_warrior'
+x = 2862
+y = 2904
+plane = 0
+direction = 'NONE'

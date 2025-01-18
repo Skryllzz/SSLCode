@@ -1,0 +1,312 @@
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3206
+y = 6033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3207
+y = 6031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3208
+y = 6028
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3209
+y = 6031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3210
+y = 6033
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3212
+y = 6029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 3207
+y = 6029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3208
+y = 6032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3210
+y = 6032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gelmir'
+x = 3247
+y = 6078
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mithrellas'
+x = 3231
+y = 6076
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.erestor'
+x = 3250
+y = 6066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lindir'
+x = 3243
+y = 6070
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.idril'
+x = 3221
+y = 6056
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ingwion'
+x = 3230
+y = 6049
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thingol'
+x = 3237
+y = 6041
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.elenwe'
+x = 3258
+y = 6051
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.orophin'
+x = 3263
+y = 6043
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feanor'
+x = 3240
+y = 6056
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rhyfel'
+x = 3244
+y = 6050
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gwyl'
+x = 3244
+y = 6051
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.enilly'
+x = 3246
+y = 6053
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ffoni'
+x = 3247
+y = 6053
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ymladd'
+x = 3249
+y = 6051
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sadwrn'
+x = 3249
+y = 6050
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.diol'
+x = 3248
+y = 6048
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ysbeid'
+x = 3246
+y = 6054
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cleddyf'
+x = 3243
+y = 6049
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.saeth'
+x = 3245
+y = 6048
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.enelye'
+x = 3227
+y = 6058
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nerdanel'
+x = 3242
+y = 6045
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.galathil'
+x = 3236
+y = 6055
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_kelyn_ithell_9121'
+x = 3221
+y = 6064
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lord_iestin_iorwerth'
+x = 3248
+y = 6040
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.alwyn'
+x = 3218
+y = 6058
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gladiator'
+x = 3246
+y = 6051
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gladiator_9144'
+x = 3247
+y = 6050
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eluned_9145'
+x = 3229
+y = 6062
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9147'
+x = 3237
+y = 6072
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.celyn'
+x = 3258
+y = 6058
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.aneirin'
+x = 3252
+y = 6060
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guinevere'
+x = 3228
+y = 6055
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.nia'
+x = 3222
+y = 6074
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lliann'
+x = 3230
+y = 6068
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_9182'
+x = 3210
+y = 6077
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9186'
+x = 3261
+y = 6026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9186'
+x = 3233
+y = 6052
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9187'
+x = 3252
+y = 6071
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9240'
+x = 3238
+y = 6066
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9242'
+x = 3262
+y = 6020
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9475'
+x = 3262
+y = 6076
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9475'
+x = 3259
+y = 6078
+plane = 2
+direction = 'NONE'

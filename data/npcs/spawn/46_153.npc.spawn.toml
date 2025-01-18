@@ -1,0 +1,162 @@
+[[spawns]]
+id = 'npc.hammerspike_stoutbeard'
+x = 2965
+y = 9811
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_gang_member'
+x = 2966
+y = 9813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_gang_member_1355'
+x = 2967
+y = 9813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_gang_member_1356'
+x = 2968
+y = 9813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cart_conductor_2391'
+x = 2995
+y = 9837
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hura'
+x = 3003
+y = 9799
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 2955
+y = 9795
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2984
+y = 9807
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2992
+y = 9844
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2994
+y = 9826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2995
+y = 9805
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2998
+y = 9841
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2999
+y = 9817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3000
+y = 9809
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3000
+y = 9826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3001
+y = 9796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3001
+y = 9844
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3002
+y = 9829
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3005
+y = 9799
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.boot'
+x = 2985
+y = 9812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_5878'
+x = 2953
+y = 9827
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blue_dragon_5879'
+x = 2944
+y = 9809
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blue_dragon_5879'
+x = 2955
+y = 9821
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blue_dragon_5880'
+x = 2951
+y = 9814
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_5881'
+x = 2946
+y = 9824
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5904'
+x = 2993
+y = 9828
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.nurmof'
+x = 2998
+y = 9844
+plane = 0
+direction = 'NONE'

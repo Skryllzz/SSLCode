@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2410
+y = 9801
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2413
+y = 9797
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2417
+y = 9796
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_4913'
+x = 2409
+y = 9817
+plane = 0
+direction = 'NONE'

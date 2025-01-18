@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.null_1983'
+x = 2655
+y = 10408
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_831'
+x = 2655
+y = 10389
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_831'
+x = 2655
+y = 10402
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_831'
+x = 2660
+y = 10378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ping_839'
+x = 2670
+y = 10395
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pong_840'
+x = 2670
+y = 10397
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.kgp_agent'
+x = 2648
+y = 10384
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.icelord'
+x = 2641
+y = 10426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.icelord_853'
+x = 2644
+y = 10424
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.icelord_854'
+x = 2647
+y = 10425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.icelord_855'
+x = 2650
+y = 10423
+plane = 0
+direction = 'NONE'

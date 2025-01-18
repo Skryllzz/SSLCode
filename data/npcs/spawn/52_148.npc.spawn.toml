@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.kalphite_worker_956'
+x = 3331
+y = 9501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_soldier_958'
+x = 3329
+y = 9487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_soldier_958'
+x = 3333
+y = 9490
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_soldier_958'
+x = 3336
+y = 9494
+plane = 0
+direction = 'SOUTH'

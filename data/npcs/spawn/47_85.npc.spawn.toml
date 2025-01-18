@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.big_snake'
+x = 3021
+y = 5488
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.big_snake'
+x = 3023
+y = 5486
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.big_snake'
+x = 3025
+y = 5489
+plane = 0
+direction = 'NONE'

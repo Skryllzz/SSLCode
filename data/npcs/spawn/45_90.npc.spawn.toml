@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2909
+y = 5812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2913
+y = 5808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2918
+y = 5815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2920
+y = 5809
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2934
+y = 5797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2937
+y = 5811
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2938
+y = 5794
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2940
+y = 5795
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10653'
+x = 2921
+y = 5807
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fishing_spot_10686'
+x = 2922
+y = 5788
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10686'
+x = 2926
+y = 5784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10686'
+x = 2928
+y = 5777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_10700'
+x = 2914
+y = 5772
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_10700'
+x = 2926
+y = 5770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_10700'
+x = 2927
+y = 5785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10704'
+x = 2922
+y = 5821
+plane = 0
+direction = 'NONE'

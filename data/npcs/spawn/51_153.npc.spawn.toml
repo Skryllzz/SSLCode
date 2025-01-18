@@ -1,0 +1,234 @@
+[[spawns]]
+id = 'npc.angry_unicorn_4688'
+x = 3276
+y = 9836
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.angry_unicorn_4688'
+x = 3287
+y = 9840
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.angry_giant_rat_4689'
+x = 3280
+y = 9849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.angry_giant_rat_4690'
+x = 3286
+y = 9830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.angry_goblin_4691'
+x = 3269
+y = 9849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.angry_goblin_4691'
+x = 3291
+y = 9843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.angry_bear_4692'
+x = 3269
+y = 9843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.angry_bear_4692'
+x = 3275
+y = 9833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3305
+y = 9832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3305
+y = 9843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3311
+y = 9850
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3312
+y = 9845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3313
+y = 9827
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3315
+y = 9837
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3319
+y = 9832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3319
+y = 9849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fear_reaper_4693'
+x = 3323
+y = 9842
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3302
+y = 9806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3302
+y = 9816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3304
+y = 9801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3310
+y = 9796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3312
+y = 9811
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3313
+y = 9805
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3313
+y = 9817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3314
+y = 9797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3319
+y = 9800
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3319
+y = 9806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confusion_beast_4694'
+x = 3321
+y = 9811
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3269
+y = 9798
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3269
+y = 9806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3269
+y = 9814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3275
+y = 9817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3276
+y = 9809
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3280
+y = 9803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3282
+y = 9797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3285
+y = 9812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3288
+y = 9819
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3289
+y = 9809
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hopeless_creature_4695'
+x = 3290
+y = 9797
+plane = 0
+direction = 'NONE'

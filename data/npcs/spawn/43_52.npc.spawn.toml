@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2812
+y = 3332
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.francis'
+x = 2814
+y = 3337
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.black_bear'
+x = 2809
+y = 3376
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frincos'
+x = 2808
+y = 3342
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.auguste'
+x = 2808
+y = 3355
+plane = 0
+direction = 'NORTH'

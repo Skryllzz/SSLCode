@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2501
+y = 9430
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2502
+y = 9437
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2505
+y = 9461
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2509
+y = 9457
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2509
+y = 9464
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2514
+y = 9462
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2519
+y = 9454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2524
+y = 9437
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2527
+y = 9412
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2533
+y = 9451
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2534
+y = 9441
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2540
+y = 9425
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2543
+y = 9415
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2543
+y = 9460
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2546
+y = 9418
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2547
+y = 9461
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2548
+y = 9413
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2548
+y = 9421
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scared_skavid'
+x = 2499
+y = 9433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mad_skavid'
+x = 2523
+y = 9411
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skavid_4376'
+x = 2530
+y = 9465
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skavid_4377'
+x = 2515
+y = 9452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skavid_4378'
+x = 2500
+y = 9451
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skavid_4379'
+x = 2503
+y = 9415
+plane = 0
+direction = 'NORTH'

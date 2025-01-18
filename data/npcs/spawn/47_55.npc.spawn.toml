@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3025
+y = 3568
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3028
+y = 3577
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3032
+y = 3570
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3040
+y = 3581
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3041
+y = 3572
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3047
+y = 3567
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3055
+y = 3574
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3056
+y = 3566
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3062
+y = 3555
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3062
+y = 3570
+plane = 0
+direction = 'SOUTH'

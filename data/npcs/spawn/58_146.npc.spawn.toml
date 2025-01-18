@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.albino_bat'
+x = 3718
+y = 9357
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.albino_bat'
+x = 3725
+y = 9370
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.albino_bat'
+x = 3734
+y = 9398
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.albino_bat'
+x = 3739
+y = 9385
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.albino_bat'
+x = 3747
+y = 9398
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.albino_bat'
+x = 3756
+y = 9391
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.albino_bat'
+x = 3761
+y = 9405
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror'
+x = 3732
+y = 9390
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror'
+x = 3741
+y = 9373
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1048'
+x = 3720
+y = 9349
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1048'
+x = 3726
+y = 9399
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1048'
+x = 3733
+y = 9353
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1048'
+x = 3733
+y = 9367
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1048'
+x = 3754
+y = 9385
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1048'
+x = 3759
+y = 9395
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1049'
+x = 3723
+y = 9379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1049'
+x = 3724
+y = 9391
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_horror_1049'
+x = 3729
+y = 9349
+plane = 0
+direction = 'SOUTH'

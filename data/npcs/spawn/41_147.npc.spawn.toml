@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.bronze_dragon_271'
+x = 2632
+y = 9457
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bronze_dragon_271'
+x = 2636
+y = 9450
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bronze_dragon_271'
+x = 2639
+y = 9456
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bronze_dragon_271'
+x = 2642
+y = 9446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bronze_dragon_271'
+x = 2646
+y = 9455
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2661
+y = 9453
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2663
+y = 9459
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2666
+y = 9452
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2670
+y = 9447
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2670
+y = 9459
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2673
+y = 9453
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2674
+y = 9442
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_273'
+x = 2678
+y = 9457
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2632
+y = 9420
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2637
+y = 9425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2638
+y = 9432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2639
+y = 9418
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2646
+y = 9424
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2646
+y = 9431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2653
+y = 9427
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2655
+y = 9419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_275'
+x = 2663
+y = 9417
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hieve'
+x = 2683
+y = 9434
+plane = 0
+direction = 'SOUTH'

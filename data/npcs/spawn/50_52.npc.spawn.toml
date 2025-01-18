@@ -1,0 +1,258 @@
+[[spawns]]
+id = 'npc.sarah_10416'
+x = 3235
+y = 3383
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_1178'
+x = 3240
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ram_1262'
+x = 3248
+y = 3351
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ram_1263'
+x = 3260
+y = 3349
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ram_1264'
+x = 3234
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_1299'
+x = 3230
+y = 3346
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_1299'
+x = 3238
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_1300'
+x = 3234
+y = 3349
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sheep_1300'
+x = 3253
+y = 3355
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tarquin'
+x = 3203
+y = 3344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swan'
+x = 3259
+y = 3355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swan'
+x = 3261
+y = 3355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 3238
+y = 3349
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 3262
+y = 3348
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2786'
+x = 3246
+y = 3343
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2787'
+x = 3233
+y = 3343
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2787'
+x = 3246
+y = 3350
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3205
+y = 3379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3211
+y = 3381
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3011'
+x = 3211
+y = 3378
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3073'
+x = 3259
+y = 3338
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_3107'
+x = 3234
+y = 3385
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_3229'
+x = 3260
+y = 3383
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 3205
+y = 3355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 3238
+y = 3390
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_wizard_5086'
+x = 3225
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5086'
+x = 3225
+y = 3374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5086'
+x = 3232
+y = 3367
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5087'
+x = 3223
+y = 3372
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dark_wizard_5087'
+x = 3230
+y = 3363
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5087'
+x = 3232
+y = 3372
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5088'
+x = 3223
+y = 3367
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5088'
+x = 3230
+y = 3365
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dark_wizard_5088'
+x = 3230
+y = 3374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5089'
+x = 3224
+y = 3370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_5089'
+x = 3228
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mugger'
+x = 3249
+y = 3391
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charlie_the_tramp'
+x = 3208
+y = 3391
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.weaponsmaster'
+x = 3246
+y = 3384
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thief_5217'
+x = 3230
+y = 3391
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.master_farmer_5731'
+x = 3240
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3210
+y = 3385
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3212
+y = 3388
+plane = 0
+direction = 'NONE'

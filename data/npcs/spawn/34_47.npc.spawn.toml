@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.high_priestess_zulharcinqa'
+x = 2192
+y = 3055
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.zulurgish'
+x = 2199
+y = 3055
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zulcheray'
+x = 2204
+y = 3050
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zulgutusolly'
+x = 2201
+y = 3048
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sacrifice'
+x = 2210
+y = 3056
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zulonan'
+x = 2189
+y = 3069
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zulaniel'
+x = 2194
+y = 3059
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zulareth'
+x = 2197
+y = 3061
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_2124'
+x = 2212
+y = 3057
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_6488'
+x = 2182
+y = 3067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_6488'
+x = 2199
+y = 3066
+plane = 0
+direction = 'NONE'

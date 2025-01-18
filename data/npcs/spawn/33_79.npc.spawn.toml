@@ -1,0 +1,342 @@
+[[spawns]]
+id = 'npc.pirate_pete_602'
+x = 2162
+y = 5115
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_braindeath'
+x = 2144
+y = 5109
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.50_luke'
+x = 2120
+y = 5096
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.davey'
+x = 2132
+y = 5100
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_donnie'
+x = 2150
+y = 5078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester'
+x = 2145
+y = 5087
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester'
+x = 2159
+y = 5086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_608'
+x = 2147
+y = 5085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_608'
+x = 2158
+y = 5083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_609'
+x = 2150
+y = 5086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_609'
+x = 2154
+y = 5085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_610'
+x = 2150
+y = 5085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_610'
+x = 2153
+y = 5086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_611'
+x = 2148
+y = 5087
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_611'
+x = 2153
+y = 5084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_612'
+x = 2145
+y = 5086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_protester_612'
+x = 2157
+y = 5084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_613'
+x = 2141
+y = 5083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_613'
+x = 2155
+y = 5080
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_614'
+x = 2142
+y = 5081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_614'
+x = 2156
+y = 5078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_615'
+x = 2145
+y = 5080
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_615'
+x = 2158
+y = 5079
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_616'
+x = 2148
+y = 5080
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_616'
+x = 2160
+y = 5078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_617'
+x = 2148
+y = 5078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_617'
+x = 2162
+y = 5079
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_618'
+x = 2143
+y = 5078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_pirate_618'
+x = 2158
+y = 5076
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_swab'
+x = 2152
+y = 5073
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_swab_620'
+x = 2147
+y = 5071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_swab_621'
+x = 2153
+y = 5071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_swab_622'
+x = 2158
+y = 5071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_swab_623'
+x = 2144
+y = 5071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_swab_624'
+x = 2161
+y = 5071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2140
+y = 5093
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2142
+y = 5097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2142
+y = 5103
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2143
+y = 5094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2146
+y = 5098
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2148
+y = 5103
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2151
+y = 5094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2154
+y = 5101
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2157
+y = 5098
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2159
+y = 5104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fever_spider'
+x = 2160
+y = 5094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brewer'
+x = 2149
+y = 5093
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brewer_628'
+x = 2151
+y = 5094
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brewer_629'
+x = 2154
+y = 5094
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brewer_630'
+x = 2158
+y = 5094
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.brewer_631'
+x = 2158
+y = 5096
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brewer_632'
+x = 2160
+y = 5094
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brewer_633'
+x = 2152
+y = 5096
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brewer_634'
+x = 2148
+y = 5096
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot'
+x = 2113
+y = 5074
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot'
+x = 2162
+y = 5061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot'
+x = 2173
+y = 5074
+plane = 0
+direction = 'NONE'

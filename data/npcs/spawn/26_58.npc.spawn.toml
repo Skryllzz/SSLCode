@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.bat'
+x = 1667
+y = 3735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1709
+y = 3742
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1678
+y = 3757
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1708
+y = 3715
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rassain'
+x = 1686
+y = 3725
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.regath'
+x = 1720
+y = 3724
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.batt_mellamy'
+x = 1703
+y = 3771
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.freald'
+x = 1702
+y = 3770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_7064'
+x = 1678
+y = 3766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wizard_7066'
+x = 1686
+y = 3766
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_7067'
+x = 1682
+y = 3769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ouditor'
+x = 1686
+y = 3764
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thyria'
+x = 1722
+y = 3745
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.filamina'
+x = 1668
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7208'
+x = 1698
+y = 3742
+plane = 0
+direction = 'NONE'

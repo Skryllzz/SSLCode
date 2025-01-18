@@ -1,0 +1,180 @@
+[[spawns]]
+id = 'npc.bandit_1026'
+x = 3029
+y = 3701
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_1026'
+x = 3031
+y = 3685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_1026'
+x = 3032
+y = 3695
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_1026'
+x = 3033
+y = 3705
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_1026'
+x = 3037
+y = 3683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_1026'
+x = 3040
+y = 3703
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_bandit'
+x = 3036
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_bandit'
+x = 3037
+y = 3661
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_bandit'
+x = 3038
+y = 3670
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_bandit'
+x = 3039
+y = 3660
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1524'
+x = 3050
+y = 3704
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.neil'
+x = 3025
+y = 3706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 3049
+y = 3691
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3049
+y = 3695
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_heather'
+x = 3039
+y = 3700
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.donny_the_lad'
+x = 3038
+y = 3695
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.speedy_keith'
+x = 3035
+y = 3696
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6106'
+x = 3034
+y = 3701
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3024
+y = 3696
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3029
+y = 3706
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3031
+y = 3698
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3035
+y = 3703
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3036
+y = 3669
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3037
+y = 3656
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3038
+y = 3662
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3038
+y = 3691
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3040
+y = 3683
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3044
+y = 3703
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fat_tony'
+x = 3036
+y = 3707
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.noterazzo'
+x = 3025
+y = 3701
+plane = 0
+direction = 'NORTH'

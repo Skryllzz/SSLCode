@@ -1,0 +1,240 @@
+[[spawns]]
+id = 'npc.gull'
+x = 1813
+y = 3616
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 1817
+y = 3588
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cormorant'
+x = 1800
+y = 3635
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cormorant'
+x = 1813
+y = 3607
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 1792
+y = 3617
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2862'
+x = 1792
+y = 3638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1808
+y = 3627
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1832
+y = 3599
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1833
+y = 3605
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1833
+y = 3628
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1834
+y = 3615
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1836
+y = 3608
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1836
+y = 3612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1836
+y = 3631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1840
+y = 3636
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 1841
+y = 3633
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3287'
+x = 1838
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3287'
+x = 1838
+y = 3640
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1832
+y = 3608
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1832
+y = 3618
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1832
+y = 3624
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1835
+y = 3621
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1836
+y = 3635
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1837
+y = 3628
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1838
+y = 3617
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1840
+y = 3642
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1842
+y = 3638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 1842
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn_foal'
+x = 1793
+y = 3624
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn_foal'
+x = 1798
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6987'
+x = 1792
+y = 3607
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6991'
+x = 1796
+y = 3603
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7155'
+x = 1819
+y = 3603
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7155'
+x = 1827
+y = 3605
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7155'
+x = 1828
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7155'
+x = 1840
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7199'
+x = 1841
+y = 3627
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7199'
+x = 1842
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7200'
+x = 1829
+y = 3610
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7200'
+x = 1830
+y = 3618
+plane = 0
+direction = 'NONE'

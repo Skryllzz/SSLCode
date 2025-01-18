@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.ungadulu'
+x = 2792
+y = 9327
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2796
+y = 9304
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2799
+y = 9308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2800
+y = 9301
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2803
+y = 9296
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2806
+y = 9292
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2808
+y = 9308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2811
+y = 9296
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.death_wing'
+x = 2811
+y = 9301
+plane = 0
+direction = 'NONE'

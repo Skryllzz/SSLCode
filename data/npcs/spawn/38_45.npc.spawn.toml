@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.wolf'
+x = 2482
+y = 2923
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2491
+y = 2922
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2491
+y = 2927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2491
+y = 2931
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.big_wolf_115'
+x = 2487
+y = 2924
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7946'
+x = 2453
+y = 2891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7946'
+x = 2456
+y = 2893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7946'
+x = 2458
+y = 2890
+plane = 0
+direction = 'NONE'

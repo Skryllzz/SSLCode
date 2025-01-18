@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.greater_demon'
+x = 1277
+y = 10195
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2027'
+x = 1273
+y = 10199
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2027'
+x = 1278
+y = 10207
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2027'
+x = 1279
+y = 10213
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2028'
+x = 1272
+y = 10204
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2029'
+x = 1279
+y = 10200
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant'
+x = 1273
+y = 10212
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant'
+x = 1277
+y = 10215
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2076'
+x = 1269
+y = 10211
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2076'
+x = 1274
+y = 10197
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2077'
+x = 1272
+y = 10194
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2077'
+x = 1275
+y = 10209
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 1277
+y = 10203
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1260
+y = 10192
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1262
+y = 10184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1264
+y = 10197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1268
+y = 10179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1268
+y = 10191
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1270
+y = 10186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1275
+y = 10181
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1275
+y = 10189
+plane = 0
+direction = 'NONE'

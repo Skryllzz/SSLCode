@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.baby_black_dragon'
+x = 2438
+y = 4393
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon'
+x = 2460
+y = 4376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_254'
+x = 2459
+y = 4359
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_255'
+x = 2454
+y = 4370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_256'
+x = 2448
+y = 4359
+plane = 0
+direction = 'NONE'

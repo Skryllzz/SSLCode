@@ -1,0 +1,8 @@
+
+[[spawns]]
+id = 'npc.baba_yaga'
+x = 2450
+y = 4647
+plane = 0
+direction = 'EAST'
+

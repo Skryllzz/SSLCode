@@ -1,0 +1,222 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3182
+y = 3726
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3183
+y = 3724
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3185
+y = 3725
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3138
+y = 3772
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3141
+y = 3769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3142
+y = 3775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3146
+y = 3774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3152
+y = 3769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3154
+y = 3773
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3158
+y = 3770
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_chinchompa'
+x = 3159
+y = 3774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3145
+y = 3730
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3149
+y = 3734
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3150
+y = 3744
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3157
+y = 3740
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3164
+y = 3734
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3168
+y = 3736
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3170
+y = 3739
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3174
+y = 3733
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3178
+y = 3737
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3182
+y = 3744
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3183
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_6596'
+x = 3149
+y = 3725
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6596'
+x = 3153
+y = 3740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6596'
+x = 3158
+y = 3746
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.zombie_6596'
+x = 3177
+y = 3729
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6596'
+x = 3177
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6597'
+x = 3146
+y = 3734
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6597'
+x = 3153
+y = 3729
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6597'
+x = 3163
+y = 3726
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6597'
+x = 3167
+y = 3743
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6597'
+x = 3173
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6598'
+x = 3145
+y = 3742
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6598'
+x = 3156
+y = 3731
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6598'
+x = 3159
+y = 3723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6598'
+x = 3174
+y = 3737
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_6598'
+x = 3185
+y = 3739
+plane = 0
+direction = 'NONE'

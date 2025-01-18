@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.null_1331'
+x = 2157
+y = 3330
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1334'
+x = 2157
+y = 3329
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stag'
+x = 2169
+y = 3387
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2168
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2170
+y = 3356
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_9171'
+x = 2165
+y = 3373
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_9171'
+x = 2166
+y = 3347
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_9173'
+x = 2163
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_9173'
+x = 2165
+y = 3374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub_9199'
+x = 2170
+y = 3370
+plane = 0
+direction = 'NONE'

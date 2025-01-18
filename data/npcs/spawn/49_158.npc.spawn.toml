@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.revenant_pyrefiend'
+x = 3170
+y = 10155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_demon'
+x = 3162
+y = 10114
+plane = 0
+direction = 'NONE'

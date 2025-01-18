@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.guard_11092'
+x = 1760
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11094'
+x = 1788
+y = 3710
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.head_guard_11095'
+x = 1757
+y = 3681
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_11096'
+x = 1783
+y = 3710
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11098'
+x = 1759
+y = 3677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.head_guard_11101'
+x = 1790
+y = 3707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11102'
+x = 1779
+y = 3709
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11104'
+x = 1756
+y = 3674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11106'
+x = 1785
+y = 3706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 1781
+y = 3653
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2786'
+x = 1779
+y = 3651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1774
+y = 3710
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1756
+y = 3707
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 1734
+y = 3700
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 1749
+y = 3702
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 1750
+y = 3708
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.highwayman'
+x = 1762
+y = 3695
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bast'
+x = 1769
+y = 3683
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.man_6989'
+x = 1777
+y = 3655
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lorraine'
+x = 1789
+y = 3690
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ross_and_ben'
+x = 1780
+y = 3684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dobwinkle'
+x = 1783
+y = 3681
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.alexander'
+x = 1782
+y = 3683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7229'
+x = 1761
+y = 3709
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7897'
+x = 1775
+y = 3681
+plane = 0
+direction = 'WEST'

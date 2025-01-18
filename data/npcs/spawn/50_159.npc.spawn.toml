@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.revenant_imp'
+x = 3214
+y = 10195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_knight'
+x = 3209
+y = 10216
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_dragon'
+x = 3237
+y = 10201
+plane = 0
+direction = 'NONE'

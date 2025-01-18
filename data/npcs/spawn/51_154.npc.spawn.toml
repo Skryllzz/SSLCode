@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3269
+y = 9869
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3274
+y = 9873
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3275
+y = 9865
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3276
+y = 9871
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3277
+y = 9863
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3277
+y = 9872
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2862'
+x = 3283
+y = 9896
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 3279
+y = 9894
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_74'
+x = 3270
+y = 9914
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_74'
+x = 3275
+y = 9909
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_75'
+x = 3274
+y = 9913
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_76'
+x = 3275
+y = 9911
+plane = 0
+direction = 'SOUTH'

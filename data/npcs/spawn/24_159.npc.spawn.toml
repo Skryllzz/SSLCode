@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.null_11151'
+x = 1552
+y = 10224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imerominia'
+x = 1550
+y = 10230
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pagida'
+x = 1554
+y = 10221
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.logios'
+x = 1548
+y = 10217
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.meleti'
+x = 1551
+y = 10213
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.krato'
+x = 1541
+y = 10224
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ektheme'
+x = 1553
+y = 10227
+plane = 0
+direction = 'EAST'

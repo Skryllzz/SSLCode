@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2921
+y = 9653
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2923
+y = 9639
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2936
+y = 9648
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2929
+y = 9659
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2930
+y = 9648
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2936
+y = 9654
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_3980'
+x = 2932
+y = 9642
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_3981'
+x = 2933
+y = 9640
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_3982'
+x = 2936
+y = 9650
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.melzar_the_mad'
+x = 2929
+y = 9649
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.gorak'
+x = 3023
+y = 5339
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3023
+y = 5350
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3033
+y = 5343
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3035
+y = 5350
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3037
+y = 5330
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3038
+y = 5344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3038
+y = 5361
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3040
+y = 5351
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3042
+y = 5347
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3052
+y = 5344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak'
+x = 3052
+y = 5353
+plane = 0
+direction = 'NONE'

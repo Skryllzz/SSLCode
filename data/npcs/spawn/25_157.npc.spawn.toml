@@ -1,0 +1,270 @@
+[[spawns]]
+id = 'npc.fire_giant_7251'
+x = 1622
+y = 10057
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7251'
+x = 1624
+y = 10048
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7251'
+x = 1629
+y = 10056
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fire_giant_7251'
+x = 1630
+y = 10049
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7251'
+x = 1632
+y = 10054
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7251'
+x = 1633
+y = 10059
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7251'
+x = 1637
+y = 10067
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7252'
+x = 1618
+y = 10054
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fire_giant_7252'
+x = 1622
+y = 10063
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7252'
+x = 1628
+y = 10052
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7252'
+x = 1631
+y = 10062
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_7252'
+x = 1632
+y = 10066
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bronze_dragon_7253'
+x = 1645
+y = 10095
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bronze_dragon_7253'
+x = 1650
+y = 10091
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bronze_dragon_7253'
+x = 1650
+y = 10098
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon_7254'
+x = 1655
+y = 10085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_dragon_7254'
+x = 1661
+y = 10086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_7255'
+x = 1607
+y = 10057
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.steel_dragon_7255'
+x = 1609
+y = 10050
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1639
+y = 10060
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1639
+y = 10063
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1642
+y = 10068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1643
+y = 10063
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1645
+y = 10071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1646
+y = 10066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1647
+y = 10062
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1648
+y = 10058
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7256'
+x = 1651
+y = 10062
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1662
+y = 10070
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1662
+y = 10073
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1663
+y = 10063
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1663
+y = 10066
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_7265'
+x = 1639
+y = 10048
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_7265'
+x = 1639
+y = 10051
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_7265'
+x = 1640
+y = 10054
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_blue_dragon'
+x = 1629
+y = 10071
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_blue_dragon'
+x = 1633
+y = 10077
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_red_dragon'
+x = 1611
+y = 10076
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brutal_red_dragon'
+x = 1616
+y = 10077
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brutal_red_dragon'
+x = 1617
+y = 10071
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brutal_black_dragon'
+x = 1611
+y = 10090
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brutal_black_dragon'
+x = 1612
+y = 10097
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brutal_black_dragon'
+x = 1617
+y = 10091
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brutal_black_dragon'
+x = 1618
+y = 10097
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kineer_7280'
+x = 1640
+y = 10075
+plane = 0
+direction = 'NONE'

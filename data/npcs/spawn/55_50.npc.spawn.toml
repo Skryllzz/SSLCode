@@ -1,0 +1,174 @@
+[[spawns]]
+id = 'npc.vampyre_juvinate_4427'
+x = 3546
+y = 3218
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4427'
+x = 3572
+y = 3216
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4427'
+x = 3578
+y = 3231
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4427'
+x = 3579
+y = 3250
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4428'
+x = 3550
+y = 3213
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4428'
+x = 3567
+y = 3214
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4428'
+x = 3579
+y = 3207
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4428'
+x = 3582
+y = 3242
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4429'
+x = 3546
+y = 3206
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4429'
+x = 3575
+y = 3240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4429'
+x = 3577
+y = 3216
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4430'
+x = 3540
+y = 3206
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4430'
+x = 3564
+y = 3232
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4430'
+x = 3578
+y = 3221
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_4430'
+x = 3581
+y = 3210
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3550
+y = 3200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3561
+y = 3246
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3562
+y = 3229
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3564
+y = 3206
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3564
+y = 3218
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3564
+y = 3253
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4436'
+x = 3567
+y = 3236
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4437'
+x = 3546
+y = 3249
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4437'
+x = 3556
+y = 3216
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4437'
+x = 3559
+y = 3200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4438'
+x = 3564
+y = 3201
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4438'
+x = 3565
+y = 3241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4438'
+x = 3582
+y = 3216
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_4438'
+x = 3583
+y = 3200
+plane = 0
+direction = 'NONE'

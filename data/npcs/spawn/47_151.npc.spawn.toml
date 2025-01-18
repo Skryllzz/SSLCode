@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.belona'
+x = 3017
+y = 9724
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.utrec'
+x = 3021
+y = 9707
+plane = 0
+direction = 'NONE'

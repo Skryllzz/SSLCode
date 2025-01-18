@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.null_1331'
+x = 2796
+y = 3415
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_1334'
+x = 2797
+y = 3415
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_1613'
+x = 2807
+y = 3443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2809
+y = 3443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2811
+y = 3443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2752
+y = 3409
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2753
+y = 3396
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2759
+y = 3401
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 2803
+y = 3431
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 2805
+y = 3428
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.candle_maker'
+x = 2800
+y = 3439
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.arhein'
+x = 2803
+y = 3430
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2766
+y = 3397
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2767
+y = 3399
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2773
+y = 3399
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2766
+y = 3406
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2767
+y = 3400
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2770
+y = 3396
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2771
+y = 3402
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.renegade_knight'
+x = 2774
+y = 3405
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sir_mordred'
+x = 2769
+y = 3403
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6560'
+x = 2810
+y = 3443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6704'
+x = 2807
+y = 3440
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7457'
+x = 2808
+y = 3454
+plane = 0
+direction = 'WEST'

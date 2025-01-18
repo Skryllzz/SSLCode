@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.chicken'
+x = 1502
+y = 3469
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 1504
+y = 3465
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 1508
+y = 3465
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 1508
+y = 3470
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 1511
+y = 3468
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.squirrel'
+x = 1522
+y = 3474
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 1528
+y = 3480
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1499
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1503
+y = 3479
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1509
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant'
+x = 1513
+y = 3505
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 1519
+y = 3508
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 1516
+y = 3501
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 1522
+y = 3504
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheepdog'
+x = 1474
+y = 3473
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 1494
+y = 3458
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 1494
+y = 3465
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 1492
+y = 3461
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 1498
+y = 3456
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 1497
+y = 3461
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 1501
+y = 3459
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1480
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1483
+y = 3508
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1487
+y = 3501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1487
+y = 3506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_4289'
+x = 1474
+y = 3463
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_4289'
+x = 1483
+y = 3464
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_4289'
+x = 1485
+y = 3458
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1503
+y = 3484
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1506
+y = 3475
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1517
+y = 3480
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1524
+y = 3473
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1525
+y = 3480
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.duck_7473'
+x = 1504
+y = 3467
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.reginald'
+x = 1506
+y = 3469
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.roy_jr'
+x = 1506
+y = 3465
+plane = 0
+direction = 'NONE'

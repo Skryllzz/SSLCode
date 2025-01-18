@@ -1,0 +1,162 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2797
+y = 3104
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.aisles'
+x = 2765
+y = 3120
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.imiago'
+x = 2798
+y = 3102
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2772
+y = 3093
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2775
+y = 3089
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2784
+y = 3104
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2785
+y = 3101
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2804
+y = 3116
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2811
+y = 3112
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jiminua'
+x = 2767
+y = 3122
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2777
+y = 3116
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2796
+y = 3104
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2796
+y = 3116
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2797
+y = 3112
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2798
+y = 3107
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2799
+y = 3115
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trufitus'
+x = 2809
+y = 3086
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.timfraku'
+x = 2780
+y = 3087
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6261'
+x = 2753
+y = 3081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6548'
+x = 2794
+y = 3076
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6549'
+x = 2794
+y = 3076
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6550'
+x = 2786
+y = 3074
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6551'
+x = 2799
+y = 3084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6556'
+x = 2790
+y = 3100
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6558'
+x = 2759
+y = 3096
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6578'
+x = 2782
+y = 3094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_749'
+x = 2782
+y = 3121
+plane = 0
+direction = 'NONE'

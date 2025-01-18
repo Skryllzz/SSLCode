@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.mercy'
+x = 3752
+y = 5677
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.miner_5606'
+x = 3758
+y = 5673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole_5781'
+x = 3745
+y = 5666
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.miner_5813'
+x = 3764
+y = 5668
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_5814'
+x = 3738
+y = 5685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prospector_percy'
+x = 3756
+y = 5666
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.miner_6565'
+x = 3721
+y = 5679
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.runite_minor'
+x = 3720
+y = 5661
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_6567'
+x = 3728
+y = 5641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_6568'
+x = 3745
+y = 5638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_6569'
+x = 3766
+y = 5644
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_6570'
+x = 3768
+y = 5663
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_6571'
+x = 3768
+y = 5681
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_6572'
+x = 3755
+y = 5688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_6645'
+x = 3741
+y = 5689
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_7721'
+x = 3719
+y = 5678
+plane = 0
+direction = 'NONE'

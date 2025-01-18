@@ -1,0 +1,264 @@
+[[spawns]]
+id = 'npc.agility_instructor'
+x = 2653
+y = 4038
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.army_commander'
+x = 2637
+y = 4041
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2633
+y = 4039
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2633
+y = 4040
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2633
+y = 4041
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2633
+y = 4042
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2633
+y = 4043
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2633
+y = 4044
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2634
+y = 4039
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2634
+y = 4040
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2634
+y = 4041
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2634
+y = 4042
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2634
+y = 4043
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_849'
+x = 2634
+y = 4044
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2636
+y = 4037
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2636
+y = 4038
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2637
+y = 4037
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2637
+y = 4038
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2638
+y = 4037
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2638
+y = 4038
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2639
+y = 4037
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2639
+y = 4038
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2640
+y = 4037
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2640
+y = 4038
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2641
+y = 4037
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_850'
+x = 2641
+y = 4038
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2636
+y = 4045
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2636
+y = 4046
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2637
+y = 4045
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2637
+y = 4046
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2638
+y = 4045
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2638
+y = 4046
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2639
+y = 4045
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2639
+y = 4046
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2640
+y = 4045
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2640
+y = 4046
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2641
+y = 4045
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.penguin_851'
+x = 2641
+y = 4046
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crusher'
+x = 2629
+y = 4053
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crusher'
+x = 2633
+y = 4053
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crusher_857'
+x = 2630
+y = 4056
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.crusher_857'
+x = 2632
+y = 4056
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.crusher_858'
+x = 2631
+y = 4053
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crusher_859'
+x = 2634
+y = 4056
+plane = 0
+direction = 'NORTH'

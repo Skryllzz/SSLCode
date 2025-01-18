@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2387
+y = 9685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2389
+y = 9683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie'
+x = 2405
+y = 9713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_27'
+x = 2394
+y = 9707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_28'
+x = 2410
+y = 9707
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.zombie_29'
+x = 2398
+y = 9704
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_31'
+x = 2400
+y = 9701
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2395
+y = 9683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2397
+y = 9684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2400
+y = 9682
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2402
+y = 9680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_49'
+x = 2396
+y = 9710
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_49'
+x = 2407
+y = 9702
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_49'
+x = 2408
+y = 9712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_50'
+x = 2398
+y = 9707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_50'
+x = 2401
+y = 9714
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_50'
+x = 2409
+y = 9704
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_51'
+x = 2397
+y = 9702
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_51'
+x = 2399
+y = 9712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_51'
+x = 2406
+y = 9709
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9210'
+x = 2424
+y = 9721
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_9211'
+x = 2422
+y = 9718
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9212'
+x = 2426
+y = 9718
+plane = 0
+direction = 'NONE'

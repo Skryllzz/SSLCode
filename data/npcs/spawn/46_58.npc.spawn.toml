@@ -1,0 +1,186 @@
+[[spawns]]
+id = 'npc.ian'
+x = 2967
+y = 3765
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_3106'
+x = 2974
+y = 3742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2960
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2960
+y = 3751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2961
+y = 3762
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2965
+y = 3754
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2966
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2968
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2970
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2971
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2972
+y = 3748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2974
+y = 3741
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2976
+y = 3759
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2977
+y = 3748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2981
+y = 3739
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2981
+y = 3756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2981
+y = 3766
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2983
+y = 3746
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2987
+y = 3752
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2989
+y = 3764
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2990
+y = 3743
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2991
+y = 3750
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ankou_6608'
+x = 2992
+y = 3760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2977
+y = 3753
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2980
+y = 3763
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2962
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2968
+y = 3749
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2968
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2985
+y = 3749
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2985
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2990
+y = 3755
+plane = 0
+direction = 'NONE'

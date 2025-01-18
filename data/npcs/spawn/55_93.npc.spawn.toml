@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3556
+y = 5955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3558
+y = 5962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3562
+y = 5968
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3567
+y = 5973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3573
+y = 5977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3580
+y = 5979
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,192 @@
+[[spawns]]
+id = 'npc.cave_monk'
+x = 2822
+y = 3374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_entrana_1168'
+x = 2830
+y = 3335
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_entrana_1169'
+x = 2835
+y = 3336
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monk_of_entrana_1170'
+x = 2839
+y = 3335
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 2846
+y = 3374
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 2850
+y = 3368
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.chicken'
+x = 2852
+y = 3370
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2850
+y = 3371
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2853
+y = 3368
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2853
+y = 3373
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1516'
+x = 2840
+y = 3356
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1516'
+x = 2842
+y = 3359
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1516'
+x = 2845
+y = 3356
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1516'
+x = 2849
+y = 3361
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1517'
+x = 2875
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1517'
+x = 2876
+y = 3331
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1517'
+x = 2877
+y = 3331
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1517'
+x = 2877
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fritz_the_glassblower'
+x = 2831
+y = 3350
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2838
+y = 3370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2850
+y = 3378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2860
+y = 3375
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2863
+y = 3378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.high_priest'
+x = 2851
+y = 3349
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_4068'
+x = 2843
+y = 3346
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monk_4068'
+x = 2850
+y = 3354
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monk_4068'
+x = 2851
+y = 3345
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monk_4068'
+x = 2851
+y = 3342
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_4068'
+x = 2854
+y = 3350
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.entrana_firebird'
+x = 2847
+y = 3386
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mazion'
+x = 2818
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6114'
+x = 2850
+y = 3348
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,228 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2596
+y = 3860
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_1100'
+x = 2619
+y = 3865
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rhazien'
+x = 2591
+y = 3865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.yulf_squecks'
+x = 2616
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fisherman_frodi'
+x = 2576
+y = 3852
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_3657'
+x = 2572
+y = 3860
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fishing_spot_3657'
+x = 2577
+y = 3854
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_3657'
+x = 2582
+y = 3851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carpenter_kjallak'
+x = 2594
+y = 3891
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.farmer_fromund'
+x = 2582
+y = 3864
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2602
+y = 3877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2612
+y = 3897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2612
+y = 3900
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2617
+y = 3897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3662'
+x = 2601
+y = 3874
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3662'
+x = 2601
+y = 3878
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.chicken_3662'
+x = 2606
+y = 3867
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rooster_3663'
+x = 2606
+y = 3877
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 2560
+y = 3869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 2588
+y = 3874
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 2592
+y = 3867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sailor'
+x = 2581
+y = 3847
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gull_3907'
+x = 2580
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3907'
+x = 2581
+y = 3888
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3907'
+x = 2585
+y = 3896
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3907'
+x = 2602
+y = 3901
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.queen_sigrid'
+x = 2612
+y = 3877
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker'
+x = 2620
+y = 3895
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.arnor'
+x = 2615
+y = 3899
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.haming'
+x = 2604
+y = 3881
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.moldof'
+x = 2594
+y = 3886
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.helga'
+x = 2614
+y = 3883
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.matilda'
+x = 2603
+y = 3871
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ashild'
+x = 2603
+y = 3858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skraeling'
+x = 2605
+y = 3877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skraeling_774'
+x = 2603
+y = 3877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishmonger'
+x = 2605
+y = 3876
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.greengrocer'
+x = 2602
+y = 3876
+plane = 0
+direction = 'NONE'

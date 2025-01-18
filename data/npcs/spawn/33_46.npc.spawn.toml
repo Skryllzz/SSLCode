@@ -1,0 +1,174 @@
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2112
+y = 2960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2170
+y = 2950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 2137
+y = 2996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 2133
+y = 2994
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 2137
+y = 2997
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 2132
+y = 2994
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 2137
+y = 2997
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 2132
+y = 2996
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 2132
+y = 2998
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 2136
+y = 2993
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 2133
+y = 2998
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 2136
+y = 2994
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2153
+y = 2975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2170
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2123
+y = 2966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2175
+y = 2965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2165
+y = 2978
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2126
+y = 2949
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2126
+y = 2952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2128
+y = 2951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2129
+y = 2953
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2130
+y = 2950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2134
+y = 2998
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2137
+y = 2995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 2142
+y = 2968
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 2150
+y = 2962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 2156
+y = 2973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 2146
+y = 2970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 2151
+y = 2968
+plane = 0
+direction = 'NONE'

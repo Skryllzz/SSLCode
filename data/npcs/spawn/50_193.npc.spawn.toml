@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3219
+y = 12391
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3224
+y = 12385
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3226
+y = 12393
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3228
+y = 12399
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3232
+y = 12388
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 3234
+y = 12394
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3208
+y = 12365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3208
+y = 12371
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3214
+y = 12370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3217
+y = 12361
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3219
+y = 12368
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3220
+y = 12357
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3225
+y = 12367
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3228
+y = 12361
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3249
+y = 12377
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3249
+y = 12386
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3254
+y = 12382
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3255
+y = 12372
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3255
+y = 12389
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 3258
+y = 12380
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3249
+y = 12414
+plane = 0
+direction = 'SOUTH'

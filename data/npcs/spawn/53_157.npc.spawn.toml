@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3419
+y = 10078
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3433
+y = 10061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3440
+y = 10072
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bandit_6605'
+x = 3430
+y = 10070
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_7868'
+x = 3410
+y = 10065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_7869'
+x = 3418
+y = 10063
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_7870'
+x = 3415
+y = 10068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7877'
+x = 3439
+y = 10082
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7877'
+x = 3439
+y = 10088
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7877'
+x = 3444
+y = 10077
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7877'
+x = 3444
+y = 10096
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hellhound_7877'
+x = 3445
+y = 10085
+plane = 0
+direction = 'NONE'

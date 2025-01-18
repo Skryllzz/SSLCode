@@ -1,0 +1,156 @@
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 1235
+y = 3473
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 1251
+y = 3477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 1265
+y = 3475
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 1277
+y = 3479
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub'
+x = 1247
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub'
+x = 1279
+y = 3475
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub_3909'
+x = 1231
+y = 3475
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub_3909'
+x = 1243
+y = 3473
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub_3909'
+x = 1260
+y = 3477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub_3909'
+x = 1268
+y = 3470
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 1263
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 1274
+y = 3505
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4146'
+x = 1266
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4147'
+x = 1266
+y = 3496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 1221
+y = 3496
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 1222
+y = 3488
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 1225
+y = 3493
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 1228
+y = 3500
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 1237
+y = 3518
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 1219
+y = 3490
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 1223
+y = 3501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 1229
+y = 3489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 1245
+y = 3514
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_938'
+x = 1241
+y = 3513
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_939'
+x = 1246
+y = 3517
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_941'
+x = 1242
+y = 3519
+plane = 0
+direction = 'NONE'

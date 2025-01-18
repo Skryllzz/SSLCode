@@ -1,0 +1,8 @@
+
+[[spawns]]
+id = 'npc.fallen_man'
+x = 2348
+y = 10362
+plane = 2
+direction = 'NONE'
+

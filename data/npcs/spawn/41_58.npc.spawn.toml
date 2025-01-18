@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.rocks'
+x = 2666
+y = 3715
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2667
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2671
+y = 3724
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2672
+y = 3732
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2675
+y = 3729
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2677
+y = 3721
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2681
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2681
+y = 3733
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2683
+y = 3716
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2663
+y = 3716
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2669
+y = 3718
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2670
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2673
+y = 3716
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2676
+y = 3713
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2677
+y = 3717
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2677
+y = 3733
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2678
+y = 3729
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2684
+y = 3720
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2686
+y = 3713
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2687
+y = 3724
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_3050'
+x = 2656
+y = 3720
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_3050'
+x = 2656
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_3050'
+x = 2661
+y = 3731
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_3050'
+x = 2669
+y = 3725
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_3050'
+x = 2675
+y = 3731
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.captain_cleive'
+x = 1307
+y = 9972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7743'
+x = 1302
+y = 9970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7743'
+x = 1311
+y = 9969
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_shaman_7744'
+x = 1286
+y = 9958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_shaman_7744'
+x = 1319
+y = 9949
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_shaman_7744'
+x = 1327
+y = 9970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_shaman_7744'
+x = 1330
+y = 9964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_shaman_7745'
+x = 1290
+y = 9952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_shaman_7745'
+x = 1303
+y = 9945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_shaman_7745'
+x = 1307
+y = 9951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_shaman_7745'
+x = 1324
+y = 9954
+plane = 0
+direction = 'NONE'

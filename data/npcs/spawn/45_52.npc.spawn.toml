@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.dark_wizard_2056'
+x = 2905
+y = 3335
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2056'
+x = 2909
+y = 3331
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2056'
+x = 2910
+y = 3337
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2056'
+x = 2906
+y = 3333
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2056'
+x = 2906
+y = 3336
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2057'
+x = 2907
+y = 3337
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2057'
+x = 2909
+y = 3334
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2057'
+x = 2909
+y = 3336
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2057'
+x = 2909
+y = 3334
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2058'
+x = 2906
+y = 3334
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dark_wizard_2058'
+x = 2906
+y = 3336
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2058'
+x = 2908
+y = 3332
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2059'
+x = 2908
+y = 3333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2059'
+x = 2909
+y = 3333
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_2059'
+x = 2910
+y = 3336
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.zandar_horfyre'
+x = 2905
+y = 3334
+plane = 2
+direction = 'NONE'

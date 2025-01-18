@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2815
+y = 3467
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 2811
+y = 3506
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant_2087'
+x = 2804
+y = 3507
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dantaera'
+x = 2808
+y = 3464
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2783
+y = 3466
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2791
+y = 3460
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_lancelot'
+x = 2759
+y = 3515
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_gawain'
+x = 2763
+y = 3506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_kay'
+x = 2761
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_bedivere'
+x = 2766
+y = 3511
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_tristram'
+x = 2755
+y = 3512
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_pelleas'
+x = 2761
+y = 3503
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_lucan'
+x = 2754
+y = 3515
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sir_palomedes'
+x = 2754
+y = 3509
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.king_arthur'
+x = 2764
+y = 3515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_wedge'
+x = 2760
+y = 3476
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_7458'
+x = 2755
+y = 3481
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2784
+y = 3463
+plane = 0
+direction = 'NONE'

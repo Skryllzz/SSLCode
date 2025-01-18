@@ -1,0 +1,570 @@
+[[spawns]]
+id = 'npc.ankou'
+x = 2355
+y = 5241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou'
+x = 2357
+y = 5240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou'
+x = 2358
+y = 5243
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou'
+x = 2358
+y = 5245
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou'
+x = 2359
+y = 5239
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou'
+x = 2359
+y = 5241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou'
+x = 2361
+y = 5240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou'
+x = 2361
+y = 5242
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ankou'
+x = 2363
+y = 5240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2324
+y = 5198
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2325
+y = 5197
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2326
+y = 5201
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2326
+y = 5205
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2326
+y = 5206
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2327
+y = 5199
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2327
+y = 5202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2328
+y = 5197
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2329
+y = 5203
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2330
+y = 5195
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2515'
+x = 2331
+y = 5202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2315
+y = 5229
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2317
+y = 5226
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2318
+y = 5230
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2320
+y = 5224
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2321
+y = 5232
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2322
+y = 5222
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2322
+y = 5227
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2322
+y = 5229
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2323
+y = 5224
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2324
+y = 5230
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2324
+y = 5236
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ankou_2516'
+x = 2327
+y = 5227
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2520'
+x = 2326
+y = 5199
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2520'
+x = 2326
+y = 5208
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2520'
+x = 2332
+y = 5202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2520'
+x = 2350
+y = 5200
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2520'
+x = 2352
+y = 5195
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2520'
+x = 2353
+y = 5192
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2520'
+x = 2355
+y = 5198
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2521'
+x = 2328
+y = 5205
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_2521'
+x = 2329
+y = 5200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2521'
+x = 2348
+y = 5197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2521'
+x = 2353
+y = 5203
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2521'
+x = 2354
+y = 5191
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2522'
+x = 2346
+y = 5196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2522'
+x = 2355
+y = 5195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2522'
+x = 2356
+y = 5190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2523'
+x = 2322
+y = 5199
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2523'
+x = 2324
+y = 5206
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2523'
+x = 2333
+y = 5202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2523'
+x = 2349
+y = 5197
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2523'
+x = 2354
+y = 5189
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2524'
+x = 2311
+y = 5187
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2524'
+x = 2311
+y = 5193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2525'
+x = 2309
+y = 5187
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2525'
+x = 2311
+y = 5191
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_2526'
+x = 2310
+y = 5189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_2526'
+x = 2312
+y = 5188
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_2527'
+x = 2352
+y = 5189
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2527'
+x = 2353
+y = 5197
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2527'
+x = 2356
+y = 5204
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_2527'
+x = 2357
+y = 5194
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2528'
+x = 2315
+y = 5226
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2528'
+x = 2325
+y = 5232
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_2528'
+x = 2326
+y = 5226
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2528'
+x = 2348
+y = 5194
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2528'
+x = 2354
+y = 5202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2529'
+x = 2318
+y = 5224
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2529'
+x = 2322
+y = 5230
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_2529'
+x = 2324
+y = 5224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_2529'
+x = 2352
+y = 5200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_2529'
+x = 2354
+y = 5194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_2530'
+x = 2320
+y = 5226
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2530'
+x = 2320
+y = 5229
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2530'
+x = 2321
+y = 5225
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2530'
+x = 2354
+y = 5200
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_2530'
+x = 2356
+y = 5193
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2305
+y = 5233
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2305
+y = 5241
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2306
+y = 5229
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2306
+y = 5243
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2309
+y = 5246
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2311
+y = 5237
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2314
+y = 5237
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2314
+y = 5244
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2315
+y = 5236
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2316
+y = 5227
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2322
+y = 5235
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_2531'
+x = 2325
+y = 5228
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_6740'
+x = 2356
+y = 5216
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_6740'
+x = 2357
+y = 5213
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_6740'
+x = 2363
+y = 5212
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_6740'
+x = 2365
+y = 5216
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_6741'
+x = 2363
+y = 5209
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.solztun'
+x = 2338
+y = 5213
+plane = 0
+direction = 'NONE'

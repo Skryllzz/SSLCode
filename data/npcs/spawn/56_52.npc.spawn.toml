@@ -1,0 +1,474 @@
+[[spawns]]
+id = 'npc.spider_10442'
+x = 3626
+y = 3368
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_10442'
+x = 3627
+y = 3357
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spider_10442'
+x = 3629
+y = 3364
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10442'
+x = 3632
+y = 3360
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_10442'
+x = 3632
+y = 3366
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_3828'
+x = 3627
+y = 3335
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6159'
+x = 3584
+y = 3331
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_8293'
+x = 3618
+y = 3377
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_8294'
+x = 3620
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desmodus_lasiurus'
+x = 3612
+y = 3363
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.vyrewatch_9590'
+x = 3617
+y = 3380
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prisoner_9592'
+x = 3620
+y = 3379
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vlad_bechstein'
+x = 3642
+y = 3378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.draconis_sanguine'
+x = 3631
+y = 3383
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mort_nightshade'
+x = 3616
+y = 3384
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vampyrus_diaemus'
+x = 3635
+y = 3384
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivus_belamorta'
+x = 3611
+y = 3390
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.misdrievus_shadum'
+x = 3610
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.noctillion_lugosi'
+x = 3608
+y = 3363
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.alek_constantine'
+x = 3598
+y = 3353
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.grigor_rasputin'
+x = 3596
+y = 3389
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.haemas_lamescus'
+x = 3597
+y = 3361
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vallessia_dracyula'
+x = 3631
+y = 3388
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.violetta_sanguine'
+x = 3628
+y = 3380
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.diphylla_bechstein'
+x = 3645
+y = 3377
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.episcula_helsing'
+x = 3599
+y = 3337
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vonnetta_varnis'
+x = 3643
+y = 3387
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natalidae_shadum'
+x = 3609
+y = 3338
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mortina_daubenton'
+x = 3599
+y = 3384
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.caninelle_draynar'
+x = 3608
+y = 3382
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.valentina_diaemus'
+x = 3593
+y = 3359
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pipistrelle_draynar'
+x = 3610
+y = 3384
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_nadezhda_shadum'
+x = 3609
+y = 3338
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_9718'
+x = 3604
+y = 3369
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_9718'
+x = 3607
+y = 3369
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_9719'
+x = 3603
+y = 3369
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_9719'
+x = 3605
+y = 3369
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.grinka_krast'
+x = 3645
+y = 3359
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.drasdan_ranor'
+x = 3641
+y = 3336
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.lenyig_karna'
+x = 3619
+y = 3387
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.varrian_sobak'
+x = 3601
+y = 3379
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.slave_9725'
+x = 3590
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.slave_9726'
+x = 3590
+y = 3344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9727'
+x = 3630
+y = 3341
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9728'
+x = 3632
+y = 3334
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9728'
+x = 3637
+y = 3346
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9731'
+x = 3624
+y = 3346
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9732'
+x = 3624
+y = 3340
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9732'
+x = 3646
+y = 3354
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9732'
+x = 3647
+y = 3363
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_9735'
+x = 3644
+y = 3340
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_9739'
+x = 3614
+y = 3379
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_9741'
+x = 3633
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.werewolf_9743'
+x = 3627
+y = 3389
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.werewolf_9744'
+x = 3600
+y = 3390
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.auctioneer'
+x = 3590
+y = 3343
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.frank_9749'
+x = 3604
+y = 3345
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spectator'
+x = 3592
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spectator_9751'
+x = 3594
+y = 3345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spectator_9752'
+x = 3595
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spectator_9753'
+x = 3595
+y = 3344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spectator_9754'
+x = 3593
+y = 3343
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spectator_9755'
+x = 3592
+y = 3344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9756'
+x = 3597
+y = 3331
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9756'
+x = 3602
+y = 3363
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9756'
+x = 3625
+y = 3383
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9757'
+x = 3598
+y = 3366
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9757'
+x = 3603
+y = 3342
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9758'
+x = 3592
+y = 3352
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9758'
+x = 3634
+y = 3387
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9759'
+x = 3605
+y = 3360
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9759'
+x = 3605
+y = 3389
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9760'
+x = 3593
+y = 3365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9761'
+x = 3596
+y = 3378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9761'
+x = 3611
+y = 3359
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9762'
+x = 3599
+y = 3351
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9762'
+x = 3602
+y = 3384
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9763'
+x = 3596
+y = 3357
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9763'
+x = 3624
+y = 3375
+plane = 0
+direction = 'NONE'

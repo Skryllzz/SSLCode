@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.brian_orichard'
+x = 3049
+y = 4977
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.martin_thwait'
+x = 3048
+y = 4975
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.emerald_benedict'
+x = 3042
+y = 4972
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.grace'
+x = 3050
+y = 4962
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mark'
+x = 3051
+y = 4963
+plane = 1
+direction = 'WEST'

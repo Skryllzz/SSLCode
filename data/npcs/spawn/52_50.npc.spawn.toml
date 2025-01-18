@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.captain_daerkin'
+x = 3362
+y = 3222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ima'
+x = 3329
+y = 3234
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sabeil'
+x = 3360
+y = 3242
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jadid'
+x = 3359
+y = 3222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dalal'
+x = 3329
+y = 3233
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.afrah'
+x = 3385
+y = 3204
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.jeed'
+x = 3361
+y = 3242
+plane = 0
+direction = 'NONE'

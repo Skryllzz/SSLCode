@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3731
+y = 3393
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3743
+y = 3394
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3744
+y = 3399
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3751
+y = 3401
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3754
+y = 3398
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3759
+y = 3395
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,204 @@
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3270
+y = 9356
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3270
+y = 9364
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3270
+y = 9383
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3281
+y = 9350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3285
+y = 9401
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3287
+y = 9359
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3288
+y = 9360
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3302
+y = 9400
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3306
+y = 9403
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3319
+y = 9352
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3320
+y = 9401
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3321
+y = 9354
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3322
+y = 9398
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 3294
+y = 9375
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 3306
+y = 9400
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 3266
+y = 9399
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 3270
+y = 9380
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 3271
+y = 9387
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 3274
+y = 9397
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 3275
+y = 9389
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 3279
+y = 9377
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 3283
+y = 9401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 3285
+y = 9381
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 3288
+y = 9393
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 3271
+y = 9358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 3273
+y = 9366
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 3277
+y = 9352
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 3280
+y = 9368
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 3289
+y = 9362
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 3298
+y = 9379
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 3302
+y = 9350
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 3302
+y = 9398
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 3316
+y = 9352
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 3318
+y = 9403
+plane = 0
+direction = 'NONE'

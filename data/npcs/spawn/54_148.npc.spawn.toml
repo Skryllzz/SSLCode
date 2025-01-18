@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc._5860'
+x = 3487
+y = 9502
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3465
+y = 9502
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3472
+y = 9516
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3479
+y = 9478
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3482
+y = 9526
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3488
+y = 9490
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3493
+y = 9510
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3495
+y = 9501
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3497
+y = 9476
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3499
+y = 9511
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3500
+y = 9520
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3503
+y = 9527
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3505
+y = 9520
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_worker'
+x = 3508
+y = 9525
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_soldier_957'
+x = 3463
+y = 9481
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_soldier_957'
+x = 3465
+y = 9486
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.kalphite_soldier_957'
+x = 3466
+y = 9476
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_soldier_957'
+x = 3467
+y = 9489
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_soldier_957'
+x = 3469
+y = 9481
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_soldier_957'
+x = 3477
+y = 9501
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_soldier_957'
+x = 3494
+y = 9491
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_guardian'
+x = 3505
+y = 9493
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_guardian'
+x = 3511
+y = 9499
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_guardian_962'
+x = 3495
+y = 9489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_guardian_962'
+x = 3496
+y = 9502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_queen_963'
+x = 3474
+y = 9496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3472
+y = 9490
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3475
+y = 9504
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3484
+y = 9510
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3491
+y = 9498
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3493
+y = 9492
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3495
+y = 9508
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3467
+y = 9485
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3467
+y = 9503
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3486
+y = 9500
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kalphite_larva'
+x = 3505
+y = 9524
+plane = 2
+direction = 'SOUTH'

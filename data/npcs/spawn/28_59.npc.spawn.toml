@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.billy'
+x = 1845
+y = 3826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tynan'
+x = 1840
+y = 3786
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nicholas'
+x = 1842
+y = 3803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_6969'
+x = 1796
+y = 3792
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_6969'
+x = 1804
+y = 3792
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_6970'
+x = 1800
+y = 3792
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_6970'
+x = 1808
+y = 3792
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7926'
+x = 1796
+y = 3782
+plane = 0
+direction = 'NONE'

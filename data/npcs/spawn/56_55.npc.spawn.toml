@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3596
+y = 3524
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lyra'
+x = 3601
+y = 3527
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_cow'
+x = 3611
+y = 3527
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_cow'
+x = 3616
+y = 3525
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_cow'
+x = 3620
+y = 3524
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_cow'
+x = 3622
+y = 3527
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_chicken'
+x = 3627
+y = 3531
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_chicken'
+x = 3629
+y = 3530
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_chicken'
+x = 3631
+y = 3529
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.undead_chicken'
+x = 3631
+y = 3531
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_chicken'
+x = 3632
+y = 3526
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_chicken'
+x = 3633
+y = 3525
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.old_man'
+x = 3617
+y = 3544
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4415'
+x = 3617
+y = 3528
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.alice'
+x = 3627
+y = 3526
+plane = 0
+direction = 'WEST'

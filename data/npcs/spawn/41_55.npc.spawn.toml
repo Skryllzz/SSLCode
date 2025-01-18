@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2663
+y = 3521
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rhonen'
+x = 2666
+y = 3530
+plane = 0
+direction = 'NONE'

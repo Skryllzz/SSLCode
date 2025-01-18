@@ -1,0 +1,336 @@
+[[spawns]]
+id = 'npc.rock_pile'
+x = 2620
+y = 9833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rock_pile'
+x = 2620
+y = 9836
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2596
+y = 9836
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2599
+y = 9837
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2606
+y = 9825
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2609
+y = 9817
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2609
+y = 9823
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2612
+y = 9815
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2573
+y = 9805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2575
+y = 9803
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2578
+y = 9806
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2579
+y = 9804
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2583
+y = 9803
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2585
+y = 9804
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2585
+y = 9830
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2587
+y = 9803
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2588
+y = 9825
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2591
+y = 9801
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2592
+y = 9806
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2594
+y = 9801
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2599
+y = 9803
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2599
+y = 9812
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2601
+y = 9810
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2610
+y = 9806
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2612
+y = 9812
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2613
+y = 9805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2613
+y = 9806
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dungeon_rat'
+x = 2588
+y = 9806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dungeon_rat_2866'
+x = 2585
+y = 9801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dungeon_rat_2866'
+x = 2601
+y = 9801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dungeon_rat_2867'
+x = 2580
+y = 9804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dungeon_rat_2867'
+x = 2594
+y = 9803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5193'
+x = 2592
+y = 9819
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_5195'
+x = 2570
+y = 9845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5195'
+x = 2584
+y = 9829
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5196'
+x = 2586
+y = 9832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5197'
+x = 2591
+y = 9830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5198'
+x = 2580
+y = 9825
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5198'
+x = 2584
+y = 9835
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5199'
+x = 2589
+y = 9834
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5200'
+x = 2587
+y = 9837
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5201'
+x = 2579
+y = 9841
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5201'
+x = 2591
+y = 9836
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_5202'
+x = 2580
+y = 9847
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_5202'
+x = 2594
+y = 9826
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_5203'
+x = 2580
+y = 9850
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5203'
+x = 2584
+y = 9826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5204'
+x = 2564
+y = 9836
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_5204'
+x = 2568
+y = 9844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5205'
+x = 2565
+y = 9835
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.goblin_5205'
+x = 2569
+y = 9847
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5206'
+x = 2570
+y = 9850
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goblin_5206'
+x = 2597
+y = 9821
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_5207'
+x = 2566
+y = 9849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5207'
+x = 2595
+y = 9821
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_5208'
+x = 2590
+y = 9821
+plane = 0
+direction = 'EAST'

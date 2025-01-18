@@ -1,0 +1,162 @@
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2948
+y = 5817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2956
+y = 5802
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2965
+y = 5783
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2967
+y = 5780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2968
+y = 5784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2976
+y = 5800
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2984
+y = 5808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2987
+y = 5792
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2994
+y = 5813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10652'
+x = 2999
+y = 5801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10694'
+x = 2998
+y = 5775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10694'
+x = 3001
+y = 5774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10694'
+x = 3001
+y = 5788
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10694'
+x = 3002
+y = 5785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10694'
+x = 3003
+y = 5779
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10694'
+x = 3003
+y = 5782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2976
+y = 5775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2978
+y = 5781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2979
+y = 5770
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2979
+y = 5784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2984
+y = 5773
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2984
+y = 5780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2991
+y = 5780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rubble_10696'
+x = 2992
+y = 5777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10702'
+x = 2951
+y = 5779
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_10703'
+x = 2959
+y = 5809
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10705'
+x = 2990
+y = 5803
+plane = 0
+direction = 'NONE'

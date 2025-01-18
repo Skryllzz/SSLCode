@@ -1,0 +1,168 @@
+[[spawns]]
+id = 'npc.scorpia'
+x = 3233
+y = 10341
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3221
+y = 10336
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3221
+y = 10340
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3221
+y = 10344
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3221
+y = 10349
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3223
+y = 10333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3223
+y = 10347
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3224
+y = 10336
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3225
+y = 10350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3229
+y = 10333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3229
+y = 10350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3231
+y = 10344
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3233
+y = 10333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3233
+y = 10350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3234
+y = 10339
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3237
+y = 10333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3237
+y = 10350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3238
+y = 10344
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3241
+y = 10333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3241
+y = 10350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3242
+y = 10336
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3242
+y = 10347
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3244
+y = 10350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3245
+y = 10333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3245
+y = 10337
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3245
+y = 10340
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3245
+y = 10344
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpias_offspring_6616'
+x = 3245
+y = 10347
+plane = 0
+direction = 'SOUTH'

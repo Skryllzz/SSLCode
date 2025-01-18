@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.fire_wizard'
+x = 2991
+y = 3271
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.water_wizard'
+x = 2990
+y = 3267
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_wizard'
+x = 2993
+y = 3269
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.air_wizard'
+x = 2989
+y = 3269
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.malignius_mortifer'
+x = 2991
+y = 3269
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.man_3109'
+x = 2959
+y = 3307
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3254'
+x = 3006
+y = 3321
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3254'
+x = 3006
+y = 3323
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3254'
+x = 3007
+y = 3323
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.highwayman_519'
+x = 3007
+y = 3273
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wayne'
+x = 2973
+y = 3312
+plane = 0
+direction = 'EAST'

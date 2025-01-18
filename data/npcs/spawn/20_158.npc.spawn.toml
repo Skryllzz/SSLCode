@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.sulphur_lizard'
+x = 1327
+y = 10172
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sulphur_lizard'
+x = 1333
+y = 10171
+plane = 1
+direction = 'SOUTH'

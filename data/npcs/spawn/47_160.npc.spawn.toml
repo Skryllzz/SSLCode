@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.greater_demon_2027'
+x = 3035
+y = 10245
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2028'
+x = 3030
+y = 10259
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.greater_demon_2029'
+x = 3028
+y = 10250
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_dragon_255'
+x = 3048
+y = 10266
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_256'
+x = 3054
+y = 10269
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3037
+y = 10263
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3043
+y = 10262
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3044
+y = 10252
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3051
+y = 10257
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3055
+y = 10253
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3067
+y = 10255
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3067
+y = 10257
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3068
+y = 10253
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3069
+y = 10257
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3069
+y = 10259
+plane = 0
+direction = 'EAST'

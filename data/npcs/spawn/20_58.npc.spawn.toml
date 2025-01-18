@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1290
+y = 3758
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1291
+y = 3753
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1295
+y = 3751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1295
+y = 3758
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 1306
+y = 3713
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 1309
+y = 3714
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 1310
+y = 3717
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_bear'
+x = 1322
+y = 3713
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 1283
+y = 3720
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.keith'
+x = 1296
+y = 3723
+plane = 0
+direction = 'EAST'

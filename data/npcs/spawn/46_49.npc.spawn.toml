@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.null_1331'
+x = 2954
+y = 3157
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_1333'
+x = 2954
+y = 3156
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1523'
+x = 2986
+y = 3176
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1523'
+x = 2996
+y = 3158
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.a_pile_of_broken_glass'
+x = 2981
+y = 3190
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2859'
+x = 2995
+y = 3191
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2860'
+x = 2999
+y = 3194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3230'
+x = 2983
+y = 3196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.customs_officer'
+x = 2953
+y = 3147
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.man_3652'
+x = 2948
+y = 3146
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thurgo'
+x = 3001
+y = 3144
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gull_4734'
+x = 2994
+y = 3138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_4735'
+x = 2969
+y = 3146
+plane = 0
+direction = 'NONE'

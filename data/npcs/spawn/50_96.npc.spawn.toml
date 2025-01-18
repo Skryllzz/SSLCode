@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc._1172'
+x = 3221
+y = 6171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crow'
+x = 3219
+y = 6157
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crow_2071'
+x = 3221
+y = 6153
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.crow_2074'
+x = 3217
+y = 6155
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3214
+y = 6167
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3217
+y = 6171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3213
+y = 6170
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3215
+y = 6172
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3219
+y = 6168
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3216
+y = 6168
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3218
+y = 6173
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gwerin_hapus'
+x = 3222
+y = 6164
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.preswylwyr_dall'
+x = 3234
+y = 6165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.marwolaeth_dawnsio'
+x = 3231
+y = 6157
+plane = 0
+direction = 'SOUTH'

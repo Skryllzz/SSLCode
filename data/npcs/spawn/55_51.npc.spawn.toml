@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.strange_old_man'
+x = 3564
+y = 3288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyreg_paddlehorn'
+x = 3522
+y = 3284
+plane = 0
+direction = 'EAST'

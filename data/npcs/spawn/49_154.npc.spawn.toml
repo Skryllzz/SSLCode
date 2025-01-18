@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.moss_giant'
+x = 3156
+y = 9906
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant'
+x = 3158
+y = 9898
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant'
+x = 3163
+y = 9877
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 3158
+y = 9895
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 3158
+y = 9904
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 3164
+y = 9880
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 3155
+y = 9903
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 3167
+y = 9880
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 3159
+y = 9901
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 3166
+y = 9883
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3171
+y = 9884
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3174
+y = 9891
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3175
+y = 9881
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3176
+y = 9883
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3178
+y = 9880
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3178
+y = 9888
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3180
+y = 9883
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3183
+y = 9885
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3186
+y = 9892
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vannaka'
+x = 3147
+y = 9914
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_42'
+x = 3139
+y = 9885
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_42'
+x = 3146
+y = 9892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_42'
+x = 3147
+y = 9899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_42'
+x = 3150
+y = 9907
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_43'
+x = 3140
+y = 9893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_43'
+x = 3143
+y = 9904
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_43'
+x = 3147
+y = 9883
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_44'
+x = 3148
+y = 9904
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_44'
+x = 3150
+y = 9889
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_44'
+x = 3151
+y = 9884
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_73'
+x = 3138
+y = 9874
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 3137
+y = 9871
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 3139
+y = 9877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 3141
+y = 9873
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_80'
+x = 3144
+y = 9869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_81'
+x = 3141
+y = 9869
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 2769
+y = 10149
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 2777
+y = 10142
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 2781
+y = 10143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_938'
+x = 2783
+y = 10140
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_939'
+x = 2784
+y = 10134
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_940'
+x = 2771
+y = 10143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_941'
+x = 2788
+y = 10131
+plane = 0
+direction = 'NONE'

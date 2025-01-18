@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2485
+y = 3178
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1507'
+x = 2461
+y = 3150
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1507'
+x = 2462
+y = 3145
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1507'
+x = 2465
+y = 3156
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1507'
+x = 2468
+y = 3157
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1507'
+x = 2474
+y = 3153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gileth'
+x = 2488
+y = 3179
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2477
+y = 3143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2484
+y = 3155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.observatory_assistant'
+x = 2443
+y = 3189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greasycheeks'
+x = 2467
+y = 3183
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.smellytoes'
+x = 2465
+y = 3183
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.creakyknees'
+x = 2470
+y = 3185
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.clothears'
+x = 2469
+y = 3158
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6403'
+x = 2439
+y = 3186
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6404'
+x = 2437
+y = 3160
+plane = 1
+direction = 'WEST'

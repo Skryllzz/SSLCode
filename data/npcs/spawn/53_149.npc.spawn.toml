@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.null_1491'
+x = 3422
+y = 9568
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1491'
+x = 3428
+y = 9565
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.boulder'
+x = 3419
+y = 9564
+plane = 0
+direction = 'NONE'

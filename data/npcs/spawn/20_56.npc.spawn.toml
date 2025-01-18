@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1280
+y = 3619
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1285
+y = 3599
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1292
+y = 3616
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1294
+y = 3632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1281
+y = 3617
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1296
+y = 3630
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1314
+y = 3633
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1280
+y = 3615
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1298
+y = 3630
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1318
+y = 3632
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1323
+y = 3586
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1323
+y = 3602
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1316
+y = 3603
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1323
+y = 3596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_priest'
+x = 1305
+y = 3618
+plane = 0
+direction = 'EAST'

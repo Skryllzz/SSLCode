@@ -1,0 +1,690 @@
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2599
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2602
+y = 3426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2603
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2604
+y = 3417
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2604
+y = 3426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2606
+y = 3416
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2607
+y = 3410
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2608
+y = 3416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2612
+y = 3411
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2612
+y = 3414
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fishing_spot_1510'
+x = 2612
+y = 3415
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_1511'
+x = 2601
+y = 3422
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1511'
+x = 2602
+y = 3412
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_1511'
+x = 2602
+y = 3415
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_1511'
+x = 2605
+y = 3420
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fishing_spot_1511'
+x = 2605
+y = 3424
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fishing_spot_1511'
+x = 2605
+y = 3425
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1613'
+x = 2584
+y = 3418
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_1613'
+x = 2584
+y = 3419
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_1613'
+x = 2584
+y = 3422
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2584
+y = 3421
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.duck'
+x = 2594
+y = 3446
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2595
+y = 3449
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2596
+y = 3453
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2598
+y = 3440
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2598
+y = 3444
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2600
+y = 3435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2605
+y = 3433
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2615
+y = 3423
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2616
+y = 3420
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2616
+y = 3450
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2617
+y = 3407
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2617
+y = 3425
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2619
+y = 3409
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2619
+y = 3421
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2620
+y = 3405
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2620
+y = 3407
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2620
+y = 3449
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2593
+y = 3445
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2593
+y = 3454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2594
+y = 3452
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2595
+y = 3447
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2595
+y = 3454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2596
+y = 3439
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2597
+y = 3443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2597
+y = 3446
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2598
+y = 3437
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2598
+y = 3454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2599
+y = 3434
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2600
+y = 3440
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2600
+y = 3445
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2601
+y = 3436
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2602
+y = 3433
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2604
+y = 3430
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2604
+y = 3434
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2605
+y = 3432
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2607
+y = 3433
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2613
+y = 3422
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2614
+y = 3424
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2614
+y = 3449
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2615
+y = 3421
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2615
+y = 3425
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2615
+y = 3453
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2616
+y = 3423
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2617
+y = 3405
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2617
+y = 3410
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2617
+y = 3448
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2618
+y = 3406
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2618
+y = 3422
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2619
+y = 3424
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2619
+y = 3450
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2620
+y = 3403
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2621
+y = 3405
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2621
+y = 3410
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2593
+y = 3446
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2601
+y = 3437
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2604
+y = 3431
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2613
+y = 3423
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2616
+y = 3424
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2592
+y = 3416
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.master_fisher'
+x = 2611
+y = 3393
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 2603
+y = 3421
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_5195'
+x = 2566
+y = 3453
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5195'
+x = 2578
+y = 3400
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_5196'
+x = 2567
+y = 3428
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_5196'
+x = 2568
+y = 3403
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5197'
+x = 2563
+y = 3398
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goblin_5197'
+x = 2569
+y = 3442
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5199'
+x = 2571
+y = 3442
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5200'
+x = 2563
+y = 3416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5201'
+x = 2574
+y = 3409
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5202'
+x = 2579
+y = 3413
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5202'
+x = 2620
+y = 3394
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5203'
+x = 2586
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5203'
+x = 2621
+y = 3393
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5204'
+x = 2583
+y = 3435
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goblin_5204'
+x = 2584
+y = 3412
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5204'
+x = 2623
+y = 3396
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5205'
+x = 2569
+y = 3410
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.goblin_5205'
+x = 2576
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5205'
+x = 2623
+y = 3397
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5206'
+x = 2563
+y = 3439
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5206'
+x = 2581
+y = 3395
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5207'
+x = 2568
+y = 3433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5207'
+x = 2572
+y = 3396
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_5207'
+x = 2584
+y = 3428
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_5208'
+x = 2564
+y = 3407
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goblin_5208'
+x = 2572
+y = 3420
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7730'
+x = 2609
+y = 3443
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7731'
+x = 2612
+y = 3444
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7732'
+x = 2617
+y = 3444
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7733'
+x = 2620
+y = 3443
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7735'
+x = 2599
+y = 3425
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_7735'
+x = 2614
+y = 3446
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.roachey'
+x = 2596
+y = 3400
+plane = 0
+direction = 'NONE'

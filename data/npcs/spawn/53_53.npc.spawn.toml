@@ -1,0 +1,378 @@
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3413
+y = 3410
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3421
+y = 3408
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3423
+y = 3408
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3425
+y = 3424
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3442
+y = 3405
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3422
+y = 3406
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3424
+y = 3427
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3428
+y = 3400
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3439
+y = 3398
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3446
+y = 3405
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2654'
+x = 3424
+y = 3409
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fishing_spot_2654'
+x = 3425
+y = 3407
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2654'
+x = 3425
+y = 3410
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fishing_spot_2654'
+x = 3431
+y = 3415
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fishing_spot_2654'
+x = 3434
+y = 3417
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2654'
+x = 3440
+y = 3410
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3418
+y = 3420
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3424
+y = 3452
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3428
+y = 3409
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3433
+y = 3416
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3434
+y = 3394
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3436
+y = 3407
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3438
+y = 3414
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3439
+y = 3449
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3446
+y = 3439
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3454
+y = 3410
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 3454
+y = 3423
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghast'
+x = 3410
+y = 3398
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3413
+y = 3423
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghast'
+x = 3413
+y = 3443
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3414
+y = 3418
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3415
+y = 3407
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3415
+y = 3432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3419
+y = 3395
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghast'
+x = 3419
+y = 3413
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3420
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3420
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3420
+y = 3440
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghast'
+x = 3422
+y = 3395
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3424
+y = 3403
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghast'
+x = 3425
+y = 3395
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghast'
+x = 3426
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3427
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3428
+y = 3395
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3428
+y = 3445
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghast'
+x = 3429
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3432
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3432
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3437
+y = 3401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3437
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3441
+y = 3415
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3441
+y = 3428
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghast'
+x = 3442
+y = 3395
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3443
+y = 3432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3444
+y = 3406
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3445
+y = 3394
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3448
+y = 3393
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3450
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3450
+y = 3430
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3451
+y = 3396
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3453
+y = 3395
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3453
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3454
+y = 3414
+plane = 0
+direction = 'NONE'

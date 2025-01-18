@@ -1,0 +1,186 @@
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 1673
+y = 3504
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1668
+y = 3501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1669
+y = 3510
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1715
+y = 3497
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1674
+y = 3478
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1684
+y = 3478
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1685
+y = 3489
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1690
+y = 3479
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 1694
+y = 3466
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1724
+y = 3502
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.smoggy'
+x = 1717
+y = 3467
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1675
+y = 3477
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1676
+y = 3477
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1683
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1685
+y = 3479
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1686
+y = 3490
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1688
+y = 3474
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1694
+y = 3470
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1694
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1695
+y = 3472
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1696
+y = 3482
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1697
+y = 3486
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1698
+y = 3461
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 1698
+y = 3479
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_7465'
+x = 1668
+y = 3475
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7465'
+x = 1672
+y = 3469
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7466'
+x = 1676
+y = 3489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7466'
+x = 1678
+y = 3492
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7467'
+x = 1674
+y = 3469
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7467'
+x = 1675
+y = 3469
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9392'
+x = 1705
+y = 3483
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 2852
+y = 4561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 2853
+y = 4566
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 2856
+y = 4568
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 2864
+y = 4561
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3483'
+x = 2864
+y = 4563
+plane = 0
+direction = 'SOUTH'

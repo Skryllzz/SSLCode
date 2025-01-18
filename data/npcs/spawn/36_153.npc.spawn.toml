@@ -1,0 +1,198 @@
+[[spawns]]
+id = 'npc.null_3104'
+x = 2313
+y = 9853
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2315
+y = 9851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2318
+y = 9847
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2319
+y = 9852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2322
+y = 9846
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2323
+y = 9843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2323
+y = 9852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2326
+y = 9848
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2331
+y = 9852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2333
+y = 9851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2334
+y = 9853
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2335
+y = 9847
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2338
+y = 9844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2338
+y = 9851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2340
+y = 9848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2341
+y = 9852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2342
+y = 9840
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2342
+y = 9841
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2343
+y = 9849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2345
+y = 9851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2346
+y = 9854
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2347
+y = 9854
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2348
+y = 9843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.niloof'
+x = 2315
+y = 9806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.klank'
+x = 2323
+y = 9804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kamen'
+x = 2325
+y = 9799
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8820'
+x = 2312
+y = 9814
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_8896'
+x = 2312
+y = 9801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8900'
+x = 2308
+y = 9804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8905'
+x = 2321
+y = 9798
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_8909'
+x = 2328
+y = 9796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8912'
+x = 2328
+y = 9803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8916'
+x = 2318
+y = 9808
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,156 @@
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2657
+y = 9515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2662
+y = 9515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2662
+y = 9517
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2662
+y = 9522
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2666
+y = 9523
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2667
+y = 9513
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2671
+y = 9519
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2672
+y = 9515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon'
+x = 2631
+y = 9505
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2026'
+x = 2630
+y = 9482
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2026'
+x = 2638
+y = 9501
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2027'
+x = 2642
+y = 9506
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2028'
+x = 2633
+y = 9491
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2028'
+x = 2635
+y = 9477
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2029'
+x = 2646
+y = 9476
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 2658
+y = 9501
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 2659
+y = 9481
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 2664
+y = 9482
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2080'
+x = 2655
+y = 9480
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2080'
+x = 2667
+y = 9496
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant'
+x = 2642
+y = 9492
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant'
+x = 2645
+y = 9532
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 2636
+y = 9528
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 2647
+y = 9487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 2646
+y = 9484
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 2642
+y = 9518
+plane = 0
+direction = 'SOUTH'

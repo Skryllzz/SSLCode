@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.gull'
+x = 3719
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3720
+y = 3743
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3722
+y = 3771
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3729
+y = 3729
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3736
+y = 3716
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3755
+y = 3723
+plane = 0
+direction = 'NONE'

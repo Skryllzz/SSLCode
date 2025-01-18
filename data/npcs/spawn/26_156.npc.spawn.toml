@@ -1,0 +1,354 @@
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1708
+y = 10014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1709
+y = 10018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1711
+y = 10011
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1712
+y = 10016
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1712
+y = 10034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1713
+y = 10013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1713
+y = 10020
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1714
+y = 10030
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1716
+y = 10016
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1716
+y = 10019
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1716
+y = 10033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1717
+y = 10030
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dust_devil_7249'
+x = 1718
+y = 10035
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 1670
+y = 9999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 1671
+y = 10002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 1674
+y = 9996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 1674
+y = 10000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 1664
+y = 10000
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 1666
+y = 9997
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 1668
+y = 9994
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1686
+y = 10030
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1687
+y = 10034
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1687
+y = 10044
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1689
+y = 10047
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1690
+y = 10036
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1691
+y = 10030
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1693
+y = 10033
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_7264'
+x = 1665
+y = 10022
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_7264'
+x = 1666
+y = 10024
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1701
+y = 9995
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1705
+y = 9997
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1706
+y = 10001
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1707
+y = 9993
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1709
+y = 9998
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1711
+y = 9995
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1720
+y = 9991
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1721
+y = 9995
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1721
+y = 9999
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1723
+y = 9992
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sandy_boulder'
+x = 1724
+y = 9998
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1688
+y = 10013
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1688
+y = 10018
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1691
+y = 10016
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1694
+y = 10013
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1694
+y = 10019
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1684
+y = 10000
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1685
+y = 9995
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1685
+y = 9998
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1687
+y = 9994
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1687
+y = 9998
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1687
+y = 10000
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1689
+y = 9995
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1690
+y = 9999
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1691
+y = 9997
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1714
+y = 10046
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1716
+y = 10044
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1720
+y = 10045
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.warped_jelly'
+x = 1725
+y = 10047
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lillia'
+x = 1709
+y = 10007
+plane = 0
+direction = 'NONE'

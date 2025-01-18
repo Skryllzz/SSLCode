@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.duck'
+x = 1634
+y = 3502
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 1636
+y = 3500
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ducklings'
+x = 1636
+y = 3501
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sawmill_operator'
+x = 1623
+y = 3500
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.berry_7235'
+x = 1657
+y = 3506
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guildmaster_lars'
+x = 1650
+y = 3499
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.murfet'
+x = 1606
+y = 3508
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forester_7238'
+x = 1614
+y = 3491
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.forester_7238'
+x = 1628
+y = 3514
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.perry'
+x = 1654
+y = 3501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nesty'
+x = 1615
+y = 3514
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.loading_crane'
+x = 2782
+y = 4458
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loading_crane'
+x = 2787
+y = 4446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loading_crane'
+x = 2787
+y = 4451
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.loading_crane'
+x = 2793
+y = 4458
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.innocentlooking_key'
+x = 2788
+y = 4455
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mine_cart_3620'
+x = 2781
+y = 4462
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3620'
+x = 2783
+y = 4446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3620'
+x = 2785
+y = 4447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3620'
+x = 2785
+y = 4456
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mine_cart_3620'
+x = 2791
+y = 4447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3620'
+x = 2791
+y = 4456
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3620'
+x = 2793
+y = 4446
+plane = 0
+direction = 'NONE'

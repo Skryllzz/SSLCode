@@ -1,0 +1,132 @@
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2819
+y = 3194
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2875
+y = 3164
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2879
+y = 3151
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2820
+y = 3193
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2873
+y = 3148
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2877
+y = 3154
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2879
+y = 3161
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2843
+y = 3156
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2853
+y = 3159
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2861
+y = 3165
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2862
+y = 3180
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2863
+y = 3169
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2865
+y = 3156
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2870
+y = 3159
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2832
+y = 3170
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2832
+y = 3177
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2837
+y = 3184
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2841
+y = 3163
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2849
+y = 3186
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2850
+y = 3165
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2857
+y = 3179
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2859
+y = 3177
+plane = 0
+direction = 'SOUTH'

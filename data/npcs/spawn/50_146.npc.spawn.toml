@@ -1,0 +1,312 @@
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3205
+y = 9348
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3206
+y = 9361
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3206
+y = 9396
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3209
+y = 9376
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3209
+y = 9394
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3212
+y = 9350
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3212
+y = 9379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3230
+y = 9355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3230
+y = 9373
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3231
+y = 9358
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3250
+y = 9402
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3257
+y = 9349
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 3259
+y = 9390
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 3244
+y = 9356
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 3252
+y = 9370
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 3252
+y = 9359
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2080'
+x = 3244
+y = 9369
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3209
+y = 9361
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3213
+y = 9361
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3215
+y = 9355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3216
+y = 9351
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3217
+y = 9400
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3218
+y = 9365
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3218
+y = 9373
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3220
+y = 9347
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3220
+y = 9380
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3221
+y = 9383
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3224
+y = 9396
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3224
+y = 9400
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3226
+y = 9352
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3226
+y = 9385
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3229
+y = 9375
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3230
+y = 9368
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3230
+y = 9395
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3233
+y = 9398
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3234
+y = 9364
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3234
+y = 9369
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3235
+y = 9374
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3236
+y = 9402
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3237
+y = 9377
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3239
+y = 9383
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3241
+y = 9400
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3243
+y = 9383
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3245
+y = 9349
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3245
+y = 9400
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3250
+y = 9349
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3259
+y = 9372
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dust_devil'
+x = 3261
+y = 9399
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 3248
+y = 9374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 3249
+y = 9355
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 3253
+y = 9363
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 3263
+y = 9398
+plane = 0
+direction = 'NONE'

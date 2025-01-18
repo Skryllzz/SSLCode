@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.green_dragon_7868'
+x = 3396
+y = 10119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_7869'
+x = 3402
+y = 10119
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_7870'
+x = 3397
+y = 10124
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7871'
+x = 3421
+y = 10153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7871'
+x = 3426
+y = 10143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7871'
+x = 3428
+y = 10151
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7871'
+x = 3432
+y = 10148
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7871'
+x = 3432
+y = 10152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7872'
+x = 3421
+y = 10159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7872'
+x = 3424
+y = 10148
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7872'
+x = 3433
+y = 10139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7873'
+x = 3425
+y = 10156
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_7873'
+x = 3434
+y = 10144
+plane = 0
+direction = 'NONE'

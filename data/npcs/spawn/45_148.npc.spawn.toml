@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2899
+y = 9520
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2937
+y = 9494
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2938
+y = 9496
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2920
+y = 9486
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_one'
+x = 2912
+y = 9488
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_one'
+x = 2937
+y = 9503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5343'
+x = 2903
+y = 9508
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.undead_one_5343'
+x = 2915
+y = 9529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5343'
+x = 2936
+y = 9487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_one_5344'
+x = 2902
+y = 9482
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_one_5344'
+x = 2937
+y = 9491
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5345'
+x = 2911
+y = 9475
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.undead_one_5346'
+x = 2911
+y = 9476
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5346'
+x = 2925
+y = 9482
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5347'
+x = 2923
+y = 9507
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5348'
+x = 2914
+y = 9529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5349'
+x = 2901
+y = 9481
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.undead_one_5349'
+x = 2915
+y = 9528
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5349'
+x = 2932
+y = 9480
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5350'
+x = 2905
+y = 9509
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5350'
+x = 2911
+y = 9488
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_one_5351'
+x = 2912
+y = 9475
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.undead_one_5351'
+x = 2932
+y = 9507
+plane = 0
+direction = 'NONE'

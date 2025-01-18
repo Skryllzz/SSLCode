@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.null_1492'
+x = 2516
+y = 9322
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1492'
+x = 2523
+y = 9317
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2512
+y = 9300
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2513
+y = 9294
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2513
+y = 9297
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2515
+y = 9289
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2518
+y = 9302
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2518
+y = 9305
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2519
+y = 9292
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2520
+y = 9288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2520
+y = 9298
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2523
+y = 9302
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2525
+y = 9296
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2526
+y = 9289
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2528
+y = 9292
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2528
+y = 9303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2529
+y = 9300
+plane = 0
+direction = 'NONE'

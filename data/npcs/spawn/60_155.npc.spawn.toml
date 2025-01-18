@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.totem'
+x = 3863
+y = 9942
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.totem_9437'
+x = 3879
+y = 9942
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.totem_9440'
+x = 3863
+y = 9958
+plane = 3
+direction = 'WEST'
+[[spawns]]
+id = 'npc.totem_9443'
+x = 3879
+y = 9958
+plane = 3
+direction = 'NONE'

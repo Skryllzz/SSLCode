@@ -1,0 +1,174 @@
+[[spawns]]
+id = 'npc.bird_10541'
+x = 1920
+y = 6032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 1978
+y = 6022
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 1945
+y = 6068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 1941
+y = 6066
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 1945
+y = 6069
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 1940
+y = 6066
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.forgotten_soul_10544'
+x = 1945
+y = 6069
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 1940
+y = 6068
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 1940
+y = 6070
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 1944
+y = 6065
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 1941
+y = 6070
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.forgotten_soul_10545'
+x = 1944
+y = 6066
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 1961
+y = 6047
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 1978
+y = 6026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1931
+y = 6038
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1983
+y = 6037
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1973
+y = 6050
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1934
+y = 6021
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1934
+y = 6024
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1936
+y = 6023
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1937
+y = 6025
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 1938
+y = 6022
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1942
+y = 6070
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1945
+y = 6067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1950
+y = 6040
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1958
+y = 6034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1964
+y = 6045
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 1954
+y = 6042
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 1959
+y = 6040
+plane = 0
+direction = 'NONE'

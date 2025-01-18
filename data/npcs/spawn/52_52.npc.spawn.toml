@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.digsite_workman'
+x = 3370
+y = 3387
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.digsite_workman_3630'
+x = 3356
+y = 3385
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.examiner'
+x = 3364
+y = 3342
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.examiner_3636'
+x = 3360
+y = 3343
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.examiner_3637'
+x = 3364
+y = 3339
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.researcher'
+x = 3365
+y = 3333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.archaeological_expert'
+x = 3355
+y = 3333
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.panning_guide'
+x = 3376
+y = 3377
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nick'
+x = 3381
+y = 3379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nisha'
+x = 3376
+y = 3373
+plane = 0
+direction = 'SOUTH'

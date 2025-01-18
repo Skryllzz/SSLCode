@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.sam_5613'
+x = 2201
+y = 4942
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rachael'
+x = 2207
+y = 4958
+plane = 0
+direction = 'WEST'

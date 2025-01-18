@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 1806
+y = 3555
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_11150'
+x = 1806
+y = 3550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 1848
+y = 3538
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 1852
+y = 3529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 1853
+y = 3574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gallow'
+x = 1805
+y = 3562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6776'
+x = 1816
+y = 3537
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mugger_6996'
+x = 1825
+y = 3573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.flies'
+x = 1815
+y = 3536
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.flies'
+x = 1817
+y = 3536
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.flies'
+x = 1817
+y = 3538
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.flies'
+x = 1818
+y = 3537
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.flies'
+x = 1819
+y = 3538
+plane = 0
+direction = 'NORTH'

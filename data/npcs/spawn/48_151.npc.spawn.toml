@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3083
+y = 9673
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3091
+y = 9670
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3099
+y = 9674
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3106
+y = 9689
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3108
+y = 9672
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3113
+y = 9683
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3117
+y = 9694
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3118
+y = 9670
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3122
+y = 9673
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3123
+y = 9666
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ruantun'
+x = 3112
+y = 9690
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_39'
+x = 3086
+y = 9674
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_56'
+x = 3088
+y = 9672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_58'
+x = 3096
+y = 9672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton'
+x = 3115
+y = 9674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_72'
+x = 3123
+y = 9669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 3109
+y = 9675
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 3101
+y = 9671
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.fishing_spot_10514'
+x = 2280
+y = 2837
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10514'
+x = 2288
+y = 2847
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2242
+y = 2830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2271
+y = 2875
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2277
+y = 2849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2287
+y = 2857
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2268
+y = 2845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 2244
+y = 2850
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 2283
+y = 2826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2248
+y = 2858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2256
+y = 2828
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2284
+y = 2874
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2258
+y = 2831
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2267
+y = 2842
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2269
+y = 2853
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2275
+y = 2833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_8733'
+x = 2275
+y = 2820
+plane = 0
+direction = 'NONE'

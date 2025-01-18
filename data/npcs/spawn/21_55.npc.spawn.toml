@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.lizardman'
+x = 1369
+y = 3580
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman'
+x = 1375
+y = 3563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman'
+x = 1376
+y = 3574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman'
+x = 1388
+y = 3568
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1372
+y = 3532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1399
+y = 3563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6916'
+x = 1369
+y = 3563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6916'
+x = 1370
+y = 3582
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6916'
+x = 1375
+y = 3567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1373
+y = 3526
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1369
+y = 3527
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1378
+y = 3581
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1380
+y = 3574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1392
+y = 3570
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7521'
+x = 1372
+y = 3581
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7521'
+x = 1374
+y = 3571
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7521'
+x = 1383
+y = 3573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7522'
+x = 1372
+y = 3567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7522'
+x = 1387
+y = 3569
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7523'
+x = 1372
+y = 3561
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7523'
+x = 1378
+y = 3576
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7524'
+x = 1371
+y = 3574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7618'
+x = 1401
+y = 3538
+plane = 0
+direction = 'NONE'

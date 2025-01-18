@@ -1,0 +1,354 @@
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1363
+y = 3714
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1365
+y = 3716
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1374
+y = 3713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1374
+y = 3718
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1377
+y = 3716
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1384
+y = 3720
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1390
+y = 3718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1390
+y = 3722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1360
+y = 3712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1361
+y = 3717
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1366
+y = 3713
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1370
+y = 3715
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1374
+y = 3716
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1384
+y = 3723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1385
+y = 3715
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1393
+y = 3721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranger_8566'
+x = 1368
+y = 3735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranger_8566'
+x = 1371
+y = 3731
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ranger_8566'
+x = 1387
+y = 3731
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranger_8566'
+x = 1394
+y = 3734
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1363
+y = 3722
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1369
+y = 3737
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1370
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1372
+y = 3718
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1374
+y = 3732
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1375
+y = 3740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1377
+y = 3720
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1390
+y = 3732
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1401
+y = 3715
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1405
+y = 3720
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1363
+y = 3717
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1365
+y = 3712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1366
+y = 3724
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1370
+y = 3723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1374
+y = 3741
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1374
+y = 3742
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1374
+y = 3751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1377
+y = 3736
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1378
+y = 3713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1387
+y = 3735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1389
+y = 3754
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1393
+y = 3738
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1393
+y = 3747
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1398
+y = 3723
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.soldier_8568'
+x = 1399
+y = 3719
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.doyen'
+x = 1372
+y = 3749
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.doyen'
+x = 1376
+y = 3712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.doyen'
+x = 1405
+y = 3718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.doyen_8570'
+x = 1359
+y = 3713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nurse_emma_gentsy'
+x = 1374
+y = 3762
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.wounded_soldier_8572'
+x = 1372
+y = 3763
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.wounded_soldier_8573'
+x = 1370
+y = 3761
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_8574'
+x = 1372
+y = 3759
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.soldier_8575'
+x = 1382
+y = 3760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8575'
+x = 1384
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lovakengj_engineer'
+x = 1377
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lovakengj_engineer'
+x = 1381
+y = 3744
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lovakengj_engineer'
+x = 1402
+y = 3757
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.general_vir'
+x = 1382
+y = 3765
+plane = 0
+direction = 'NONE'

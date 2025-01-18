@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.baby_blue_dragon'
+x = 1897
+y = 9001
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_blue_dragon_242'
+x = 1900
+y = 8998
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_blue_dragon_243'
+x = 1897
+y = 9005
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 1891
+y = 8998
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_246'
+x = 1889
+y = 8995
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_248'
+x = 1910
+y = 8995
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_250'
+x = 1911
+y = 9002
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_251'
+x = 1918
+y = 9005
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_green_dragon'
+x = 1900
+y = 9010
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_black_dragon_7955'
+x = 1888
+y = 9003
+plane = 1
+direction = 'NONE'

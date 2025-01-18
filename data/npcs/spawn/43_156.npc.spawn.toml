@@ -1,0 +1,210 @@
+[[spawns]]
+id = 'npc.cave_crawler'
+x = 2784
+y = 9998
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler'
+x = 2795
+y = 9994
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler_407'
+x = 2787
+y = 9996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler_408'
+x = 2781
+y = 10000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler_408'
+x = 2785
+y = 9992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler_408'
+x = 2790
+y = 9994
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler_409'
+x = 2782
+y = 9995
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_crawler_409'
+x = 2793
+y = 9998
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cockatrice_419'
+x = 2785
+y = 10035
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cockatrice_419'
+x = 2786
+y = 10038
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cockatrice_419'
+x = 2789
+y = 10032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cockatrice_419'
+x = 2791
+y = 10036
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cockatrice_419'
+x = 2795
+y = 10033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cockatrice_419'
+x = 2797
+y = 10036
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cockatrice_419'
+x = 2799
+y = 10031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rockslug'
+x = 2793
+y = 10016
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rockslug'
+x = 2795
+y = 10017
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rockslug'
+x = 2798
+y = 10018
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rockslug'
+x = 2800
+y = 10020
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rockslug'
+x = 2801
+y = 10015
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rockslug'
+x = 2803
+y = 10017
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rockslug'
+x = 2804
+y = 10019
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2758
+y = 10004
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2760
+y = 10009
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2761
+y = 9998
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2765
+y = 10002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 2758
+y = 10001
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 2763
+y = 9999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 2763
+y = 10007
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 2757
+y = 10008
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 2758
+y = 10012
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 2763
+y = 10001
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 2760
+y = 10007
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 2761
+y = 10003
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 2765
+y = 10005
+plane = 0
+direction = 'NONE'

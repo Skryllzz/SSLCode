@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.mac'
+x = 2791
+y = 3539
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.boulder_6482'
+x = 2814
+y = 3534
+plane = 0
+direction = 'NONE'

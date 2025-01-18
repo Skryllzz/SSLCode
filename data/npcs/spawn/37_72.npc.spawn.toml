@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.vampyre_juvinate'
+x = 2391
+y = 4619
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate'
+x = 2392
+y = 4623
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_3691'
+x = 2380
+y = 4627
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vampyre_juvinate_3691'
+x = 2386
+y = 4632
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_miner'
+x = 2392
+y = 4626
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.meiyerditch_miner_3820'
+x = 2395
+y = 4631
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.meiyerditch_miner_3821'
+x = 2389
+y = 4634
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.meiyerditch_miner_3822'
+x = 2397
+y = 4634
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.meiyerditch_miner_3823'
+x = 2383
+y = 4636
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.meiyerditch_miner_3824'
+x = 2378
+y = 4624
+plane = 2
+direction = 'WEST'

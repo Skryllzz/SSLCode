@@ -1,0 +1,264 @@
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3310
+y = 6040
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 3284
+y = 6050
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 3291
+y = 6063
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 3311
+y = 6054
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 3311
+y = 6066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3276
+y = 6033
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3283
+y = 6052
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3298
+y = 6040
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3303
+y = 6070
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3305
+y = 6050
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crab_8733'
+x = 3298
+y = 6042
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_8733'
+x = 3303
+y = 6044
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crab_8733'
+x = 3304
+y = 6041
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vaire'
+x = 3264
+y = 6057
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elladan'
+x = 3273
+y = 6037
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guilin'
+x = 3275
+y = 6057
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ingwe'
+x = 3287
+y = 6054
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.cirdan'
+x = 3291
+y = 6061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.glorfindel'
+x = 3309
+y = 6054
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.aredhel'
+x = 3307
+y = 6056
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.celegorm'
+x = 3315
+y = 6049
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.anaire'
+x = 3282
+y = 6075
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.indis'
+x = 3269
+y = 6079
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.saeros'
+x = 3301
+y = 6073
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earwen'
+x = 3285
+y = 6044
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.caranthir'
+x = 3302
+y = 6065
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turgon'
+x = 3280
+y = 6066
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lord_baxtorian_cadarn'
+x = 3305
+y = 6066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_tangwen_trahaearn_9122'
+x = 3279
+y = 6040
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_9127'
+x = 3297
+y = 6059
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_9131'
+x = 3297
+y = 6058
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_9131'
+x = 3297
+y = 6060
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.islwyn_9146'
+x = 3300
+y = 6064
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gwallter'
+x = 3302
+y = 6052
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gwyn'
+x = 3290
+y = 6044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sian'
+x = 3305
+y = 6074
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9184'
+x = 3318
+y = 6077
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9185'
+x = 3266
+y = 6026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9185'
+x = 3276
+y = 6070
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9188'
+x = 3264
+y = 6066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_9188'
+x = 3294
+y = 6052
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_9201'
+x = 3302
+y = 6044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9239'
+x = 3295
+y = 6043
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9475'
+x = 3264
+y = 6078
+plane = 2
+direction = 'NONE'

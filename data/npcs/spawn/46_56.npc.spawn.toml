@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.green_dragon'
+x = 2982
+y = 3618
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_263'
+x = 2973
+y = 3620
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_dragon_264'
+x = 2977
+y = 3611
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.null_2013'
+x = 3551
+y = 3561
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2014'
+x = 3551
+y = 3550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2015'
+x = 3549
+y = 3555
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2016'
+x = 3547
+y = 3555
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2017'
+x = 3552
+y = 3550
+plane = 0
+direction = 'NONE'

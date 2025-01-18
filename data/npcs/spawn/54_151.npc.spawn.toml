@@ -1,0 +1,456 @@
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3477
+y = 9725
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3478
+y = 9721
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3483
+y = 9725
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3485
+y = 9721
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3486
+y = 9724
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3491
+y = 9724
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3494
+y = 9722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3499
+y = 9722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3499
+y = 9723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3502
+y = 9723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3508
+y = 9725
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.phrin_shadow'
+x = 3509
+y = 9722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3470
+y = 9716
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3472
+y = 9705
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3472
+y = 9713
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3475
+y = 9702
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3476
+y = 9696
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3478
+y = 9706
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3478
+y = 9716
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3480
+y = 9713
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3483
+y = 9708
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3486
+y = 9698
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3486
+y = 9716
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3487
+y = 9706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3488
+y = 9713
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3489
+y = 9701
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3495
+y = 9708
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3497
+y = 9697
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3498
+y = 9716
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3499
+y = 9702
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3500
+y = 9707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3500
+y = 9713
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3506
+y = 9716
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3507
+y = 9699
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3508
+y = 9707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3508
+y = 9713
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3513
+y = 9697
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3514
+y = 9705
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3514
+y = 9716
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.riyl_shadow'
+x = 3516
+y = 9713
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3460
+y = 9667
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3460
+y = 9687
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3461
+y = 9669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3461
+y = 9678
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3467
+y = 9683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3468
+y = 9676
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3472
+y = 9673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3474
+y = 9668
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3474
+y = 9681
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3474
+y = 9687
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3478
+y = 9674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3480
+y = 9681
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3484
+y = 9667
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3486
+y = 9676
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.asyn_shadow'
+x = 3486
+y = 9685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3460
+y = 9695
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3460
+y = 9719
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3463
+y = 9697
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3463
+y = 9704
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3463
+y = 9709
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3463
+y = 9713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3463
+y = 9721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3464
+y = 9701
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3465
+y = 9706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fiyr_shadow'
+x = 3465
+y = 9714
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3499
+y = 9672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3499
+y = 9677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3499
+y = 9682
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3502
+y = 9685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3504
+y = 9669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3507
+y = 9686
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3510
+y = 9669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3512
+y = 9685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3515
+y = 9672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3515
+y = 9677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urium_shadow'
+x = 3515
+y = 9682
+plane = 0
+direction = 'EAST'

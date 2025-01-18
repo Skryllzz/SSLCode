@@ -1,0 +1,378 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 1234
+y = 3761
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 1236
+y = 3732
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 1252
+y = 3756
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 1262
+y = 3731
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sergeant_10725'
+x = 1250
+y = 3716
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_11122'
+x = 1273
+y = 3760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.duck'
+x = 1226
+y = 3731
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 1225
+y = 3730
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.duckling'
+x = 1226
+y = 3729
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.duck_2003'
+x = 1227
+y = 3733
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 1240
+y = 3720
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 1252
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 1276
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 1229
+y = 3722
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 1243
+y = 3744
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 1256
+y = 3737
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 1257
+y = 3721
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1257
+y = 3739
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1260
+y = 3742
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.garden_supplier_3103'
+x = 1247
+y = 3735
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.black_warlock'
+x = 1220
+y = 3747
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_warlock'
+x = 1224
+y = 3764
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_warlock'
+x = 1233
+y = 3745
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_warlock'
+x = 1242
+y = 3760
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_warlock'
+x = 1260
+y = 3750
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.snowy_knight'
+x = 1223
+y = 3723
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.snowy_knight'
+x = 1238
+y = 3740
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sapphire_glacialis'
+x = 1237
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sapphire_glacialis'
+x = 1258
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1219
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1237
+y = 3747
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 1264
+y = 3718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.master_farmer'
+x = 1236
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.master_farmer'
+x = 1247
+y = 3750
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.master_farmer_5731'
+x = 1264
+y = 3725
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8526'
+x = 1221
+y = 3714
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.amelia_8530'
+x = 1246
+y = 3739
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.allanna'
+x = 1251
+y = 3734
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nikkie'
+x = 1241
+y = 3756
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rosie'
+x = 1232
+y = 3733
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.alan'
+x = 1265
+y = 3734
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.alexandra'
+x = 1235
+y = 3752
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.latlink_fastbell'
+x = 1254
+y = 3752
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.arno'
+x = 1230
+y = 3728
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_8589'
+x = 1248
+y = 3760
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_8590'
+x = 1249
+y = 3760
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_8591'
+x = 1223
+y = 3749
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_8591'
+x = 1237
+y = 3733
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_8591'
+x = 1240
+y = 3753
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_8591'
+x = 1252
+y = 3748
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_8592'
+x = 1230
+y = 3735
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_8592'
+x = 1236
+y = 3759
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_8592'
+x = 1245
+y = 3757
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_8592'
+x = 1262
+y = 3735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_8593'
+x = 1235
+y = 3725
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_8593'
+x = 1252
+y = 3754
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cat_8594'
+x = 1256
+y = 3758
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.felfiz_yaryus'
+x = 1229
+y = 3724
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.soldier_8599'
+x = 1245
+y = 3717
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_8599'
+x = 1251
+y = 3719
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ranger_8601'
+x = 1246
+y = 3719
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8628'
+x = 1248
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.taylor'
+x = 1246
+y = 3753
+plane = 0
+direction = 'SOUTH'

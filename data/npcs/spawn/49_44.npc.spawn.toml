@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.captain_pudi'
+x = 3153
+y = 2840
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sailor_10604'
+x = 3138
+y = 2841
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spirit_angler'
+x = 3153
+y = 2831
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spirit_angler_10606'
+x = 3173
+y = 2856
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spirit_angler_10607'
+x = 3171
+y = 2831
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spirit_angler_10608'
+x = 3174
+y = 2846
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spirit_angler_10609'
+x = 3176
+y = 2831
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ferryman_nathwood'
+x = 3149
+y = 2843
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.retired_sailor'
+x = 3160
+y = 2850
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gita_prymes'
+x = 3169
+y = 2838
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.taiman'
+x = 3161
+y = 2839
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.koanee'
+x = 3167
+y = 2852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.timallus'
+x = 3162
+y = 2843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lauretta'
+x = 3155
+y = 2819
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ishmael'
+x = 3159
+y = 2847
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shantay_guard_10634'
+x = 3165
+y = 2818
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shantay_guard_10634'
+x = 3193
+y = 2841
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.seagull'
+x = 3154
+y = 2846
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.seagull'
+x = 3155
+y = 2848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.seagull'
+x = 3156
+y = 2845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.seagull'
+x = 3139
+y = 2840
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.seagull'
+x = 3149
+y = 2842
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3136
+y = 2816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3138
+y = 2863
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3142
+y = 2830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3148
+y = 2852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3164
+y = 2862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3178
+y = 2852
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3180
+y = 2856
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3182
+y = 2852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3187
+y = 2862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3193
+y = 2855
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3187
+y = 2818
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3190
+y = 2825
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3196
+y = 2826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crocodile'
+x = 3197
+y = 2817
+plane = 0
+direction = 'NONE'

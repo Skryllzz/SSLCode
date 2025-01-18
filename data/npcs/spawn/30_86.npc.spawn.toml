@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.gnome_troop'
+x = 1970
+y = 5522
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_troop_4974'
+x = 1964
+y = 5522
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6081'
+x = 1964
+y = 5519
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6081'
+x = 1970
+y = 5519
+plane = 3
+direction = 'SOUTH'

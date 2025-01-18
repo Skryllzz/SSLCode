@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.abyssal_sire'
+x = 3107
+y = 4791
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc._6178'
+x = 3107
+y = 4794
+plane = 2
+direction = 'NONE'

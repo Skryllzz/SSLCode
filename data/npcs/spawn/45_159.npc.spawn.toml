@@ -1,0 +1,342 @@
+[[spawns]]
+id = 'npc.null_2231'
+x = 2890
+y = 10224
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_2231'
+x = 2890
+y = 10226
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.blasidar_the_sculptor'
+x = 2906
+y = 10205
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.randivor'
+x = 2892
+y = 10212
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hervi'
+x = 2888
+y = 10212
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nolar'
+x = 2885
+y = 10207
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gulldamar'
+x = 2885
+y = 10197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tati'
+x = 2925
+y = 10210
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vermundi'
+x = 2887
+y = 10189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.factory_manager'
+x = 2931
+y = 10184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.factory_worker'
+x = 2929
+y = 10191
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.factory_worker_2378'
+x = 2931
+y = 10191
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.factory_worker_2379'
+x = 2930
+y = 10188
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.factory_worker_2380'
+x = 2931
+y = 10187
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barmaid'
+x = 2916
+y = 10195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cart_conductor'
+x = 2919
+y = 10180
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cart_conductor_2386'
+x = 2925
+y = 10176
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cart_conductor_2387'
+x = 2936
+y = 10181
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cart_conductor_2388'
+x = 2925
+y = 10180
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cart_conductor_2389'
+x = 2908
+y = 10188
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rowdy_dwarf'
+x = 2906
+y = 10198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.runvastr'
+x = 2923
+y = 10203
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sune'
+x = 2924
+y = 10213
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bentamir'
+x = 2933
+y = 10219
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ulifed'
+x = 2899
+y = 10218
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.reinald'
+x = 2926
+y = 10225
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.karl'
+x = 2900
+y = 10227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kjut'
+x = 2906
+y = 10216
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dwarven_boatman'
+x = 2888
+y = 10227
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dwarven_miner_2439'
+x = 2943
+y = 10182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hirko'
+x = 2885
+y = 10202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3197'
+x = 2904
+y = 10207
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3198'
+x = 2912
+y = 10222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blandebir'
+x = 2915
+y = 10194
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_beast'
+x = 2913
+y = 10189
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.smokin_joe'
+x = 2930
+y = 10213
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_gemstone_secretary'
+x = 2889
+y = 10211
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_chisel_secretary'
+x = 2890
+y = 10207
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.silver_cog_secretary'
+x = 2891
+y = 10196
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brown_engine_secretary'
+x = 2890
+y = 10192
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_gemstone_director_6021'
+x = 2891
+y = 10210
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_chisel_director_6022'
+x = 2890
+y = 10205
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.silver_cog_director_6023'
+x = 2893
+y = 10196
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brown_engine_director_6024'
+x = 2892
+y = 10190
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6031'
+x = 2880
+y = 10201
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6033'
+x = 2882
+y = 10201
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6034'
+x = 2884
+y = 10203
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6035'
+x = 2882
+y = 10199
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6036'
+x = 2885
+y = 10199
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6037'
+x = 2882
+y = 10196
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6038'
+x = 2884
+y = 10195
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6039'
+x = 2880
+y = 10195
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6040'
+x = 2880
+y = 10194
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.trade_referee'
+x = 2880
+y = 10199
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_6046'
+x = 2889
+y = 10207
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_6047'
+x = 2891
+y = 10192
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_6048'
+x = 2891
+y = 10199
+plane = 0
+direction = 'NONE'

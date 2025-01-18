@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.glouphrie_the_untrusted'
+x = 2149
+y = 4960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_4902'
+x = 2149
+y = 4957
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_4903'
+x = 2150
+y = 4956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_4904'
+x = 2148
+y = 4956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_4905'
+x = 2151
+y = 4956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_4906'
+x = 2147
+y = 4956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_soldier'
+x = 2146
+y = 4965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_soldier_4908'
+x = 2151
+y = 4966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_soldier_4909'
+x = 2152
+y = 4965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_soldier_4910'
+x = 2147
+y = 4966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_soldier_4911'
+x = 2150
+y = 4964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.healthorg_and_tortoise'
+x = 2148
+y = 4961
+plane = 0
+direction = 'NONE'

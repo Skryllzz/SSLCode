@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.fishing_spot_10635'
+x = 3140
+y = 2795
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10635'
+x = 3140
+y = 2797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10635'
+x = 3142
+y = 2802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat'
+x = 3161
+y = 2782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat'
+x = 3171
+y = 2794
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat'
+x = 3180
+y = 2760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1793'
+x = 3172
+y = 2797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat'
+x = 3162
+y = 2785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat'
+x = 3175
+y = 2795
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat'
+x = 3181
+y = 2763
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1796'
+x = 3173
+y = 2795
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat_1797'
+x = 3163
+y = 2783
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat_1797'
+x = 3182
+y = 2761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3138
+y = 2784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3139
+y = 2770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3139
+y = 2810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3148
+y = 2776
+plane = 0
+direction = 'NONE'

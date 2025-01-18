@@ -1,0 +1,330 @@
+[[spawns]]
+id = 'npc.null_1330'
+x = 3701
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1333'
+x = 3701
+y = 3502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.velorina'
+x = 3678
+y = 3510
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.necrovarus'
+x = 3660
+y = 3516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_disciple'
+x = 3655
+y = 3516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_disciple'
+x = 3662
+y = 3516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_disciple'
+x = 3653
+y = 3518
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.robin'
+x = 3672
+y = 3491
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3658
+y = 3465
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3661
+y = 3494
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3661
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3662
+y = 3463
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3662
+y = 3502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3665
+y = 3493
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3668
+y = 3474
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3672
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3673
+y = 3479
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3675
+y = 3496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3679
+y = 3474
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_villager'
+x = 3684
+y = 3485
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3648
+y = 3472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3649
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_shopkeeper'
+x = 3658
+y = 3477
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_innkeeper'
+x = 3681
+y = 3496
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghost_banker'
+x = 3687
+y = 3464
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_banker'
+x = 3688
+y = 3464
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_banker'
+x = 3691
+y = 3464
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3686
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3689
+y = 3508
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3690
+y = 3514
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3691
+y = 3512
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3694
+y = 3518
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3698
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3698
+y = 3514
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_sailor'
+x = 3704
+y = 3496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_captain'
+x = 3703
+y = 3487
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_captain_3006'
+x = 3691
+y = 3513
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_guard'
+x = 3652
+y = 3484
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_guard'
+x = 3652
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_guard'
+x = 3658
+y = 3508
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_guard'
+x = 3661
+y = 3508
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bill_teach'
+x = 3679
+y = 3495
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_5857'
+x = 3660
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5858'
+x = 3660
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5859'
+x = 3689
+y = 3495
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6127'
+x = 3674
+y = 3484
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6128'
+x = 3657
+y = 3469
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6573'
+x = 3690
+y = 3464
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6710'
+x = 3660
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6710'
+x = 3664
+y = 3488
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6710'
+x = 3667
+y = 3469
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6710'
+x = 3681
+y = 3502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6710'
+x = 3684
+y = 3486
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6710'
+x = 3697
+y = 3473
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sarah_8134'
+x = 3674
+y = 3468
+plane = 0
+direction = 'NONE'

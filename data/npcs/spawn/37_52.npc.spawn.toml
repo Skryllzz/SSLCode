@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.wolf'
+x = 2379
+y = 3344
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2395
+y = 3340
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2398
+y = 3330
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2406
+y = 3329
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2387
+y = 3376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2398
+y = 3366
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2412
+y = 3378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 2419
+y = 3372
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2369
+y = 3374
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2372
+y = 3379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2378
+y = 3366
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2379
+y = 3378
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2387
+y = 3370
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2394
+y = 3365
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2402
+y = 3386
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2405
+y = 3381
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2407
+y = 3387
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2412
+y = 3384
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3045'
+x = 2373
+y = 3333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3045'
+x = 2385
+y = 3339
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3045'
+x = 2394
+y = 3334
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_6094'
+x = 2399
+y = 3356
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_6095'
+x = 2400
+y = 3356
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gnome_6096'
+x = 2401
+y = 3357
+plane = 0
+direction = 'WEST'

@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2619
+y = 3221
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.torrell'
+x = 2617
+y = 3227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brother_kojo'
+x = 2569
+y = 3249
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brother_omad'
+x = 2604
+y = 3209
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brother_cedric'
+x = 2614
+y = 3259
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monk_4246'
+x = 2606
+y = 3217
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_4246'
+x = 2608
+y = 3209
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_4246'
+x = 2618
+y = 3209
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_4246'
+x = 2595
+y = 3210
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5411'
+x = 2607
+y = 3260
+plane = 0
+direction = 'NONE'

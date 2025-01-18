@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.builder'
+x = 2511
+y = 5536
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.builder_5179'
+x = 2512
+y = 5535
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.builder_5180'
+x = 2513
+y = 5533
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.builder_5181'
+x = 2511
+y = 5532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tegdak'
+x = 2511
+y = 5563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6284'
+x = 2512
+y = 5563
+plane = 0
+direction = 'NONE'

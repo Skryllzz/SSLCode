@@ -1,0 +1,253 @@
+{
+  "shopName": "Loyalty Shop",
+  "currency": "LOYALTY_POINTS",
+  "sellPolicy": "NO_SELLING",
+  "items": [
+    {
+	//Redirection scroll: Note: If editing price, make sure to rewrite "Refund" option on them so it doesn't start duping loyalty points!
+      "id": 11740,
+      "amount": 10000,
+      "sellPrice": 0,
+      "buyPrice": 10,
+	  "restockTimer": 1
+    },
+    {
+	//Imbue scroll
+      "id": 11681,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 150
+    },
+	{
+	//Emote scroll
+      "id": 2678,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 50
+    },
+	{
+	//Prop sword
+      "id": 22316,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 250
+    },
+	{
+	//Yo-Yo
+      "id": 4079,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 500
+    },
+	{
+	//Monkey
+      "id": 19556,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 7500
+    },
+	{
+	//Blue marionette
+      "id": 6865,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 750
+    },
+	{
+	//Green marionette
+      "id": 6866,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 750
+    },
+	{
+	//Red marionette
+      "id": 6867,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 750
+    },
+	{
+	//Rubber chicken
+      "id": 4566,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 2000
+    },
+	{
+	//Event RPG
+      "id": 12727,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 30
+    },
+	{
+      "id": 2520,
+      "amount": 10,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 2522,
+      "amount": 10,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 2524,
+      "amount": 10,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 2526,
+      "amount": 10,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 4613,
+      "amount": 250,
+      "sellPrice": 0,
+      "buyPrice": 150
+    },
+    {
+      "id": 11705,
+      "amount": 5,
+      "sellPrice": 0,
+      "buyPrice": 400
+    },
+    {
+      "id": 11706,
+      "amount": 5,
+      "sellPrice": 0,
+      "buyPrice": 400
+    },
+    {
+      "id": 11707,
+      "amount": 3,
+      "sellPrice": 0,
+      "buyPrice": 200
+    },
+    {
+      "id": 11708,
+      "amount": 3,
+      "sellPrice": 0,
+      "buyPrice": 200
+    },
+    {
+      "id": 11709,
+      "amount": 3,
+      "sellPrice": 0,
+      "buyPrice": 200
+    },
+    {
+      "id": 13188,
+      "amount": 5,
+      "sellPrice": 0,
+      "buyPrice": 5000
+    },
+    {
+      "id": 13328,
+      "amount": 5,
+      "sellPrice": 0,
+      "buyPrice": 100
+    },
+    {
+      "id": 13681,
+      "amount": 15,
+      "sellPrice": 0,
+      "buyPrice": 50
+    },
+    {
+      "id": 13215,
+      "amount": 15,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 13216,
+      "amount": 15,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 13217,
+      "amount": 15,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 13218,
+      "amount": 15,
+      "sellPrice": 0,
+      "buyPrice": 75
+    },
+    {
+      "id": 22355,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300
+    },
+    {
+      "id": 22358,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300
+    },
+    {
+      "id": 22361,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300
+    },
+    {
+      "id": 19699,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 750
+    },
+    {
+      "id": 21354,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 500
+    },
+    {
+      "id": 13203,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300
+    },
+	{
+      "id": 8957,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 200
+    },
+	{
+      "id": 8996,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 200
+    },
+	{
+      "id": 8964,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 300
+    },
+	{
+      "id": 7003,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 50
+    },
+	{
+      "id": 10171,
+      "amount": 100,
+      "sellPrice": 0,
+      "buyPrice": 50
+    }
+  ]
+}

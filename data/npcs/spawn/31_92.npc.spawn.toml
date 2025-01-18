@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.zimberfizz_10530'
+x = 2016
+y = 5930
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.duck_10546'
+x = 2002
+y = 5907
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.duck_10546'
+x = 2005
+y = 5920
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.duck_10547'
+x = 1996
+y = 5912
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10555'
+x = 2020
+y = 5929
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant'
+x = 2031
+y = 5893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 2030
+y = 5889
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 2038
+y = 5893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 2034
+y = 5891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 2040
+y = 5888
+plane = 0
+direction = 'NONE'

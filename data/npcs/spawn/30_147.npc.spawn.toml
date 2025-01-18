@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1933
+y = 9448
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1937
+y = 9447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1939
+y = 9453
+plane = 0
+direction = 'NONE'

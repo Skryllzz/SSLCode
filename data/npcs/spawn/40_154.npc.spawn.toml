@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 2568
+y = 9889
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 2577
+y = 9890
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 2577
+y = 9897
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2078'
+x = 2581
+y = 9895
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 2565
+y = 9887
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 2569
+y = 9886
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 2573
+y = 9895
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fire_giant_2079'
+x = 2580
+y = 9890
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2080'
+x = 2562
+y = 9886
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2080'
+x = 2575
+y = 9891
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_giant_2080'
+x = 2578
+y = 9895
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2566
+y = 9877
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2566
+y = 9891
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2568
+y = 9898
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2572
+y = 9865
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2574
+y = 9889
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2583
+y = 9875
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2584
+y = 9896
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2604
+y = 9890
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2606
+y = 9897
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_spider'
+x = 2572
+y = 9875
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_spider'
+x = 2574
+y = 9876
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_spider'
+x = 2576
+y = 9875
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_spider'
+x = 2576
+y = 9877
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_spider'
+x = 2580
+y = 9876
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4009'
+x = 2605
+y = 9915
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_4536'
+x = 2565
+y = 9905
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4536'
+x = 2603
+y = 9904
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4537'
+x = 2607
+y = 9914
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2586
+y = 9884
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2588
+y = 9883
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2589
+y = 9886
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_mage'
+x = 2585
+y = 9878
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_mage'
+x = 2588
+y = 9880
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_mage'
+x = 2590
+y = 9882
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_mage'
+x = 2592
+y = 9884
+plane = 0
+direction = 'NONE'

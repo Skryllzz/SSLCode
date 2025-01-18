@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.lesser_demon'
+x = 3311
+y = 3845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2018'
+x = 3324
+y = 3856
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2026'
+x = 3304
+y = 3886
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2027'
+x = 3296
+y = 3872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2028'
+x = 3282
+y = 3880
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2029'
+x = 3287
+y = 3894
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.callisto_6609'
+x = 3290
+y = 3847
+plane = 0
+direction = 'NONE'

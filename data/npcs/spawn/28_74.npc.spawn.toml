@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.gull_284'
+x = 1821
+y = 4751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_284'
+x = 1830
+y = 4768
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_284'
+x = 1833
+y = 4755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 1825
+y = 4767
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 1826
+y = 4754
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7820'
+x = 1820
+y = 4762
+plane = 1
+direction = 'NORTH'

@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.adamant_dragon'
+x = 1542
+y = 5081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.adamant_dragon'
+x = 1543
+y = 5067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.adamant_dragon'
+x = 1547
+y = 5073
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.adamant_dragon'
+x = 1549
+y = 5066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.adamant_dragon'
+x = 1550
+y = 5079
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rune_dragon_8031'
+x = 1581
+y = 5072
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rune_dragon_8031'
+x = 1582
+y = 5079
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rune_dragon_8031'
+x = 1584
+y = 5066
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rune_dragon_8031'
+x = 1588
+y = 5080
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rune_dragon_8031'
+x = 1590
+y = 5067
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.null_7505'
+x = 2278
+y = 4034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vorkath_8058'
+x = 2269
+y = 4062
+plane = 0
+direction = 'SOUTH'

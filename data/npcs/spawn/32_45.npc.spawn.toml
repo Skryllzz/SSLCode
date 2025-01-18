@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2092
+y = 2893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2106
+y = 2932
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10542'
+x = 2105
+y = 2895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2101
+y = 2921
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2102
+y = 2942
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2108
+y = 2919
+plane = 0
+direction = 'NONE'

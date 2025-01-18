@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2939
+y = 3219
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_1064'
+x = 2910
+y = 3226
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.da_vinci'
+x = 2927
+y = 3218
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.chancy'
+x = 2929
+y = 3222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hops'
+x = 2930
+y = 3218
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chemist'
+x = 2934
+y = 3210
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.taria'
+x = 2940
+y = 3223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2923
+y = 3251
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2927
+y = 3251
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2930
+y = 3243
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2933
+y = 3250
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2939
+y = 3242
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2932
+y = 3242
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2934
+y = 3240
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2923
+y = 3245
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2924
+y = 3240
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.zombie_rat'
+x = 2930
+y = 3252
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_rat_3970'
+x = 2928
+y = 3244
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_rat_3970'
+x = 2934
+y = 3254
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_rat_3971'
+x = 2925
+y = 3256
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_rat_3971'
+x = 2931
+y = 3249
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.zombie_rat_3971'
+x = 2933
+y = 3244
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_rat_3971'
+x = 2935
+y = 3248
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_3972'
+x = 2923
+y = 3251
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_3973'
+x = 2926
+y = 3255
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_3973'
+x = 2929
+y = 3251
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_3973'
+x = 2930
+y = 3254
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_3974'
+x = 2928
+y = 3253
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_3974'
+x = 2933
+y = 3256
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_3975'
+x = 2929
+y = 3249
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_3976'
+x = 2926
+y = 3254
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_3977'
+x = 2927
+y = 3251
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_3978'
+x = 2930
+y = 3253
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_3979'
+x = 2925
+y = 3255
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2941
+y = 3236
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.captain_barnaby_8763'
+x = 2916
+y = 3225
+plane = 0
+direction = 'NONE'

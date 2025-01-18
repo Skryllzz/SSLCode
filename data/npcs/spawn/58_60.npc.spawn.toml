@@ -1,0 +1,306 @@
+[[spawns]]
+id = 'npc.crab'
+x = 3716
+y = 3868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab'
+x = 3716
+y = 3875
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab'
+x = 3716
+y = 3895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab'
+x = 3718
+y = 3886
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab'
+x = 3723
+y = 3894
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab'
+x = 3734
+y = 3891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab'
+x = 3743
+y = 3845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3713
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3714
+y = 3856
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3718
+y = 3847
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3718
+y = 3865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3719
+y = 3872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3721
+y = 3898
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3722
+y = 3887
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3727
+y = 3844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3729
+y = 3893
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3735
+y = 3847
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3744
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3750
+y = 3851
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.gull'
+x = 3726
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3731
+y = 3900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3732
+y = 3874
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3736
+y = 3852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3742
+y = 3882
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3745
+y = 3873
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3752
+y = 3900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3757
+y = 3888
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3771
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7493'
+x = 3761
+y = 3869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3714
+y = 3881
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3714
+y = 3887
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3714
+y = 3898
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3715
+y = 3845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3715
+y = 3870
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3716
+y = 3849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3716
+y = 3862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3718
+y = 3843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3718
+y = 3878
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3718
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3720
+y = 3868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3722
+y = 3845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3723
+y = 3897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3726
+y = 3889
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3731
+y = 3844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3732
+y = 3848
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3735
+y = 3888
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3736
+y = 3845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3746
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3751
+y = 3853
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7836'
+x = 3717
+y = 3840
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7837'
+x = 3753
+y = 3851
+plane = 0
+direction = 'NONE'

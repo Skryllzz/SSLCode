@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.mountain_troll_4143'
+x = 2921
+y = 10027
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_939'
+x = 2921
+y = 10032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_941'
+x = 2925
+y = 10034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_942'
+x = 2924
+y = 10031
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.dig_site_workman'
+x = 3357
+y = 3415
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.barge_workman_1937'
+x = 3357
+y = 3446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barge_foreman'
+x = 3364
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.digsite_workman'
+x = 3362
+y = 3416
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.digsite_workman_3630'
+x = 3354
+y = 3408
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.digsite_workman_3630'
+x = 3365
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.digsite_workman_3630'
+x = 3373
+y = 3418
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.digsite_workman_3631'
+x = 3350
+y = 3401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.digsite_workman_3631'
+x = 3362
+y = 3408
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.digsite_workman_3631'
+x = 3366
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.student'
+x = 3363
+y = 3397
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.student_3633'
+x = 3370
+y = 3416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.student_3634'
+x = 3348
+y = 3424
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elissa'
+x = 3376
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7767'
+x = 3362
+y = 3446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barge_guard'
+x = 3362
+y = 3451
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7819'
+x = 3363
+y = 3454
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7820'
+x = 3363
+y = 3453
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_7821'
+x = 3364
+y = 3453
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7822'
+x = 3363
+y = 3452
+plane = 1
+direction = 'SOUTH'

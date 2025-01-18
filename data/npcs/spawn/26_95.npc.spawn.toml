@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.butterfly'
+x = 1674
+y = 6085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 1684
+y = 6090
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 1701
+y = 6098
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 1704
+y = 6101
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 1717
+y = 6092
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 1685
+y = 6094
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 1689
+y = 6093
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 1721
+y = 6099
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 1727
+y = 6092
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gielinor_guide_9476'
+x = 1686
+y = 6115
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.survival_expert_9477'
+x = 1695
+y = 6103
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_9478'
+x = 1691
+y = 6098
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_9478'
+x = 1693
+y = 6100
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_9478'
+x = 1695
+y = 6100
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.master_navigator'
+x = 1667
+y = 6095
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.quest_guide_9480'
+x = 1677
+y = 6130
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_9484'
+x = 1712
+y = 6133
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_9484'
+x = 1714
+y = 6133
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brother_brace_9485'
+x = 1717
+y = 6114
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_man_tutor_9486'
+x = 1722
+y = 6096
+plane = 0
+direction = 'NONE'

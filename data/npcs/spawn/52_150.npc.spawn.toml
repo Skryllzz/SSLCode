@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.sweeper'
+x = 3364
+y = 9638
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.flying_book'
+x = 3375
+y = 9640
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.flying_book_5976'
+x = 3354
+y = 9636
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.alchemy_guardian'
+x = 3364
+y = 9626
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.enchantment_guardian'
+x = 3364
+y = 9647
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.graveyard_guardian'
+x = 3362
+y = 9644
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior'
+x = 3382
+y = 9631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior'
+x = 3362
+y = 9650
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior_5986'
+x = 3382
+y = 9655
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior_5987'
+x = 3350
+y = 9652
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior_5987'
+x = 3367
+y = 9650
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charmed_warrior_5988'
+x = 3347
+y = 9623
+plane = 0
+direction = 'NONE'

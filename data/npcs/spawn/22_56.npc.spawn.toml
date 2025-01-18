@@ -1,0 +1,114 @@
+[[spawns]]
+id = 'npc.jessie'
+x = 1463
+y = 3601
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11074'
+x = 1430
+y = 3613
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sergeant_11077'
+x = 1429
+y = 3612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11080'
+x = 1428
+y = 3610
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11086'
+x = 1432
+y = 3611
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant'
+x = 1442
+y = 3610
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant'
+x = 1446
+y = 3618
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2099'
+x = 1444
+y = 3613
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2099'
+x = 1448
+y = 3609
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2100'
+x = 1439
+y = 3610
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2100'
+x = 1448
+y = 3617
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2101'
+x = 1444
+y = 3607
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2101'
+x = 1446
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2101'
+x = 1447
+y = 3606
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2102'
+x = 1440
+y = 3618
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hill_giant_2102'
+x = 1441
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2102'
+x = 1448
+y = 3612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2103'
+x = 1440
+y = 3606
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grave_digger'
+x = 1428
+y = 3592
+plane = 0
+direction = 'NONE'

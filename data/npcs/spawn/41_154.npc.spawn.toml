@@ -1,0 +1,114 @@
+[[spawns]]
+id = 'npc.lesser_demon_2007'
+x = 2631
+y = 9880
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2008'
+x = 2632
+y = 9874
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_2018'
+x = 2630
+y = 9867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guardian_of_armadyl'
+x = 2638
+y = 9899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guardian_of_armadyl'
+x = 2648
+y = 9901
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guardian_of_armadyl'
+x = 2649
+y = 9912
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guardian_of_armadyl_3446'
+x = 2636
+y = 9910
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guardian_of_armadyl_3446'
+x = 2646
+y = 9906
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.winelda'
+x = 2656
+y = 9875
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2664
+y = 9877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2637
+y = 9891
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2641
+y = 9889
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2645
+y = 9891
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2648
+y = 9890
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2653
+y = 9892
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2657
+y = 9894
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2658
+y = 9888
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2660
+y = 9885
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 2660
+y = 9890
+plane = 0
+direction = 'SOUTH'

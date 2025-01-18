@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.logosia'
+x = 1633
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.biblia'
+x = 1616
+y = 3829
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.horphis'
+x = 1639
+y = 3814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.villia'
+x = 1626
+y = 3814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.professor_gracklebone'
+x = 1626
+y = 3801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sam_7049'
+x = 1639
+y = 3801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_7065'
+x = 1611
+y = 3823
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_7066'
+x = 1609
+y = 3791
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_7067'
+x = 1646
+y = 3820
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.archeio'
+x = 1624
+y = 3808
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.galana'
+x = 1652
+y = 3826
+plane = 0
+direction = 'NONE'

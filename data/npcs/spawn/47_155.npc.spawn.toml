@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.dunce_7775'
+x = 3036
+y = 9939
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.crunchy'
+x = 3035
+y = 9937
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tim'
+x = 3035
+y = 9941
+plane = 0
+direction = 'WEST'

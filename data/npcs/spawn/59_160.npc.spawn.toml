@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3812
+y = 10251
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3817
+y = 10254
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3821
+y = 10250
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3824
+y = 10254
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3825
+y = 10248
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3826
+y = 10261
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3829
+y = 10256
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3830
+y = 10260
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lobstrosity'
+x = 3832
+y = 10245
+plane = 1
+direction = 'NONE'

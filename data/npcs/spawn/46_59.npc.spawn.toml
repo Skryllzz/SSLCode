@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.null_6111'
+x = 2950
+y = 3820
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid_7995'
+x = 2954
+y = 3818
+plane = 0
+direction = 'NORTH'

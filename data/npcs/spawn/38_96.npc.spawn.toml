@@ -1,0 +1,486 @@
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2477
+y = 6182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2477
+y = 6187
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2478
+y = 6184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2479
+y = 6183
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2479
+y = 6184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2480
+y = 6185
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2480
+y = 6187
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2481
+y = 6184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2457
+y = 6186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2458
+y = 6202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2460
+y = 6182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2462
+y = 6166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2462
+y = 6175
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2462
+y = 6188
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2464
+y = 6181
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2465
+y = 6176
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2465
+y = 6186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2466
+y = 6194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2467
+y = 6163
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2467
+y = 6169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2467
+y = 6181
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2467
+y = 6202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2469
+y = 6185
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2472
+y = 6167
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2472
+y = 6193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2473
+y = 6176
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2474
+y = 6161
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2474
+y = 6169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2474
+y = 6178
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2474
+y = 6203
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2475
+y = 6166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2475
+y = 6175
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2475
+y = 6188
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2477
+y = 6185
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2477
+y = 6204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2478
+y = 6163
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2480
+y = 6197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2481
+y = 6187
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2482
+y = 6166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2482
+y = 6202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2483
+y = 6193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2483
+y = 6195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2484
+y = 6169
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2485
+y = 6173
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2485
+y = 6177
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2486
+y = 6206
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2488
+y = 6167
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2488
+y = 6179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2489
+y = 6172
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2489
+y = 6199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2490
+y = 6182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2490
+y = 6192
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2491
+y = 6193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2491
+y = 6198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2491
+y = 6204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2492
+y = 6185
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_4561'
+x = 2492
+y = 6202
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2475
+y = 6204
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2476
+y = 6202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2477
+y = 6206
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2478
+y = 6199
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2479
+y = 6198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2480
+y = 6202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2481
+y = 6204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2482
+y = 6190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2482
+y = 6191
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2483
+y = 6190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2483
+y = 6198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2483
+y = 6199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2484
+y = 6197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2485
+y = 6190
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2485
+y = 6204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2486
+y = 6190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2486
+y = 6204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2487
+y = 6200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2488
+y = 6199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2488
+y = 6200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2488
+y = 6202
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2489
+y = 6194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2491
+y = 6196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider_8978'
+x = 2492
+y = 6200
+plane = 0
+direction = 'NONE'

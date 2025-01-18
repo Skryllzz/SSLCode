@@ -1,0 +1,306 @@
+[[spawns]]
+id = 'npc.guard_11092'
+x = 1786
+y = 3775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1786
+y = 3747
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1789
+y = 3717
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1753
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1770
+y = 3738
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1749
+y = 3733
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1752
+y = 3761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1783
+y = 3719
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1791
+y = 3737
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1749
+y = 3731
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1749
+y = 3758
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1784
+y = 3721
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1785
+y = 3755
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swarm'
+x = 1747
+y = 3774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swarm'
+x = 1783
+y = 3714
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swarm'
+x = 1788
+y = 3756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swarm'
+x = 1789
+y = 3729
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swarm'
+x = 1750
+y = 3745
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swarm'
+x = 1764
+y = 3734
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swarm'
+x = 1765
+y = 3762
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swarm'
+x = 1764
+y = 3732
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.patrolman'
+x = 1748
+y = 3766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.patrolman_6974'
+x = 1759
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.patrolman_6975'
+x = 1764
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.patrolwoman'
+x = 1768
+y = 3758
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.patrolman_6977'
+x = 1766
+y = 3773
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.patrolwoman_6978'
+x = 1778
+y = 3731
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.patrolman_6979'
+x = 1744
+y = 3727
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.patrolman_6980'
+x = 1777
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.patrolman_6980'
+x = 1780
+y = 3731
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poor_looking_man'
+x = 1785
+y = 3755
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poor_looking_man_6983'
+x = 1781
+y = 3720
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poor_looking_man_6983'
+x = 1782
+y = 3719
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poor_looking_man_6983'
+x = 1785
+y = 3758
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poor_looking_woman'
+x = 1791
+y = 3721
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poor_looking_woman_6985'
+x = 1791
+y = 3722
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_6987'
+x = 1751
+y = 3750
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.man_6987'
+x = 1749
+y = 3761
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6988'
+x = 1754
+y = 3748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6989'
+x = 1775
+y = 3732
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.woman_6990'
+x = 1749
+y = 3751
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6990'
+x = 1769
+y = 3751
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6991'
+x = 1775
+y = 3733
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1755
+y = 3751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1748
+y = 3732
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_6994'
+x = 1751
+y = 3738
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_6994'
+x = 1764
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_6995'
+x = 1766
+y = 3732
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_6995'
+x = 1773
+y = 3756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mugger_6996'
+x = 1774
+y = 3740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kenelme'
+x = 1783
+y = 3758
+plane = 0
+direction = 'NORTH'

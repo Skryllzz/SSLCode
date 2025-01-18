@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2409
+y = 9786
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2412
+y = 9784
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2415
+y = 9786
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2426
+y = 9773
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2426
+y = 9782
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2429
+y = 9770
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2429
+y = 9786
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2430
+y = 9775
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fire_giant_2081'
+x = 2392
+y = 9785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2081'
+x = 2395
+y = 9771
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2081'
+x = 2400
+y = 9777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2081'
+x = 2410
+y = 9777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2082'
+x = 2391
+y = 9781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2082'
+x = 2399
+y = 9770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2082'
+x = 2402
+y = 9780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2082'
+x = 2412
+y = 9774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2083'
+x = 2394
+y = 9778
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2083'
+x = 2401
+y = 9784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2083'
+x = 2403
+y = 9769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fire_giant_2083'
+x = 2415
+y = 9772
+plane = 0
+direction = 'NONE'

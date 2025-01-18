@@ -1,0 +1,234 @@
+[[spawns]]
+id = 'npc.crow'
+x = 1307
+y = 3705
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crow_2072'
+x = 1292
+y = 3709
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_bear'
+x = 1319
+y = 3710
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1294
+y = 3706
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1303
+y = 3709
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1285
+y = 3664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1293
+y = 3665
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1311
+y = 3669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1317
+y = 3682
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1318
+y = 3674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1325
+y = 3669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1331
+y = 3691
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1331
+y = 3694
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1334
+y = 3691
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1337
+y = 3687
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1339
+y = 3683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_8563'
+x = 1339
+y = 3691
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1282
+y = 3664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1285
+y = 3661
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1318
+y = 3677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1321
+y = 3674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1329
+y = 3688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1333
+y = 3684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_8564'
+x = 1333
+y = 3688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1286
+y = 3650
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1286
+y = 3651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1287
+y = 3650
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1287
+y = 3651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1308
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1308
+y = 3673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1308
+y = 3674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1309
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1309
+y = 3673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_frog'
+x = 1309
+y = 3674
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ekans_chan'
+x = 1319
+y = 3673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8599'
+x = 1293
+y = 3698
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_8599'
+x = 1294
+y = 3696
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sergeant_8600'
+x = 1291
+y = 3696
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ranger_8601'
+x = 1289
+y = 3695
+plane = 0
+direction = 'SOUTH'

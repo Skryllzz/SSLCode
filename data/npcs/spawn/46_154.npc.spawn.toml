@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.goblin_cook'
+x = 2982
+y = 9909
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_cook_4851'
+x = 2980
+y = 9871
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.bat'
+x = 2759
+y = 4498
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2761
+y = 4495
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bat'
+x = 2762
+y = 4500
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2782
+y = 4491
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 2783
+y = 4487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bat'
+x = 2792
+y = 4488
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2787
+y = 4503
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2789
+y = 4499
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2798
+y = 4531
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2800
+y = 4526
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2803
+y = 4526
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.corpse'
+x = 2762
+y = 4509
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2767
+y = 4523
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.corpse'
+x = 2769
+y = 4501
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.corpse'
+x = 2769
+y = 4517
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.corpse'
+x = 2773
+y = 4515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2773
+y = 4532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2783
+y = 4494
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.corpse'
+x = 2789
+y = 4516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2792
+y = 4490
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2795
+y = 4496
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.corpse'
+x = 2804
+y = 4525
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.corpse'
+x = 2806
+y = 4502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2807
+y = 4513
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.corpse'
+x = 2808
+y = 4518
+plane = 0
+direction = 'EAST'

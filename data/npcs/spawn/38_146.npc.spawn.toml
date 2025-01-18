@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.zogre'
+x = 2484
+y = 9392
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_867'
+x = 2459
+y = 9394
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2466
+y = 9389
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_869'
+x = 2477
+y = 9384
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_870'
+x = 2485
+y = 9398
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2453
+y = 9393
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2461
+y = 9403
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2464
+y = 9380
+plane = 2
+direction = 'NONE'

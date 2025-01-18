@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.null_2020'
+x = 2648
+y = 4514
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2021'
+x = 2648
+y = 4519
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.mishkalun_dorn'
+x = 3183
+y = 5205
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dakhthoulan_aegis'
+x = 3159
+y = 5212
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.silas_dahcsnu'
+x = 3175
+y = 5217
+plane = 0
+direction = 'NONE'

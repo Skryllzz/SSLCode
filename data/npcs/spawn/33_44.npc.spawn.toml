@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2133
+y = 2873
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2146
+y = 2832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2127
+y = 2842
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2146
+y = 2859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2167
+y = 2862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 2157
+y = 2824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2113
+y = 2859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2139
+y = 2836
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2147
+y = 2877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2165
+y = 2816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2167
+y = 2846
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2152
+y = 2825
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2153
+y = 2829
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2155
+y = 2827
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2161
+y = 2818
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2163
+y = 2823
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2165
+y = 2819
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.null_1996'
+x = 3245
+y = 9647
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3209
+y = 9618
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3211
+y = 9621
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3216
+y = 9616
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3216
+y = 9624
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4507'
+x = 3210
+y = 9623
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_5325'
+x = 3231
+y = 9610
+plane = 0
+direction = 'NORTH'

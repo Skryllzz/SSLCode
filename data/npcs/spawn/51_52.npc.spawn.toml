@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.null_10627'
+x = 3279
+y = 3360
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.da_vinci_1104'
+x = 3272
+y = 3389
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chancy_1106'
+x = 3271
+y = 3388
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hops_1108'
+x = 3268
+y = 3389
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.julie'
+x = 3281
+y = 3383
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guidor'
+x = 3284
+y = 3382
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.unicorn'
+x = 3283
+y = 3355
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 3286
+y = 3349
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_bear'
+x = 3296
+y = 3347
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2862'
+x = 3264
+y = 3383
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2862'
+x = 3292
+y = 3377
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3266
+y = 3381
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.stray_dog'
+x = 3277
+y = 3381
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3073'
+x = 3311
+y = 3375
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_burgiss'
+x = 3267
+y = 3333
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ali_the_leaflet_dropper'
+x = 3284
+y = 3328
+plane = 0
+direction = 'NONE'

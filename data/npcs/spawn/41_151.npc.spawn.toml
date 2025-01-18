@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2641
+y = 9698
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2645
+y = 9711
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2669
+y = 9681
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2673
+y = 9678
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2680
+y = 9701
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 2631
+y = 9695
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 2647
+y = 9701
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 2647
+y = 9716
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2857'
+x = 2636
+y = 9697
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2857'
+x = 2644
+y = 9708
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.giant_rat_2857'
+x = 2651
+y = 9700
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2858'
+x = 2642
+y = 9712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2858'
+x = 2644
+y = 9696
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_49'
+x = 2676
+y = 9687
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_50'
+x = 2676
+y = 9684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_51'
+x = 2675
+y = 9680
+plane = 0
+direction = 'NONE'

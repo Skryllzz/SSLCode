@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.bartender_1320'
+x = 2940
+y = 4678
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.watchtower_wizard'
+x = 2933
+y = 4716
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.wizard_4398'
+x = 2928
+y = 4717
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_4399'
+x = 2928
+y = 4712
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_4400'
+x = 2933
+y = 4712
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_5382'
+x = 2934
+y = 4700
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_captain'
+x = 2935
+y = 4678
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_5421'
+x = 2924
+y = 4702
+plane = 0
+direction = 'NORTH'

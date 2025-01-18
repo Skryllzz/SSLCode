@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2337
+y = 3311
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2337
+y = 3314
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2338
+y = 3310
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2341
+y = 3309
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2342
+y = 3311
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2343
+y = 3309
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2344
+y = 3318
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2345
+y = 3310
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2345
+y = 3312
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 2350
+y = 3310
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2311
+y = 3271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2317
+y = 3271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2320
+y = 3266
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2335
+y = 3276
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2339
+y = 3272
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2339
+y = 3279
+plane = 0
+direction = 'NONE'

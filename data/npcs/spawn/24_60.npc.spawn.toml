@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.ice_spider_10722'
+x = 1550
+y = 3887
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider_10722'
+x = 1555
+y = 3884
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider_10722'
+x = 1558
+y = 3890
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ice_spider_10722'
+x = 1560
+y = 3887
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11142'
+x = 1541
+y = 3886
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 1552
+y = 3881
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant'
+x = 1554
+y = 3889
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant_2086'
+x = 1562
+y = 3887
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant_2087'
+x = 1551
+y = 3885
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant_2087'
+x = 1557
+y = 3894
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_710'
+x = 1580
+y = 3901
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_711'
+x = 1586
+y = 3898
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_712'
+x = 1579
+y = 3891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 1585
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7896'
+x = 1545
+y = 3895
+plane = 0
+direction = 'NONE'

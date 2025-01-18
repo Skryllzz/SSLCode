@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.revenant_pyrefiend'
+x = 3254
+y = 10140
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_hellhound'
+x = 3246
+y = 10175
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_ork'
+x = 3218
+y = 10133
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_dark_beast'
+x = 3207
+y = 10164
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,162 @@
+[[spawns]]
+id = 'npc.dwarf_1401'
+x = 1485
+y = 3832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1403'
+x = 1520
+y = 3810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1405'
+x = 1497
+y = 3832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1405'
+x = 1530
+y = 3830
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1406'
+x = 1487
+y = 3810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1407'
+x = 1517
+y = 3834
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1408'
+x = 1527
+y = 3831
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bat'
+x = 1495
+y = 3835
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1499
+y = 3810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1499
+y = 3831
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1501
+y = 3816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1502
+y = 3833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1506
+y = 3834
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1507
+y = 3816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1508
+y = 3810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 1478
+y = 3833
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1507
+y = 3788
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1531
+y = 3805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 1530
+y = 3789
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2862'
+x = 1532
+y = 3804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1482
+y = 3808
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1487
+y = 3782
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1487
+y = 3813
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1498
+y = 3833
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1503
+y = 3835
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6786'
+x = 1485
+y = 3834
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8627'
+x = 1517
+y = 3834
+plane = 0
+direction = 'NONE'

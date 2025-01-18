@@ -1,0 +1,318 @@
+[[spawns]]
+id = 'npc.mercenary_captain'
+x = 3270
+y = 3029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_siad'
+x = 3291
+y = 3032
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf'
+x = 3265
+y = 3066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf'
+x = 3267
+y = 3066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf'
+x = 3310
+y = 3068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf'
+x = 3322
+y = 3011
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf'
+x = 3322
+y = 3052
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf'
+x = 3324
+y = 3030
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4650'
+x = 3264
+y = 3008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4650'
+x = 3266
+y = 3008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4650'
+x = 3285
+y = 3066
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4650'
+x = 3322
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4650'
+x = 3323
+y = 3055
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4650'
+x = 3325
+y = 3010
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3266
+y = 3010
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3267
+y = 3068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3287
+y = 3065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3287
+y = 3067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3310
+y = 3070
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3312
+y = 3068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3320
+y = 3054
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3324
+y = 3013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_wolf_4651'
+x = 3325
+y = 3033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ugthanki'
+x = 3268
+y = 3052
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ugthanki'
+x = 3281
+y = 3056
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ugthanki'
+x = 3307
+y = 3055
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ugthanki'
+x = 3318
+y = 3020
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ugthanki'
+x = 3318
+y = 3040
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_driver'
+x = 3287
+y = 3022
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mercenary'
+x = 3270
+y = 3027
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mercenary_4657'
+x = 3269
+y = 3031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mercenary_4658'
+x = 3266
+y = 3027
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mercenary_4659'
+x = 3265
+y = 3031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4660'
+x = 3280
+y = 3026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4660'
+x = 3303
+y = 3035
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4661'
+x = 3288
+y = 3018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4661'
+x = 3302
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4662'
+x = 3301
+y = 3022
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4663'
+x = 3296
+y = 3018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4664'
+x = 3291
+y = 3035
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_4665'
+x = 3287
+y = 3030
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4665'
+x = 3286
+y = 3036
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4666'
+x = 3277
+y = 3030
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4667'
+x = 3276
+y = 3026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4669'
+x = 3296
+y = 3026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.male_slave_4670'
+x = 3294
+y = 3016
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3287
+y = 3016
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.male_slave_4671'
+x = 3303
+y = 3016
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3292
+y = 3016
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3300
+y = 3016
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.female_slave_4672'
+x = 3304
+y = 3022
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.female_slave_4673'
+x = 3285
+y = 3016
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6232'
+x = 3303
+y = 3025
+plane = 0
+direction = 'EAST'

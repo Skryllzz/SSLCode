@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.cosmic_being'
+x = 2090
+y = 4829
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1836'
+x = 2058
+y = 4828
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1836'
+x = 2099
+y = 4833
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1837'
+x = 2065
+y = 4834
+plane = 2
+direction = 'NONE'

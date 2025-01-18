@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3348
+y = 10075
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3351
+y = 10084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3353
+y = 10080
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3357
+y = 10076
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3360
+y = 10081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3364
+y = 10074
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3364
+y = 10079
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3369
+y = 10068
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3370
+y = 10064
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7864'
+x = 3372
+y = 10066
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ice_giant_7878'
+x = 3334
+y = 10060
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_giant_7878'
+x = 3350
+y = 10052
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant_7879'
+x = 3333
+y = 10052
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant_7879'
+x = 3342
+y = 10056
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_giant_7880'
+x = 3336
+y = 10056
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_giant_7880'
+x = 3345
+y = 10052
+plane = 0
+direction = 'SOUTH'

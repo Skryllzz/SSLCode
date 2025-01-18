@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.fishing_spot_10515'
+x = 2278
+y = 2976
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10515'
+x = 2286
+y = 2974
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2289
+y = 2955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2302
+y = 2965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2278
+y = 2956
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2247
+y = 2964
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2254
+y = 2967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2259
+y = 2958
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrefiend'
+x = 2262
+y = 2961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 2255
+y = 2961
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pyrefiend_434'
+x = 2257
+y = 2965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 2253
+y = 2958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_435'
+x = 2260
+y = 2964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 2251
+y = 2966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrefiend_436'
+x = 2252
+y = 2960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrelord'
+x = 2259
+y = 2961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyrelord_6795'
+x = 2250
+y = 2962
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pyrelord_6795'
+x = 2256
+y = 2958
+plane = 0
+direction = 'NONE'

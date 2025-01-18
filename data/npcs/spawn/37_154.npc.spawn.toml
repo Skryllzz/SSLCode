@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.null_2020'
+x = 2392
+y = 9890
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2021'
+x = 2392
+y = 9895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bonzara'
+x = 2415
+y = 9910
+plane = 0
+direction = 'NONE'

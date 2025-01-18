@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 3019
+y = 3760
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 3019
+y = 3766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 3021
+y = 3755
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 3025
+y = 3763
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.null_1117'
+x = 2022
+y = 4616
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1117'
+x = 2024
+y = 4620
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1136'
+x = 2000
+y = 4611
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_1136'
+x = 2026
+y = 4613
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_1143'
+x = 2008
+y = 4613
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1148'
+x = 2023
+y = 4612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1988
+y = 4659
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1988
+y = 4664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1990
+y = 4651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1992
+y = 4656
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1993
+y = 4632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1994
+y = 4647
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1994
+y = 4660
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1995
+y = 4650
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1996
+y = 4664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 1999
+y = 4638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2000
+y = 4645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2020
+y = 4659
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2021
+y = 4664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2023
+y = 4655
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2024
+y = 4661
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2028
+y = 4660
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2029
+y = 4664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2032
+y = 4657
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_beast'
+x = 2033
+y = 4662
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4262'
+x = 2043
+y = 4632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4262'
+x = 2044
+y = 4644
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4267'
+x = 2036
+y = 4641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4267'
+x = 2039
+y = 4636
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6287'
+x = 2036
+y = 4630
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9235'
+x = 2044
+y = 4628
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_9236'
+x = 2037
+y = 4636
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9236'
+x = 2038
+y = 4644
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9236'
+x = 2041
+y = 4638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9236'
+x = 2044
+y = 4642
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9237'
+x = 2036
+y = 4633
+plane = 0
+direction = 'EAST'

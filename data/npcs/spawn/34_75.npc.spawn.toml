@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.ghost'
+x = 2188
+y = 4855
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost'
+x = 2193
+y = 4845
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost'
+x = 2216
+y = 4829
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_86'
+x = 2192
+y = 4852
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_86'
+x = 2218
+y = 4818
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_87'
+x = 2197
+y = 4849
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_87'
+x = 2227
+y = 4819
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_88'
+x = 2210
+y = 4824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_88'
+x = 2218
+y = 4843
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghost_89'
+x = 2206
+y = 4824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_89'
+x = 2223
+y = 4848
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_90'
+x = 2198
+y = 4825
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_90'
+x = 2225
+y = 4850
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghost_91'
+x = 2194
+y = 4824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_91'
+x = 2226
+y = 4855
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_92'
+x = 2190
+y = 4820
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ghost_92'
+x = 2218
+y = 4837
+plane = 0
+direction = 'NORTH'

@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.svidi'
+x = 2714
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 2708
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 2730
+y = 3659
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn_foal'
+x = 2707
+y = 3670
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn_foal'
+x = 2710
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn_foal'
+x = 2728
+y = 3661
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn_foal'
+x = 2732
+y = 3659
+plane = 0
+direction = 'NONE'

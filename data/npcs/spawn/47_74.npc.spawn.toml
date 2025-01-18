@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.eye'
+x = 3024
+y = 4770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eye'
+x = 3051
+y = 4790
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eye_6480'
+x = 3027
+y = 4786
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eye_6480'
+x = 3051
+y = 4771
+plane = 0
+direction = 'NONE'

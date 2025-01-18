@@ -1,0 +1,132 @@
+[[spawns]]
+id = 'npc.necromancer'
+x = 2671
+y = 3240
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bonafido'
+x = 2650
+y = 3227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blackeye'
+x = 2645
+y = 3229
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.no_fingers'
+x = 2645
+y = 3224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gummy'
+x = 2645
+y = 3230
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_guns'
+x = 2643
+y = 3226
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2625
+y = 3203
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2625
+y = 3217
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2629
+y = 3233
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2630
+y = 3210
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2632
+y = 3202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2633
+y = 3222
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2633
+y = 3243
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2639
+y = 3206
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 2639
+y = 3230
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.invrigar_the_necromancer'
+x = 2667
+y = 3241
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6154'
+x = 2639
+y = 3219
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6155'
+x = 2648
+y = 3217
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6156'
+x = 2640
+y = 3221
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6157'
+x = 2638
+y = 3220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6158'
+x = 2640
+y = 3220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.irwin_feaselbaum'
+x = 2666
+y = 3246
+plane = 0
+direction = 'NONE'

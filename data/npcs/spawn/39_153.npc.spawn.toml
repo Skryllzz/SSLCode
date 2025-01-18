@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.butterfly'
+x = 2540
+y = 9820
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2543
+y = 9813
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 2546
+y = 9817
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie'
+x = 2540
+y = 9823
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_29'
+x = 2533
+y = 9842
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_30'
+x = 2540
+y = 9843
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_50'
+x = 2542
+y = 9840
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.zombie_51'
+x = 2546
+y = 9842
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton'
+x = 2538
+y = 9816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2529
+y = 9841
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 2543
+y = 9847
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 2545
+y = 9822
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_80'
+x = 2540
+y = 9813
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_81'
+x = 2530
+y = 9846
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.moss_guardian'
+x = 2528
+y = 9843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_guardian'
+x = 2541
+y = 9845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_guardian'
+x = 2542
+y = 9819
+plane = 0
+direction = 'NONE'

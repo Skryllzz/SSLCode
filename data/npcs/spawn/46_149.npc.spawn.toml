@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.mugger'
+x = 2993
+y = 9545
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mugger'
+x = 2995
+y = 9548
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mugger'
+x = 2997
+y = 9544
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mugger'
+x = 2999
+y = 9550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2984
+y = 9575
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2986
+y = 9582
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2990
+y = 9571
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2991
+y = 9583
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2995
+y = 9576
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2997
+y = 9569
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2998
+y = 9572
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 2999
+y = 9584
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3000
+y = 9579
+plane = 0
+direction = 'SOUTH'

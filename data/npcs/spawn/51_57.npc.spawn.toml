@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.hill_giant'
+x = 3300
+y = 3649
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2100'
+x = 3307
+y = 3669
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_salamander'
+x = 3292
+y = 3675
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_salamander'
+x = 3293
+y = 3667
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_salamander'
+x = 3296
+y = 3675
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_salamander'
+x = 3298
+y = 3666
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_salamander'
+x = 3298
+y = 3671
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_salamander'
+x = 3298
+y = 3679
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 3272
+y = 3664
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_86'
+x = 3278
+y = 3663
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.larran'
+x = 3280
+y = 3657
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_87'
+x = 3282
+y = 3662
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_90'
+x = 3279
+y = 3654
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_91'
+x = 3288
+y = 3650
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_92'
+x = 3290
+y = 3653
+plane = 0
+direction = 'SOUTH'

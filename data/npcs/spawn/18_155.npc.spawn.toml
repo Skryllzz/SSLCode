@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.lizard_7597'
+x = 1167
+y = 9930
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizard_7597'
+x = 1177
+y = 9941
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lizard_7597'
+x = 1201
+y = 9973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnosi'
+x = 1168
+y = 9940
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.historian_duffy'
+x = 1171
+y = 9935
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian_8021'
+x = 1174
+y = 9939
+plane = 0
+direction = 'NONE'

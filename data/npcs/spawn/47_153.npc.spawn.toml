@@ -1,0 +1,192 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3026
+y = 9837
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3033
+y = 9827
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3042
+y = 9818
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3043
+y = 9815
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3010
+y = 9813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3013
+y = 9811
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3014
+y = 9814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3017
+y = 9819
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3017
+y = 9851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3018
+y = 9809
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3018
+y = 9814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3018
+y = 9835
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3019
+y = 9845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3020
+y = 9849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3022
+y = 9851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3023
+y = 9820
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3025
+y = 9828
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3026
+y = 9833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3028
+y = 9816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3034
+y = 9848
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3037
+y = 9844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3044
+y = 9830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3048
+y = 9823
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3050
+y = 9813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3050
+y = 9827
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3051
+y = 9817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3053
+y = 9826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf'
+x = 3054
+y = 9821
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3039
+y = 9802
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3042
+y = 9793
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3042
+y = 9800
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drogo_dwarf'
+x = 3036
+y = 9846
+plane = 0
+direction = 'NONE'

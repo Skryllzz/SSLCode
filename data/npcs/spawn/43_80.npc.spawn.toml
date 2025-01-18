@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.sophanem_guard'
+x = 2767
+y = 5133
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sophanem_guard'
+x = 2801
+y = 5162
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sophanem_guard_3883'
+x = 2764
+y = 5133
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sophanem_guard_3883'
+x = 2798
+y = 5162
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_3887'
+x = 2798
+y = 5171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_3888'
+x = 2799
+y = 5171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_3888'
+x = 2800
+y = 5171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6511'
+x = 2801
+y = 5171
+plane = 0
+direction = 'SOUTH'

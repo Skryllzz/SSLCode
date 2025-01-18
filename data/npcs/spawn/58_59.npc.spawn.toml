@@ -1,0 +1,114 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3712
+y = 3839
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gull'
+x = 3714
+y = 3798
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3728
+y = 3785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3773
+y = 3838
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cormorant'
+x = 3761
+y = 3835
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pelican'
+x = 3767
+y = 3831
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7497'
+x = 3720
+y = 3812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_7754'
+x = 3715
+y = 3832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shop_keeper_7769'
+x = 3726
+y = 3816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_collector'
+x = 3736
+y = 3805
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dog_7771'
+x = 3739
+y = 3805
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.peter'
+x = 3714
+y = 3804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charles_7773'
+x = 3737
+y = 3824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.john_7774'
+x = 3753
+y = 3802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mattimeo'
+x = 3761
+y = 3828
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.john_7790'
+x = 3732
+y = 3812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.david_7791'
+x = 3735
+y = 3815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7819'
+x = 3723
+y = 3784
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7820'
+x = 3723
+y = 3785
+plane = 1
+direction = 'NONE'

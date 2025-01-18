@@ -1,0 +1,576 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3222
+y = 3316
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc._1172'
+x = 3252
+y = 3275
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc._1172'
+x = 3254
+y = 3272
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 3229
+y = 3296
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 3230
+y = 3298
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 3230
+y = 3299
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 3231
+y = 3300
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 3234
+y = 3297
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 3235
+y = 3298
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 3237
+y = 3323
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 3225
+y = 3300
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 3226
+y = 3296
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 3228
+y = 3297
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 3228
+y = 3299
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 3231
+y = 3297
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 3232
+y = 3299
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 3233
+y = 3294
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seth_groats'
+x = 3223
+y = 3293
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.duck'
+x = 3211
+y = 3322
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3214
+y = 3314
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3214
+y = 3318
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3216
+y = 3314
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3218
+y = 3287
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3223
+y = 3281
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3231
+y = 3271
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3233
+y = 3267
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3233
+y = 3270
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 3235
+y = 3265
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 3214
+y = 3313
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 3214
+y = 3320
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 3215
+y = 3303
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 3219
+y = 3285
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 3219
+y = 3288
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 3234
+y = 3267
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 3234
+y = 3268
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_2003'
+x = 3226
+y = 3283
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.duck_2003'
+x = 3229
+y = 3280
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake'
+x = 3228
+y = 3282
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crow'
+x = 3258
+y = 3317
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crow_2070'
+x = 3260
+y = 3317
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crow_2071'
+x = 3258
+y = 3315
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vasquen'
+x = 3226
+y = 3311
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2695'
+x = 3205
+y = 3266
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2786'
+x = 3202
+y = 3271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2787'
+x = 3210
+y = 3274
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cow'
+x = 3203
+y = 3286
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3206
+y = 3290
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3211
+y = 3291
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3247
+y = 3284
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3250
+y = 3293
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3252
+y = 3288
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3254
+y = 3267
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cow'
+x = 3258
+y = 3265
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 3261
+y = 3282
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3201
+y = 3295
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3202
+y = 3289
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3208
+y = 3294
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3244
+y = 3283
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3244
+y = 3289
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3246
+y = 3293
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3255
+y = 3278
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3257
+y = 3286
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3261
+y = 3292
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 3262
+y = 3277
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 3247
+y = 3287
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 3256
+y = 3273
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 3261
+y = 3289
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3200
+y = 3284
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3204
+y = 3293
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3204
+y = 3298
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3209
+y = 3288
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3209
+y = 3300
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3243
+y = 3295
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3252
+y = 3282
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3256
+y = 3292
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3259
+y = 3295
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 3261
+y = 3270
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3200
+y = 3299
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3205
+y = 3285
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3207
+y = 3299
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3247
+y = 3279
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3254
+y = 3291
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3257
+y = 3280
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3261
+y = 3273
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 3262
+y = 3287
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.goblin_3029'
+x = 3217
+y = 3278
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3030'
+x = 3215
+y = 3276
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.farmer'
+x = 3227
+y = 3290
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_3243'
+x = 3233
+y = 3308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_3244'
+x = 3262
+y = 3325
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_3245'
+x = 3250
+y = 3310
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4515'
+x = 3230
+y = 3285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gillie_groats'
+x = 3254
+y = 3274
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 3214
+y = 3281
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 3240
+y = 3307
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6219'
+x = 3224
+y = 3286
+plane = 0
+direction = 'EAST'

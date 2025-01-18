@@ -1,0 +1,408 @@
+[[spawns]]
+id = 'npc.mogre_guard'
+x = 2968
+y = 9523
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mogre_guard'
+x = 2969
+y = 9512
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mogre_guard'
+x = 2980
+y = 9511
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mogre_guard'
+x = 2990
+y = 9519
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nung'
+x = 2975
+y = 9512
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4819'
+x = 2972
+y = 9516
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4819'
+x = 2978
+y = 9518
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper'
+x = 2948
+y = 9522
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper'
+x = 2949
+y = 9525
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper'
+x = 2951
+y = 9522
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper'
+x = 2952
+y = 9528
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper'
+x = 2953
+y = 9523
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper'
+x = 2954
+y = 9530
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper_4821'
+x = 2949
+y = 9528
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mudskipper_4821'
+x = 2952
+y = 9525
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2972
+y = 9519
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2975
+y = 9518
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2976
+y = 9516
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2977
+y = 9520
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2977
+y = 9522
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2981
+y = 9517
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2983
+y = 9519
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_4822'
+x = 2984
+y = 9516
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish'
+x = 2972
+y = 9497
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish'
+x = 2983
+y = 9494
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4824'
+x = 2970
+y = 9492
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4824'
+x = 2978
+y = 9495
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4825'
+x = 2968
+y = 9487
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4825'
+x = 2984
+y = 9499
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4826'
+x = 2963
+y = 9492
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4827'
+x = 2976
+y = 9490
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4827'
+x = 2980
+y = 9485
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4828'
+x = 2964
+y = 9485
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4828'
+x = 2988
+y = 9497
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4829'
+x = 2976
+y = 9485
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4829'
+x = 2983
+y = 9487
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4830'
+x = 2959
+y = 9485
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4830'
+x = 2978
+y = 9481
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4831'
+x = 2959
+y = 9495
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4831'
+x = 2981
+y = 9493
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4832'
+x = 2986
+y = 9494
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4833'
+x = 2963
+y = 9498
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4833'
+x = 2974
+y = 9492
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4834'
+x = 2975
+y = 9498
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4834'
+x = 2986
+y = 9487
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4835'
+x = 2969
+y = 9494
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4836'
+x = 2958
+y = 9500
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4836'
+x = 2962
+y = 9503
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4837'
+x = 2960
+y = 9500
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4837'
+x = 2972
+y = 9494
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4838'
+x = 2963
+y = 9488
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4838'
+x = 2975
+y = 9495
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4839'
+x = 2964
+y = 9496
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4839'
+x = 2964
+y = 9502
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4840'
+x = 2978
+y = 9498
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4840'
+x = 2992
+y = 9485
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4841'
+x = 2971
+y = 9486
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4841'
+x = 2983
+y = 9490
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4842'
+x = 2962
+y = 9480
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4842'
+x = 2988
+y = 9492
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4843'
+x = 2958
+y = 9490
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4843'
+x = 2981
+y = 9482
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4844'
+x = 2967
+y = 9498
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4844'
+x = 2972
+y = 9500
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4845'
+x = 2973
+y = 9490
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4845'
+x = 2993
+y = 9498
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4846'
+x = 2957
+y = 9503
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fish_4846'
+x = 2984
+y = 9496
+plane = 1
+direction = 'NONE'

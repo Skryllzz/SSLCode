@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.dark_kebbit'
+x = 2374
+y = 3575
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_kebbit'
+x = 2380
+y = 3581
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dashing_kebbit'
+x = 2375
+y = 3578
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortoise'
+x = 2416
+y = 3527
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortoise'
+x = 2424
+y = 3529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortoise_6076'
+x = 2410
+y = 3528
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trainer_nacklepen'
+x = 2421
+y = 3525
+plane = 0
+direction = 'NONE'

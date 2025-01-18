@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.darren'
+x = 3016
+y = 3947
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3039
+y = 3950
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3039
+y = 3955
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3039
+y = 3958
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3040
+y = 3955
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3041
+y = 3950
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3041
+y = 3951
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3041
+y = 3953
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3041
+y = 3956
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3043
+y = 3950
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3043
+y = 3951
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3043
+y = 3956
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pirate_523'
+x = 3043
+y = 3958
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6105'
+x = 3022
+y = 3946
+plane = 0
+direction = 'NONE'

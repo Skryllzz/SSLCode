@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.squirrel'
+x = 2249
+y = 2807
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 2262
+y = 2789
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 2278
+y = 2790
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 2282
+y = 2797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 2289
+y = 2801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2242
+y = 2788
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2252
+y = 2786
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2261
+y = 2791
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2273
+y = 2798
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2276
+y = 2792
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2277
+y = 2812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2281
+y = 2815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2282
+y = 2791
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2283
+y = 2805
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2285
+y = 2785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2287
+y = 2796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks'
+x = 2290
+y = 2789
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 2257
+y = 2791
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 2267
+y = 2792
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 2286
+y = 2792
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sandy_rocks_7207'
+x = 2297
+y = 2785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_8733'
+x = 2275
+y = 2804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_8733'
+x = 2283
+y = 2812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_8733'
+x = 2291
+y = 2786
+plane = 0
+direction = 'NONE'

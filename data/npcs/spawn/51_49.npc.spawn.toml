@@ -1,0 +1,264 @@
+[[spawns]]
+id = 'npc.ferryman_sathwood'
+x = 3271
+y = 3144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1528'
+x = 3267
+y = 3148
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1528'
+x = 3276
+y = 3140
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sorceress'
+x = 3319
+y = 3138
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.apprentice'
+x = 3321
+y = 3139
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_1984'
+x = 3271
+y = 3159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shop_keeper_2817'
+x = 3316
+y = 3184
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shop_assistant_2818'
+x = 3316
+y = 3182
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.zeke'
+x = 3288
+y = 3190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.louie_legs'
+x = 3316
+y = 3175
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.karim'
+x = 3272
+y = 3182
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ranael'
+x = 3316
+y = 3164
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dommik'
+x = 3322
+y = 3194
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3319
+y = 3139
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3322
+y = 3141
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3324
+y = 3138
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3292
+y = 3142
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_3090'
+x = 3267
+y = 3164
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_3090'
+x = 3267
+y = 3167
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_3090'
+x = 3267
+y = 3169
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_3091'
+x = 3267
+y = 3166
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_3091'
+x = 3267
+y = 3168
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.man_3106'
+x = 3284
+y = 3199
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3107'
+x = 3294
+y = 3196
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.man_3108'
+x = 3303
+y = 3199
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ellis'
+x = 3276
+y = 3193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_3261'
+x = 3277
+y = 3187
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3282
+y = 3176
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3284
+y = 3170
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3284
+y = 3174
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3288
+y = 3168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3292
+y = 3169
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3295
+y = 3168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3301
+y = 3170
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3301
+y = 3174
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.al_kharid_warrior'
+x = 3301
+y = 3177
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.chancellor_hassan'
+x = 3302
+y = 3163
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bigredjapan'
+x = 3302
+y = 3192
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.al_the_camel'
+x = 3274
+y = 3167
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6165'
+x = 3286
+y = 3180
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6552'
+x = 3299
+y = 3190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6553'
+x = 3306
+y = 3197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6555'
+x = 3297
+y = 3193
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_9392'
+x = 3278
+y = 3155
+plane = 0
+direction = 'NONE'

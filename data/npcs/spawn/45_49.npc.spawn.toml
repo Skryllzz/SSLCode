@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.fishing_spot_1521'
+x = 2923
+y = 3179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1521'
+x = 2924
+y = 3181
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1521'
+x = 2926
+y = 3180
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1522'
+x = 2923
+y = 3180
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1522'
+x = 2925
+y = 3181
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1522'
+x = 2926
+y = 3179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shop_keeper_2825'
+x = 2902
+y = 3146
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shop_assistant_2826'
+x = 2902
+y = 3150
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2881
+y = 3157
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2889
+y = 3146
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.man_3110'
+x = 2889
+y = 3173
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.zambo'
+x = 2925
+y = 3143
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.luthas'
+x = 2939
+y = 3154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6543'
+x = 2904
+y = 3178
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6544'
+x = 2907
+y = 3174
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6545'
+x = 2906
+y = 3172
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7325'
+x = 2920
+y = 3143
+plane = 0
+direction = 'EAST'

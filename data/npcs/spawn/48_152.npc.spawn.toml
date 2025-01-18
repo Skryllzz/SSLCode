@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3093
+y = 9754
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3099
+y = 9755
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3099
+y = 9765
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3101
+y = 9748
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3103
+y = 9764
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3104
+y = 9760
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3111
+y = 9752
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3113
+y = 9754
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3116
+y = 9754
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3110
+y = 9745
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3111
+y = 9746
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3112
+y = 9748
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3112
+y = 9749
+plane = 0
+direction = 'SOUTH'

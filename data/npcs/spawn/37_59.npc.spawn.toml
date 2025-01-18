@@ -1,0 +1,270 @@
+[[spawns]]
+id = 'npc.king_gjuki_sorvott_iv'
+x = 2407
+y = 3802
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hrh_hrafn'
+x = 2408
+y = 3802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thorkel_silkbeard'
+x = 2409
+y = 3804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mord_gunnars_1940'
+x = 2421
+y = 3781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hring_hring'
+x = 2398
+y = 3798
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.flosi_dalksson'
+x = 2418
+y = 3813
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.raum_urdastein'
+x = 2396
+y = 3798
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skuli_myrka'
+x = 2394
+y = 3805
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.keepa_kettilon'
+x = 2417
+y = 3817
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1946'
+x = 2416
+y = 3799
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_1947'
+x = 2372
+y = 3801
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1949'
+x = 2408
+y = 3806
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guard_1950'
+x = 2387
+y = 3797
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_1950'
+x = 2387
+y = 3800
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_1950'
+x = 2411
+y = 3795
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_1950'
+x = 2414
+y = 3795
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_1950'
+x = 2414
+y = 3824
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guard_1950'
+x = 2417
+y = 3824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.freygerd'
+x = 2390
+y = 3801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lensa'
+x = 2412
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vanligga_gastfrihet'
+x = 2404
+y = 3813
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sassilik'
+x = 2402
+y = 3802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_1993'
+x = 2392
+y = 3800
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_1993'
+x = 2409
+y = 3820
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_1993'
+x = 2412
+y = 3801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eric_1997'
+x = 2403
+y = 3809
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gruva_patrull'
+x = 2398
+y = 3814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brendt'
+x = 2408
+y = 3815
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.grundt'
+x = 2406
+y = 3816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5820'
+x = 2401
+y = 3781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5820'
+x = 2414
+y = 3780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5820'
+x = 2414
+y = 3783
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5820'
+x = 2419
+y = 3789
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5820'
+x = 2424
+y = 3782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5821'
+x = 2403
+y = 3778
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5821'
+x = 2409
+y = 3780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5821'
+x = 2409
+y = 3783
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5821'
+x = 2419
+y = 3783
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_5821'
+x = 2422
+y = 3789
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_runt_5828'
+x = 2370
+y = 3833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2372
+y = 3833
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6712'
+x = 2393
+y = 3801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6712'
+x = 2405
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6712'
+x = 2413
+y = 3803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6712'
+x = 2413
+y = 3819
+plane = 0
+direction = 'NONE'

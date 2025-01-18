@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1336
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3030'
+x = 1315
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3032'
+x = 1324
+y = 3484
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3033'
+x = 1304
+y = 3479
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3034'
+x = 1326
+y = 3491
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3035'
+x = 1303
+y = 3486
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_3035'
+x = 1314
+y = 3477
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1320
+y = 3462
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1343
+y = 3475
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 1328
+y = 3469
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 1338
+y = 3472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.big_frog'
+x = 1308
+y = 3494
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 1310
+y = 3510
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 1311
+y = 3498
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 1311
+y = 3519
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 1313
+y = 3504
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_479'
+x = 1280
+y = 3501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_479'
+x = 1282
+y = 3499
+plane = 0
+direction = 'NONE'

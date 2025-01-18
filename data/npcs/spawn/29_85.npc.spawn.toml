@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.egg_launcher'
+x = 1877
+y = 5474
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.egg_launcher'
+x = 1896
+y = 5474
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.major_attack'
+x = 1882
+y = 5477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.major_collect'
+x = 1891
+y = 5477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.major_defend'
+x = 1891
+y = 5466
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.major_heal'
+x = 1882
+y = 5466
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penance_fighter'
+x = 1880
+y = 5486
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penance_ranger'
+x = 1874
+y = 5485
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penance_runner'
+x = 1898
+y = 5485
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penance_healer'
+x = 1892
+y = 5486
+plane = 0
+direction = 'NONE'

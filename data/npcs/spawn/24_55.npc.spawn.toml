@@ -1,0 +1,228 @@
+[[spawns]]
+id = 'npc.blair'
+x = 1565
+y = 3570
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.daryl'
+x = 1539
+y = 3556
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.oswald'
+x = 1550
+y = 3562
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sheryl'
+x = 1551
+y = 3566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_11045'
+x = 1552
+y = 3568
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_11046'
+x = 1548
+y = 3568
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_11047'
+x = 1548
+y = 3566
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.drunken_soldier'
+x = 1550
+y = 3565
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.elijah'
+x = 1568
+y = 3550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_11053'
+x = 1550
+y = 3542
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_11054'
+x = 1560
+y = 3561
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_11058'
+x = 1536
+y = 3580
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11092'
+x = 1553
+y = 3533
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11094'
+x = 1546
+y = 3549
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11094'
+x = 1558
+y = 3580
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11098'
+x = 1538
+y = 3563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11098'
+x = 1548
+y = 3530
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_11100'
+x = 1560
+y = 3549
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11102'
+x = 1557
+y = 3532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.head_guard_11103'
+x = 1551
+y = 3534
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11104'
+x = 1536
+y = 3574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11104'
+x = 1554
+y = 3528
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11106'
+x = 1559
+y = 3557
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11123'
+x = 1591
+y = 3528
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_11132'
+x = 1579
+y = 3528
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11133'
+x = 1590
+y = 3528
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11135'
+x = 1593
+y = 3532
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_11136'
+x = 1589
+y = 3530
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6987'
+x = 1536
+y = 3562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6988'
+x = 1553
+y = 3550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6989'
+x = 1558
+y = 3564
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1544
+y = 3562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.briget'
+x = 1567
+y = 3545
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_7463'
+x = 1581
+y = 3563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_7463'
+x = 1584
+y = 3566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_7463'
+x = 1585
+y = 3566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7596'
+x = 1543
+y = 3571
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.amelia'
+x = 1540
+y = 3543
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,276 @@
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2694
+y = 9995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2698
+y = 9992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2699
+y = 10001
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_410'
+x = 2701
+y = 9996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kurask_411'
+x = 2694
+y = 9999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2738
+y = 10008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2740
+y = 10003
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2740
+y = 10014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2742
+y = 10008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2743
+y = 10018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2745
+y = 10002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2746
+y = 10006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.basilisk_417'
+x = 2746
+y = 10015
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_427'
+x = 2718
+y = 10006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_428'
+x = 2721
+y = 10003
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_428'
+x = 2722
+y = 10008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_428'
+x = 2723
+y = 9994
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2717
+y = 10007
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2718
+y = 10008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2720
+y = 10003
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2721
+y = 10009
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2721
+y = 10014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2723
+y = 10002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2723
+y = 10010
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2724
+y = 9996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_429'
+x = 2725
+y = 9995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2719
+y = 10011
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2724
+y = 10013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2725
+y = 10012
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2726
+y = 10010
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2726
+y = 10013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2727
+y = 9995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2727
+y = 10011
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2728
+y = 9996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turoth_430'
+x = 2728
+y = 9997
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly'
+x = 2699
+y = 10029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_438'
+x = 2701
+y = 10023
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_438'
+x = 2703
+y = 10031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_439'
+x = 2706
+y = 10029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_440'
+x = 2708
+y = 10027
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_440'
+x = 2711
+y = 10029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_441'
+x = 2701
+y = 10027
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_441'
+x = 2708
+y = 10024
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_442'
+x = 2703
+y = 10025
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_442'
+x = 2704
+y = 10028
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jelly_7518'
+x = 2706
+y = 9984
+plane = 0
+direction = 'NONE'

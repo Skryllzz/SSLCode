@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.lalli'
+x = 2770
+y = 3622
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_sheep'
+x = 2763
+y = 3610
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_sheep'
+x = 2768
+y = 3610
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_sheep_805'
+x = 2764
+y = 3606
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_sheep_806'
+x = 2761
+y = 3608
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_sheep_806'
+x = 2766
+y = 3605
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_sheep_807'
+x = 2763
+y = 3612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_sheep_807'
+x = 2769
+y = 3607
+plane = 0
+direction = 'NONE'

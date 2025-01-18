@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2571
+y = 3481
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2572
+y = 3472
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2578
+y = 3476
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2586
+y = 3473
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2591
+y = 3479
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2592
+y = 3484
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2594
+y = 3474
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2610
+y = 3479
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2611
+y = 3475
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2614
+y = 3478
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.stankers'
+x = 2575
+y = 3486
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.galahad'
+x = 2612
+y = 3474
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_5186'
+x = 2572
+y = 3456
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_5187'
+x = 2560
+y = 3456
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.captain_lawgof'
+x = 2567
+y = 3460
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5192'
+x = 2564
+y = 3456
+plane = 0
+direction = 'NORTH'

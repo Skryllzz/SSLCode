@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.nimrodel'
+x = 3242
+y = 12520
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maedhros'
+x = 3225
+y = 12529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.finarfin'
+x = 3246
+y = 12536
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gwindor'
+x = 3215
+y = 12520
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eldalote'
+x = 3214
+y = 12534
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lilifang'
+x = 3232
+y = 12534
+plane = 0
+direction = 'NONE'

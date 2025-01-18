@@ -1,0 +1,156 @@
+[[spawns]]
+id = 'npc.greater_demon_2026'
+x = 2862
+y = 9751
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2028'
+x = 2861
+y = 9747
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_2048'
+x = 2837
+y = 9787
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2048'
+x = 2849
+y = 9779
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2048'
+x = 2853
+y = 9786
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2048'
+x = 2862
+y = 9776
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2049'
+x = 2849
+y = 9791
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2049'
+x = 2860
+y = 9763
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2049'
+x = 2860
+y = 9781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2049'
+x = 2869
+y = 9776
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2050'
+x = 2831
+y = 9790
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2050'
+x = 2847
+y = 9784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2050'
+x = 2854
+y = 9781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2050'
+x = 2863
+y = 9769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2050'
+x = 2875
+y = 9776
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2051'
+x = 2826
+y = 9791
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_2051'
+x = 2842
+y = 9786
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_2051'
+x = 2858
+y = 9772
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_2051'
+x = 2871
+y = 9783
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_2052'
+x = 2854
+y = 9776
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2052'
+x = 2866
+y = 9783
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_64'
+x = 2842
+y = 9766
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.zombie_65'
+x = 2843
+y = 9761
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_66'
+x = 2849
+y = 9763
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_67'
+x = 2846
+y = 9756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_68'
+x = 2846
+y = 9760
+plane = 0
+direction = 'NONE'

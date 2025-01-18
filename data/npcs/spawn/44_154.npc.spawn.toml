@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.cart_conductor_2390'
+x = 2874
+y = 9872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_ninto'
+x = 2869
+y = 9877
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.holoy'
+x = 2865
+y = 9871
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2822
+y = 9901
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2836
+y = 9905
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2838
+y = 9917
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2847
+y = 9919
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2848
+y = 9912
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2860
+y = 9874
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2860
+y = 9877
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2862
+y = 9874
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2862
+y = 9877
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2867
+y = 9879
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2868
+y = 9874
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2869
+y = 9879
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2870
+y = 9874
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2869
+y = 9912
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khorvak_a_dwarven_engineer'
+x = 2864
+y = 9876
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6254'
+x = 2865
+y = 9876
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6255'
+x = 2865
+y = 9877
+plane = 0
+direction = 'NORTH'

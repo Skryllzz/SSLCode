@@ -1,0 +1,162 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3087
+y = 3352
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_2831'
+x = 3110
+y = 3366
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3099
+y = 3366
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3101
+y = 3355
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 3075
+y = 3366
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 3135
+y = 3340
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.veronica'
+x = 3110
+y = 3330
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.professor_oddenstein'
+x = 3110
+y = 3367
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_3565'
+x = 3110
+y = 3367
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4408'
+x = 3093
+y = 3357
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4410'
+x = 3099
+y = 3370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3103
+y = 3347
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3107
+y = 3337
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3107
+y = 3342
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3107
+y = 3344
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3108
+y = 3346
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3111
+y = 3339
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3111
+y = 3348
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3115
+y = 3344
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3120
+y = 3344
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4418'
+x = 3122
+y = 3335
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_473'
+x = 3094
+y = 3356
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_474'
+x = 3098
+y = 3359
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_505'
+x = 3101
+y = 3356
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_506'
+x = 3108
+y = 3358
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_507'
+x = 3123
+y = 3356
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6132'
+x = 3072
+y = 3336
+plane = 0
+direction = 'NONE'

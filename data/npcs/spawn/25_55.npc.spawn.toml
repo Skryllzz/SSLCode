@@ -1,0 +1,276 @@
+[[spawns]]
+id = 'npc.guard_11092'
+x = 1655
+y = 3524
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11096'
+x = 1653
+y = 3522
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11102'
+x = 1660
+y = 3522
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.head_guard_11103'
+x = 1655
+y = 3529
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1626
+y = 3522
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1635
+y = 3544
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1638
+y = 3535
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1640
+y = 3526
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1645
+y = 3547
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1648
+y = 3528
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1655
+y = 3534
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1660
+y = 3548
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_1854'
+x = 1624
+y = 3570
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_1854'
+x = 1633
+y = 3537
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly_1854'
+x = 1636
+y = 3546
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_1854'
+x = 1637
+y = 3529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crow_2070'
+x = 1646
+y = 3524
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crow_2074'
+x = 1635
+y = 3523
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 1637
+y = 3568
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 1642
+y = 3568
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 1650
+y = 3565
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2696'
+x = 1646
+y = 3565
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2696'
+x = 1650
+y = 3563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2697'
+x = 1639
+y = 3565
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2697'
+x = 1649
+y = 3567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2698'
+x = 1640
+y = 3567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2698'
+x = 1651
+y = 3568
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2699'
+x = 1648
+y = 3564
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2786'
+x = 1647
+y = 3568
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2787'
+x = 1642
+y = 3565
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer'
+x = 1644
+y = 3566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1625
+y = 3537
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1634
+y = 3532
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1634
+y = 3545
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1645
+y = 3525
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 1649
+y = 3535
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 1623
+y = 3527
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 1634
+y = 3553
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 1639
+y = 3524
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6585'
+x = 1645
+y = 3573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6989'
+x = 1630
+y = 3581
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1630
+y = 3567
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7228'
+x = 1656
+y = 3543
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gruff_mcscruff'
+x = 1643
+y = 3573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_7464'
+x = 1644
+y = 3558
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rod_fishing_spot_7464'
+x = 1650
+y = 3558
+plane = 0
+direction = 'NONE'

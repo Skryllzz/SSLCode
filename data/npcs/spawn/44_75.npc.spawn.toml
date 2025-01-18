@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2823
+y = 4827
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2847
+y = 4814
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2847
+y = 4849
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2858
+y = 4831
+plane = 0
+direction = 'NORTH'

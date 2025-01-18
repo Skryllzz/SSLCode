@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.chicken'
+x = 2691
+y = 3273
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 2695
+y = 3274
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2691
+y = 3277
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2692
+y = 3271
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ezekial_lovecraft'
+x = 2732
+y = 3290
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_5064'
+x = 2710
+y = 3283
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.caroline'
+x = 2716
+y = 3302
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_5071'
+x = 2720
+y = 3306
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6242'
+x = 2740
+y = 3310
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6243'
+x = 2711
+y = 3292
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6244'
+x = 2722
+y = 3283
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6245'
+x = 2715
+y = 3278
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6245'
+x = 2721
+y = 3292
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6246'
+x = 2716
+y = 3289
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6246'
+x = 2733
+y = 3284
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6247'
+x = 2728
+y = 3274
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6247'
+x = 2737
+y = 3300
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6248'
+x = 2716
+y = 3278
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6248'
+x = 2722
+y = 3292
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6249'
+x = 2706
+y = 3285
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6249'
+x = 2717
+y = 3289
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6249'
+x = 2734
+y = 3284
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6250'
+x = 2729
+y = 3274
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6252'
+x = 2719
+y = 3304
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6270'
+x = 2710
+y = 3281
+plane = 1
+direction = 'NONE'

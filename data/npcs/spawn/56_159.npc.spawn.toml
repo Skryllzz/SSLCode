@@ -1,0 +1,114 @@
+[[spawns]]
+id = 'npc.ice_spider'
+x = 3593
+y = 10217
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 3603
+y = 10223
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 3631
+y = 10228
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 3635
+y = 10233
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 3636
+y = 10227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3596
+y = 10195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3599
+y = 10186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3601
+y = 10200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3602
+y = 10193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3605
+y = 10215
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3608
+y = 10204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3610
+y = 10215
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3612
+y = 10210
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3623
+y = 10189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3623
+y = 10195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3624
+y = 10185
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3630
+y = 10193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ancient_wyvern'
+x = 3634
+y = 10205
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ancient_wyvern'
+x = 3634
+y = 10212
+plane = 0
+direction = 'NONE'

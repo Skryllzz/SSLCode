@@ -1,0 +1,282 @@
+[[spawns]]
+id = 'npc.null_1973'
+x = 3233
+y = 9317
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3201
+y = 9293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3205
+y = 9303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3206
+y = 9328
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3207
+y = 9310
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3211
+y = 9284
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3220
+y = 9289
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3224
+y = 9334
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3249
+y = 9286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3251
+y = 9303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3252
+y = 9327
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3252
+y = 9332
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3255
+y = 9315
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3261
+y = 9296
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_720'
+x = 3261
+y = 9306
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3205
+y = 9329
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3210
+y = 9292
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3221
+y = 9310
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3225
+y = 9323
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3243
+y = 9310
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3246
+y = 9290
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3255
+y = 9301
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3255
+y = 9321
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 3261
+y = 9331
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3204
+y = 9309
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3214
+y = 9333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3219
+y = 9297
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3239
+y = 9300
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3240
+y = 9286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3240
+y = 9330
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3245
+y = 9306
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3250
+y = 9316
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3250
+y = 9317
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 3257
+y = 9290
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3202
+y = 9283
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3206
+y = 9333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3209
+y = 9299
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3219
+y = 9301
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3226
+y = 9285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3227
+y = 9303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3228
+y = 9293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3229
+y = 9333
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3237
+y = 9293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3246
+y = 9321
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3256
+y = 9296
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3260
+y = 9285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 3262
+y = 9317
+plane = 0
+direction = 'NONE'

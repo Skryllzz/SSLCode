@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.stunted_demonic_gorilla'
+x = 2901
+y = 9122
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stunted_demonic_gorilla'
+x = 2901
+y = 9126
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.stunted_demonic_gorilla'
+x = 2910
+y = 9143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stunted_demonic_gorilla'
+x = 2914
+y = 9143
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.stunted_demonic_gorilla'
+x = 2916
+y = 9143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stunted_demonic_gorilla'
+x = 2921
+y = 9123
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stunted_demonic_gorilla'
+x = 2921
+y = 9127
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2902
+y = 9122
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2903
+y = 9127
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2903
+y = 9135
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2904
+y = 9131
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2905
+y = 9117
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2905
+y = 9123
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2905
+y = 9137
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2907
+y = 9120
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2907
+y = 9125
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2907
+y = 9129
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2908
+y = 9114
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2909
+y = 9117
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2909
+y = 9132
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2910
+y = 9124
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2911
+y = 9112
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2912
+y = 9121
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2912
+y = 9127
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2912
+y = 9137
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2913
+y = 9123
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2914
+y = 9112
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2914
+y = 9117
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2914
+y = 9130
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2915
+y = 9133
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2916
+y = 9123
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2916
+y = 9128
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2917
+y = 9115
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2919
+y = 9118
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2919
+y = 9125
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.maniacal_monkey_7212'
+x = 2920
+y = 9134
+plane = 0
+direction = 'NONE'

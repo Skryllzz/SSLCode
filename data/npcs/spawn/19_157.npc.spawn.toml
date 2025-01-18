@@ -1,0 +1,27 @@
+[[spawns]]
+id = 'npc.flower_8585'
+x = 1243
+y = 10083
+plane = 0
+direction = 'NONE'
+
+[[spawns]]
+id = 'npc.flower_8585'
+x = 1243
+y = 10091
+plane = 0
+direction = 'NONE'
+
+[[spawns]]
+id = 'npc.flower_8585'
+x = 1251
+y = 10083
+plane = 0
+direction = 'NONE'
+
+[[spawns]]
+id = 'npc.flower_8585'
+x = 1251
+y = 10091
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1865
+y = 4237
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1865
+y = 4240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1868
+y = 4243
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1869
+y = 4237
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1901
+y = 4271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1909
+y = 4271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4332'
+x = 1906
+y = 4270
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4339'
+x = 1867
+y = 4233
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4341'
+x = 1906
+y = 4281
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_pelleas_4350'
+x = 1904
+y = 4279
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_gawain_4351'
+x = 1906
+y = 4277
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_kay_4352'
+x = 1904
+y = 4274
+plane = 0
+direction = 'SOUTH'

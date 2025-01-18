@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.revenant_goblin'
+x = 3225
+y = 10070
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_hobgoblin'
+x = 3244
+y = 10101
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.revenant_ork'
+x = 3209
+y = 10097
+plane = 0
+direction = 'NONE'

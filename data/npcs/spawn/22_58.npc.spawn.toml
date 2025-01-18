@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.soldier_11072'
+x = 1465
+y = 3738
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11072'
+x = 1467
+y = 3712
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_11074'
+x = 1465
+y = 3731
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sergeant_11075'
+x = 1466
+y = 3730
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11076'
+x = 1467
+y = 3731
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_11082'
+x = 1467
+y = 3739
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11082'
+x = 1464
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11086'
+x = 1466
+y = 3713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranger_11089'
+x = 1467
+y = 3717
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ranger_11089'
+x = 1467
+y = 3720
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1446
+y = 3750
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2862'
+x = 1446
+y = 3746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 1443
+y = 3749
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1442
+y = 3771
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1453
+y = 3744
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1453
+y = 3771
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1462
+y = 3765
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_shaman'
+x = 1424
+y = 3718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.armourer_tier_1'
+x = 1453
+y = 3746
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.armourer_tier_4'
+x = 1460
+y = 3761
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_82'
+x = 1428
+y = 3774
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_83'
+x = 1424
+y = 3775
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1411
+y = 3719
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1412
+y = 3712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8567'
+x = 1412
+y = 3715
+plane = 0
+direction = 'NONE'

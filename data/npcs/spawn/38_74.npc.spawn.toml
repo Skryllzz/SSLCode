@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.frog_5431'
+x = 2463
+y = 4782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_5432'
+x = 2455
+y = 4784
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_5432'
+x = 2458
+y = 4773
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_5432'
+x = 2463
+y = 4778
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_5432'
+x = 2464
+y = 4770
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_5432'
+x = 2467
+y = 4774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_5432'
+x = 2468
+y = 4789
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_5432'
+x = 2474
+y = 4781
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.garl'
+x = 2072
+y = 5960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2070
+y = 5956
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.squire_10368'
+x = 2962
+y = 9733
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 2955
+y = 9775
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 2956
+y = 9790
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 2957
+y = 9780
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 2962
+y = 9791
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 2966
+y = 9775
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 2966
+y = 9787
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,384 @@
+[[spawns]]
+id = 'npc.patchy'
+x = 3677
+y = 2978
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1953'
+x = 3681
+y = 2963
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3682
+y = 2948
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3688
+y = 2947
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3679
+y = 2949
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bill_teach_4015'
+x = 3667
+y = 2981
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bill_teach_4016'
+x = 3683
+y = 2948
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.charley'
+x = 3673
+y = 2970
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.smith'
+x = 3689
+y = 2954
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.joe_4019'
+x = 3666
+y = 2990
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mama'
+x = 3663
+y = 2980
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mike'
+x = 3695
+y = 2978
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_4023'
+x = 3658
+y = 2952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4023'
+x = 3664
+y = 2995
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_4023'
+x = 3672
+y = 2967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4023'
+x = 3695
+y = 2950
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pirate_4023'
+x = 3695
+y = 2969
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4023'
+x = 3675
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4024'
+x = 3668
+y = 2994
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_4024'
+x = 3690
+y = 2979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4024'
+x = 3691
+y = 2984
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4024'
+x = 3670
+y = 2979
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4024'
+x = 3678
+y = 2957
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4025'
+x = 3666
+y = 2983
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_4025'
+x = 3691
+y = 2977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4025'
+x = 3665
+y = 2983
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4026'
+x = 3655
+y = 2973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4026'
+x = 3670
+y = 2983
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_4026'
+x = 3663
+y = 2978
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4027'
+x = 3667
+y = 2993
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_4027'
+x = 3676
+y = 2991
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_4027'
+x = 3697
+y = 2990
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4027'
+x = 3683
+y = 2954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_4027'
+x = 3684
+y = 2949
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_4028'
+x = 3656
+y = 2960
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_4028'
+x = 3666
+y = 2977
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pirate_4028'
+x = 3656
+y = 2992
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4028'
+x = 3666
+y = 2976
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4028'
+x = 3682
+y = 2947
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4029'
+x = 3665
+y = 2995
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_4029'
+x = 3679
+y = 2950
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4029'
+x = 3698
+y = 2997
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4030'
+x = 3671
+y = 2978
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4030'
+x = 3675
+y = 2988
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_4030'
+x = 3670
+y = 2983
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4031'
+x = 3683
+y = 2971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4031'
+x = 3664
+y = 2992
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_4031'
+x = 3676
+y = 2949
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4032'
+x = 3667
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4032'
+x = 3665
+y = 2990
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_4032'
+x = 3686
+y = 2955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4033'
+x = 3649
+y = 3004
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4034'
+x = 3653
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4035'
+x = 3660
+y = 3005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4036'
+x = 3665
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4037'
+x = 3673
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4038'
+x = 3682
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4039'
+x = 3688
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4040'
+x = 3692
+y = 3005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4041'
+x = 3701
+y = 3006
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_4042'
+x = 3710
+y = 3004
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_4054'
+x = 3682
+y = 2981
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_4054'
+x = 3682
+y = 2983
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_4055'
+x = 3682
+y = 2982
+plane = 0
+direction = 'WEST'

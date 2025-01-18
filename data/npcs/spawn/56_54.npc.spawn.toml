@@ -1,0 +1,342 @@
+[[spawns]]
+id = 'npc.spider_10443'
+x = 3597
+y = 3489
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_10443'
+x = 3611
+y = 3462
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10443'
+x = 3620
+y = 3500
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_10443'
+x = 3636
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3588
+y = 3472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3598
+y = 3509
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3599
+y = 3486
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3607
+y = 3462
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bat'
+x = 3611
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3613
+y = 3482
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3627
+y = 3511
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3628
+y = 3473
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3636
+y = 3466
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bat'
+x = 3639
+y = 3510
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3588
+y = 3461
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3589
+y = 3493
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3590
+y = 3509
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3596
+y = 3476
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3599
+y = 3483
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3607
+y = 3460
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.leech'
+x = 3613
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3614
+y = 3515
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.leech'
+x = 3620
+y = 3472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3623
+y = 3504
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3626
+y = 3475
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.leech'
+x = 3626
+y = 3491
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.leech'
+x = 3629
+y = 3511
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.leech'
+x = 3633
+y = 3463
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.leech'
+x = 3644
+y = 3498
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3585
+y = 3478
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3586
+y = 3480
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3586
+y = 3496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3592
+y = 3477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3593
+y = 3458
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3593
+y = 3508
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3595
+y = 3491
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3597
+y = 3479
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3607
+y = 3466
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3617
+y = 3477
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3618
+y = 3514
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3631
+y = 3471
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3631
+y = 3499
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3632
+y = 3459
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3632
+y = 3475
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3638
+y = 3472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3646
+y = 3467
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3586
+y = 3482
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3596
+y = 3477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3600
+y = 3506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3607
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3610
+y = 3465
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3613
+y = 3491
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3617
+y = 3514
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3619
+y = 3502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3628
+y = 3476
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3629
+y = 3509
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tree'
+x = 3630
+y = 3489
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 2010
+y = 4710
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 2010
+y = 4714
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.koftik'
+x = 2012
+y = 4713
+plane = 1
+direction = 'NONE'

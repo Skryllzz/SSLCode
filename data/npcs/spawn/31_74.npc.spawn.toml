@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.mime'
+x = 2011
+y = 4762
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.strange_watcher'
+x = 2015
+y = 4756
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.strange_watcher_333'
+x = 2012
+y = 4754
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.strange_watcher_334'
+x = 2006
+y = 4755
+plane = 0
+direction = 'NORTH'

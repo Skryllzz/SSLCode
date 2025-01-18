@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2713
+y = 4438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2716
+y = 4443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2719
+y = 4442
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2724
+y = 4442
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2728
+y = 4445
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2729
+y = 4447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2735
+y = 4435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2738
+y = 4439
+plane = 0
+direction = 'NONE'

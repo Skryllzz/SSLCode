@@ -1,0 +1,8 @@
+
+[[spawns]]
+id = 'npc.ghost_captain'
+x = 3792
+y = 3560
+plane = 0
+direction = 'NONE'
+

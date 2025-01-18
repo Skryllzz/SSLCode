@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.rod_fishing_spot_1529'
+x = 3350
+y = 9567
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1529'
+x = 3354
+y = 9566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1529'
+x = 3356
+y = 9566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1529'
+x = 3360
+y = 9567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1529'
+x = 3362
+y = 9588
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1529'
+x = 3371
+y = 9576
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1529'
+x = 3371
+y = 9578
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nirrie'
+x = 3367
+y = 9586
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.tirrie'
+x = 3368
+y = 9587
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hallak'
+x = 3368
+y = 9585
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_4765'
+x = 3379
+y = 9556
+plane = 0
+direction = 'NONE'

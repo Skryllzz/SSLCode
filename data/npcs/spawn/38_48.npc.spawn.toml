@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.postie_pete'
+x = 2445
+y = 3097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4729'
+x = 2460
+y = 3108
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lanthus'
+x = 2441
+y = 3089
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2455
+y = 3084
+plane = 0
+direction = 'NONE'

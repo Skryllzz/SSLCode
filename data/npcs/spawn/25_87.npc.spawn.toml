@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1651
+y = 5594
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1651
+y = 5600
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1651
+y = 5606
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1652
+y = 5612
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1653
+y = 5590
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1654
+y = 5598
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1654
+y = 5601
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1655
+y = 5610
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1655
+y = 5614
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1656
+y = 5591
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1657
+y = 5594
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1657
+y = 5599
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 1657
+y = 5605
+plane = 2
+direction = 'SOUTH'

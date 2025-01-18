@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.alry_the_angler'
+x = 1367
+y = 3632
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1355
+y = 3638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1357
+y = 3630
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1359
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1355
+y = 3621
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1357
+y = 3631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1354
+y = 3633
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1362
+y = 3624
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1355
+y = 3627
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1382
+y = 3633
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1381
+y = 3629
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1358
+y = 3631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1360
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1355
+y = 3626
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1355
+y = 3634
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1363
+y = 3623
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1358
+y = 3640
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1381
+y = 3631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1356
+y = 3628
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1360
+y = 3624
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8523'
+x = 1354
+y = 3640
+plane = 0
+direction = 'NONE'

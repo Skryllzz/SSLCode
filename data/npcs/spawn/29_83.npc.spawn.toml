@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.pirate_pete_3389'
+x = 1862
+y = 5347
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain_dwarf'
+x = 1862
+y = 5345
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.general_wartface_3391'
+x = 1862
+y = 5351
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.general_bentnoze_3392'
+x = 1862
+y = 5349
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lumbridge_guide_3393'
+x = 1865
+y = 5349
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.evil_dave_3394'
+x = 1865
+y = 5347
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_amik_varze_3395'
+x = 1865
+y = 5345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.awowogei'
+x = 1865
+y = 5343
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skrach_uglogwee'
+x = 1863
+y = 5352
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.culinaromancer_4849'
+x = 1863
+y = 5317
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6256'
+x = 1866
+y = 5327
+plane = 0
+direction = 'EAST'

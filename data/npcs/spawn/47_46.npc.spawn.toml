@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.crab_10563'
+x = 3012
+y = 2985
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_10563'
+x = 3013
+y = 2982
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_10563'
+x = 3014
+y = 2984
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_10563'
+x = 3024
+y = 2980
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.crab_10563'
+x = 3038
+y = 3005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_10563'
+x = 3041
+y = 3004
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_10563'
+x = 3047
+y = 2959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3010
+y = 2967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3012
+y = 3002
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gull'
+x = 3013
+y = 2977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3019
+y = 2947
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3049
+y = 2950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3051
+y = 3002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3053
+y = 2995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3055
+y = 2953
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3055
+y = 2999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3063
+y = 2966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3068
+y = 2989
+plane = 0
+direction = 'NONE'

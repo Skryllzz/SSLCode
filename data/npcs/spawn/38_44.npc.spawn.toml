@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.alec_kincade'
+x = 2458
+y = 2868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.erdan'
+x = 2463
+y = 2847
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.primula'
+x = 2454
+y = 2853
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mysterious_adventurer'
+x = 2442
+y = 2859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.haris'
+x = 2480
+y = 2875
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.altarkiz'
+x = 2492
+y = 2848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lord_marshal_brogan'
+x = 2490
+y = 2850
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.diana'
+x = 2466
+y = 2846
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jack_8037'
+x = 2448
+y = 2847
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ellen'
+x = 2466
+y = 2850
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.freja'
+x = 2454
+y = 2850
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lutwidge'
+x = 2448
+y = 2857
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dog_8041'
+x = 2457
+y = 2844
+plane = 0
+direction = 'NONE'

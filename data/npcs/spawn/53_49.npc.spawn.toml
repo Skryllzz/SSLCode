@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.goat_1795'
+x = 3438
+y = 3153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1795'
+x = 3440
+y = 3152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1796'
+x = 3438
+y = 3152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1796'
+x = 3439
+y = 3154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat_1797'
+x = 3437
+y = 3154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_phoenix'
+x = 3414
+y = 3156
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3395
+y = 3143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3396
+y = 3158
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3400
+y = 3149
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3404
+y = 3144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3406
+y = 3152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golden_warbler'
+x = 3408
+y = 3147
+plane = 0
+direction = 'NONE'

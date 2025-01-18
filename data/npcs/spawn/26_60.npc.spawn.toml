@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.bat'
+x = 1675
+y = 3877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1678
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1691
+y = 3855
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1701
+y = 3862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1714
+y = 3888
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1721
+y = 3855
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1724
+y = 3890
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1673
+y = 3861
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1700
+y = 3857
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1709
+y = 3860
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyss'
+x = 1713
+y = 3883
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_74'
+x = 1686
+y = 3880
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_75'
+x = 1692
+y = 3878
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_75'
+x = 1716
+y = 3878
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_76'
+x = 1703
+y = 3880
+plane = 0
+direction = 'SOUTH'

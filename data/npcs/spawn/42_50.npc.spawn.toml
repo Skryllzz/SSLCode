@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.moss_giant'
+x = 2698
+y = 3206
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 2692
+y = 3204
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 2695
+y = 3216
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 2691
+y = 3215
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2093'
+x = 2699
+y = 3212
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2715
+y = 3218
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2719
+y = 3223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2720
+y = 3212
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2722
+y = 3220
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2724
+y = 3215
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2729
+y = 3224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2733
+y = 3225
+plane = 0
+direction = 'NONE'

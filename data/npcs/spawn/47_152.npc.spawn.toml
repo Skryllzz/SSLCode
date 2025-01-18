@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3038
+y = 9771
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3039
+y = 9790
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3041
+y = 9781
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3044
+y = 9787
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3045
+y = 9777
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3046
+y = 9767
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3047
+y = 9784
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3049
+y = 9777
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3054
+y = 9773
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3056
+y = 9778
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 3040
+y = 9775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 3048
+y = 9770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_6561'
+x = 3059
+y = 9768
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_7712'
+x = 3045
+y = 9758
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_7714'
+x = 3020
+y = 9734
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_7715'
+x = 3044
+y = 9730
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hendor'
+x = 3032
+y = 9748
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.yarsul'
+x = 3030
+y = 9746
+plane = 0
+direction = 'NORTH'

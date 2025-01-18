@@ -1,0 +1,132 @@
+[[spawns]]
+id = 'npc.monkey_guard_7122'
+x = 2068
+y = 5402
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7123'
+x = 2069
+y = 5386
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7124'
+x = 2082
+y = 5400
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monkey_guard_7125'
+x = 2070
+y = 5408
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7126'
+x = 2067
+y = 5420
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_guard_7127'
+x = 2083
+y = 5413
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_guard_7128'
+x = 2083
+y = 5411
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_guard_7129'
+x = 2078
+y = 5409
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7130'
+x = 2067
+y = 5393
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monkey_guard_7131'
+x = 2067
+y = 5420
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monkey_guard_7132'
+x = 2089
+y = 5408
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7133'
+x = 2098
+y = 5403
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_guard_7134'
+x = 2098
+y = 5395
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_guard_7135'
+x = 2097
+y = 5425
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monkey_guard_7136'
+x = 2067
+y = 5420
+plane = 3
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monkey_guard_7137'
+x = 2069
+y = 5408
+plane = 3
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7138'
+x = 2080
+y = 5408
+plane = 3
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7139'
+x = 2098
+y = 5403
+plane = 3
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_guard_7140'
+x = 2084
+y = 5388
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_guard_7141'
+x = 2088
+y = 5385
+plane = 3
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_guard_7142'
+x = 2097
+y = 5388
+plane = 3
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_guard_7143'
+x = 2099
+y = 5425
+plane = 1
+direction = 'WEST'

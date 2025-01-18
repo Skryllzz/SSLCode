@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.pentyn'
+x = 3091
+y = 9324
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6144'
+x = 3104
+y = 9307
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6145'
+x = 3091
+y = 9307
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6146'
+x = 3115
+y = 9323
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6147'
+x = 3104
+y = 9286
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6148'
+x = 3105
+y = 9297
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6151'
+x = 3127
+y = 9325
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6152'
+x = 3102
+y = 9311
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6153'
+x = 3108
+y = 9320
+plane = 2
+direction = 'NONE'

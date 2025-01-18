@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.null_10710'
+x = 2011
+y = 4830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10710'
+x = 2011
+y = 4830
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10711'
+x = 2011
+y = 4818
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10711'
+x = 2011
+y = 4818
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_284'
+x = 2020
+y = 4816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 2014
+y = 4818
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 2014
+y = 4832
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 2018
+y = 4831
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_285'
+x = 2023
+y = 4820
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.murphy_5609'
+x = 2013
+y = 4825
+plane = 0
+direction = 'NORTH'

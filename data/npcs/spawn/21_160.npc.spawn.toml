@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.orrvor_quo_maten'
+x = 1348
+y = 10243
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1348
+y = 10242
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.alchemical_hydra'
+x = 1364
+y = 10265
+plane = 0
+direction = 'SOUTH'

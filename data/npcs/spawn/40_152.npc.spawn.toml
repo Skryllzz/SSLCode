@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2581
+y = 9738
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2581
+y = 9742
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2584
+y = 9734
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2585
+y = 9738
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2587
+y = 9733
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2587
+y = 9740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2590
+y = 9737
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2563
+y = 9753
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2565
+y = 9754
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2567
+y = 9752
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2569
+y = 9753
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2572
+y = 9752
+plane = 0
+direction = 'SOUTH'

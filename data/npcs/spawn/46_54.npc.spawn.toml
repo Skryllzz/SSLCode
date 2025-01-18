@@ -1,0 +1,306 @@
+[[spawns]]
+id = 'npc.null_10639'
+x = 2996
+y = 3495
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10643'
+x = 2994
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10646'
+x = 2993
+y = 3494
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10649'
+x = 2995
+y = 3491
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1965'
+x = 2955
+y = 3510
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.black_bear'
+x = 2966
+y = 3456
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_bear'
+x = 2967
+y = 3480
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_bear'
+x = 2973
+y = 3482
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_bear'
+x = 2979
+y = 3501
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 3006
+y = 3458
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 2995
+y = 3468
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 2998
+y = 3465
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3001
+y = 3470
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3003
+y = 3483
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3004
+y = 3496
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3005
+y = 3473
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3005
+y = 3480
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3005
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3005
+y = 3501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.icefiend_4813'
+x = 3006
+y = 3468
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drain_pipe'
+x = 2966
+y = 3466
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.miazrqa'
+x = 2967
+y = 3473
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6275'
+x = 2970
+y = 3473
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6276'
+x = 2968
+y = 3468
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin'
+x = 2955
+y = 3507
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin'
+x = 2964
+y = 3511
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_656'
+x = 2969
+y = 3489
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_657'
+x = 2954
+y = 3500
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_657'
+x = 2962
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_657'
+x = 2965
+y = 3494
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_658'
+x = 2951
+y = 3501
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goblin_658'
+x = 2952
+y = 3507
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.goblin_659'
+x = 2951
+y = 3483
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goblin_659'
+x = 2953
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_659'
+x = 2957
+y = 3492
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_659'
+x = 2958
+y = 3497
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_660'
+x = 2951
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_661'
+x = 2959
+y = 3499
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_662'
+x = 2952
+y = 3510
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_663'
+x = 2957
+y = 3508
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_664'
+x = 2957
+y = 3482
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_664'
+x = 2958
+y = 3507
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.goblin_665'
+x = 2957
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_665'
+x = 2963
+y = 3514
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_667'
+x = 2954
+y = 3491
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_667'
+x = 2956
+y = 3500
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_668'
+x = 2951
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_668'
+x = 2954
+y = 3503
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.goblin_668'
+x = 2955
+y = 3496
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.general_bentnoze'
+x = 2958
+y = 3511
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.general_wartface'
+x = 2957
+y = 3511
+plane = 0
+direction = 'NONE'

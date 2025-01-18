@@ -1,0 +1,156 @@
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2885
+y = 3944
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2886
+y = 3945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2884
+y = 3966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2901
+y = 3963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2907
+y = 3965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2924
+y = 3964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2926
+y = 3965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2938
+y = 3964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2940
+y = 3954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2941
+y = 3961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2942
+y = 3944
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2943
+y = 3949
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2943
+y = 3953
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2885
+y = 3966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2899
+y = 3964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2905
+y = 3963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2924
+y = 3965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2939
+y = 3963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2941
+y = 3951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2882
+y = 3917
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2884
+y = 3955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2893
+y = 3949
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2917
+y = 3941
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.root'
+x = 2884
+y = 3939
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.icicle'
+x = 2881
+y = 3931
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.driftwood'
+x = 2888
+y = 3922
+plane = 0
+direction = 'NONE'

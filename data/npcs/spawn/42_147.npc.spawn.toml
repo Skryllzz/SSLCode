@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2704
+y = 9431
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2704
+y = 9457
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2705
+y = 9424
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2714
+y = 9420
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2714
+y = 9449
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2714
+y = 9460
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2722
+y = 9424
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2724
+y = 9435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2730
+y = 9437
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2732
+y = 9459
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2736
+y = 9424
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2738
+y = 9440
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_dragon'
+x = 2739
+y = 9450
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.steel_dragon_274'
+x = 2702
+y = 9447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_274'
+x = 2712
+y = 9435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_274'
+x = 2723
+y = 9458
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.steel_dragon_274'
+x = 2726
+y = 9445
+plane = 0
+direction = 'NONE'

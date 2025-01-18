@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.bat'
+x = 3409
+y = 9637
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3410
+y = 9640
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3411
+y = 9644
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3414
+y = 9643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3418
+y = 9642
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3419
+y = 9646
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bat'
+x = 3420
+y = 9631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3421
+y = 9629
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3423
+y = 9625
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bat'
+x = 3433
+y = 9638
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bat'
+x = 3434
+y = 9636
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3436
+y = 9636
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3410
+y = 9632
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3411
+y = 9620
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3416
+y = 9620
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 3425
+y = 9637
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_6448'
+x = 3427
+y = 9644
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_6448'
+x = 3428
+y = 9658
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_6469'
+x = 3423
+y = 9658
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.animated_spade'
+x = 3420
+y = 9657
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.animated_spade'
+x = 3429
+y = 9648
+plane = 0
+direction = 'NONE'

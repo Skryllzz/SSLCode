@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3308
+y = 3769
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3309
+y = 3765
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3310
+y = 3769
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3311
+y = 3773
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3313
+y = 3769
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3314
+y = 3772
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3317
+y = 3772
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 3272
+y = 3731
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 3274
+y = 3726
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 3280
+y = 3727
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_80'
+x = 3264
+y = 3727
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_81'
+x = 3267
+y = 3729
+plane = 0
+direction = 'NONE'

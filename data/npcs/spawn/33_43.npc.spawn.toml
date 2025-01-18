@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.fishing_spot_10513'
+x = 2162
+y = 2782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10513'
+x = 2166
+y = 2781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2169
+y = 2815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 2164
+y = 2795
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 2165
+y = 2790
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 2170
+y = 2797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 2173
+y = 2793
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2169
+y = 2792
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2173
+y = 2800
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2175
+y = 2788
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2150
+y = 2815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2166
+y = 2796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2153
+y = 2810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2172
+y = 2806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 2152
+y = 2803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2795'
+x = 2148
+y = 2804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2795'
+x = 2150
+y = 2800
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2795'
+x = 2151
+y = 2807
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2157
+y = 2804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2164
+y = 2806
+plane = 0
+direction = 'NONE'

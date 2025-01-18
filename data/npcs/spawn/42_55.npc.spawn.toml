@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.wolf'
+x = 2706
+y = 3580
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2717
+y = 3569
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc._1172'
+x = 2739
+y = 3560
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chicken'
+x = 2735
+y = 3559
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 2736
+y = 3562
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2738
+y = 3560
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1513'
+x = 2714
+y = 3532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1513'
+x = 2714
+y = 3533
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1513'
+x = 2716
+y = 3530
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1513'
+x = 2718
+y = 3529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow'
+x = 2733
+y = 3561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2720
+y = 3583
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2725
+y = 3576
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2728
+y = 3580
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2730
+y = 3571
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2730
+y = 3574
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.donovan_the_family_handyman'
+x = 2745
+y = 3576
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pierre'
+x = 2750
+y = 3576
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobbes'
+x = 2736
+y = 3575
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.louisa'
+x = 2734
+y = 3581
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mary'
+x = 2736
+y = 3576
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.stanford'
+x = 2731
+y = 3579
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guard_4218'
+x = 2741
+y = 3562
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.gossip'
+x = 2742
+y = 3555
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sinclair_guard_dog'
+x = 2750
+y = 3580
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.highwayman'
+x = 2735
+y = 3521
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.highwayman'
+x = 2749
+y = 3521
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6194'
+x = 2739
+y = 3577
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6194'
+x = 2739
+y = 3579
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6195'
+x = 2734
+y = 3575
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6196'
+x = 2748
+y = 3559
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6197'
+x = 2734
+y = 3581
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6198'
+x = 2739
+y = 3581
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6199'
+x = 2746
+y = 3581
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6200'
+x = 2742
+y = 3577
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.falo_the_bard'
+x = 2689
+y = 3550
+plane = 0
+direction = 'NORTH'

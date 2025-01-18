@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.null_1987'
+x = 2721
+y = 4910
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2714
+y = 4892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_86'
+x = 2731
+y = 4893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_87'
+x = 2712
+y = 4898
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_89'
+x = 2712
+y = 4908
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_91'
+x = 2730
+y = 4907
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_913'
+x = 2723
+y = 4897
+plane = 0
+direction = 'EAST'

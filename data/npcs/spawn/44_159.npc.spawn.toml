@@ -1,0 +1,324 @@
+[[spawns]]
+id = 'npc.dromunds_cat'
+x = 2835
+y = 10226
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vigr'
+x = 2873
+y = 10209
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.santiri'
+x = 2828
+y = 10229
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.saro'
+x = 2827
+y = 10199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gunslik'
+x = 2869
+y = 10190
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.wemund'
+x = 2870
+y = 10200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.agmundi'
+x = 2869
+y = 10211
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_2368'
+x = 2836
+y = 10205
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_2369'
+x = 2838
+y = 10205
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.librarian'
+x = 2858
+y = 10225
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.assistant'
+x = 2860
+y = 10226
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.customer'
+x = 2862
+y = 10225
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.customer_2373'
+x = 2864
+y = 10227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dromund'
+x = 2835
+y = 10225
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rind_the_gardener'
+x = 2854
+y = 10195
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.inn_keeper_2382'
+x = 2839
+y = 10195
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barman_2384'
+x = 2841
+y = 10197
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hegir'
+x = 2851
+y = 10225
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.haera'
+x = 2850
+y = 10223
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gauss'
+x = 2838
+y = 10195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myndill'
+x = 2855
+y = 10224
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.tombar'
+x = 2854
+y = 10199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.odmar'
+x = 2865
+y = 10194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.audmann'
+x = 2866
+y = 10206
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.professor_manglethorp'
+x = 2868
+y = 10198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stonemason'
+x = 2849
+y = 10184
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dwarven_engineer'
+x = 2871
+y = 10198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.purple_pewter_secretary'
+x = 2868
+y = 10194
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.yellow_fortune_secretary'
+x = 2870
+y = 10209
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.blue_opal_secretary'
+x = 2869
+y = 10205
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.purple_pewter_director_5998'
+x = 2870
+y = 10196
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.blue_opal_director_5999'
+x = 2867
+y = 10203
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.yellow_fortune_director_6000'
+x = 2868
+y = 10209
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.trader'
+x = 2877
+y = 10199
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6028'
+x = 2875
+y = 10198
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.trader_6029'
+x = 2877
+y = 10201
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6030'
+x = 2877
+y = 10202
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trader_6032'
+x = 2879
+y = 10202
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.supreme_commander'
+x = 2828
+y = 10210
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.commander_veldaban_6045'
+x = 2826
+y = 10215
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.black_guard_6047'
+x = 2822
+y = 10212
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_6048'
+x = 2828
+y = 10210
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_guard_6049'
+x = 2847
+y = 10190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_berserker_6050'
+x = 2823
+y = 10220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_berserker_6051'
+x = 2825
+y = 10209
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_guard_berserker_6052'
+x = 2827
+y = 10212
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6536'
+x = 2869
+y = 10189
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6538'
+x = 2872
+y = 10189
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6539'
+x = 2870
+y = 10190
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6540'
+x = 2878
+y = 10196
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6541'
+x = 2877
+y = 10195
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6542'
+x = 2872
+y = 10190
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6546'
+x = 2836
+y = 10192
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6547'
+x = 2835
+y = 10193
+plane = 1
+direction = 'NONE'

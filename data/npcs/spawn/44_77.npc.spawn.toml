@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.mummy_720'
+x = 2832
+y = 4959
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_721'
+x = 2838
+y = 4948
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 2858
+y = 4964
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_723'
+x = 2864
+y = 4946
+plane = 2
+direction = 'NONE'

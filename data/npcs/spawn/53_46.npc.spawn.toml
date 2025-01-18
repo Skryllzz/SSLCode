@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3403
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3429
+y = 2976
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3400
+y = 2997
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3402
+y = 2999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3403
+y = 2997
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3445
+y = 2993
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3446
+y = 2992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3448
+y = 2991
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3448
+y = 2994
+plane = 0
+direction = 'NONE'

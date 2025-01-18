@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.hill_giant_10374'
+x = 3372
+y = 3152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_10374'
+x = 3375
+y = 3144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_10374'
+x = 3376
+y = 3150
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_10374'
+x = 3380
+y = 3152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_10375'
+x = 3361
+y = 3147
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_10376'
+x = 3373
+y = 3148
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hill_giant_10376'
+x = 3379
+y = 3144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_10376'
+x = 3381
+y = 3147
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dr_ford'
+x = 3364
+y = 3171
+plane = 0
+direction = 'NONE'

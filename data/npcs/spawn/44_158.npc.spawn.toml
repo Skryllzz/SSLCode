@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.null_2432'
+x = 2842
+y = 10129
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2826
+y = 10152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2837
+y = 10148
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2854
+y = 10125
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2854
+y = 10164
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2861
+y = 10167
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2866
+y = 10126
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_292'
+x = 2872
+y = 10118
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarven_ferryman'
+x = 2839
+y = 10128
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarven_ferryman_4897'
+x = 2855
+y = 10144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miodvetnir'
+x = 2870
+y = 10140
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dernu'
+x = 2870
+y = 10139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.derni'
+x = 2870
+y = 10138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6262'
+x = 2824
+y = 10168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6263'
+x = 2873
+y = 10166
+plane = 0
+direction = 'NONE'

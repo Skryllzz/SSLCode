@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.null_6188'
+x = 3304
+y = 9196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6189'
+x = 3304
+y = 9195
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6190'
+x = 3277
+y = 9170
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6191'
+x = 3307
+y = 9196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6193'
+x = 3305
+y = 9193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6193'
+x = 3305
+y = 9197
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6193'
+x = 3308
+y = 9194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_949'
+x = 3279
+y = 9176
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_950'
+x = 3277
+y = 9186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_951'
+x = 3310
+y = 9171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_952'
+x = 3284
+y = 9189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_952'
+x = 3287
+y = 9177
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_953'
+x = 3306
+y = 9183
+plane = 0
+direction = 'NONE'

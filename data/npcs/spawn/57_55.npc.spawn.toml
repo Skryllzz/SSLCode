@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3654
+y = 3536
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3657
+y = 3534
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3666
+y = 3529
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3668
+y = 3537
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3672
+y = 3520
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_soul'
+x = 3673
+y = 3528
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pirate_pete'
+x = 3680
+y = 3537
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.andras'
+x = 3671
+y = 3543
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,306 @@
+[[spawns]]
+id = 'npc.teacher_and_pupil'
+x = 1745
+y = 4961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.teacher_and_pupil'
+x = 1759
+y = 4977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.teacher_and_pupil'
+x = 1765
+y = 4946
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl'
+x = 1733
+y = 4970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl'
+x = 1752
+y = 4977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl'
+x = 1755
+y = 4951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl'
+x = 1771
+y = 4985
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.schoolgirl'
+x = 1783
+y = 4951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy'
+x = 1736
+y = 4960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy'
+x = 1741
+y = 4970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy'
+x = 1749
+y = 4943
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy'
+x = 1753
+y = 4970
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.schoolboy'
+x = 1759
+y = 4980
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy'
+x = 1772
+y = 4970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 1742
+y = 4959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 1747
+y = 4981
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 1757
+y = 4936
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 1759
+y = 4943
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 1764
+y = 4973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 1782
+y = 4961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 1785
+y = 4970
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl_1921'
+x = 1745
+y = 4950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl_1921'
+x = 1763
+y = 4975
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.schoolgirl_1921'
+x = 1766
+y = 4964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl_1921'
+x = 1771
+y = 4939
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl_1921'
+x = 1773
+y = 4959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.teacher_and_pupil_1922'
+x = 1734
+y = 4960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.teacher_and_pupil_1922'
+x = 1760
+y = 4946
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.teacher_and_pupil_1922'
+x = 1762
+y = 4978
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.teacher_and_pupil_1922'
+x = 1779
+y = 4961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.orlando_smith'
+x = 1759
+y = 4955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian'
+x = 1758
+y = 4973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian'
+x = 1772
+y = 4980
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian_6003'
+x = 1754
+y = 4947
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian_6003'
+x = 1759
+y = 4939
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian_6004'
+x = 1771
+y = 4961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian_6004'
+x = 1775
+y = 4950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian_6005'
+x = 1737
+y = 4950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.natural_historian_6005'
+x = 1749
+y = 4961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech_display'
+x = 1742
+y = 4964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sea_slugs_display'
+x = 1781
+y = 4954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snail_display'
+x = 1774
+y = 4964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_display'
+x = 1774
+y = 4954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizard_display'
+x = 1740
+y = 4979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_display'
+x = 1742
+y = 4954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.camel_display'
+x = 1735
+y = 4964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terrorbird_display'
+x = 1752
+y = 4938
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dragon_display'
+x = 1765
+y = 4979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyvern_display'
+x = 1775
+y = 4979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.battle_tortoise_display'
+x = 1750
+y = 4979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mole_display'
+x = 1735
+y = 4954
+plane = 0
+direction = 'SOUTH'

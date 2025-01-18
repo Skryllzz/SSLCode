@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.magic_instructor'
+x = 3141
+y = 3088
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3316'
+x = 3138
+y = 3093
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3316'
+x = 3138
+y = 3095
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.chicken_3316'
+x = 3140
+y = 3093
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3316'
+x = 3140
+y = 3094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3316'
+x = 3140
+y = 3096
+plane = 0
+direction = 'WEST'

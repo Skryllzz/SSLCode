@@ -1,0 +1,570 @@
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1859
+y = 4659
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1859
+y = 4664
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1860
+y = 4612
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1861
+y = 4624
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1862
+y = 4651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1865
+y = 4656
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1866
+y = 4664
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1868
+y = 4628
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1868
+y = 4650
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1871
+y = 4614
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1871
+y = 4641
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1877
+y = 4660
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1878
+y = 4622
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4611
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4621
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1887
+y = 4648
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1890
+y = 4666
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1892
+y = 4621
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1895
+y = 4651
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1897
+y = 4632
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1899
+y = 4620
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1899
+y = 4626
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1899
+y = 4638
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1900
+y = 4666
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1905
+y = 4614
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1906
+y = 4612
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1906
+y = 4615
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1906
+y = 4638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1906
+y = 4664
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1907
+y = 4616
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1908
+y = 4612
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1908
+y = 4615
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1909
+y = 4614
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1909
+y = 4626
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1910
+y = 4657
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1911
+y = 4621
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1912
+y = 4638
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1914
+y = 4664
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1917
+y = 4614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1919
+y = 4638
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1919
+y = 4640
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1859
+y = 4653
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1860
+y = 4664
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1861
+y = 4611
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1861
+y = 4627
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1861
+y = 4637
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1865
+y = 4649
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1866
+y = 4623
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1872
+y = 4655
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1872
+y = 4664
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1873
+y = 4645
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1876
+y = 4632
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1877
+y = 4644
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1877
+y = 4659
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1879
+y = 4657
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1881
+y = 4630
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1885
+y = 4612
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4648
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4667
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1889
+y = 4629
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1895
+y = 4651
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1896
+y = 4612
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1897
+y = 4626
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1897
+y = 4633
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1909
+y = 4630
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1910
+y = 4656
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1912
+y = 4619
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1916
+y = 4612
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1859
+y = 4665
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1860
+y = 4612
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1862
+y = 4621
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1862
+y = 4640
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1863
+y = 4657
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1869
+y = 4627
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1869
+y = 4651
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1881
+y = 4646
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4612
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4623
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4647
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1886
+y = 4660
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1888
+y = 4629
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1896
+y = 4637
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1897
+y = 4629
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1897
+y = 4641
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1899
+y = 4614
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1899
+y = 4637
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1899
+y = 4664
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1900
+y = 4649
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1909
+y = 4641
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1910
+y = 4648
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1911
+y = 4626
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1911
+y = 4637
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1916
+y = 4613
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shadow_4004'
+x = 1916
+y = 4666
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6184'
+x = 1860
+y = 4641
+plane = 0
+direction = 'NONE'

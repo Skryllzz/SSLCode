@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.rogue_guard'
+x = 3018
+y = 5072
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rogue_guard_3191'
+x = 3017
+y = 5060
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spin_blades'
+x = 3044
+y = 5105
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spin_blades_3196'
+x = 3059
+y = 5090
+plane = 1
+direction = 'NONE'

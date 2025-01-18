@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3713
+y = 3492
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3714
+y = 3498
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3715
+y = 3502
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_4013'
+x = 3713
+y = 3497
+plane = 1
+direction = 'NONE'

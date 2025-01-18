@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.vulture'
+x = 3333
+y = 2864
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vulture'
+x = 3335
+y = 2860
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vulture'
+x = 3338
+y = 2864
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.simon_templeton'
+x = 3346
+y = 2826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyramid_block'
+x = 3366
+y = 2845
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pyramid_block_5788'
+x = 3372
+y = 2847
+plane = 1
+direction = 'NONE'

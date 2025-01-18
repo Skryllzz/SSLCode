@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.thug'
+x = 3160
+y = 3568
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3167
+y = 3576
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3171
+y = 3579
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3172
+y = 3561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3175
+y = 3572
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3179
+y = 3564
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3184
+y = 3580
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3189
+y = 3563
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thug'
+x = 3190
+y = 3570
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2690
+y = 9807
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2693
+y = 9816
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2695
+y = 9826
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2696
+y = 9839
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2708
+y = 9842
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2719
+y = 9845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2731
+y = 9845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2744
+y = 9840
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2745
+y = 9829
+plane = 0
+direction = 'NONE'

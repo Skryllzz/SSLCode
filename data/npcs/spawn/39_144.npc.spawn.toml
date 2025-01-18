@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2555
+y = 9261
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2557
+y = 9259
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maniacal_monkey_7118'
+x = 2559
+y = 9265
+plane = 1
+direction = 'NONE'

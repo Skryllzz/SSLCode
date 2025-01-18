@@ -1,0 +1,186 @@
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2499
+y = 5971
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2499
+y = 5993
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2531
+y = 5965
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2537
+y = 5990
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2500
+y = 6001
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2511
+y = 5977
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2520
+y = 5966
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2530
+y = 5954
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2537
+y = 5998
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2552
+y = 5992
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2503
+y = 5978
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2503
+y = 6000
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2534
+y = 5998
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2546
+y = 5964
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2547
+y = 5991
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2499
+y = 5993
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2504
+y = 5980
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2517
+y = 5992
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2519
+y = 5955
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2535
+y = 5966
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2537
+y = 5991
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2548
+y = 5961
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat_9642'
+x = 2548
+y = 5999
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9643'
+x = 2555
+y = 5984
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9643'
+x = 2511
+y = 5990
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9643'
+x = 2526
+y = 6015
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9643'
+x = 2555
+y = 5970
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9644'
+x = 2555
+y = 6000
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9644'
+x = 2499
+y = 5963
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9644'
+x = 2538
+y = 5960
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_9644'
+x = 2546
+y = 6008
+plane = 2
+direction = 'NONE'

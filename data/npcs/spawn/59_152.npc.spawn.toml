@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3784
+y = 9747
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3786
+y = 9777
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3798
+y = 9732
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3816
+y = 9732
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3826
+y = 9790
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3831
+y = 9747
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3832
+y = 9759
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.oath_lord_drows'
+x = 3809
+y = 9735
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oathbreaker_mals'
+x = 3810
+y = 9733
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oathbreaker_epiws'
+x = 3806
+y = 9734
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.oathbreaker_bats'
+x = 3807
+y = 9732
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lithil'
+x = 3790
+y = 9760
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sister_aseret'
+x = 3808
+y = 9728
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lumiere'
+x = 3826
+y = 9760
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.daer_krand'
+x = 3821
+y = 9778
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9459'
+x = 3806
+y = 9746
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_nightmare_9460'
+x = 3806
+y = 9757
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9473'
+x = 3811
+y = 9777
+plane = 1
+direction = 'NONE'

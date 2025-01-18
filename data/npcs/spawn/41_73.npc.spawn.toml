@@ -1,0 +1,318 @@
+[[spawns]]
+id = 'npc.ram_1262'
+x = 2653
+y = 4716
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ram_1263'
+x = 2658
+y = 4713
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ram_1264'
+x = 2657
+y = 4705
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1512'
+x = 2668
+y = 4710
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1512'
+x = 2673
+y = 4708
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1512'
+x = 2679
+y = 4702
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2662
+y = 4686
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2664
+y = 4682
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2666
+y = 4687
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2668
+y = 4678
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2668
+y = 4682
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2668
+y = 4688
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck'
+x = 2670
+y = 4682
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2662
+y = 4683
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2662
+y = 4685
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2663
+y = 4686
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2664
+y = 4681
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2665
+y = 4684
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2666
+y = 4679
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2666
+y = 4682
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2666
+y = 4686
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2667
+y = 4677
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2668
+y = 4679
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2668
+y = 4687
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2669
+y = 4684
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2670
+y = 4679
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2670
+y = 4681
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.duck_1839'
+x = 2670
+y = 4688
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2663
+y = 4687
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2667
+y = 4678
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ducklings'
+x = 2669
+y = 4685
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 2650
+y = 4711
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 2652
+y = 4714
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 2659
+y = 4707
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2696'
+x = 2653
+y = 4713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2697'
+x = 2657
+y = 4710
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2698'
+x = 2653
+y = 4709
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2698'
+x = 2657
+y = 4707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2699'
+x = 2659
+y = 4714
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2786'
+x = 2656
+y = 4714
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2787'
+x = 2653
+y = 4706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2631
+y = 4677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2631
+y = 4687
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2632
+y = 4682
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2638
+y = 4680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2638
+y = 4690
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2641
+y = 4686
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.king_percival'
+x = 2634
+y = 4688
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant_4061'
+x = 2637
+y = 4722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant_4061'
+x = 2648
+y = 4718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant_4061'
+x = 2649
+y = 4703
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant_4061'
+x = 2660
+y = 4721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant_4061'
+x = 2661
+y = 4698
+plane = 0
+direction = 'NONE'

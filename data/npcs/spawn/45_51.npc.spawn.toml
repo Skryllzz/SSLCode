@@ -1,0 +1,246 @@
+[[spawns]]
+id = 'npc._1172'
+x = 2920
+y = 3291
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc._1172'
+x = 2923
+y = 3285
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lil_lamb'
+x = 2927
+y = 3320
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ram_1262'
+x = 2924
+y = 3318
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ram_1262'
+x = 2924
+y = 3325
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.makeover_mage_1307'
+x = 2916
+y = 3323
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 2921
+y = 3319
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 2923
+y = 3325
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2693'
+x = 2926
+y = 3322
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2699'
+x = 2920
+y = 3320
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2699'
+x = 2922
+y = 3320
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sheep_2787'
+x = 2920
+y = 3318
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2787'
+x = 2925
+y = 3324
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow'
+x = 2917
+y = 3289
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 2925
+y = 3282
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 2926
+y = 3271
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 2936
+y = 3274
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 2921
+y = 3287
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 2933
+y = 3274
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 2920
+y = 3285
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 2924
+y = 3277
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 2924
+y = 3288
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 2930
+y = 3269
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2801'
+x = 2920
+y = 3288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_calf_2801'
+x = 2933
+y = 3276
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 2905
+y = 3295
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 2906
+y = 3288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 2912
+y = 3279
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3286'
+x = 2920
+y = 3266
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3287'
+x = 2909
+y = 3285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3287'
+x = 2915
+y = 3273
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3288'
+x = 2908
+y = 3291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3288'
+x = 2909
+y = 3282
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3288'
+x = 2917
+y = 3269
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 2909
+y = 3294
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frog_3290'
+x = 2918
+y = 3319
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4731'
+x = 2925
+y = 3303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tanner'
+x = 2934
+y = 3284
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.master_crafter'
+x = 2932
+y = 3287
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.master_crafter_5811'
+x = 2931
+y = 3280
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.master_crafter_5812'
+x = 2937
+y = 3290
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,534 @@
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1637
+y = 9991
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1638
+y = 9995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1640
+y = 9990
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1640
+y = 9997
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1641
+y = 9993
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1643
+y = 9996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1643
+y = 9999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1644
+y = 9991
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1646
+y = 9999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_7257'
+x = 1648
+y = 9996
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1603
+y = 10040
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1604
+y = 10037
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1604
+y = 10045
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1605
+y = 10032
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1606
+y = 10035
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1606
+y = 10043
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1608
+y = 10024
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1612
+y = 10024
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1615
+y = 10020
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1618
+y = 10015
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shade_7258'
+x = 1620
+y = 10017
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 1660
+y = 9999
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 1660
+y = 10001
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 1662
+y = 10002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 1656
+y = 9996
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 1659
+y = 9996
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 1662
+y = 9996
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 1662
+y = 9999
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1634
+y = 10011
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1634
+y = 10015
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1637
+y = 10008
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1638
+y = 10012
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1647
+y = 10036
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1650
+y = 10034
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1650
+y = 10038
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_7261'
+x = 1655
+y = 10038
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1638
+y = 10017
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1655
+y = 10012
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1658
+y = 10014
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_7262'
+x = 1662
+y = 10014
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_7263'
+x = 1659
+y = 10023
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_7263'
+x = 1661
+y = 10024
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_7263'
+x = 1663
+y = 10021
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_7263'
+x = 1663
+y = 10023
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_7263'
+x = 1663
+y = 10026
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_7265'
+x = 1638
+y = 10045
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_7265'
+x = 1640
+y = 10046
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_7265'
+x = 1642
+y = 10046
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_7268'
+x = 1639
+y = 10044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_7268'
+x = 1641
+y = 10044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_7268'
+x = 1637
+y = 10033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_7268'
+x = 1639
+y = 10031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_7268'
+x = 1639
+y = 10035
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.possessed_pickaxe_7268'
+x = 1641
+y = 10033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.magic_axe_7269'
+x = 1649
+y = 10017
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.magic_axe_7269'
+x = 1650
+y = 10016
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.magic_axe_7269'
+x = 1639
+y = 10033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.magic_axe_7269'
+x = 1641
+y = 10035
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_7270'
+x = 1647
+y = 10023
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_7270'
+x = 1650
+y = 10011
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_7271'
+x = 1644
+y = 10012
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cyclops_7271'
+x = 1647
+y = 10011
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cyclops_7271'
+x = 1651
+y = 10021
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cyclops_7271'
+x = 1654
+y = 10023
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.twisted_banshee'
+x = 1608
+y = 9994
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.twisted_banshee'
+x = 1608
+y = 9998
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.twisted_banshee'
+x = 1612
+y = 9998
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.twisted_banshee'
+x = 1620
+y = 9992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.twisted_banshee'
+x = 1623
+y = 9995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.twisted_banshee'
+x = 1625
+y = 9992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1625
+y = 10033
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1628
+y = 10030
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1629
+y = 10035
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1631
+y = 10032
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1633
+y = 10028
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 1634
+y = 10031
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1602
+y = 10009
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1604
+y = 10013
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1606
+y = 10009
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1606
+y = 10015
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1609
+y = 10011
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1619
+y = 10007
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1619
+y = 10010
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1621
+y = 10004
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1646
+y = 9988
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1651
+y = 9989
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1656
+y = 9987
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deviant_spectre'
+x = 1657
+y = 9990
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_7282'
+x = 1619
+y = 10014
+plane = 0
+direction = 'NONE'

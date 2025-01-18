@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.null_10638'
+x = 3003
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2965
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2970
+y = 3441
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 2980
+y = 3438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raccoon'
+x = 2973
+y = 3453
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raccoon_1420'
+x = 2977
+y = 3450
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.raccoon_1421'
+x = 2982
+y = 3444
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2998
+y = 3445
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf'
+x = 2999
+y = 3453
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3269'
+x = 2962
+y = 3398
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3269'
+x = 2964
+y = 3394
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guard_3269'
+x = 2967
+y = 3393
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.guard_3271'
+x = 2966
+y = 3396
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cuffs'
+x = 2986
+y = 3434
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.narf'
+x = 2986
+y = 3438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rusty'
+x = 2979
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jeff'
+x = 2978
+y = 3443
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3283'
+x = 2967
+y = 3452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.doric'
+x = 2952
+y = 3451
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2967
+y = 3411
+plane = 0
+direction = 'NORTH'

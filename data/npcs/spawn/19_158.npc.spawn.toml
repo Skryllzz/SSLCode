@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.garbek_quo_maten'
+x = 1276
+y = 10162
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1252
+y = 10159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1255
+y = 10147
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1259
+y = 10154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1259
+y = 10159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1266
+y = 10152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1267
+y = 10157
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wyrm'
+x = 1273
+y = 10158
+plane = 0
+direction = 'NONE'

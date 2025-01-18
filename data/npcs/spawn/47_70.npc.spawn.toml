@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.centaur'
+x = 3025
+y = 4503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.centaur_1844'
+x = 3024
+y = 4506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stag'
+x = 3037
+y = 4503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stag'
+x = 3050
+y = 4494
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wood_dryad'
+x = 3027
+y = 4520
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit'
+x = 3034
+y = 4505
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit'
+x = 3059
+y = 4503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_1853'
+x = 3032
+y = 4505
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_1853'
+x = 3045
+y = 4490
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_1854'
+x = 3025
+y = 4513
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_1855'
+x = 3031
+y = 4493
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4541'
+x = 3051
+y = 4486
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_6731'
+x = 3042
+y = 4510
+plane = 0
+direction = 'NORTH'

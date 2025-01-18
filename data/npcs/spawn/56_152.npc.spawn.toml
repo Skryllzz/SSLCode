@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.crawling_hand_448'
+x = 3609
+y = 9776
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crawling_hand_448'
+x = 3616
+y = 9751
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crawling_hand_448'
+x = 3617
+y = 9759
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crawling_hand_449'
+x = 3612
+y = 9774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crawling_hand_449'
+x = 3622
+y = 9746
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crawling_hand_450'
+x = 3608
+y = 9773
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crawling_hand_450'
+x = 3620
+y = 9755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crawling_hand_451'
+x = 3611
+y = 9771
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crawling_hand_451'
+x = 3619
+y = 9748
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crawling_hand_452'
+x = 3616
+y = 9756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3588
+y = 9736
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3592
+y = 9745
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3594
+y = 9742
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3596
+y = 9750
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3597
+y = 9735
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3599
+y = 9747
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mutated_bloodveld'
+x = 3600
+y = 9739
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8280'
+x = 3611
+y = 9737
+plane = 0
+direction = 'NONE'

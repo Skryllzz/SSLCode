@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.runa'
+x = 2528
+y = 10259
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.halla'
+x = 2506
+y = 10250
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.finn'
+x = 2508
+y = 10260
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.osvald'
+x = 2521
+y = 10251
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.runolf'
+x = 2509
+y = 10257
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tjorvi'
+x = 2523
+y = 10257
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ingrid'
+x = 2526
+y = 10263
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thora'
+x = 2531
+y = 10249
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.alviss'
+x = 2517
+y = 10263
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fullangr'
+x = 2519
+y = 10263
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jari'
+x = 2516
+y = 10262
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thorodin'
+x = 2504
+y = 10280
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ferd'
+x = 2508
+y = 10278
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.donal'
+x = 2529
+y = 10256
+plane = 0
+direction = 'NORTH'

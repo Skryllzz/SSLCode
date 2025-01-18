@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.bartender_1310'
+x = 3277
+y = 3488
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.cook_2896'
+x = 3285
+y = 3489
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.man_3014'
+x = 3277
+y = 3495
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_3015'
+x = 3279
+y = 3496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sawmill_operator'
+x = 3302
+y = 3492
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.man_3108'
+x = 3283
+y = 3501
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.woman_3112'
+x = 3278
+y = 3502
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.thief_3252'
+x = 3285
+y = 3501
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.gertrudes_cat_3497'
+x = 3306
+y = 3512
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crate'
+x = 3298
+y = 3514
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crate'
+x = 3303
+y = 3506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crate'
+x = 3305
+y = 3500
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.crate'
+x = 3307
+y = 3507
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crate'
+x = 3310
+y = 3499
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crate'
+x = 3315
+y = 3515
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.anna_jones'
+x = 3285
+y = 3468
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bench'
+x = 3285
+y = 3469
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4732'
+x = 3298
+y = 3483
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4988'
+x = 3279
+y = 3503
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.black_knight'
+x = 3277
+y = 3505
+plane = 0
+direction = 'SOUTH'

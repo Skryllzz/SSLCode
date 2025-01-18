@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.null_2021'
+x = 2897
+y = 2727
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2022'
+x = 2891
+y = 2724
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2891
+y = 2723
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2900
+y = 2739
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2902
+y = 2701
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2906
+y = 2709
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2939
+y = 2718
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_5242'
+x = 2894
+y = 2715
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.scorpion_5242'
+x = 2899
+y = 2734
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_5242'
+x = 2901
+y = 2721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_5242'
+x = 2902
+y = 2727
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2911
+y = 2718
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2913
+y = 2726
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2921
+y = 2713
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2921
+y = 2727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2927
+y = 2719
+plane = 0
+direction = 'SOUTH'

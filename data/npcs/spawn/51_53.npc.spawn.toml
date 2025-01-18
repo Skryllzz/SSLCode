@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.bartender_1311'
+x = 3268
+y = 3393
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.historian_minas'
+x = 3264
+y = 3455
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sinco_doar'
+x = 3266
+y = 3445
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tinse_torpe'
+x = 3267
+y = 3444
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.museum_guard_1911'
+x = 3295
+y = 3427
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.workman'
+x = 3326
+y = 3443
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.workman_1930'
+x = 3310
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ed_wood'
+x = 3324
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2009'
+x = 3309
+y = 3453
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_2010'
+x = 3308
+y = 3452
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.asyff'
+x = 3281
+y = 3398
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3271
+y = 3428
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3275
+y = 3422
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3275
+y = 3428
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3011'
+x = 3273
+y = 3430
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pox'
+x = 3268
+y = 3399
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hooknosed_jack'
+x = 3268
+y = 3400
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.dimintheis'
+x = 3279
+y = 3404
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.captain_errdo'
+x = 3321
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3265
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3266
+y = 3428
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_collector'
+x = 3265
+y = 3455
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.tea_seller'
+x = 3271
+y = 3411
+plane = 0
+direction = 'NORTH_WEST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 3283
+y = 3428
+plane = 0
+direction = 'NONE'

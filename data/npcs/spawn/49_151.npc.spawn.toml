@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.sourhog'
+x = 3157
+y = 9698
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sourhog'
+x = 3163
+y = 9699
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sourhog'
+x = 3165
+y = 9678
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sourhog'
+x = 3167
+y = 9673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sourhog'
+x = 3168
+y = 9692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sourhog'
+x = 3171
+y = 9679
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sourhog'
+x = 3173
+y = 9688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sourhog'
+x = 3177
+y = 9683
+plane = 0
+direction = 'NONE'

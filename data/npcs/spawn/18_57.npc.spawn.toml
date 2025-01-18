@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.fishing_spot_8525'
+x = 1209
+y = 3688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_8525'
+x = 1210
+y = 3685
+plane = 0
+direction = 'NONE'

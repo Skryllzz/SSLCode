@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.estate_agent'
+x = 3343
+y = 5915
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bigredjapan'
+x = 3361
+y = 5919
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6705'
+x = 3391
+y = 5929
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,168 @@
+[[spawns]]
+id = 'npc.dwarf_1405'
+x = 1429
+y = 3796
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1406'
+x = 1444
+y = 3784
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1423
+y = 3819
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1424
+y = 3829
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1430
+y = 3786
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1432
+y = 3787
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1433
+y = 3785
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1442
+y = 3825
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1442
+y = 3839
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1443
+y = 3822
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 1427
+y = 3822
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 1443
+y = 3805
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 1447
+y = 3796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 1447
+y = 3801
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 1451
+y = 3803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_supervisor'
+x = 1432
+y = 3812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_supervisor'
+x = 1443
+y = 3832
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mine_supervisor_7076'
+x = 1424
+y = 3824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_7077'
+x = 1440
+y = 3822
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_7077'
+x = 1440
+y = 3828
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_7077'
+x = 1440
+y = 3834
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_7079'
+x = 1434
+y = 3822
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_7079'
+x = 1434
+y = 3832
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_7081'
+x = 1434
+y = 3824
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_7081'
+x = 1434
+y = 3834
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.armourer_tier_2'
+x = 1440
+y = 3785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.armourer_tier_3'
+x = 1429
+y = 3795
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.old_dwarf'
+x = 1410
+y = 3811
+plane = 0
+direction = 'NONE'

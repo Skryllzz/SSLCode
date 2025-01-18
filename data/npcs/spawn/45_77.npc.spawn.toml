@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.mummy_721'
+x = 2900
+y = 4948
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_722'
+x = 2926
+y = 4965
+plane = 3
+direction = 'NONE'

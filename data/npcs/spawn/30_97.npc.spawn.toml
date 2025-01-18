@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.scrubfoot'
+x = 1940
+y = 6214
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_fireflies'
+x = 1928
+y = 6223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_fireflies'
+x = 1934
+y = 6224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_fireflies'
+x = 1935
+y = 6227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_fireflies'
+x = 1938
+y = 6223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_fireflies'
+x = 1939
+y = 6220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_fireflies'
+x = 1944
+y = 6217
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_fireflies'
+x = 1928
+y = 6214
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_fireflies'
+x = 1931
+y = 6227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_fireflies'
+x = 1937
+y = 6225
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_fireflies'
+x = 1939
+y = 6217
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_fireflies'
+x = 1941
+y = 6221
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.green_fireflies'
+x = 1945
+y = 6220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_10566'
+x = 1965
+y = 6221
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_10566'
+x = 1970
+y = 6224
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_10567'
+x = 1970
+y = 6217
+plane = 3
+direction = 'WEST'

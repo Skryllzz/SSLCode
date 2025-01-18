@@ -1,0 +1,360 @@
+[[spawns]]
+id = 'npc.fishing_spot_1530'
+x = 3240
+y = 3146
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1530'
+x = 3240
+y = 3147
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1530'
+x = 3244
+y = 3150
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1530'
+x = 3245
+y = 3152
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1530'
+x = 3246
+y = 3155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rat_2856'
+x = 3207
+y = 3187
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 3200
+y = 3174
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 3210
+y = 3151
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 3211
+y = 3187
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 3211
+y = 3195
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 3215
+y = 3177
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 3223
+y = 3161
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3201
+y = 3189
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3202
+y = 3161
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3204
+y = 3196
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3214
+y = 3181
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3215
+y = 3172
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3229
+y = 3188
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 3233
+y = 3161
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cooking_tutor'
+x = 3234
+y = 3196
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_tutor'
+x = 3245
+y = 3157
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mining_tutor'
+x = 3227
+y = 3146
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.count_check'
+x = 3238
+y = 3199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7428'
+x = 3237
+y = 3155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7429'
+x = 3237
+y = 3153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_frog_8700'
+x = 3200
+y = 3177
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_frog_8700'
+x = 3201
+y = 3186
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_frog_8700'
+x = 3203
+y = 3174
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3203
+y = 3176
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3204
+y = 3188
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3204
+y = 3193
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3206
+y = 3190
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3207
+y = 3173
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3207
+y = 3176
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3209
+y = 3165
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3211
+y = 3185
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3213
+y = 3168
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3213
+y = 3190
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3217
+y = 3181
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3218
+y = 3184
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3221
+y = 3164
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3227
+y = 3173
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog_8701'
+x = 3229
+y = 3164
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3205
+y = 3195
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3211
+y = 3162
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3212
+y = 3191
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3214
+y = 3186
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3214
+y = 3195
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3215
+y = 3165
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3217
+y = 3160
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3219
+y = 3179
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3221
+y = 3183
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3222
+y = 3157
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3222
+y = 3174
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3225
+y = 3195
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3226
+y = 3187
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3227
+y = 3161
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3230
+y = 3169
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3233
+y = 3178
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.frog_8702'
+x = 3233
+y = 3191
+plane = 0
+direction = 'SOUTH'

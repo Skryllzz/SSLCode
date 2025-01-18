@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.black_dragon_7861'
+x = 3356
+y = 10157
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_7861'
+x = 3361
+y = 10159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_7861'
+x = 3366
+y = 10155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_7865'
+x = 3335
+y = 10138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_7865'
+x = 3340
+y = 10130
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_7865'
+x = 3341
+y = 10138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_7866'
+x = 3332
+y = 10125
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lesser_demon_7866'
+x = 3333
+y = 10130
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_7867'
+x = 3337
+y = 10134
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_7867'
+x = 3339
+y = 10144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_7876'
+x = 3354
+y = 10120
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.black_demon_7876'
+x = 3359
+y = 10114
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_7876'
+x = 3361
+y = 10125
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_7876'
+x = 3367
+y = 10117
+plane = 0
+direction = 'NONE'

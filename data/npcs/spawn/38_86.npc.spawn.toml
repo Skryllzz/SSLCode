@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.cave_goblin_5163'
+x = 2487
+y = 5519
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5164'
+x = 2484
+y = 5522
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5164'
+x = 2486
+y = 5548
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5165'
+x = 2439
+y = 5525
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5165'
+x = 2487
+y = 5542
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5166'
+x = 2436
+y = 5553
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5166'
+x = 2439
+y = 5532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5166'
+x = 2487
+y = 5530
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5167'
+x = 2439
+y = 5539
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5167'
+x = 2483
+y = 5539
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5167'
+x = 2484
+y = 5552
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5168'
+x = 2439
+y = 5549
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_5168'
+x = 2484
+y = 5544
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ticket_goblin'
+x = 2485
+y = 5540
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5170'
+x = 2439
+y = 5544
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5170'
+x = 2485
+y = 5535
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5171'
+x = 2436
+y = 5540
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5172'
+x = 2437
+y = 5549
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5172'
+x = 2484
+y = 5531
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5173'
+x = 2436
+y = 5526
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5173'
+x = 2486
+y = 5525
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5174'
+x = 2439
+y = 5520
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_5175'
+x = 2487
+y = 5538
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ticket_dwarf'
+x = 2438
+y = 5535
+plane = 0
+direction = 'NONE'

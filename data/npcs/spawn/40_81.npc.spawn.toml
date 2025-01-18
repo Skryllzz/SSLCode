@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.guard_4522'
+x = 2566
+y = 5189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4523'
+x = 2566
+y = 5201
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4524'
+x = 2567
+y = 5195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4525'
+x = 2577
+y = 5201
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4526'
+x = 2567
+y = 5202
+plane = 0
+direction = 'NONE'

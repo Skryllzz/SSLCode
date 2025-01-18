@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 3070
+y = 3829
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 3070
+y = 3836
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_6784'
+x = 3070
+y = 3839
+plane = 0
+direction = 'NORTH'

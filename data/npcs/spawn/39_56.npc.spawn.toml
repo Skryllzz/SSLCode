@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.jossik'
+x = 2509
+y = 3639
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.larrissa'
+x = 2508
+y = 3635
+plane = 0
+direction = 'NONE'

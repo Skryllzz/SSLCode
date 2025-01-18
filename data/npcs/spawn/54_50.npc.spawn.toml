@@ -1,0 +1,336 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3483
+y = 3210
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3489
+y = 3211
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3490
+y = 3243
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3492
+y = 3228
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3496
+y = 3230
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3496
+y = 3242
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3498
+y = 3212
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3500
+y = 3224
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3505
+y = 3230
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3506
+y = 3243
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3508
+y = 3225
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3512
+y = 3228
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3516
+y = 3222
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_2934'
+x = 3475
+y = 3235
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_2935'
+x = 3476
+y = 3235
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2936'
+x = 3479
+y = 3237
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_2937'
+x = 3480
+y = 3237
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2938'
+x = 3481
+y = 3241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2939'
+x = 3480
+y = 3241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3458
+y = 3225
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3459
+y = 3229
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3459
+y = 3234
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3460
+y = 3231
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3461
+y = 3236
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3462
+y = 3240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3488'
+x = 3486
+y = 3241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elisabeta'
+x = 3490
+y = 3241
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.aurel'
+x = 3517
+y = 3241
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sorin'
+x = 3513
+y = 3234
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.luscion'
+x = 3491
+y = 3242
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sergiu'
+x = 3503
+y = 3231
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.radu'
+x = 3511
+y = 3224
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.grigore'
+x = 3489
+y = 3222
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ileana'
+x = 3514
+y = 3228
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.valeria'
+x = 3509
+y = 3209
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.emilia'
+x = 3482
+y = 3210
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.florin'
+x = 3483
+y = 3243
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.catalina'
+x = 3489
+y = 3221
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ivan'
+x = 3508
+y = 3208
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.victor'
+x = 3482
+y = 3208
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.helena'
+x = 3484
+y = 3207
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.teodor'
+x = 3504
+y = 3242
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gabriela'
+x = 3514
+y = 3209
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.calin'
+x = 3498
+y = 3242
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mihail'
+x = 3480
+y = 3222
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.nicoleta'
+x = 3479
+y = 3223
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.simona'
+x = 3499
+y = 3241
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vasile'
+x = 3485
+y = 3237
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.razvan'
+x = 3492
+y = 3235
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.luminata'
+x = 3504
+y = 3235
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4479'
+x = 3515
+y = 3242
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6214'
+x = 3496
+y = 3212
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6215'
+x = 3493
+y = 3211
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6216'
+x = 3513
+y = 3241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6217'
+x = 3513
+y = 3242
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6218'
+x = 3514
+y = 3241
+plane = 0
+direction = 'NORTH'

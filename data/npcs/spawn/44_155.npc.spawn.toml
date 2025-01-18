@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2834
+y = 9940
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2836
+y = 9953
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2844
+y = 9944
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior_2851'
+x = 2864
+y = 9950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior_2851'
+x = 2865
+y = 9951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior_2851'
+x = 2866
+y = 9948
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior_2851'
+x = 2867
+y = 9948
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior_2851'
+x = 2867
+y = 9951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior_2851'
+x = 2868
+y = 9950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2819
+y = 9950
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2824
+y = 9934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2827
+y = 9925
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2828
+y = 9956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2857
+y = 9969
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_spider'
+x = 2872
+y = 9972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_queen'
+x = 2866
+y = 9956
+plane = 0
+direction = 'NONE'

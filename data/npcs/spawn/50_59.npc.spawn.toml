@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 3233
+y = 3783
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 3241
+y = 3796
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 3253
+y = 3782
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc._5861'
+x = 3210
+y = 3803
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3201
+y = 3814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3205
+y = 3834
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3211
+y = 3809
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3213
+y = 3819
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lava_dragon'
+x = 3223
+y = 3830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vetion'
+x = 3219
+y = 3788
+plane = 0
+direction = 'NONE'

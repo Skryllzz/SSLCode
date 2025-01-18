@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.zombie_27'
+x = 2605
+y = 4449
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_28'
+x = 2612
+y = 4447
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2604
+y = 4446
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2606
+y = 4437
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2607
+y = 4444
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2576
+y = 4460
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2576
+y = 4462
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2579
+y = 4458
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2579
+y = 4461
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2579
+y = 4463
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2581
+y = 4462
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.hobgoblin_3049'
+x = 2582
+y = 4461
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_49'
+x = 2603
+y = 4446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golrie'
+x = 2579
+y = 4451
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,492 @@
+[[spawns]]
+id = 'npc.tzhaarmej'
+x = 2491
+y = 5157
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarmej_2155'
+x = 2480
+y = 5154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarmej_2158'
+x = 2461
+y = 5142
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarmej_2159'
+x = 2473
+y = 5129
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarmej_2160'
+x = 2455
+y = 5122
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarmej_2160'
+x = 2475
+y = 5122
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarmej_2160'
+x = 2486
+y = 5136
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur'
+x = 2485
+y = 5140
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2162'
+x = 2485
+y = 5134
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2163'
+x = 2452
+y = 5123
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2163'
+x = 2455
+y = 5139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2163'
+x = 2481
+y = 5137
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2164'
+x = 2458
+y = 5124
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2164'
+x = 2458
+y = 5126
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2164'
+x = 2462
+y = 5141
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2165'
+x = 2469
+y = 5146
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2165'
+x = 2472
+y = 5143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2166'
+x = 2475
+y = 5153
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2166'
+x = 2479
+y = 5129
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2166'
+x = 2484
+y = 5157
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2166'
+x = 2488
+y = 5156
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2166'
+x = 2491
+y = 5159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarhur_2166'
+x = 2493
+y = 5155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarxil'
+x = 2480
+y = 5134
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2168'
+x = 2471
+y = 5123
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2168'
+x = 2480
+y = 5132
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2169'
+x = 2457
+y = 5158
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2169'
+x = 2470
+y = 5165
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2169'
+x = 2487
+y = 5171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2170'
+x = 2451
+y = 5167
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarxil_2170'
+x = 2455
+y = 5154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarxil_2170'
+x = 2460
+y = 5162
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarxil_2170'
+x = 2479
+y = 5166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarxil_2170'
+x = 2490
+y = 5175
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarxil_2170'
+x = 2492
+y = 5139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarxil_2171'
+x = 2436
+y = 5171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2171'
+x = 2440
+y = 5141
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2171'
+x = 2441
+y = 5138
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2171'
+x = 2450
+y = 5147
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2171'
+x = 2472
+y = 5125
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarxil_2172'
+x = 2437
+y = 5128
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarxil_2172'
+x = 2438
+y = 5123
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_2174'
+x = 2487
+y = 5138
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarket_2177'
+x = 2445
+y = 5169
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_2177'
+x = 2447
+y = 5143
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_2178'
+x = 2439
+y = 5133
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2178'
+x = 2443
+y = 5145
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2178'
+x = 2459
+y = 5161
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2178'
+x = 2464
+y = 5162
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2178'
+x = 2482
+y = 5159
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2178'
+x = 2491
+y = 5173
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2179'
+x = 2452
+y = 5151
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarket_2179'
+x = 2457
+y = 5129
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarket_2179'
+x = 2467
+y = 5142
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarket_2179'
+x = 2472
+y = 5166
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarket_2179'
+x = 2473
+y = 5147
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarket_2179'
+x = 2479
+y = 5168
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarket_2179'
+x = 2482
+y = 5154
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarmejjal'
+x = 2438
+y = 5169
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarhurtel'
+x = 2478
+y = 5146
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.tzhaarhurlek'
+x = 2464
+y = 5149
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarmejroh'
+x = 2462
+y = 5125
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarket_2186'
+x = 2472
+y = 5139
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2186'
+x = 2475
+y = 5140
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2187'
+x = 2436
+y = 5122
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2187'
+x = 2450
+y = 5121
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2187'
+x = 2457
+y = 5121
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2187'
+x = 2492
+y = 5173
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2187'
+x = 2492
+y = 5176
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2187'
+x = 2493
+y = 5156
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarket_2187'
+x = 2493
+y = 5159
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tzhaarmej_7652'
+x = 2454
+y = 5133
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tzhaarketzuh'
+x = 2445
+y = 5180
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2472
+y = 5121
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2474
+y = 5127
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2476
+y = 5133
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2477
+y = 5125
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2478
+y = 5131
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2483
+y = 5136
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2489
+y = 5139
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2489
+y = 5143
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tzhaarket_7679'
+x = 2493
+y = 5142
+plane = 0
+direction = 'WEST'

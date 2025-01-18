@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.garth_8206'
+x = 3669
+y = 3215
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8308'
+x = 3672
+y = 3208
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8309'
+x = 3673
+y = 3207
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8310'
+x = 3674
+y = 3209
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8319'
+x = 3658
+y = 3221
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_8321'
+x = 3651
+y = 3206
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_8322'
+x = 3649
+y = 3206
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_8322'
+x = 3652
+y = 3206
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vyre_orator'
+x = 3662
+y = 3224
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.vyre_orator_8324'
+x = 3662
+y = 3213
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8325'
+x = 3673
+y = 3223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_8327'
+x = 3649
+y = 3220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_8328'
+x = 3676
+y = 3230
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_8329'
+x = 3652
+y = 3226
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_8330'
+x = 3665
+y = 3222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_8331'
+x = 3649
+y = 3215
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrelord_8332'
+x = 3670
+y = 3220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrelady_8333'
+x = 3652
+y = 3219
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrelord_8334'
+x = 3653
+y = 3213
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrelady_8335'
+x = 3672
+y = 3212
+plane = 0
+direction = 'NONE'

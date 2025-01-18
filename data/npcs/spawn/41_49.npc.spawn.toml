@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.murphy_10707'
+x = 2671
+y = 3172
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1330'
+x = 2673
+y = 3144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1332'
+x = 2675
+y = 3144
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tindel_marchant'
+x = 2678
+y = 3153
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shop_keeper_2888'
+x = 2641
+y = 3171
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.shop_keeper_2888'
+x = 2655
+y = 3152
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.murphy'
+x = 2668
+y = 3162
+plane = 0
+direction = 'NONE'

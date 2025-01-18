@@ -1,0 +1,162 @@
+[[spawns]]
+id = 'npc.vampyre_juvenile'
+x = 3603
+y = 3189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile'
+x = 3638
+y = 3196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_3693'
+x = 3618
+y = 3187
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_3693'
+x = 3639
+y = 3193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3717'
+x = 3597
+y = 3193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3718'
+x = 3621
+y = 3182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3719'
+x = 3629
+y = 3190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3729'
+x = 3614
+y = 3189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3730'
+x = 3601
+y = 3183
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3732'
+x = 3638
+y = 3187
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3751'
+x = 3591
+y = 3197
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3753'
+x = 3598
+y = 3172
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_3755'
+x = 3589
+y = 3169
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3788'
+x = 3599
+y = 3190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3789'
+x = 3603
+y = 3195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3790'
+x = 3593
+y = 3187
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3793'
+x = 3632
+y = 3196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3799'
+x = 3608
+y = 3189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3801'
+x = 3596
+y = 3184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3803'
+x = 3624
+y = 3196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meiyerditch_citizen_3804'
+x = 3623
+y = 3189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.child_3814'
+x = 3597
+y = 3189
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.child_3816'
+x = 3614
+y = 3196
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.child_3817'
+x = 3623
+y = 3184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3828'
+x = 3592
+y = 3183
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stray_dog_3830'
+x = 3609
+y = 3186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cat_3831'
+x = 3636
+y = 3195
+plane = 0
+direction = 'NONE'

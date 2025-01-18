@@ -1,0 +1,204 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2223
+y = 3793
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2226
+y = 3800
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2195
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2196
+y = 3822
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2197
+y = 3805
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2197
+y = 3813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2201
+y = 3812
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2202
+y = 3824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2203
+y = 3804
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2207
+y = 3813
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2211
+y = 3818
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.moss_giant_3851'
+x = 2214
+y = 3819
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3857'
+x = 2222
+y = 3796
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.beefy_burns'
+x = 2222
+y = 3789
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eagleeye_shultz'
+x = 2224
+y = 3813
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.first_mate_daveyboy'
+x = 2225
+y = 3788
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.picarron_pete'
+x = 2223
+y = 3799
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jake'
+x = 2205
+y = 3807
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bedread_the_bold'
+x = 2225
+y = 3795
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wilson'
+x = 2199
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tommy_2times'
+x = 2223
+y = 3794
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.murky_pat'
+x = 2227
+y = 3802
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jack_sails'
+x = 2222
+y = 3809
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.palmer'
+x = 2211
+y = 3815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.betty_bboppin'
+x = 2222
+y = 3804
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.beedyeye_jones'
+x = 2225
+y = 3803
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jenny_blade'
+x = 2227
+y = 3797
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lecherous_lee'
+x = 2226
+y = 3791
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sticky_sanders'
+x = 2226
+y = 3808
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate'
+x = 2194
+y = 3806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate'
+x = 2205
+y = 3814
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6162'
+x = 2223
+y = 3788
+plane = 3
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6163'
+x = 2222
+y = 3788
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lokar_searunner_9306'
+x = 2214
+y = 3794
+plane = 0
+direction = 'NONE'

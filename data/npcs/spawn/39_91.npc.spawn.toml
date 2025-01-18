@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.bat_9641'
+x = 2523
+y = 5847
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_9643'
+x = 2528
+y = 5863
+plane = 2
+direction = 'NONE'

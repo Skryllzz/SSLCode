@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.wolf'
+x = 3207
+y = 3919
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 3218
+y = 3924
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 3229
+y = 3917
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 3241
+y = 3921
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chaos_elemental'
+x = 3261
+y = 3927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3225
+y = 3943
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3231
+y = 3940
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3235
+y = 3946
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3239
+y = 3942
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3246
+y = 3945
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3249
+y = 3949
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 3256
+y = 3954
+plane = 0
+direction = 'SOUTH'

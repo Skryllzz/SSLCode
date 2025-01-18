@@ -1,0 +1,132 @@
+[[spawns]]
+id = 'npc.ankou_2517'
+x = 2475
+y = 9798
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ankou_2517'
+x = 2477
+y = 9807
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ankou_2517'
+x = 2483
+y = 9801
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ankou_2518'
+x = 2470
+y = 9803
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_2518'
+x = 2472
+y = 9797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_2518'
+x = 2481
+y = 9799
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_2519'
+x = 2468
+y = 9802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ankou_2519'
+x = 2475
+y = 9808
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2434
+y = 9817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2434
+y = 9824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2447
+y = 9822
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2451
+y = 9817
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2465
+y = 9830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2470
+y = 9834
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2485
+y = 9822
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_486'
+x = 2489
+y = 9818
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 2440
+y = 9821
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 2453
+y = 9822
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 2472
+y = 9830
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld_487'
+x = 2488
+y = 9827
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_6'
+x = 2452
+y = 9794
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_6'
+x = 2460
+y = 9793
+plane = 0
+direction = 'NONE'

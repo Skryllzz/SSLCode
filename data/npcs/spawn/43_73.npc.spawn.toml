@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2760
+y = 4688
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2763
+y = 4690
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2766
+y = 4680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grail_maiden'
+x = 2769
+y = 4686
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.peasant'
+x = 2765
+y = 4722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant'
+x = 2776
+y = 4718
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant'
+x = 2777
+y = 4703
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant'
+x = 2788
+y = 4721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peasant'
+x = 2789
+y = 4698
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fisherman_4065'
+x = 2802
+y = 4706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.the_fisher_king'
+x = 2762
+y = 4688
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_knight_titan'
+x = 2791
+y = 4722
+plane = 0
+direction = 'NONE'

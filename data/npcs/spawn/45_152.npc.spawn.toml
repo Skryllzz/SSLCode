@@ -1,0 +1,174 @@
+[[spawns]]
+id = 'npc.hill_giant'
+x = 2913
+y = 9732
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2099'
+x = 2905
+y = 9732
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2100'
+x = 2907
+y = 9735
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2101'
+x = 2902
+y = 9736
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2103'
+x = 2913
+y = 9741
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_blue_dragon'
+x = 2895
+y = 9765
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_blue_dragon_242'
+x = 2895
+y = 9769
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_blue_dragon_242'
+x = 2925
+y = 9788
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_blue_dragon_243'
+x = 2900
+y = 9763
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blue_dragon'
+x = 2920
+y = 9784
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blue_dragon_266'
+x = 2912
+y = 9779
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_267'
+x = 2906
+y = 9774
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blue_dragon_267'
+x = 2911
+y = 9787
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_268'
+x = 2903
+y = 9780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blue_dragon_269'
+x = 2903
+y = 9786
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 2915
+y = 9760
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 2922
+y = 9757
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 2925
+y = 9769
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 2928
+y = 9761
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 2932
+y = 9784
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chaos_dwarf'
+x = 2938
+y = 9788
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2929
+y = 9752
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2934
+y = 9775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2935
+y = 9758
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2935
+y = 9769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_scorpion'
+x = 2941
+y = 9779
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fishing_spot_4928'
+x = 2889
+y = 9766
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4928'
+x = 2890
+y = 9766
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_4928'
+x = 2891
+y = 9766
+plane = 0
+direction = 'NONE'

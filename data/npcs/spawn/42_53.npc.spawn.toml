@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.ignatius_vulcan'
+x = 2719
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2700
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2700
+y = 3442
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thormac'
+x = 2702
+y = 3405
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.flax_keeper'
+x = 2744
+y = 3444
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sherlock'
+x = 2733
+y = 3415
+plane = 0
+direction = 'NONE'

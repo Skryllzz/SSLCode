@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2298
+y = 3383
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2300
+y = 3380
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2301
+y = 3382
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2302
+y = 3383
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 2303
+y = 3381
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9012'
+x = 2299
+y = 3328
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lenny'
+x = 2302
+y = 3380
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_9233'
+x = 2299
+y = 3328
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9233'
+x = 2299
+y = 3328
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9242'
+x = 2299
+y = 3329
+plane = 0
+direction = 'NONE'

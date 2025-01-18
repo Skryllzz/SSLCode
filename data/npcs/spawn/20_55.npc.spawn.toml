@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.big_frog'
+x = 1307
+y = 3529
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1307
+y = 3538
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1312
+y = 3553
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1315
+y = 3543
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1321
+y = 3555
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1306
+y = 3555
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1317
+y = 3562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1325
+y = 3583
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1326
+y = 3554
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1340
+y = 3541
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1342
+y = 3553
+plane = 0
+direction = 'NONE'

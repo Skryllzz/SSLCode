@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.null_4560'
+x = 2153
+y = 4546
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2150
+y = 4591
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9214'
+x = 2155
+y = 4566
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9215'
+x = 2131
+y = 4602
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9217'
+x = 2122
+y = 4562
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9218'
+x = 2134
+y = 4565
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9219'
+x = 2132
+y = 4554
+plane = 1
+direction = 'NONE'

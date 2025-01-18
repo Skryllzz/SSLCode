@@ -1,0 +1,186 @@
+[[spawns]]
+id = 'npc.cave_goblin'
+x = 2717
+y = 5294
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2271'
+x = 2743
+y = 5284
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2272'
+x = 2707
+y = 5286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2273'
+x = 2732
+y = 5275
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2275'
+x = 2740
+y = 5285
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2277'
+x = 2698
+y = 5264
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2280'
+x = 2735
+y = 5275
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.cave_goblin_2281'
+x = 2734
+y = 5275
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2282'
+x = 2721
+y = 5294
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_goblin_2284'
+x = 2713
+y = 5293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urmeg'
+x = 2691
+y = 5303
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.urlun'
+x = 2747
+y = 5263
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.urpel'
+x = 2748
+y = 5263
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bartak'
+x = 2708
+y = 5275
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crate_goblin'
+x = 2733
+y = 5274
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gourmet'
+x = 2720
+y = 5309
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gourmet_2307'
+x = 2716
+y = 5310
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.turgok'
+x = 2712
+y = 5303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.markog'
+x = 2723
+y = 5303
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tindar'
+x = 2712
+y = 5309
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zenkog'
+x = 2723
+y = 5307
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_2317'
+x = 2722
+y = 5260
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spit_goblin'
+x = 2729
+y = 5269
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.goblin_fish'
+x = 2713
+y = 5262
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_fish'
+x = 2714
+y = 5287
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.moths'
+x = 2712
+y = 5297
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.moths'
+x = 2715
+y = 5259
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moths'
+x = 2722
+y = 5297
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.moths'
+x = 2730
+y = 5259
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moths'
+x = 2732
+y = 5270
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.moths'
+x = 2735
+y = 5270
+plane = 0
+direction = 'EAST'

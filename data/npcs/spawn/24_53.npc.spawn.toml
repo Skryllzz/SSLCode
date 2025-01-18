@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.barbarian_10984'
+x = 1584
+y = 3433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_10985'
+x = 1580
+y = 3432
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.barbarian_10986'
+x = 1580
+y = 3435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barbarian_10987'
+x = 1583
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_10988'
+x = 1583
+y = 3431
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 1550
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 1554
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 1555
+y = 3442
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 1558
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 1561
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 1564
+y = 3430
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7462'
+x = 1536
+y = 3414
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7462'
+x = 1542
+y = 3417
+plane = 0
+direction = 'NONE'

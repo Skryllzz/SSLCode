@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.fishing_spot_3419'
+x = 3189
+y = 6018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_3419'
+x = 3189
+y = 6020
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_3419'
+x = 3189
+y = 6038
+plane = 0
+direction = 'NONE'

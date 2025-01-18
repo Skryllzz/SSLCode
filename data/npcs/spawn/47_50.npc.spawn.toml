@@ -1,0 +1,240 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3064
+y = 3255
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1063'
+x = 3054
+y = 3245
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_entrana'
+x = 3045
+y = 3236
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_of_entrana_1166'
+x = 3046
+y = 3234
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monk_of_entrana_1167'
+x = 3049
+y = 3235
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bartender_1313'
+x = 3045
+y = 3257
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jack_seagull'
+x = 3047
+y = 3256
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.longbow_ben'
+x = 3047
+y = 3257
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ahab'
+x = 3049
+y = 3256
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 3027
+y = 3204
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 3028
+y = 3202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 3028
+y = 3232
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 3028
+y = 3235
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 3030
+y = 3236
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 3031
+y = 3203
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 3050
+y = 3203
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 3029
+y = 3203
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 3029
+y = 3236
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 3049
+y = 3202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.squire_1770'
+x = 3041
+y = 3202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_1979'
+x = 3046
+y = 3207
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.frizzy_skernip'
+x = 3060
+y = 3256
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grum_2889'
+x = 3013
+y = 3248
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.wydin_2890'
+x = 3014
+y = 3204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gerrant_2891'
+x = 3013
+y = 3225
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brian'
+x = 3028
+y = 3250
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_3106'
+x = 3017
+y = 3238
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.woman_3111'
+x = 3011
+y = 3236
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thief_3252'
+x = 3014
+y = 3232
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thief_3253'
+x = 3016
+y = 3232
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.redbeard_frank'
+x = 3051
+y = 3253
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_tobias'
+x = 3028
+y = 3216
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.seaman_lorris'
+x = 3028
+y = 3221
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.seaman_thresnor'
+x = 3026
+y = 3217
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bellemorde'
+x = 3019
+y = 3233
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.the_face'
+x = 3019
+y = 3231
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.betty_5905'
+x = 3012
+y = 3259
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6115'
+x = 3044
+y = 3204
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_818'
+x = 3048
+y = 3207
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.klarense'
+x = 3047
+y = 3204
+plane = 0
+direction = 'NORTH'

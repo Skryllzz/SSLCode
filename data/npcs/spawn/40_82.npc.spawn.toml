@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.private_paldo'
+x = 2589
+y = 5264
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.private_pendron'
+x = 2604
+y = 5290
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.private_pierreb'
+x = 2583
+y = 5280
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.private_paldon'
+x = 2579
+y = 5290
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sergeant_sambur'
+x = 2602
+y = 5280
+plane = 0
+direction = 'EAST'

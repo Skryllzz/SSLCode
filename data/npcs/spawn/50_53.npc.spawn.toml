@@ -1,0 +1,426 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 3232
+y = 3455
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jeff_10415'
+x = 3242
+y = 3452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.old_man_yarlo'
+x = 3239
+y = 3395
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_1147'
+x = 3263
+y = 3407
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bartender_1312'
+x = 3226
+y = 3399
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.art_critic_jacques'
+x = 3257
+y = 3454
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barnabus_hurma'
+x = 3253
+y = 3445
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.marius_giste'
+x = 3254
+y = 3444
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.caden_azro'
+x = 3256
+y = 3443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thias_leacke'
+x = 3257
+y = 3442
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.information_clerk'
+x = 3253
+y = 3454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.museum_guard'
+x = 3260
+y = 3447
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.museum_guard_1912'
+x = 3263
+y = 3441
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.schoolboy_1920'
+x = 3261
+y = 3455
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.schoolgirl_1921'
+x = 3263
+y = 3452
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.teacher_and_pupil_1922'
+x = 3260
+y = 3452
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.teacher_and_pupil_1922'
+x = 3261
+y = 3451
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.town_crier'
+x = 3253
+y = 3429
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shop_keeper_2815'
+x = 3218
+y = 3415
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.shop_assistant_2816'
+x = 3217
+y = 3411
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 3243
+y = 3393
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zaff'
+x = 3203
+y = 3433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baraek'
+x = 3217
+y = 3435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.horvik'
+x = 3229
+y = 3438
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lowe'
+x = 3232
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shop_keeper_2884'
+x = 3203
+y = 3397
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shop_assistant_2885'
+x = 3205
+y = 3399
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_2886'
+x = 3253
+y = 3402
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cook_2895'
+x = 3230
+y = 3401
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_2897'
+x = 3252
+y = 3418
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_2897'
+x = 3253
+y = 3418
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_2898'
+x = 3254
+y = 3418
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_2898'
+x = 3255
+y = 3418
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_2898'
+x = 3256
+y = 3418
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.iffie'
+x = 3204
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cleaner'
+x = 3250
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stray_dog'
+x = 3200
+y = 3399
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stray_dog'
+x = 3262
+y = 3410
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stray_dog_2922'
+x = 3233
+y = 3394
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.man_3014'
+x = 3231
+y = 3395
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_3015'
+x = 3218
+y = 3395
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 3238
+y = 3392
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.man_3106'
+x = 3234
+y = 3398
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 3237
+y = 3406
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3107'
+x = 3261
+y = 3402
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3108'
+x = 3238
+y = 3406
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3108'
+x = 3231
+y = 3399
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.tramp_3255'
+x = 3235
+y = 3401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_3262'
+x = 3225
+y = 3402
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dr_harlow'
+x = 3222
+y = 3397
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.shilop'
+x = 3221
+y = 3434
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wilough'
+x = 3221
+y = 3435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tramp'
+x = 3228
+y = 3412
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.romeo'
+x = 3211
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aris'
+x = 3203
+y = 3424
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jonny_the_beard'
+x = 3223
+y = 3395
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.curator_haig_halen'
+x = 3257
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.benny'
+x = 3219
+y = 3432
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_534'
+x = 3204
+y = 3417
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.toby'
+x = 3225
+y = 3415
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bigredjapan'
+x = 3232
+y = 3401
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.torrcs'
+x = 3253
+y = 3453
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.marfet'
+x = 3262
+y = 3442
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6522'
+x = 3251
+y = 3418
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3209
+y = 3433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3211
+y = 3406
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3213
+y = 3449
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3238
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3243
+y = 3402
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3246
+y = 3448
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3251
+y = 3421
+plane = 0
+direction = 'NONE'

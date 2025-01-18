@@ -1,0 +1,168 @@
+[[spawns]]
+id = 'npc.zogre'
+x = 2448
+y = 9442
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre'
+x = 2465
+y = 9454
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre'
+x = 2471
+y = 9422
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_867'
+x = 2473
+y = 9430
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_867'
+x = 2478
+y = 9442
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_867'
+x = 2487
+y = 9455
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2449
+y = 9429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2436
+y = 9452
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2436
+y = 9465
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2450
+y = 9460
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2455
+y = 9440
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2473
+y = 9439
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_868'
+x = 2483
+y = 9408
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_869'
+x = 2449
+y = 9434
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_869'
+x = 2437
+y = 9429
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_869'
+x = 2440
+y = 9438
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_869'
+x = 2458
+y = 9408
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_870'
+x = 2455
+y = 9435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zogre_870'
+x = 2457
+y = 9420
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zogre_870'
+x = 2462
+y = 9431
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_870'
+x = 2482
+y = 9422
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zogre_871'
+x = 2452
+y = 9440
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2442
+y = 9436
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2458
+y = 9413
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2470
+y = 9435
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2472
+y = 9460
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2483
+y = 9413
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skogre_879'
+x = 2485
+y = 9447
+plane = 2
+direction = 'NONE'

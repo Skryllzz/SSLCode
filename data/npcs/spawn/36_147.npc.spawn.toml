@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.smoke_devil'
+x = 2351
+y = 9448
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.smoke_devil'
+x = 2354
+y = 9455
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.smoke_devil'
+x = 2358
+y = 9445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.smoke_devil'
+x = 2367
+y = 9455
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thermonuclear_smoke_devil'
+x = 2360
+y = 9452
+plane = 0
+direction = 'SOUTH'

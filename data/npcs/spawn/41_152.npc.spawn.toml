@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2648
+y = 9761
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_spider_3017'
+x = 2653
+y = 9764
+plane = 0
+direction = 'WEST'

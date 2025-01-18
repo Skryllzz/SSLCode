@@ -1,0 +1,204 @@
+[[spawns]]
+id = 'npc.bartender_1318'
+x = 2690
+y = 3493
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.phantuwti_fanstuwi_farsight'
+x = 2705
+y = 3474
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_1613'
+x = 2721
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1613'
+x = 2724
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1613'
+x = 2729
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2722
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2726
+y = 3496
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2727
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_1618'
+x = 2729
+y = 3496
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1995'
+x = 2737
+y = 3466
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.town_crier_280'
+x = 2739
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.estate_agent'
+x = 2737
+y = 3502
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 2694
+y = 3497
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 2713
+y = 3480
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3107'
+x = 2693
+y = 3489
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3108'
+x = 2698
+y = 3491
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.woman_3111'
+x = 2691
+y = 3496
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.woman_3111'
+x = 2696
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_3111'
+x = 2697
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_3112'
+x = 2690
+y = 3489
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.woman_3112'
+x = 2699
+y = 3494
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sin_seer'
+x = 2700
+y = 3475
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.poison_salesman'
+x = 2695
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_4335'
+x = 2734
+y = 3470
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_4336'
+x = 2735
+y = 3468
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squire_4353'
+x = 2751
+y = 3506
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.seer'
+x = 2702
+y = 3475
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seer'
+x = 2705
+y = 3473
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seer'
+x = 2714
+y = 3471
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seer'
+x = 2716
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bigredjapan'
+x = 2702
+y = 3463
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6172'
+x = 2723
+y = 3492
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6172'
+x = 2728
+y = 3492
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6560'
+x = 2728
+y = 3495
+plane = 0
+direction = 'SOUTH'

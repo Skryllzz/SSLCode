@@ -1,0 +1,204 @@
+[[spawns]]
+id = 'npc.null_10645'
+x = 3087
+y = 3415
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.atlas'
+x = 3075
+y = 3439
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sigurd'
+x = 3113
+y = 3413
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tassie_slipcast'
+x = 3084
+y = 3408
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1526'
+x = 3104
+y = 3424
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1526'
+x = 3110
+y = 3434
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 3084
+y = 3454
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 3090
+y = 3450
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.peksa'
+x = 3076
+y = 3429
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gunthor_the_brave'
+x = 3081
+y = 3444
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbarian'
+x = 3079
+y = 3444
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbarian_3056'
+x = 3079
+y = 3409
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.barbarian_3057'
+x = 3079
+y = 3437
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_3058'
+x = 3078
+y = 3436
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barbarian_3059'
+x = 3083
+y = 3429
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barbarian_3060'
+x = 3080
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_3061'
+x = 3078
+y = 3419
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barbarian_3062'
+x = 3075
+y = 3445
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.hunding'
+x = 3096
+y = 3428
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbarian_3064'
+x = 3076
+y = 3414
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_3065'
+x = 3085
+y = 3409
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.barbarian_3066'
+x = 3096
+y = 3432
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbarian_3067'
+x = 3086
+y = 3440
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_3068'
+x = 3078
+y = 3442
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbarian_3069'
+x = 3078
+y = 3440
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbarian_3070'
+x = 3084
+y = 3426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_3071'
+x = 3075
+y = 3420
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbarian_3072'
+x = 3086
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3073'
+x = 3121
+y = 3422
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3073'
+x = 3126
+y = 3450
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3074'
+x = 3126
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3075'
+x = 3118
+y = 3432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3076'
+x = 3119
+y = 3444
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3363'
+x = 3081
+y = 3421
+plane = 0
+direction = 'NORTH'

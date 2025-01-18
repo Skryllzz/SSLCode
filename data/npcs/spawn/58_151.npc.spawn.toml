@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3733
+y = 9710
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3738
+y = 9709
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3744
+y = 9711
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3750
+y = 9710
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3757
+y = 9711
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3760
+y = 9709
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_9509'
+x = 3754
+y = 9711
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9510'
+x = 3759
+y = 9708
+plane = 1
+direction = 'SOUTH'

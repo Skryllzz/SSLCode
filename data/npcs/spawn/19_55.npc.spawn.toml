@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.fishing_spot_7323'
+x = 1266
+y = 3541
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7323'
+x = 1272
+y = 3546
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_rimor'
+x = 1234
+y = 3568
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7617'
+x = 1276
+y = 3559
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7619'
+x = 1256
+y = 3548
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8190'
+x = 1276
+y = 3561
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8191'
+x = 1277
+y = 3562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8192'
+x = 1277
+y = 3564
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 1233
+y = 3521
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_939'
+x = 1236
+y = 3520
+plane = 0
+direction = 'NONE'

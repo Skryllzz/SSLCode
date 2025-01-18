@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.gundai'
+x = 2534
+y = 4714
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lundail'
+x = 2534
+y = 4719
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.chamber_guardian'
+x = 2508
+y = 4696
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.kolodion'
+x = 2541
+y = 4715
+plane = 0
+direction = 'NONE'

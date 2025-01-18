@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.cart_conductor_2388'
+x = 2906
+y = 10171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cart_conductor_2392'
+x = 2922
+y = 10166
+plane = 0
+direction = 'NONE'

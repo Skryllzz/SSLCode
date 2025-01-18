@@ -1,0 +1,264 @@
+[[spawns]]
+id = 'npc.butterfly'
+x = 3273
+y = 6012
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3274
+y = 6009
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3274
+y = 6011
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3276
+y = 6013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3277
+y = 6008
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3286
+y = 5978
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3288
+y = 5977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3290
+y = 5981
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3292
+y = 5979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3293
+y = 5974
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3293
+y = 5976
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3294
+y = 5975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3294
+y = 5978
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 3292
+y = 5980
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 3279
+y = 5968
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 3286
+y = 5962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 3295
+y = 5956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 3318
+y = 5971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 3320
+y = 5958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 3322
+y = 5953
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rod_fishing_spot_3418'
+x = 3288
+y = 6010
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_3418'
+x = 3291
+y = 6005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_3418'
+x = 3298
+y = 6000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_3418'
+x = 3299
+y = 5992
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rod_fishing_spot_3418'
+x = 3306
+y = 6000
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3303
+y = 5971
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3420'
+x = 3320
+y = 6002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3421'
+x = 3319
+y = 6002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3422'
+x = 3320
+y = 6001
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3271
+y = 5978
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3273
+y = 5979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3273
+y = 6010
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3275
+y = 6012
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3283
+y = 5963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3291
+y = 5975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3291
+y = 5977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp'
+x = 3322
+y = 6014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3441'
+x = 3272
+y = 5977
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3441'
+x = 3272
+y = 5979
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3441'
+x = 3275
+y = 6009
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3441'
+x = 3277
+y = 6011
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3441'
+x = 3292
+y = 5976
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.will_o_the_wisp_3441'
+x = 3315
+y = 6014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4003'
+x = 3284
+y = 5965
+plane = 0
+direction = 'NONE'

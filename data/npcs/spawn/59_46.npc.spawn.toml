@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.monkey_1817'
+x = 3785
+y = 2974
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monkey_1817'
+x = 3806
+y = 2975
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_1817'
+x = 3810
+y = 2972
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monkey_1817'
+x = 3812
+y = 2976
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_1817'
+x = 3832
+y = 2974
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.parrot'
+x = 3822
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.parrot_1828'
+x = 3822
+y = 3005
+plane = 0
+direction = 'NONE'

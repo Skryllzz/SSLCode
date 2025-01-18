@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.my_arm_742'
+x = 1895
+y = 4869
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_barnaby'
+x = 1886
+y = 4870
+plane = 1
+direction = 'NONE'

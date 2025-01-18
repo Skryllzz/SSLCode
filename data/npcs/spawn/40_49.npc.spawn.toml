@@ -1,0 +1,300 @@
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2584
+y = 3141
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2591
+y = 3139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2595
+y = 3139
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2614
+y = 3150
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2617
+y = 3172
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2618
+y = 3159
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2618
+y = 3166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard'
+x = 2594
+y = 3162
+plane = 3
+direction = 'WEST'
+[[spawns]]
+id = 'npc.khazard_guard_1209'
+x = 2615
+y = 3141
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1209'
+x = 2592
+y = 3163
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1210'
+x = 2610
+y = 3193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2564
+y = 3146
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2567
+y = 3149
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2570
+y = 3142
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2577
+y = 3162
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2579
+y = 3171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2580
+y = 3166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2583
+y = 3149
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2589
+y = 3193
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2592
+y = 3182
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2592
+y = 3185
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2593
+y = 3179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2594
+y = 3176
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2596
+y = 3184
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2598
+y = 3182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2599
+y = 3193
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2606
+y = 3171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2607
+y = 3183
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2607
+y = 3185
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2608
+y = 3186
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2609
+y = 3149
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2610
+y = 3149
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_guard_1211'
+x = 2614
+y = 3186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.general_khazard'
+x = 2606
+y = 3154
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.general_khazard'
+x = 2610
+y = 3143
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_barman'
+x = 2566
+y = 3140
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.kelvin'
+x = 2589
+y = 3142
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.joe'
+x = 2587
+y = 3142
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fightslave'
+x = 2595
+y = 3142
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fightslave'
+x = 2616
+y = 3160
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fightslave'
+x = 2616
+y = 3163
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.hengrad'
+x = 2598
+y = 3142
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_servil'
+x = 2566
+y = 3199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sammy_servil'
+x = 2616
+y = 3168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sammy_servil_1221'
+x = 2602
+y = 3154
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.justin_servil'
+x = 2601
+y = 3168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.local'
+x = 2583
+y = 3171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bouncer'
+x = 2608
+y = 3162
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_ogre'
+x = 2608
+y = 3165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.khazard_scorpion'
+x = 2608
+y = 3159
+plane = 0
+direction = 'NONE'

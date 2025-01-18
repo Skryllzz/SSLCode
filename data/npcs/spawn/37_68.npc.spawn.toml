@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.null_1023'
+x = 2412
+y = 4370
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1023'
+x = 2416
+y = 4376
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1023'
+x = 2419
+y = 4374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1023'
+x = 2420
+y = 4377
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1023'
+x = 2421
+y = 4370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot'
+x = 2373
+y = 4387
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot'
+x = 2373
+y = 4391
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot'
+x = 2377
+y = 4376
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot'
+x = 2377
+y = 4386
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot'
+x = 2392
+y = 4379
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot_5854'
+x = 2375
+y = 4381
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot_5854'
+x = 2394
+y = 4378
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_tanglefoot_5854'
+x = 2397
+y = 4358
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6534'
+x = 2401
+y = 4378
+plane = 0
+direction = 'NONE'

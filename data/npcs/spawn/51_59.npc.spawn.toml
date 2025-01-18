@@ -1,0 +1,372 @@
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3268
+y = 3823
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3269
+y = 3824
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3270
+y = 3822
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3271
+y = 3795
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3271
+y = 3797
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3272
+y = 3798
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3273
+y = 3795
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3275
+y = 3807
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3276
+y = 3782
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3276
+y = 3803
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3276
+y = 3815
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3277
+y = 3783
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3278
+y = 3813
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3278
+y = 3816
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3278
+y = 3832
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3280
+y = 3807
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3280
+y = 3830
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3281
+y = 3833
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3283
+y = 3791
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3285
+y = 3788
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3285
+y = 3811
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3286
+y = 3790
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3286
+y = 3794
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3286
+y = 3823
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3288
+y = 3790
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3288
+y = 3801
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3290
+y = 3807
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3290
+y = 3823
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3292
+y = 3809
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3293
+y = 3807
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3293
+y = 3833
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3294
+y = 3800
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3294
+y = 3819
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3294
+y = 3832
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3295
+y = 3818
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3295
+y = 3833
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3297
+y = 3793
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3297
+y = 3825
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3299
+y = 3806
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3300
+y = 3830
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3302
+y = 3786
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3303
+y = 3787
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3303
+y = 3800
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3304
+y = 3785
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3305
+y = 3800
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3305
+y = 3833
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3306
+y = 3799
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3306
+y = 3819
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3306
+y = 3834
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3307
+y = 3801
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3307
+y = 3808
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3307
+y = 3814
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3308
+y = 3821
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3310
+y = 3818
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3317
+y = 3795
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3318
+y = 3799
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3319
+y = 3830
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3320
+y = 3798
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3321
+y = 3828
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3321
+y = 3832
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3322
+y = 3829
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.poison_spider'
+x = 3323
+y = 3794
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,624 @@
+[[spawns]]
+id = 'npc.robyn'
+x = 1508
+y = 3592
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kaston'
+x = 1497
+y = 3593
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_11057'
+x = 1508
+y = 3585
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11072'
+x = 1492
+y = 3623
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_11072'
+x = 1511
+y = 3632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11072'
+x = 1532
+y = 3617
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11072'
+x = 1535
+y = 3646
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sergeant_11073'
+x = 1525
+y = 3642
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11074'
+x = 1493
+y = 3621
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.soldier_11074'
+x = 1497
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11074'
+x = 1535
+y = 3616
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sergeant_11075'
+x = 1494
+y = 3625
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11076'
+x = 1500
+y = 3628
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.soldier_11076'
+x = 1521
+y = 3644
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.soldier_11076'
+x = 1523
+y = 3626
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11078'
+x = 1506
+y = 3626
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11078'
+x = 1531
+y = 3633
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sergeant_11079'
+x = 1534
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11080'
+x = 1495
+y = 3623
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_11080'
+x = 1533
+y = 3642
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sergeant_11081'
+x = 1518
+y = 3627
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11082'
+x = 1498
+y = 3634
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11082'
+x = 1527
+y = 3632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11082'
+x = 1528
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11084'
+x = 1494
+y = 3620
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11084'
+x = 1522
+y = 3641
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_11086'
+x = 1497
+y = 3626
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_11086'
+x = 1528
+y = 3637
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sergeant_11087'
+x = 1495
+y = 3646
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_11092'
+x = 1497
+y = 3598
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.head_guard'
+x = 1497
+y = 3601
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11094'
+x = 1499
+y = 3596
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_11096'
+x = 1499
+y = 3600
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11100'
+x = 1498
+y = 3603
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.guard_11104'
+x = 1495
+y = 3596
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_11106'
+x = 1493
+y = 3586
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11148'
+x = 1486
+y = 3635
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 1473
+y = 3625
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jennifer'
+x = 1519
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.osten'
+x = 1511
+y = 3592
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier'
+x = 1509
+y = 3614
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_6828'
+x = 1515
+y = 3623
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_6830'
+x = 1527
+y = 3617
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier_6832'
+x = 1520
+y = 3631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier_6834'
+x = 1510
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier_6836'
+x = 1516
+y = 3623
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier_6838'
+x = 1527
+y = 3616
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_6840'
+x = 1520
+y = 3630
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_6842'
+x = 1515
+y = 3614
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_6844'
+x = 1523
+y = 3622
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_6846'
+x = 1531
+y = 3629
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier_6848'
+x = 1521
+y = 3613
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wounded_soldier_6850'
+x = 1516
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier_6852'
+x = 1524
+y = 3622
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wounded_soldier_6854'
+x = 1531
+y = 3628
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.wounded_soldier_6856'
+x = 1509
+y = 3623
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_6860'
+x = 1486
+y = 3591
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_6860'
+x = 1486
+y = 3593
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_6863'
+x = 1486
+y = 3592
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.general_salara'
+x = 1485
+y = 3635
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.general_babacus'
+x = 1482
+y = 3636
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.general_kilian'
+x = 1484
+y = 3638
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.nurse_wooned'
+x = 1510
+y = 3618
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.nurse_innjuree'
+x = 1521
+y = 3621
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.nurse_boubou'
+x = 1528
+y = 3627
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranger_6881'
+x = 1477
+y = 3630
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranger_6881'
+x = 1478
+y = 3643
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ranger_6881'
+x = 1492
+y = 3629
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ranger_6881'
+x = 1492
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ranger_6881'
+x = 1532
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.drill_sergeant'
+x = 1510
+y = 3647
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6883'
+x = 1507
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6883'
+x = 1513
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6884'
+x = 1509
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6884'
+x = 1513
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6884'
+x = 1517
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6885'
+x = 1509
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6885'
+x = 1511
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6886'
+x = 1503
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6886'
+x = 1505
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6886'
+x = 1517
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6887'
+x = 1507
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6887'
+x = 1515
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6888'
+x = 1503
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6888'
+x = 1511
+y = 3639
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6888'
+x = 1515
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6889'
+x = 1505
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6889'
+x = 1513
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6889'
+x = 1517
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6890'
+x = 1503
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6890'
+x = 1509
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6890'
+x = 1515
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6891'
+x = 1505
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6891'
+x = 1513
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6891'
+x = 1517
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6892'
+x = 1503
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6892'
+x = 1507
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6892'
+x = 1511
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6893'
+x = 1509
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6893'
+x = 1515
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6894'
+x = 1507
+y = 3643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_6894'
+x = 1511
+y = 3645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_ginea'
+x = 1504
+y = 3632
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1499
+y = 3588
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2626
+y = 5065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2637
+y = 5099
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2638
+y = 5058
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2644
+y = 5090
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2658
+y = 5082
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2666
+y = 5097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton'
+x = 2680
+y = 5074
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2627
+y = 5093
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2629
+y = 5061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2638
+y = 5090
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2651
+y = 5105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2654
+y = 5079
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2663
+y = 5116
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2683
+y = 5059
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_skeleton_681'
+x = 2685
+y = 5111
+plane = 0
+direction = 'NONE'

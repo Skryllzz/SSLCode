@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.dunce'
+x = 1890
+y = 5018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mr_mordaut'
+x = 1884
+y = 5020
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant'
+x = 1885
+y = 5029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mummy_5506'
+x = 1887
+y = 5026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_5507'
+x = 1885
+y = 5026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5508'
+x = 1883
+y = 5029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_5509'
+x = 1883
+y = 5026
+plane = 0
+direction = 'NONE'

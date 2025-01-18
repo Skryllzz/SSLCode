@@ -1,0 +1,240 @@
+[[spawns]]
+id = 'npc.skeleton_brute'
+x = 1620
+y = 5323
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_warlord'
+x = 1635
+y = 5355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_warlord'
+x = 1661
+y = 5333
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_thug'
+x = 1659
+y = 5340
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1610
+y = 5343
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1610
+y = 5348
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1610
+y = 5352
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1613
+y = 5356
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1614
+y = 5342
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1614
+y = 5361
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1618
+y = 5340
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1619
+y = 5363
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1623
+y = 5342
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1624
+y = 5351
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1627
+y = 5355
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1627
+y = 5360
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1629
+y = 5361
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1635
+y = 5361
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1638
+y = 5363
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.waterfiend'
+x = 1639
+y = 5359
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brutal_green_dragon'
+x = 1628
+y = 5334
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_green_dragon'
+x = 1635
+y = 5326
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_green_dragon'
+x = 1637
+y = 5332
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_green_dragon'
+x = 1643
+y = 5340
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_green_dragon'
+x = 1645
+y = 5358
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_green_dragon'
+x = 1646
+y = 5350
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brutal_green_dragon'
+x = 1650
+y = 5332
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mithril_dragon'
+x = 1627
+y = 5326
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mithril_dragon'
+x = 1634
+y = 5338
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mithril_dragon'
+x = 1638
+y = 5331
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mithril_dragon'
+x = 1639
+y = 5343
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mithril_dragon'
+x = 1652
+y = 5339
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mithril_dragon'
+x = 1653
+y = 5356
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mithril_dragon'
+x = 1655
+y = 5328
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.confused_barbarian'
+x = 1639
+y = 5345
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lost_barbarian'
+x = 1633
+y = 5322
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.angry_barbarian_spirit'
+x = 1618
+y = 5326
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.enraged_barbarian_spirit'
+x = 1623
+y = 5331
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.enraged_barbarian_spirit'
+x = 1647
+y = 5324
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.berserk_barbarian_spirit'
+x = 1651
+y = 5325
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 1499
+y = 3449
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub'
+x = 1502
+y = 3452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub'
+x = 1503
+y = 3448
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7459'
+x = 1485
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7459'
+x = 1485
+y = 3432
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7459'
+x = 1494
+y = 3443
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7460'
+x = 1493
+y = 3442
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7461'
+x = 1485
+y = 3433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_magoro'
+x = 1504
+y = 3401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.robert_boss'
+x = 1529
+y = 3422
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hugor'
+x = 1510
+y = 3420
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lan_the_butcher'
+x = 1497
+y = 3422
+plane = 0
+direction = 'NONE'

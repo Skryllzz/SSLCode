@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.desert_eagle'
+x = 2019
+y = 4957
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_eagle'
+x = 2023
+y = 4961
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.polar_eagle'
+x = 2026
+y = 4963
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eagle'
+x = 2007
+y = 4954
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_2023'
+x = 2006
+y = 4959
+plane = 3
+direction = 'NONE'

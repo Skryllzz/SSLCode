@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.zalcano'
+x = 3031
+y = 6048
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rhiannon'
+x = 3033
+y = 6067
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.bloodveld'
+x = 3564
+y = 9741
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld'
+x = 3566
+y = 9735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld'
+x = 3572
+y = 9741
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bloodveld'
+x = 3574
+y = 9737
+plane = 0
+direction = 'NONE'

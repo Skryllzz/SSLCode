@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2954
+y = 2904
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2958
+y = 2900
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2958
+y = 2903
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2961
+y = 2896
+plane = 0
+direction = 'SOUTH'

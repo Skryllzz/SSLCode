@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 2413
+y = 10433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 2415
+y = 10436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7259'
+x = 2422
+y = 10433
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 2410
+y = 10435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_7260'
+x = 2417
+y = 10432
+plane = 0
+direction = 'SOUTH'

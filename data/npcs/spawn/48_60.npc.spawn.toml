@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.lesser_demon_2006'
+x = 3094
+y = 3869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2008'
+x = 3091
+y = 3861
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2100'
+x = 3104
+y = 3875
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2101'
+x = 3110
+y = 3854
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2102'
+x = 3117
+y = 3854
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2103'
+x = 3094
+y = 3849
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 3075
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_scorpion'
+x = 3090
+y = 3841
+plane = 0
+direction = 'NONE'

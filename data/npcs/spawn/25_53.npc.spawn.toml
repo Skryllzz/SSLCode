@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.unicorn'
+x = 1600
+y = 3453
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 1607
+y = 3437
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 1611
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 1617
+y = 3438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 1626
+y = 3450
+plane = 0
+direction = 'NONE'

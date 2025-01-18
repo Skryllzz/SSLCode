@@ -1,0 +1,168 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 2941
+y = 3432
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.alain'
+x = 2933
+y = 3438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.druid'
+x = 2883
+y = 3431
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2884
+y = 3434
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2885
+y = 3418
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.druid'
+x = 2888
+y = 3440
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2889
+y = 3448
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2890
+y = 3435
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.druid'
+x = 2893
+y = 3419
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.druid'
+x = 2893
+y = 3440
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.druid'
+x = 2896
+y = 3442
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2897
+y = 3429
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2897
+y = 3436
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2898
+y = 3419
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2900
+y = 3449
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2902
+y = 3449
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2906
+y = 3441
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2913
+y = 3450
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2915
+y = 3446
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.druid'
+x = 2898
+y = 3432
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2906
+y = 3451
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.the_lady_of_the_lake'
+x = 2924
+y = 3405
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4728'
+x = 2938
+y = 3422
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tegid'
+x = 2913
+y = 3417
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sanfew'
+x = 2897
+y = 3426
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sylas'
+x = 2891
+y = 3454
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gaius'
+x = 2885
+y = 3449
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jatix'
+x = 2899
+y = 3427
+plane = 0
+direction = 'NONE'

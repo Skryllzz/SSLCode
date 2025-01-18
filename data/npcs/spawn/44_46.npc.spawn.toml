@@ -1,0 +1,132 @@
+[[spawns]]
+id = 'npc.rod_fishing_spot_1515'
+x = 2855
+y = 2974
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1515'
+x = 2855
+y = 2977
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_1515'
+x = 2856
+y = 2974
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_3093'
+x = 2851
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_3093'
+x = 2853
+y = 2955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.duradel'
+x = 2869
+y = 2982
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5346'
+x = 2871
+y = 2951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5346'
+x = 2876
+y = 2957
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5347'
+x = 2872
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5347'
+x = 2876
+y = 2951
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.undead_one_5348'
+x = 2876
+y = 2955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5349'
+x = 2870
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5349'
+x = 2876
+y = 2947
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5350'
+x = 2877
+y = 2959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.undead_one_5351'
+x = 2873
+y = 2951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vigroy'
+x = 2834
+y = 2954
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kaleb_paramaya'
+x = 2863
+y = 2997
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.yohnus'
+x = 2857
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.seravel'
+x = 2870
+y = 2974
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.yanni_salika'
+x = 2835
+y = 2985
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.obli'
+x = 2824
+y = 2959
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fernahei'
+x = 2870
+y = 2972
+plane = 0
+direction = 'WEST'

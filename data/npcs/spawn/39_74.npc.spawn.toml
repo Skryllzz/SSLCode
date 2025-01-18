@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.evil_bob_391'
+x = 2524
+y = 4777
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.servant_393'
+x = 2527
+y = 4777
+plane = 0
+direction = 'NONE'

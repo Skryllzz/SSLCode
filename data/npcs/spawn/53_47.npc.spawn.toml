@@ -1,0 +1,252 @@
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3396
+y = 3029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3397
+y = 3044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_snake'
+x = 3398
+y = 3038
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3406
+y = 3014
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3408
+y = 3013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3408
+y = 3016
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jackal'
+x = 3410
+y = 3015
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizard'
+x = 3404
+y = 3062
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizard'
+x = 3441
+y = 3061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizard'
+x = 3445
+y = 3034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_lizard'
+x = 3438
+y = 3060
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_lizard_460'
+x = 3405
+y = 3059
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_lizard_460'
+x = 3411
+y = 3034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_lizard_460'
+x = 3445
+y = 3031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.desert_lizard_461'
+x = 3414
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard'
+x = 3441
+y = 3059
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard'
+x = 3443
+y = 3033
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard'
+x = 3443
+y = 3059
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3400
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3402
+y = 3061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3404
+y = 3060
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3407
+y = 3067
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3408
+y = 3060
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3411
+y = 3065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3412
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3412
+y = 3049
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3414
+y = 3029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3417
+y = 3036
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3418
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3419
+y = 3034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3422
+y = 3058
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3424
+y = 3059
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3435
+y = 3057
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3435
+y = 3062
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3439
+y = 3013
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3439
+y = 3065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3440
+y = 3016
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3443
+y = 3012
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3443
+y = 3017
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3443
+y = 3034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3443
+y = 3047
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.small_lizard_463'
+x = 3446
+y = 3014
+plane = 0
+direction = 'NONE'

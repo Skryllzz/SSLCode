@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.odd_old_man'
+x = 3361
+y = 3505
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bat'
+x = 3341
+y = 3478
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3343
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3345
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3350
+y = 3493
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3353
+y = 3494
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3361
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3364
+y = 3489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3370
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3379
+y = 3478
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3379
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3387
+y = 3483
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3388
+y = 3494
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 3389
+y = 3483
+plane = 0
+direction = 'NONE'

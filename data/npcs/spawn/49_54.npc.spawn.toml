@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.zamorakian_recruiter'
+x = 3143
+y = 3470
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meredith'
+x = 3143
+y = 3472
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.clerk_10759'
+x = 3181
+y = 3471
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_1633'
+x = 3163
+y = 3489
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_1634'
+x = 3166
+y = 3489
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.grand_exchange_clerk'
+x = 3165
+y = 3488
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.grand_exchange_clerk_2149'
+x = 3164
+y = 3488
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.grand_exchange_clerk_2150'
+x = 3165
+y = 3491
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.grand_exchange_clerk_2151'
+x = 3164
+y = 3491
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.brugsen_bursen'
+x = 3165
+y = 3477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_3089'
+x = 3166
+y = 3490
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.farid_morrisane_ores_and_bars'
+x = 3173
+y = 3498
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bob_barter_herbs'
+x = 3156
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.murky_matt_runes'
+x = 3173
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.relobo_blinyo_logs'
+x = 3152
+y = 3489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hofuthand_weapons_and_armour'
+x = 3156
+y = 3498
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5885'
+x = 3170
+y = 3461
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6528'
+x = 3163
+y = 3490
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3145
+y = 3508
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3148
+y = 3477
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3176
+y = 3508
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3180
+y = 3474
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3193
+y = 3489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.abigaila'
+x = 3185
+y = 3516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.saradominist_recruiter'
+x = 3141
+y = 3472
+plane = 0
+direction = 'NONE'

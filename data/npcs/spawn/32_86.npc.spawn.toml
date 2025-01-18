@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.null_1979'
+x = 2063
+y = 5556
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1979'
+x = 2064
+y = 5516
+plane = 1
+direction = 'NONE'

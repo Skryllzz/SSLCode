@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3573
+y = 6144
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_warrior'
+x = 3576
+y = 6144
+plane = 0
+direction = 'NONE'

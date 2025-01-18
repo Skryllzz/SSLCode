@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.mordan_nikazsi'
+x = 3662
+y = 3347
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.remus_kaninus'
+x = 3657
+y = 3376
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vampyressa_van_von'
+x = 3658
+y = 3379
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vallessia_von_pitt'
+x = 3664
+y = 3379
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9727'
+x = 3658
+y = 3361
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9728'
+x = 3653
+y = 3356
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9728'
+x = 3663
+y = 3354
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9731'
+x = 3648
+y = 3368
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9731'
+x = 3650
+y = 3345
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9731'
+x = 3661
+y = 3341
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9732'
+x = 3649
+y = 3337
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9732'
+x = 3656
+y = 3346
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvenile_9732'
+x = 3664
+y = 3369
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vyrewatch_9736'
+x = 3653
+y = 3340
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_9737'
+x = 3655
+y = 3368
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_9738'
+x = 3651
+y = 3379
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_9742'
+x = 3657
+y = 3355
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vyrewatch_sentinel_9757'
+x = 3648
+y = 3382
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9847'
+x = 3711
+y = 3329
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9849'
+x = 3709
+y = 3328
+plane = 0
+direction = 'NONE'

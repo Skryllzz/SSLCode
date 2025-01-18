@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.seagull'
+x = 2549
+y = 2860
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull'
+x = 2557
+y = 2864
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2507
+y = 2869
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2512
+y = 2860
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2524
+y = 2855
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2527
+y = 2869
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_7947'
+x = 2509
+y = 2838
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7947'
+x = 2515
+y = 2838
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7962'
+x = 2529
+y = 2839
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7968'
+x = 2558
+y = 2858
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7973'
+x = 2544
+y = 2862
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_7974'
+x = 2548
+y = 2863
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7977'
+x = 2553
+y = 2858
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7978'
+x = 2559
+y = 2856
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.madame_caldarium'
+x = 2553
+y = 2868
+plane = 0
+direction = 'NORTH'

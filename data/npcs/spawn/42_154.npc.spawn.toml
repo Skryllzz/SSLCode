@@ -1,0 +1,474 @@
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2711
+y = 9877
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2714
+y = 9875
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2716
+y = 9878
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2717
+y = 9874
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2719
+y = 9878
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2720
+y = 9875
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2723
+y = 9877
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fire_elemental'
+x = 2724
+y = 9879
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2693
+y = 9879
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2693
+y = 9904
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2694
+y = 9872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2695
+y = 9867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2696
+y = 9908
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2699
+y = 9868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2699
+y = 9911
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2700
+y = 9875
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2701
+y = 9901
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.earth_elemental'
+x = 2701
+y = 9905
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2690
+y = 9880
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2690
+y = 9903
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2691
+y = 9899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2692
+y = 9874
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2692
+y = 9876
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2692
+y = 9885
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2692
+y = 9895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2692
+y = 9900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2692
+y = 9902
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2692
+y = 9914
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2693
+y = 9881
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2693
+y = 9891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2693
+y = 9900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2693
+y = 9906
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2694
+y = 9878
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2694
+y = 9908
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2694
+y = 9915
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2695
+y = 9869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2695
+y = 9870
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2695
+y = 9877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2695
+y = 9881
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2695
+y = 9889
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2696
+y = 9880
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2696
+y = 9900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2696
+y = 9906
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2696
+y = 9910
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2697
+y = 9866
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2697
+y = 9915
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2698
+y = 9871
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2698
+y = 9900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2698
+y = 9901
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2699
+y = 9865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2699
+y = 9872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2699
+y = 9876
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2699
+y = 9882
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2699
+y = 9915
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2700
+y = 9879
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2701
+y = 9867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2701
+y = 9870
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2702
+y = 9868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2703
+y = 9894
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2703
+y = 9911
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2704
+y = 9906
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2705
+y = 9897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2706
+y = 9904
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2706
+y = 9910
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elemental_rock'
+x = 2707
+y = 9906
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.air_elemental'
+x = 2733
+y = 9887
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.air_elemental'
+x = 2733
+y = 9894
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.air_elemental'
+x = 2734
+y = 9891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.air_elemental'
+x = 2735
+y = 9893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.air_elemental'
+x = 2736
+y = 9891
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.air_elemental'
+x = 2738
+y = 9889
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.air_elemental'
+x = 2738
+y = 9894
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.water_elemental'
+x = 2713
+y = 9904
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.water_elemental'
+x = 2715
+y = 9906
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.water_elemental'
+x = 2718
+y = 9902
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.water_elemental'
+x = 2718
+y = 9904
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.water_elemental'
+x = 2722
+y = 9903
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.water_elemental'
+x = 2726
+y = 9904
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.water_elemental'
+x = 2729
+y = 9904
+plane = 0
+direction = 'WEST'

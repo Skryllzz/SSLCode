@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.ferox'
+x = 3129
+y = 3637
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sigismund'
+x = 3134
+y = 3620
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorakian_acolyte'
+x = 3135
+y = 3632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorakian_acolyte_10380'
+x = 3127
+y = 3628
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorakian_acolyte_10381'
+x = 3135
+y = 3636
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.refugee'
+x = 3133
+y = 3624
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.refugee_10384'
+x = 3134
+y = 3628
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.refugee_10385'
+x = 3129
+y = 3617
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_10389'
+x = 3134
+y = 3629
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10396'
+x = 3135
+y = 3627
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3075
+y = 3608
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3078
+y = 3601
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 3083
+y = 3597
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sister_scarophia'
+x = 3128
+y = 3636
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.perdu'
+x = 3128
+y = 3631
+plane = 0
+direction = 'WEST'

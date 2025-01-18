@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.druid'
+x = 2921
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2923
+y = 3478
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2927
+y = 3481
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2927
+y = 3489
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.druid'
+x = 2930
+y = 3484
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.boy'
+x = 2928
+y = 3456
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nora_t_hagg'
+x = 2904
+y = 3463
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.white_knight_4114'
+x = 2921
+y = 3514
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.achietties'
+x = 2903
+y = 3510
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.helemos'
+x = 2894
+y = 3510
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kaqemeex'
+x = 2925
+y = 3486
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monk_of_zamorak_8400'
+x = 2934
+y = 3515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_8400'
+x = 2934
+y = 3516
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_of_zamorak_8400'
+x = 2938
+y = 3516
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_of_zamorak_8401'
+x = 2931
+y = 3516
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_of_zamorak_8401'
+x = 2933
+y = 3514
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_8401'
+x = 2936
+y = 3515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_8401'
+x = 2940
+y = 3517
+plane = 0
+direction = 'NONE'

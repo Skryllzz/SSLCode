@@ -1,0 +1,186 @@
+[[spawns]]
+id = 'npc.null_8796'
+x = 2454
+y = 6091
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baxtorian_8809'
+x = 2444
+y = 6092
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.islwyn_8819'
+x = 2438
+y = 6110
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8826'
+x = 2439
+y = 6099
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eluned_8829'
+x = 2448
+y = 6089
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_tangwen_trahaearn_8895'
+x = 2442
+y = 6087
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lord_ieuan_amlodd_8899'
+x = 2437
+y = 6092
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lord_piquan_crwys_8904'
+x = 2450
+y = 6084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_carys_hefin_8908'
+x = 2440
+y = 6088
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_ffion_meilyr_8911'
+x = 2452
+y = 6090
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_kelyn_ithell_8915'
+x = 2444
+y = 6097
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.iestin_8926'
+x = 2459
+y = 6089
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.klank_8940'
+x = 2451
+y = 6094
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.niloof_8941'
+x = 2437
+y = 6084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kamen_8942'
+x = 2453
+y = 6087
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thorgel_8943'
+x = 2441
+y = 6083
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.general_hining_8944'
+x = 2446
+y = 6094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard_8945'
+x = 2435
+y = 6094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard_8945'
+x = 2441
+y = 6112
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard_8945'
+x = 2442
+y = 6100
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.tyras_guard_8945'
+x = 2442
+y = 6118
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard_8945'
+x = 2450
+y = 6107
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tyras_guard_8945'
+x = 2457
+y = 6084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_archer_8946'
+x = 2444
+y = 6084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_archer_8946'
+x = 2449
+y = 6110
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_archer_8947'
+x = 2439
+y = 6117
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_archer_8947'
+x = 2446
+y = 6109
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_warrior_8948'
+x = 2435
+y = 6112
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_warrior_8948'
+x = 2448
+y = 6118
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_warrior_8949'
+x = 2440
+y = 6096
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rebel_warrior_8949'
+x = 2449
+y = 6100
+plane = 0
+direction = 'NONE'

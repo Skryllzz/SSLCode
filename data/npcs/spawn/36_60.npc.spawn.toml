@@ -1,0 +1,192 @@
+[[spawns]]
+id = 'npc.iceberg'
+x = 2317
+y = 3870
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2327
+y = 3879
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2337
+y = 3868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2342
+y = 3881
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2366
+y = 3877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2311
+y = 3866
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2334
+y = 3875
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2356
+y = 3879
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_runt_5828'
+x = 2321
+y = 3891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_runt_5828'
+x = 2325
+y = 3862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_runt_5828'
+x = 2340
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_runt_5828'
+x = 2341
+y = 3862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_runt_5828'
+x = 2354
+y = 3863
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_runt_5828'
+x = 2362
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_male_5829'
+x = 2320
+y = 3889
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_male_5829'
+x = 2324
+y = 3860
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_male_5829'
+x = 2343
+y = 3861
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_male_5829'
+x = 2344
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_male_5829'
+x = 2351
+y = 3865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_male_5829'
+x = 2359
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2318
+y = 3891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2321
+y = 3894
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2327
+y = 3858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2342
+y = 3894
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2343
+y = 3890
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2346
+y = 3863
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2355
+y = 3865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2361
+y = 3894
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_female_5830'
+x = 2362
+y = 3890
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_grunt_5831'
+x = 2323
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_grunt_5831'
+x = 2341
+y = 3890
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_grunt_5831'
+x = 2364
+y = 3891
+plane = 0
+direction = 'NONE'

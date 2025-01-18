@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2433
+y = 9771
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.hellhound_105'
+x = 2433
+y = 9784
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.aberrant_spectre_6'
+x = 2443
+y = 9785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_6'
+x = 2444
+y = 9777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_6'
+x = 2456
+y = 9777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_6'
+x = 2470
+y = 9782
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_6'
+x = 2471
+y = 9776
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_7'
+x = 2441
+y = 9775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_7'
+x = 2443
+y = 9781
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_7'
+x = 2456
+y = 9790
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_7'
+x = 2458
+y = 9780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_7'
+x = 2459
+y = 9774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.aberrant_spectre_7'
+x = 2468
+y = 9778
+plane = 0
+direction = 'NONE'

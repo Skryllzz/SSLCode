@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.broken_handz'
+x = 2221
+y = 3092
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.badger'
+x = 2214
+y = 3097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.badger_2126'
+x = 2210
+y = 3097
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.badger_2126'
+x = 2215
+y = 3096
+plane = 0
+direction = 'NONE'

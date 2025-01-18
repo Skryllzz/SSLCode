@@ -1,0 +1,348 @@
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2307
+y = 3605
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2307
+y = 3606
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2307
+y = 3620
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2307
+y = 3621
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2308
+y = 3642
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2310
+y = 3642
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2319
+y = 3595
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2320
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2321
+y = 3643
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2321
+y = 3644
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2323
+y = 3614
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2323
+y = 3628
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2324
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2324
+y = 3628
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2327
+y = 3635
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2328
+y = 3635
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2336
+y = 3631
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2336
+y = 3632
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2342
+y = 3641
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.prickly_kebbit'
+x = 2343
+y = 3641
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2314
+y = 3596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2316
+y = 3606
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2321
+y = 3599
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2321
+y = 3611
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2330
+y = 3622
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2332
+y = 3626
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2334
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2339
+y = 3593
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2339
+y = 3615
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2341
+y = 3618
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chinchompa'
+x = 2342
+y = 3590
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kathy_corkat_4299'
+x = 2357
+y = 3640
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2305
+y = 3593
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2307
+y = 3596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2309
+y = 3593
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2310
+y = 3587
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2313
+y = 3584
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2315
+y = 3587
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2341
+y = 3599
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2341
+y = 3604
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2345
+y = 3601
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2352
+y = 3584
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2354
+y = 3587
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2357
+y = 3584
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2360
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2362
+y = 3588
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2364
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2311
+y = 3611
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2315
+y = 3613
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2316
+y = 3603
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2319
+y = 3597
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2321
+y = 3605
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2324
+y = 3594
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2325
+y = 3600
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2328
+y = 3598
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2334
+y = 3586
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ruby_harvest'
+x = 2338
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2354
+y = 3608
+plane = 0
+direction = 'EAST'

@@ -1,0 +1,204 @@
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2565
+y = 2903
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2567
+y = 2903
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2572
+y = 2929
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2572
+y = 2931
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2573
+y = 2896
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2573
+y = 2898
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2574
+y = 2909
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2574
+y = 2911
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2575
+y = 2916
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2575
+y = 2926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2577
+y = 2926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2581
+y = 2884
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2581
+y = 2886
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2584
+y = 2912
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.barbtailed_kebbit'
+x = 2584
+y = 2914
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spined_larupia'
+x = 2563
+y = 2888
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spined_larupia'
+x = 2573
+y = 2883
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2585
+y = 2884
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2588
+y = 2886
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2591
+y = 2881
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2604
+y = 2916
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2605
+y = 2922
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2606
+y = 2893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2607
+y = 2929
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2609
+y = 2897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2609
+y = 2918
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2610
+y = 2934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2612
+y = 2893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2612
+y = 2900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2612
+y = 2925
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2614
+y = 2938
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 2615
+y = 2933
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_warlock'
+x = 2563
+y = 2920
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_warlock'
+x = 2566
+y = 2886
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,270 @@
+[[spawns]]
+id = 'npc.greater_demon_2030'
+x = 1426
+y = 10078
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.greater_demon_2030'
+x = 1433
+y = 10091
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2030'
+x = 1443
+y = 10078
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2030'
+x = 1450
+y = 10091
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2031'
+x = 1420
+y = 10087
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2031'
+x = 1428
+y = 10074
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2031'
+x = 1441
+y = 10075
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2031'
+x = 1441
+y = 10092
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2031'
+x = 1448
+y = 10081
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2031'
+x = 1453
+y = 10090
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.greater_demon_2032'
+x = 1427
+y = 10082
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.greater_demon_2032'
+x = 1432
+y = 10079
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2032'
+x = 1439
+y = 10088
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2032'
+x = 1446
+y = 10074
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2032'
+x = 1447
+y = 10085
+plane = 2
+direction = 'WEST'
+[[spawns]]
+id = 'npc.greater_demon_2032'
+x = 1452
+y = 10084
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.greater_demon_2032'
+x = 1455
+y = 10094
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon'
+x = 1428
+y = 10087
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon'
+x = 1447
+y = 10068
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon'
+x = 1447
+y = 10078
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon'
+x = 1447
+y = 10089
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5874'
+x = 1420
+y = 10071
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5874'
+x = 1429
+y = 10066
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5874'
+x = 1440
+y = 10091
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5874'
+x = 1441
+y = 10065
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5875'
+x = 1430
+y = 10093
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5875'
+x = 1453
+y = 10082
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5876'
+x = 1423
+y = 10077
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5876'
+x = 1424
+y = 10091
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5876'
+x = 1434
+y = 10072
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5876'
+x = 1446
+y = 10061
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_5877'
+x = 1436
+y = 10067
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_5877'
+x = 1441
+y = 10086
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_demon_5877'
+x = 1452
+y = 10074
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_7656'
+x = 1437
+y = 10081
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_7656'
+x = 1441
+y = 10076
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_7656'
+x = 1446
+y = 10082
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_7657'
+x = 1434
+y = 10084
+plane = 3
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lesser_demon_7657'
+x = 1440
+y = 10073
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_7657'
+x = 1443
+y = 10079
+plane = 3
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lesser_demon_7664'
+x = 1434
+y = 10079
+plane = 3
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lesser_demon_7664'
+x = 1438
+y = 10085
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_7664'
+x = 1445
+y = 10076
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.voice_of_yama'
+x = 1439
+y = 10079
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.disciple_of_yama_7670'
+x = 1456
+y = 10078
+plane = 2
+direction = 'NORTH'

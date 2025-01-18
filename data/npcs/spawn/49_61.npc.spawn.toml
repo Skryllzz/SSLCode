@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.hellhound'
+x = 3169
+y = 3956
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 3172
+y = 3944
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 3176
+y = 3950
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 3180
+y = 3906
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 3180
+y = 3917
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 3191
+y = 3914
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.piles'
+x = 3185
+y = 3933
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1536'
+x = 3181
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1536'
+x = 3183
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1536'
+x = 3185
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1536'
+x = 3187
+y = 3927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3187
+y = 3959
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3188
+y = 3961
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3189
+y = 3960
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3190
+y = 3959
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3191
+y = 3959
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3191
+y = 3961
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3192
+y = 3960
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3193
+y = 3958
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.magic_axe'
+x = 3194
+y = 3960
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mandrith'
+x = 3183
+y = 3945
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.runite_golem'
+x = 3178
+y = 3938
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.runite_golem'
+x = 3191
+y = 3934
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,360 @@
+[[spawns]]
+id = 'npc.mariah'
+x = 1767
+y = 3622
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.leela_10423'
+x = 1784
+y = 3590
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_10431'
+x = 1782
+y = 3624
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc._1172'
+x = 1765
+y = 3643
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 1747
+y = 3640
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow'
+x = 1757
+y = 3638
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 1751
+y = 3636
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2791'
+x = 1758
+y = 3643
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 1747
+y = 3637
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 1761
+y = 3642
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 1763
+y = 3638
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cow_calf_2794'
+x = 1754
+y = 3637
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1731
+y = 3616
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1733
+y = 3622
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1739
+y = 3612
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1743
+y = 3618
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2863'
+x = 1788
+y = 3634
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_rat_2864'
+x = 1787
+y = 3641
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1738
+y = 3611
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.estate_agent'
+x = 1781
+y = 3628
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard'
+x = 1770
+y = 3633
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_398'
+x = 1741
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_398'
+x = 1786
+y = 3598
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_399'
+x = 1772
+y = 3634
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_399'
+x = 1788
+y = 3596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_400'
+x = 1738
+y = 3592
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.master_farmer'
+x = 1761
+y = 3633
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.master_farmer_5731'
+x = 1787
+y = 3592
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.town_crier_6823'
+x = 1756
+y = 3599
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_6940'
+x = 1746
+y = 3599
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_6942'
+x = 1746
+y = 3598
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.banker_6942'
+x = 1746
+y = 3600
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.horace'
+x = 1773
+y = 3588
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vannah'
+x = 1763
+y = 3593
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.logava'
+x = 1768
+y = 3598
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_6947'
+x = 1748
+y = 3614
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_6948'
+x = 1740
+y = 3620
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_6949'
+x = 1748
+y = 3618
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_6950'
+x = 1746
+y = 3613
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.farmer_6951'
+x = 1747
+y = 3618
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.farmer_6952'
+x = 1739
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.golova'
+x = 1743
+y = 3612
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.richard_6954'
+x = 1741
+y = 3612
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.farmer_hayfield'
+x = 1741
+y = 3588
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6987'
+x = 1742
+y = 3616
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6988'
+x = 1731
+y = 3618
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.man_6988'
+x = 1765
+y = 3596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.man_6989'
+x = 1728
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6990'
+x = 1729
+y = 3615
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.woman_6991'
+x = 1744
+y = 3615
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.woman_6991'
+x = 1778
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1730
+y = 3612
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.woman_6992'
+x = 1767
+y = 3603
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_dog_7209'
+x = 1739
+y = 3600
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_dog_7209'
+x = 1742
+y = 3595
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_dog_7209'
+x = 1756
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_dog_7209'
+x = 1760
+y = 3596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_dog_7209'
+x = 1765
+y = 3601
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_dog_7209'
+x = 1778
+y = 3597
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jonathan'
+x = 1750
+y = 3587
+plane = 0
+direction = 'WEST'

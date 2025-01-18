@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.butterfly'
+x = 3082
+y = 3077
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3092
+y = 3082
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3109
+y = 3090
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly'
+x = 3112
+y = 3093
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 3125
+y = 3084
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 3093
+y = 3086
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 3097
+y = 3085
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 3129
+y = 3091
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 3135
+y = 3084
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.master_chef'
+x = 3075
+y = 3085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gielinor_guide'
+x = 3094
+y = 3107
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.account_guide'
+x = 3127
+y = 3124
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.quest_guide'
+x = 3085
+y = 3122
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_3317'
+x = 3099
+y = 3090
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fishing_spot_3317'
+x = 3101
+y = 3092
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_3317'
+x = 3103
+y = 3092
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_3318'
+x = 3120
+y = 3125
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_3318'
+x = 3122
+y = 3125
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brother_brace'
+x = 3125
+y = 3106
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7942'
+x = 3128
+y = 3084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.survival_expert'
+x = 3103
+y = 3095
+plane = 0
+direction = 'NONE'

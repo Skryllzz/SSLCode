@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.wolf'
+x = 2647
+y = 3584
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2680
+y = 3585
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 2682
+y = 3592
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_3912'
+x = 2626
+y = 3633
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.wolf_3912'
+x = 2630
+y = 3631
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_3912'
+x = 2630
+y = 3637
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_3912'
+x = 2641
+y = 3626
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_3912'
+x = 2642
+y = 3622
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_3912'
+x = 2644
+y = 3627
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.council_workman'
+x = 2655
+y = 3592
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.town_guard'
+x = 2660
+y = 3646
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.town_guard_3931'
+x = 2664
+y = 3646
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thorodin_5526'
+x = 2659
+y = 3627
+plane = 0
+direction = 'NONE'

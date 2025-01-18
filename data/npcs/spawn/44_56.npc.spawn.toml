@@ -1,0 +1,180 @@
+[[spawns]]
+id = 'npc.soldier_4092'
+x = 2840
+y = 3589
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.mountain_goat_4117'
+x = 2832
+y = 3597
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4117'
+x = 2856
+y = 3610
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rock'
+x = 2855
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.stick'
+x = 2857
+y = 3591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pee_hat'
+x = 2872
+y = 3598
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.kraka'
+x = 2875
+y = 3598
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dung'
+x = 2862
+y = 3588
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ash'
+x = 2864
+y = 3588
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.thrower_troll'
+x = 2854
+y = 3600
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thrower_troll_932'
+x = 2859
+y = 3600
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.thrower_troll_933'
+x = 2863
+y = 3600
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thrower_troll_934'
+x = 2867
+y = 3600
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thrower_troll_935'
+x = 2851
+y = 3598
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.thrower_troll_935'
+x = 2870
+y = 3600
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 2852
+y = 3591
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 2863
+y = 3595
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll'
+x = 2871
+y = 3584
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 2864
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_937'
+x = 2872
+y = 3584
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_938'
+x = 2858
+y = 3586
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.mountain_troll_938'
+x = 2865
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_939'
+x = 2866
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_939'
+x = 2876
+y = 3589
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_940'
+x = 2867
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_940'
+x = 2871
+y = 3587
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_941'
+x = 2868
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_941'
+x = 2876
+y = 3586
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_942'
+x = 2869
+y = 3595
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_troll_942'
+x = 2873
+y = 3590
+plane = 0
+direction = 'NONE'

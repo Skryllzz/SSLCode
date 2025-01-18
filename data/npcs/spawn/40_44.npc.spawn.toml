@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.ram_1262'
+x = 2576
+y = 2868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1331'
+x = 2589
+y = 2851
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_1334'
+x = 2587
+y = 2851
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 2564
+y = 2855
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 2566
+y = 2861
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 2578
+y = 2862
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 2574
+y = 2852
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 2577
+y = 2857
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 2579
+y = 2845
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.seagull_1339'
+x = 2581
+y = 2851
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_7960'
+x = 2586
+y = 2867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7980'
+x = 2574
+y = 2835
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7994'
+x = 2569
+y = 2866
+plane = 0
+direction = 'NORTH'

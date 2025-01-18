@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.tool_leprechaun'
+x = 1696
+y = 3544
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wolf'
+x = 1665
+y = 3553
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 1667
+y = 3549
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 1669
+y = 3556
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf'
+x = 1672
+y = 3552
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_10717'
+x = 1677
+y = 3575
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_10718'
+x = 1671
+y = 3570
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_10718'
+x = 1679
+y = 3571
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_10719'
+x = 1670
+y = 3574
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_10719'
+x = 1680
+y = 3568
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_10720'
+x = 1679
+y = 3578
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_10721'
+x = 1674
+y = 3573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 1696
+y = 3521
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 1725
+y = 3559
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn_foal'
+x = 1717
+y = 3566
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn_foal'
+x = 1719
+y = 3562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn_foal'
+x = 1724
+y = 3567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lammy_langle'
+x = 1690
+y = 3541
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.konoo'
+x = 1687
+y = 3532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.clerk_6923'
+x = 1701
+y = 3529
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_7609'
+x = 1673
+y = 3580
+plane = 0
+direction = 'NORTH'

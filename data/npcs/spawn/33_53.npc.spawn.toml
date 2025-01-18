@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.black_dragon_253'
+x = 2155
+y = 3427
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2143
+y = 3417
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2155
+y = 3406
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dire_wolf'
+x = 2172
+y = 3409
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost'
+x = 2168
+y = 3427
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghost_86'
+x = 2170
+y = 3428
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_87'
+x = 2167
+y = 3429
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_88'
+x = 2167
+y = 3432
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghost_89'
+x = 2164
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dire_wolf_9181'
+x = 2132
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ed_9200'
+x = 2166
+y = 3417
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9243'
+x = 2168
+y = 3430
+plane = 0
+direction = 'NORTH'

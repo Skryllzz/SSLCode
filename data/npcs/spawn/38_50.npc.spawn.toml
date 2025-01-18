@@ -1,0 +1,234 @@
+[[spawns]]
+id = 'npc.hill_giant'
+x = 2438
+y = 3218
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2099'
+x = 2441
+y = 3217
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2100'
+x = 2439
+y = 3212
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2101'
+x = 2438
+y = 3208
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hill_giant_2102'
+x = 2443
+y = 3211
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hill_giant_2103'
+x = 2445
+y = 3209
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_bear'
+x = 2460
+y = 3200
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_bear'
+x = 2478
+y = 3200
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2448
+y = 3225
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2449
+y = 3224
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2449
+y = 3226
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2453
+y = 3221
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2464
+y = 3251
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2468
+y = 3242
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2472
+y = 3239
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2474
+y = 3237
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.red_salamander'
+x = 2476
+y = 3236
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2454
+y = 3247
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2455
+y = 3240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2465
+y = 3248
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2468
+y = 3243
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2470
+y = 3243
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2473
+y = 3241
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2474
+y = 3248
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2477
+y = 3238
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_of_zamorak_528'
+x = 2477
+y = 3244
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_5370'
+x = 2460
+y = 3223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_5370'
+x = 2464
+y = 3223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_5370'
+x = 2465
+y = 3220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_5370'
+x = 2468
+y = 3221
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_5370'
+x = 2469
+y = 3226
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_5370'
+x = 2476
+y = 3223
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spirit_of_scorpius'
+x = 2465
+y = 3227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grave_scorpion'
+x = 2465
+y = 3229
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grave_scorpion'
+x = 2467
+y = 3228
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grave_scorpion'
+x = 2470
+y = 3230
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grave_scorpion'
+x = 2471
+y = 3222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grave_scorpion'
+x = 2472
+y = 3224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mage_of_zamorak_7425'
+x = 2455
+y = 3232
+plane = 0
+direction = 'NONE'

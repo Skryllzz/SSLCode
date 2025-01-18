@@ -1,0 +1,654 @@
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2563
+y = 4291
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2563
+y = 4348
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2568
+y = 4323
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2571
+y = 4305
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2571
+y = 4337
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2581
+y = 4300
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2584
+y = 4344
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2596
+y = 4296
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2609
+y = 4339
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2610
+y = 4304
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2615
+y = 4322
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2620
+y = 4291
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_impling_1645'
+x = 2620
+y = 4348
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2564
+y = 4321
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2574
+y = 4321
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2574
+y = 4331
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2587
+y = 4300
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2590
+y = 4348
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2592
+y = 4291
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2595
+y = 4343
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2612
+y = 4309
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2612
+y = 4327
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.young_impling_1646'
+x = 2619
+y = 4322
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2568
+y = 4296
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2568
+y = 4327
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2574
+y = 4311
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2580
+y = 4343
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2585
+y = 4296
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2597
+y = 4293
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2602
+y = 4346
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2609
+y = 4317
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2615
+y = 4298
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2615
+y = 4342
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gourmet_impling_1647'
+x = 2618
+y = 4321
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2568
+y = 4317
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2570
+y = 4330
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2574
+y = 4305
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2587
+y = 4342
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2590
+y = 4298
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2598
+y = 4340
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2611
+y = 4334
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.earth_impling_1648'
+x = 2612
+y = 4310
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.essence_impling_1649'
+x = 2574
+y = 4317
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.essence_impling_1649'
+x = 2576
+y = 4337
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.essence_impling_1649'
+x = 2585
+y = 4298
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.essence_impling_1649'
+x = 2601
+y = 4343
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.essence_impling_1649'
+x = 2612
+y = 4318
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.eclectic_impling_1650'
+x = 2567
+y = 4319
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.eclectic_impling_1650'
+x = 2591
+y = 4295
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.eclectic_impling_1650'
+x = 2591
+y = 4340
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.eclectic_impling_1650'
+x = 2615
+y = 4326
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.elnock_inquisitor'
+x = 2586
+y = 4314
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.immenizz'
+x = 2592
+y = 4320
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2563
+y = 4292
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2564
+y = 4348
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2566
+y = 4294
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2566
+y = 4345
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2569
+y = 4297
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2570
+y = 4342
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2572
+y = 4300
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2572
+y = 4339
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2575
+y = 4303
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2575
+y = 4336
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2578
+y = 4306
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2578
+y = 4333
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2581
+y = 4309
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2581
+y = 4330
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2602
+y = 4310
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2602
+y = 4330
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2604
+y = 4306
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2605
+y = 4333
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2608
+y = 4303
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2608
+y = 4336
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2611
+y = 4300
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2611
+y = 4339
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2614
+y = 4297
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2614
+y = 4342
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2616
+y = 4294
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2617
+y = 4345
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2619
+y = 4291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.imp_defender'
+x = 2619
+y = 4348
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9390'
+x = 2576
+y = 4336
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9390'
+x = 2610
+y = 4301
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2569
+y = 4342
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2570
+y = 4297
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2572
+y = 4321
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2575
+y = 4306
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2578
+y = 4334
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2591
+y = 4301
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2591
+y = 4339
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2605
+y = 4306
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2605
+y = 4334
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2610
+y = 4320
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2616
+y = 4343
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9391'
+x = 2617
+y = 4295
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2570
+y = 4332
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2574
+y = 4322
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2578
+y = 4299
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2585
+y = 4340
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2589
+y = 4299
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2598
+y = 4302
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2603
+y = 4340
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2609
+y = 4322
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2614
+y = 4308
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9392'
+x = 2615
+y = 4333
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_9394'
+x = 2590
+y = 4319
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9395'
+x = 2590
+y = 4320
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_9396'
+x = 2593
+y = 4319
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_9397'
+x = 2591
+y = 4319
+plane = 0
+direction = 'NORTH'

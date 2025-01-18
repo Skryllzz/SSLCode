@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.dark_wizard'
+x = 2981
+y = 3562
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard'
+x = 2987
+y = 3569
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard'
+x = 2988
+y = 3563
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dark_wizard_512'
+x = 2976
+y = 3570
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_wizard_512'
+x = 2977
+y = 3565
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_wizard_512'
+x = 2980
+y = 3575
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_wizard_512'
+x = 2984
+y = 3568
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dark_wizard_512'
+x = 2985
+y = 3575
+plane = 0
+direction = 'SOUTH'

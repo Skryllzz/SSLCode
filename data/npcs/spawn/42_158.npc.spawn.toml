@@ -1,0 +1,222 @@
+[[spawns]]
+id = 'npc.rock_crab'
+x = 2706
+y = 10159
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rock_crab'
+x = 2748
+y = 10166
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rock_crab_102'
+x = 2710
+y = 10168
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_crab_102'
+x = 2739
+y = 10153
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_fremennik'
+x = 2708
+y = 10146
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_fremennik'
+x = 2727
+y = 10143
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik'
+x = 2737
+y = 10138
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4492'
+x = 2712
+y = 10142
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4492'
+x = 2732
+y = 10141
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4493'
+x = 2715
+y = 10145
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4493'
+x = 2723
+y = 10142
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4493'
+x = 2729
+y = 10139
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4494'
+x = 2700
+y = 10165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4494'
+x = 2705
+y = 10155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4495'
+x = 2707
+y = 10163
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4495'
+x = 2710
+y = 10158
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4496'
+x = 2702
+y = 10160
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4496'
+x = 2715
+y = 10163
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4497'
+x = 2717
+y = 10160
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4497'
+x = 2742
+y = 10154
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4497'
+x = 2746
+y = 10165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4498'
+x = 2709
+y = 10168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4498'
+x = 2734
+y = 10165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_fremennik_4498'
+x = 2737
+y = 10156
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.brine_rat'
+x = 2702
+y = 10135
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brine_rat'
+x = 2704
+y = 10131
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.brine_rat'
+x = 2705
+y = 10133
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brine_rat'
+x = 2707
+y = 10137
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.brine_rat'
+x = 2708
+y = 10131
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brine_rat'
+x = 2710
+y = 10134
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.brine_rat'
+x = 2712
+y = 10132
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.boulder_4502'
+x = 2691
+y = 10124
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_4504'
+x = 2720
+y = 10134
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat_4504'
+x = 2723
+y = 10122
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.giant_bat_4504'
+x = 2730
+y = 10131
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.giant_bat_4504'
+x = 2732
+y = 10122
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.giant_bat_4504'
+x = 2734
+y = 10128
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,180 @@
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2740
+y = 9502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2740
+y = 9508
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2743
+y = 9503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2048'
+x = 2703
+y = 9483
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2048'
+x = 2715
+y = 9482
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2049'
+x = 2709
+y = 9479
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_demon_2050'
+x = 2700
+y = 9489
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 2696
+y = 9501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 2711
+y = 9516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 2721
+y = 9511
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 2721
+y = 9530
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_245'
+x = 2708
+y = 9500
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_red_dragon_245'
+x = 2708
+y = 9526
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_red_dragon_245'
+x = 2730
+y = 9512
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_red_dragon_246'
+x = 2698
+y = 9524
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_246'
+x = 2714
+y = 9505
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon'
+x = 2702
+y = 9504
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon'
+x = 2724
+y = 9516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_248'
+x = 2703
+y = 9532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_248'
+x = 2711
+y = 9500
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_248'
+x = 2714
+y = 9526
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_248'
+x = 2721
+y = 9522
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_249'
+x = 2703
+y = 9522
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_249'
+x = 2717
+y = 9516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_250'
+x = 2706
+y = 9516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_251'
+x = 2697
+y = 9506
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.red_dragon_251'
+x = 2708
+y = 9508
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bronze_dragon'
+x = 2731
+y = 9482
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bronze_dragon'
+x = 2731
+y = 9491
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bronze_dragon'
+x = 2740
+y = 9492
+plane = 0
+direction = 'NONE'

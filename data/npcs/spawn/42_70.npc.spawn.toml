@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.mine_cart_3621'
+x = 2727
+y = 4509
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3622'
+x = 2697
+y = 4498
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3623'
+x = 2715
+y = 4516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_cart_3624'
+x = 2739
+y = 4528
+plane = 0
+direction = 'NONE'

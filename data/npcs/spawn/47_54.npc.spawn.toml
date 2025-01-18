@@ -1,0 +1,306 @@
+[[spawns]]
+id = 'npc.ram_1265'
+x = 3052
+y = 3516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brother_althric'
+x = 3049
+y = 3507
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1405'
+x = 3024
+y = 3463
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1406'
+x = 3030
+y = 3464
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1407'
+x = 3009
+y = 3458
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dwarf_1408'
+x = 3023
+y = 3458
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.abbot_langley'
+x = 3058
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.brother_jered'
+x = 3046
+y = 3488
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_2579'
+x = 3045
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_2579'
+x = 3045
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.monk_2579'
+x = 3050
+y = 3491
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_2579'
+x = 3054
+y = 3491
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monk_2579'
+x = 3045
+y = 3492
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monk_2579'
+x = 3056
+y = 3497
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.sheep_2788'
+x = 3052
+y = 3519
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2789'
+x = 3050
+y = 3518
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sheep_2789'
+x = 3054
+y = 3517
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_knight_4331'
+x = 3016
+y = 3516
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fortress_guard_4773'
+x = 3008
+y = 3517
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fortress_guard_4774'
+x = 3013
+y = 3515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fortress_guard_4774'
+x = 3017
+y = 3514
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.fortress_guard_4775'
+x = 3015
+y = 3514
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fortress_guard_4775'
+x = 3018
+y = 3516
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fortress_guard_4776'
+x = 3016
+y = 3513
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_knight_captain'
+x = 3028
+y = 3508
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.witch_4778'
+x = 3027
+y = 3506
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.greldo'
+x = 3030
+y = 3505
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_cat'
+x = 3028
+y = 3505
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3022
+y = 3513
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3023
+y = 3517
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3027
+y = 3512
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3028
+y = 3514
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3029
+y = 3517
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3030
+y = 3502
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3031
+y = 3502
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3032
+y = 3503
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3015
+y = 3515
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3023
+y = 3512
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3023
+y = 3516
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3024
+y = 3510
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3014
+y = 3516
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3023
+y = 3514
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3026
+y = 3507
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_5185'
+x = 3015
+y = 3459
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_5185'
+x = 3018
+y = 3456
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_5185'
+x = 3027
+y = 3457
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kharid_scorpion_5230'
+x = 3058
+y = 3488
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6109'
+x = 3052
+y = 3496
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc._7749'
+x = 3027
+y = 3509
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.oracle'
+x = 3013
+y = 3501
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.oziach'
+x = 3069
+y = 3517
+plane = 0
+direction = 'NONE'

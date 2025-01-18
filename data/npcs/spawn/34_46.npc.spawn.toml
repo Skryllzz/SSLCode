@@ -1,0 +1,114 @@
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2181
+y = 2984
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2188
+y = 2995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2192
+y = 2986
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2215
+y = 2995
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 2228
+y = 2950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 2203
+y = 2993
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2193
+y = 2961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 2179
+y = 2983
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 2233
+y = 2949
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2182
+y = 2979
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2211
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.unicorn'
+x = 2208
+y = 2992
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2203
+y = 2963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2205
+y = 2967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2207
+y = 2961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2207
+y = 2964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2209
+y = 2965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2210
+y = 2960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.copper_longtail'
+x = 2212
+y = 2964
+plane = 0
+direction = 'EAST'

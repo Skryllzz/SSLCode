@@ -1,0 +1,282 @@
+[[spawns]]
+id = 'npc.blood_blamish_snail'
+x = 3615
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blood_blamish_snail'
+x = 3619
+y = 3430
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.blood_blamish_snail'
+x = 3631
+y = 3427
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.blood_blamish_snail'
+x = 3634
+y = 3434
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3619
+y = 3437
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3624
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bruise_blamish_snail'
+x = 3626
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bruise_blamish_snail'
+x = 3637
+y = 3437
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3623
+y = 3437
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blood_blamish_snail_2650'
+x = 3618
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blood_blamish_snail_2650'
+x = 3633
+y = 3445
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.blood_blamish_snail_2650'
+x = 3639
+y = 3446
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bruise_blamish_snail_2652'
+x = 3620
+y = 3453
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bruise_blamish_snail_2652'
+x = 3632
+y = 3454
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.leech'
+x = 3612
+y = 3434
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.leech'
+x = 3620
+y = 3443
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.leech'
+x = 3623
+y = 3452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3628
+y = 3440
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.leech'
+x = 3635
+y = 3447
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3614
+y = 3431
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.feral_vampyre_3237'
+x = 3630
+y = 3430
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3591
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3592
+y = 3452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3593
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3593
+y = 3455
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3594
+y = 3422
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3594
+y = 3450
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3595
+y = 3426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3596
+y = 3445
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3596
+y = 3452
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3598
+y = 3424
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3598
+y = 3442
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3599
+y = 3447
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3600
+y = 3419
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3600
+y = 3422
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3604
+y = 3449
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3635
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3635
+y = 3426
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3637
+y = 3424
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3640
+y = 3425
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.valentin_rasputin'
+x = 3618
+y = 3393
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vormar_vakan'
+x = 3602
+y = 3394
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vlad_diaemus'
+x = 3610
+y = 3394
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lasenna_rasputin'
+x = 3622
+y = 3393
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimsonette_van_marr'
+x = 3597
+y = 3392
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.despoina_callidra'
+x = 3598
+y = 3394
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.vyrewatch_9740'
+x = 3630
+y = 3393
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.null_3228'
+x = 3106
+y = 3558
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton'
+x = 3072
+y = 3531
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton'
+x = 3112
+y = 3538
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_71'
+x = 3096
+y = 3559
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_71'
+x = 3117
+y = 3532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_72'
+x = 3106
+y = 3548
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_72'
+x = 3116
+y = 3524
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_73'
+x = 3074
+y = 3532
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_73'
+x = 3107
+y = 3528
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 3081
+y = 3551
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 3106
+y = 3570
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 3102
+y = 3569
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 3103
+y = 3567
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_80'
+x = 3104
+y = 3566
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_81'
+x = 3106
+y = 3567
+plane = 0
+direction = 'NONE'

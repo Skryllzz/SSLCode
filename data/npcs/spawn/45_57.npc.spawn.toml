@@ -1,0 +1,66 @@
+[[spawns]]
+id = 'npc.thrower_troll_4135'
+x = 2902
+y = 3696
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.thrower_troll_4136'
+x = 2898
+y = 3698
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.thrower_troll_4137'
+x = 2893
+y = 3700
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.thrower_troll_4138'
+x = 2889
+y = 3699
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.thrower_troll_4139'
+x = 2886
+y = 3698
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2888
+y = 3675
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2892
+y = 3685
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2900
+y = 3671
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4146'
+x = 2885
+y = 3670
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mountain_goat_4146'
+x = 2893
+y = 3678
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thistle'
+x = 2891
+y = 3676
+plane = 0
+direction = 'NORTH'

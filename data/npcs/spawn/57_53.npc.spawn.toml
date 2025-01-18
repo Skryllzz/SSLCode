@@ -1,0 +1,180 @@
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3673
+y = 3416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3675
+y = 3403
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3678
+y = 3403
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3678
+y = 3416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3680
+y = 3407
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3680
+y = 3417
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3681
+y = 3396
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3681
+y = 3403
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3681
+y = 3413
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3682
+y = 3399
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3683
+y = 3406
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3683
+y = 3411
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3683
+y = 3416
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3684
+y = 3403
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3686
+y = 3414
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3696
+y = 3408
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3696
+y = 3411
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3699
+y = 3397
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3699
+y = 3405
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3701
+y = 3399
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3701
+y = 3406
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3703
+y = 3403
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3704
+y = 3400
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghost_guard'
+x = 3668
+y = 3453
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ghost_guard'
+x = 3671
+y = 3453
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3686
+y = 3443
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3690
+y = 3438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3690
+y = 3444
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3694
+y = 3439
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swampy_log'
+x = 3696
+y = 3443
+plane = 0
+direction = 'NONE'

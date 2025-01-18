@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 1986
+y = 5564
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6082'
+x = 2012
+y = 5535
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6082'
+x = 2023
+y = 5544
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_6095'
+x = 2033
+y = 5530
+plane = 1
+direction = 'SOUTH'

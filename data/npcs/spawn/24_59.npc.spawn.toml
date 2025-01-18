@@ -1,0 +1,282 @@
+[[spawns]]
+id = 'npc.dwarf_1401'
+x = 1554
+y = 3796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1402'
+x = 1555
+y = 3785
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1403'
+x = 1541
+y = 3806
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1403'
+x = 1541
+y = 3810
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1404'
+x = 1555
+y = 3785
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1405'
+x = 1548
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1406'
+x = 1543
+y = 3780
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dwarf_1407'
+x = 1544
+y = 3781
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.dwarf_1407'
+x = 1555
+y = 3795
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bat'
+x = 1546
+y = 3799
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1551
+y = 3802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1552
+y = 3791
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1545
+y = 3802
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1555
+y = 3794
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1566
+y = 3810
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1566
+y = 3827
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1594
+y = 3832
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1538
+y = 3787
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1538
+y = 3814
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1539
+y = 3791
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1545
+y = 3777
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1545
+y = 3807
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1553
+y = 3804
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1555
+y = 3824
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1557
+y = 3821
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1563
+y = 3812
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1572
+y = 3805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1572
+y = 3833
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1579
+y = 3800
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1587
+y = 3805
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1588
+y = 3792
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1589
+y = 3797
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1589
+y = 3834
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7016'
+x = 1579
+y = 3818
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage'
+x = 1597
+y = 3818
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tower_mage'
+x = 1597
+y = 3821
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tower_mage_8507'
+x = 1573
+y = 3815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8508'
+x = 1578
+y = 3808
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8508'
+x = 1579
+y = 3834
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8509'
+x = 1588
+y = 3815
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8509'
+x = 1579
+y = 3830
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8510'
+x = 1574
+y = 3825
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8510'
+x = 1583
+y = 3814
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8511'
+x = 1583
+y = 3827
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tower_mage_8511'
+x = 1584
+y = 3824
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8624'
+x = 1577
+y = 3819
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8625'
+x = 1577
+y = 3820
+plane = 1
+direction = 'NONE'

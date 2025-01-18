@@ -1,0 +1,180 @@
+[[spawns]]
+id = 'npc.null_5930'
+x = 2912
+y = 3750
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ice_wolf_710'
+x = 2886
+y = 3723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_710'
+x = 2887
+y = 3720
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_710'
+x = 2890
+y = 3721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_710'
+x = 2890
+y = 3724
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_710'
+x = 2909
+y = 3736
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_711'
+x = 2892
+y = 3726
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_711'
+x = 2894
+y = 3725
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_711'
+x = 2895
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_711'
+x = 2895
+y = 3730
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_711'
+x = 2922
+y = 3757
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_712'
+x = 2897
+y = 3737
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_712'
+x = 2898
+y = 3733
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_712'
+x = 2913
+y = 3736
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2895
+y = 3751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2895
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2899
+y = 3751
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2899
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2930
+y = 3765
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_714'
+x = 2895
+y = 3740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_714'
+x = 2895
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_714'
+x = 2898
+y = 3740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_714'
+x = 2899
+y = 3744
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_714'
+x = 2905
+y = 3739
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_714'
+x = 2928
+y = 3763
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_715'
+x = 2886
+y = 3758
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_715'
+x = 2886
+y = 3762
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_715'
+x = 2890
+y = 3756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_715'
+x = 2890
+y = 3762
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_715'
+x = 2928
+y = 3753
+plane = 0
+direction = 'NONE'

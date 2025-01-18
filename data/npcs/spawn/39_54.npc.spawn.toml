@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.fishing_spot_1542'
+x = 2500
+y = 3506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1542'
+x = 2500
+y = 3512
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1542'
+x = 2504
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1542'
+x = 2506
+y = 3493
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_1542'
+x = 2520
+y = 3518
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.otto_godblessed'
+x = 2501
+y = 3487
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.almera'
+x = 2522
+y = 3498
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hudon'
+x = 2511
+y = 3484
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.guard_5188'
+x = 2554
+y = 3472
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.guard_5189'
+x = 2554
+y = 3476
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.moss_giant'
+x = 2831
+y = 3243
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2091'
+x = 2834
+y = 3242
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.moss_giant_2092'
+x = 2827
+y = 3246
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_5865'
+x = 2849
+y = 3235
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2820
+y = 3259
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2824
+y = 3237
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_77'
+x = 2850
+y = 3256
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 2832
+y = 3234
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_78'
+x = 2854
+y = 3249
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 2840
+y = 3238
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_79'
+x = 2852
+y = 3260
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_80'
+x = 2846
+y = 3249
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_81'
+x = 2850
+y = 3247
+plane = 0
+direction = 'NONE'

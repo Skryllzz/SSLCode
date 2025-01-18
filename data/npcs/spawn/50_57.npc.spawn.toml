@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.larry_2197'
+x = 3228
+y = 3687
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3209
+y = 3672
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3213
+y = 3673
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3214
+y = 3670
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3215
+y = 3677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3216
+y = 3683
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3218
+y = 3675
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3220
+y = 3681
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3222
+y = 3685
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3238
+y = 3668
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3240
+y = 3670
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3240
+y = 3673
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.black_unicorn'
+x = 3244
+y = 3670
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3251
+y = 3677
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3252
+y = 3673
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3252
+y = 3676
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3257
+y = 3668
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3260
+y = 3670
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3261
+y = 3673
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ent'
+x = 3201
+y = 3684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ent'
+x = 3202
+y = 3669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ent'
+x = 3211
+y = 3690
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ent'
+x = 3218
+y = 3697
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ent'
+x = 3223
+y = 3671
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ent'
+x = 3231
+y = 3702
+plane = 0
+direction = 'NONE'

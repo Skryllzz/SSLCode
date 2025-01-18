@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.brambickle'
+x = 2786
+y = 3862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2802
+y = 3841
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2807
+y = 3843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4146'
+x = 2798
+y = 3842
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4147'
+x = 2804
+y = 3843
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf'
+x = 2761
+y = 3863
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf'
+x = 2769
+y = 3854
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf'
+x = 2805
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_646'
+x = 2764
+y = 3858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_646'
+x = 2769
+y = 3861
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_646'
+x = 2800
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_646'
+x = 2803
+y = 3864
+plane = 0
+direction = 'NONE'

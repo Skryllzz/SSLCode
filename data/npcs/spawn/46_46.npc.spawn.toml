@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2948
+y = 2970
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2948
+y = 3001
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2950
+y = 2997
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2952
+y = 2973
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2953
+y = 2965
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6092'
+x = 2970
+y = 2973
+plane = 0
+direction = 'NONE'

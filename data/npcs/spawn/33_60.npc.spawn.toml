@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2117
+y = 3887
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2130
+y = 3899
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.oneiromancer'
+x = 2151
+y = 3868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3857'
+x = 2138
+y = 3899
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.beefy_burns'
+x = 2138
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.first_mate_daveyboy'
+x = 2141
+y = 3891
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.picarron_pete'
+x = 2139
+y = 3900
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bedread_the_bold'
+x = 2141
+y = 3898
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.tommy_2times'
+x = 2139
+y = 3897
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.murky_pat'
+x = 2143
+y = 3900
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lecherous_lee'
+x = 2142
+y = 3894
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6124'
+x = 2149
+y = 3867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6162'
+x = 2138
+y = 3891
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6163'
+x = 2138
+y = 3891
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7500'
+x = 2150
+y = 3867
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.suqah'
+x = 2142
+y = 3900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_788'
+x = 2120
+y = 3856
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_789'
+x = 2132
+y = 3871
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_791'
+x = 2136
+y = 3853
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_792'
+x = 2141
+y = 3856
+plane = 0
+direction = 'NONE'

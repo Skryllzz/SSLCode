@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.null_1968'
+x = 2836
+y = 3740
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_1971'
+x = 2835
+y = 3740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_1972'
+x = 2837
+y = 3740
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_698'
+x = 2841
+y = 3738
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_699'
+x = 2852
+y = 3735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_699'
+x = 2855
+y = 3729
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_699'
+x = 2861
+y = 3725
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_700'
+x = 2850
+y = 3732
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_700'
+x = 2857
+y = 3726
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_700'
+x = 2865
+y = 3729
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_701'
+x = 2849
+y = 3735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_701'
+x = 2853
+y = 3731
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_701'
+x = 2859
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_702'
+x = 2856
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_702'
+x = 2862
+y = 3722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_702'
+x = 2864
+y = 3723
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_703'
+x = 2853
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_703'
+x = 2856
+y = 3732
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_703'
+x = 2863
+y = 3720
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_704'
+x = 2854
+y = 3725
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_704'
+x = 2862
+y = 3728
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_704'
+x = 2862
+y = 3731
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_705'
+x = 2855
+y = 3735
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_705'
+x = 2858
+y = 3730
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_705'
+x = 2865
+y = 3726
+plane = 0
+direction = 'NONE'

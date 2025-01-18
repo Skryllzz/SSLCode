@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.simon'
+x = 3237
+y = 3621
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3229
+y = 3613
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3231
+y = 3607
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3235
+y = 3615
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3235
+y = 3620
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3236
+y = 3629
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3237
+y = 3600
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3238
+y = 3625
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3242
+y = 3600
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3242
+y = 3619
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3245
+y = 3616
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3247
+y = 3602
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3249
+y = 3608
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.elder_chaos_druid'
+x = 3249
+y = 3611
+plane = 0
+direction = 'NONE'

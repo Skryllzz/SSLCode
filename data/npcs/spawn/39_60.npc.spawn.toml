@@ -1,0 +1,288 @@
+[[spawns]]
+id = 'npc.guard_1099'
+x = 2509
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2499
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2499
+y = 3896
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2500
+y = 3895
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2501
+y = 3896
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2501
+y = 3897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2503
+y = 3898
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2505
+y = 3897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.penguin_2063'
+x = 2505
+y = 3899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lumberjack_leif'
+x = 2550
+y = 3869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miner_magnus'
+x = 2526
+y = 3893
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gardener_gunnhild'
+x = 2527
+y = 3855
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2512
+y = 3862
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2512
+y = 3867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2537
+y = 3892
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2539
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2545
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3661'
+x = 2547
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3662'
+x = 2514
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_3662'
+x = 2516
+y = 3865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rooster_3663'
+x = 2518
+y = 3865
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 2549
+y = 3869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rabbit_3664'
+x = 2552
+y = 3866
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 2545
+y = 3869
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rabbit_3665'
+x = 2554
+y = 3871
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.prince_brand'
+x = 2502
+y = 3852
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.princess_astrid'
+x = 2502
+y = 3868
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.king_vargas'
+x = 2501
+y = 3859
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3669'
+x = 2505
+y = 3856
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3669'
+x = 2505
+y = 3864
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3670'
+x = 2499
+y = 3857
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.derrik'
+x = 2551
+y = 3897
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.farmer_3672'
+x = 2538
+y = 3852
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.flower_girl'
+x = 2514
+y = 3866
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ragnar_3674'
+x = 2518
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.einar'
+x = 2501
+y = 3868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.alrik'
+x = 2514
+y = 3855
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thorhild'
+x = 2502
+y = 3852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.halla_3678'
+x = 2541
+y = 3896
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rannveig'
+x = 2513
+y = 3865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thora_3682'
+x = 2511
+y = 3871
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.valgerd'
+x = 2511
+y = 3854
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skraeling_3684'
+x = 2513
+y = 3866
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.broddi'
+x = 2512
+y = 3871
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skraeling_3686'
+x = 2515
+y = 3863
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ragnvald'
+x = 2518
+y = 3867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishmonger_3688'
+x = 2518
+y = 3866
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.greengrocer_3689'
+x = 2516
+y = 3864
+plane = 0
+direction = 'NONE'

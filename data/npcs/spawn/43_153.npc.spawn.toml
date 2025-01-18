@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.black_dragon_257'
+x = 2775
+y = 9834
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_257'
+x = 2785
+y = 9808
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_257'
+x = 2798
+y = 9809
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_257'
+x = 2798
+y = 9828
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_258'
+x = 2774
+y = 9812
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_258'
+x = 2783
+y = 9838
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_258'
+x = 2785
+y = 9823
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_258'
+x = 2799
+y = 9818
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_259'
+x = 2775
+y = 9803
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_259'
+x = 2777
+y = 9826
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_259'
+x = 2796
+y = 9841
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.black_dragon_259'
+x = 2807
+y = 9814
+plane = 1
+direction = 'NONE'

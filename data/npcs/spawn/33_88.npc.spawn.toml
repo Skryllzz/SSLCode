@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.demonic_gorilla'
+x = 2152
+y = 5668
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla'
+x = 2157
+y = 5658
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla'
+x = 2112
+y = 5651
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla'
+x = 2119
+y = 5660
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2123
+y = 5676
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2130
+y = 5671
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7145'
+x = 2142
+y = 5678
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7148'
+x = 2131
+y = 5680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7148'
+x = 2152
+y = 5658
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.demonic_gorilla_7149'
+x = 2152
+y = 5678
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_gorilla_7150'
+x = 2131
+y = 5644
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_gorilla_7150'
+x = 2145
+y = 5643
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_gorilla_7150'
+x = 2151
+y = 5649
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_gorilla_7150'
+x = 2137
+y = 5660
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tortured_gorilla_7151'
+x = 2136
+y = 5646
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tortured_gorilla_7151'
+x = 2146
+y = 5650
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tortured_gorilla_7151'
+x = 2132
+y = 5660
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tortured_gorilla_7151'
+x = 2141
+y = 5661
+plane = 0
+direction = 'SOUTH'

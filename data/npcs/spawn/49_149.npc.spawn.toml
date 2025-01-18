@@ -1,0 +1,390 @@
+[[spawns]]
+id = 'npc.fishing_spot_1497'
+x = 3154
+y = 9544
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_crawler'
+x = 3186
+y = 9582
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler_408'
+x = 3189
+y = 9574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_crawler_409'
+x = 3189
+y = 9566
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hole_in_the_wall'
+x = 3161
+y = 9547
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.hole_in_the_wall'
+x = 3162
+y = 9574
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.hole_in_the_wall'
+x = 3164
+y = 9556
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.hole_in_the_wall'
+x = 3198
+y = 9554
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.hole_in_the_wall'
+x = 3198
+y = 9572
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 3151
+y = 9550
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 3151
+y = 9562
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 3154
+y = 9556
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 3159
+y = 9554
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.big_frog'
+x = 3183
+y = 9543
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3150
+y = 9555
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3153
+y = 9546
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3157
+y = 9544
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3157
+y = 9561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3159
+y = 9591
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3162
+y = 9557
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3164
+y = 9591
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3168
+y = 9592
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3178
+y = 9548
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3180
+y = 9543
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_slime'
+x = 3181
+y = 9546
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3149
+y = 9578
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3150
+y = 9571
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3152
+y = 9576
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3156
+y = 9558
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3164
+y = 9542
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3169
+y = 9546
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3172
+y = 9558
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3178
+y = 9558
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3181
+y = 9585
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3182
+y = 9556
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3184
+y = 9550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3187
+y = 9561
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3187
+y = 9577
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3189
+y = 9550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3191
+y = 9571
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug'
+x = 3191
+y = 9582
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3148
+y = 9576
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3152
+y = 9551
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3153
+y = 9559
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3153
+y = 9574
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3157
+y = 9547
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3159
+y = 9572
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3160
+y = 9589
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3163
+y = 9547
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3166
+y = 9587
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3167
+y = 9545
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3167
+y = 9573
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3168
+y = 9556
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3170
+y = 9571
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3175
+y = 9585
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3181
+y = 9549
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3184
+y = 9555
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3184
+y = 9581
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3185
+y = 9571
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3187
+y = 9550
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3193
+y = 9577
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3194
+y = 9553
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_bug_larva'
+x = 3194
+y = 9570
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_6280'
+x = 3168
+y = 9572
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6281'
+x = 3170
+y = 9572
+plane = 0
+direction = 'WEST'

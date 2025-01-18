@@ -1,0 +1,216 @@
+[[spawns]]
+id = 'npc.null_10641'
+x = 3446
+y = 2903
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10644'
+x = 3449
+y = 2905
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10647'
+x = 3449
+y = 2901
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_10701'
+x = 3450
+y = 2903
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.artimeus'
+x = 3443
+y = 2902
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat'
+x = 3409
+y = 2889
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1793'
+x = 3411
+y = 2885
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1793'
+x = 3415
+y = 2885
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat'
+x = 3413
+y = 2888
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1795'
+x = 3395
+y = 2932
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_1796'
+x = 3396
+y = 2934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.billy_goat_1797'
+x = 3397
+y = 2932
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rug_merchant_22'
+x = 3401
+y = 2918
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey'
+x = 3400
+y = 2918
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ghaslor_the_elder'
+x = 3441
+y = 2933
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ali_the_carter'
+x = 3421
+y = 2914
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.usi'
+x = 3439
+y = 2891
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.nkuku'
+x = 3415
+y = 2938
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.garai'
+x = 3436
+y = 2901
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.habibah'
+x = 3410
+y = 2929
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.meskhenet'
+x = 3427
+y = 2900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zahra'
+x = 3448
+y = 2898
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zahur'
+x = 3424
+y = 2906
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.seddu'
+x = 3407
+y = 2925
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kazemde'
+x = 3414
+y = 2906
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.awusah_the_mayor'
+x = 3442
+y = 2912
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tarik_4757'
+x = 3438
+y = 2917
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.poltenip'
+x = 3438
+y = 2914
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.radat'
+x = 3442
+y = 2920
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.shiratti_the_custodian'
+x = 3424
+y = 2929
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rokuh'
+x = 3430
+y = 2914
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.nardah_banker'
+x = 3425
+y = 2889
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.nardah_banker'
+x = 3425
+y = 2891
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.nardah_banker'
+x = 3425
+y = 2893
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.nardah_banker'
+x = 3425
+y = 2894
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.wesley'
+x = 3428
+y = 2910
+plane = 0
+direction = 'WEST'

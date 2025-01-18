@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.tarfol_quo_maten'
+x = 1314
+y = 10259
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.kormar_quo_maten'
+x = 1328
+y = 10240
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.hydra'
+x = 1302
+y = 10240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1304
+y = 10260
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1304
+y = 10267
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1305
+y = 10247
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1309
+y = 10266
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1310
+y = 10261
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1311
+y = 10246
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1311
+y = 10271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1316
+y = 10240
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1317
+y = 10245
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1324
+y = 10267
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1326
+y = 10261
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hydra'
+x = 1329
+y = 10267
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1301
+y = 10240
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1308
+y = 10253
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1309
+y = 10246
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1319
+y = 10241
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.drake_8612'
+x = 1341
+y = 10243
+plane = 1
+direction = 'SOUTH'

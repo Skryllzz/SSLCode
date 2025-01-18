@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.guard_11092'
+x = 1438
+y = 9945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11096'
+x = 1442
+y = 9961
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.head_guard_11097'
+x = 1439
+y = 9962
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_11100'
+x = 1437
+y = 9958
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.guard_11102'
+x = 1440
+y = 9950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_11106'
+x = 1439
+y = 9941
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11124'
+x = 1434
+y = 9949
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_11131'
+x = 1434
+y = 9940
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8497'
+x = 1434
+y = 9946
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.mugger_8732'
+x = 1434
+y = 9943
+plane = 0
+direction = 'NONE'

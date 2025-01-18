@@ -1,0 +1,330 @@
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1799
+y = 9937
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1799
+y = 9940
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1802
+y = 9937
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1802
+y = 9940
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1808
+y = 9961
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1808
+y = 9964
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1808
+y = 9967
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1808
+y = 9970
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1812
+y = 9961
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1812
+y = 9964
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1812
+y = 9967
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1812
+y = 9970
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1847
+y = 9939
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1848
+y = 9937
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1848
+y = 9941
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1851
+y = 9937
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1851
+y = 9941
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.undead_druid'
+x = 1852
+y = 9939
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 1811
+y = 9937
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 1818
+y = 9931
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 1827
+y = 9930
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 1827
+y = 9937
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 1828
+y = 9928
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon'
+x = 1812
+y = 9933
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon'
+x = 1823
+y = 9933
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.red_dragon_248'
+x = 1815
+y = 9937
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_249'
+x = 1816
+y = 9927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_249'
+x = 1822
+y = 9937
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_250'
+x = 1821
+y = 9929
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1829
+y = 9960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1830
+y = 9958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1832
+y = 9960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1833
+y = 9957
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1834
+y = 9953
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1835
+y = 9960
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1836
+y = 9950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1837
+y = 9952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1837
+y = 9955
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1838
+y = 9958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1838
+y = 9965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1839
+y = 9960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1840
+y = 9951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1840
+y = 9956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1841
+y = 9963
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1842
+y = 9953
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1842
+y = 9959
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1843
+y = 9957
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1844
+y = 9961
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1845
+y = 9954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.temple_spider'
+x = 1845
+y = 9958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eodan'
+x = 1808
+y = 9952
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_8717'
+x = 1840
+y = 9926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8718'
+x = 1796
+y = 9953
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8719'
+x = 1797
+y = 9951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8720'
+x = 1796
+y = 9949
+plane = 0
+direction = 'WEST'

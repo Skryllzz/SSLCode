@@ -1,0 +1,348 @@
+[[spawns]]
+id = 'npc.guard_dog'
+x = 2784
+y = 3191
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_dog'
+x = 2784
+y = 3197
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_dog'
+x = 2787
+y = 3195
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bartender_1314'
+x = 2797
+y = 3155
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2754
+y = 3171
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2763
+y = 3180
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_2845'
+x = 2786
+y = 3174
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2755
+y = 3170
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2758
+y = 3178
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2783
+y = 3175
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2812
+y = 3182
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.fly_trap'
+x = 2755
+y = 3156
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.fly_trap'
+x = 2761
+y = 3155
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2807
+y = 3167
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2810
+y = 3170
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.thief_3252'
+x = 2785
+y = 3179
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thief_3252'
+x = 2796
+y = 3177
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.thief_3252'
+x = 2803
+y = 3179
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.thief_3252'
+x = 2812
+y = 3159
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lubufu'
+x = 2770
+y = 3169
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.fishing_spot_4714'
+x = 2768
+y = 3165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.garv'
+x = 2776
+y = 3186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grubor'
+x = 2812
+y = 3171
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trobert'
+x = 2806
+y = 3174
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grip'
+x = 2774
+y = 3192
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.alfonse_the_waiter'
+x = 2793
+y = 3188
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.charlie_the_cook'
+x = 2790
+y = 3191
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_guard'
+x = 2761
+y = 3191
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_guard'
+x = 2770
+y = 3194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_guard'
+x = 2776
+y = 3190
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_guard'
+x = 2776
+y = 3198
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_guard'
+x = 2778
+y = 3194
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_guard'
+x = 2778
+y = 3198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_guard'
+x = 2802
+y = 3195
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2763
+y = 3186
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2789
+y = 3183
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2791
+y = 3187
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2792
+y = 3161
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2793
+y = 3157
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2793
+y = 3167
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2794
+y = 3183
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2795
+y = 3157
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2795
+y = 3162
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2796
+y = 3168
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2796
+y = 3188
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2797
+y = 3160
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2797
+y = 3165
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2798
+y = 3186
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2799
+y = 3182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2802
+y = 3164
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2806
+y = 3185
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pirate_522'
+x = 2811
+y = 3198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.kangai_mau'
+x = 2791
+y = 3182
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5516'
+x = 2811
+y = 3192
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.capn_izzy_nobeard'
+x = 2807
+y = 3190
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6405'
+x = 2788
+y = 3176
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6537'
+x = 2787
+y = 3176
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.davon'
+x = 2803
+y = 3152
+plane = 0
+direction = 'NONE'

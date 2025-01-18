@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.null_7857'
+x = 4038
+y = 9061
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7857'
+x = 4045
+y = 9070
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7857'
+x = 4053
+y = 9076
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7857'
+x = 4058
+y = 9044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7857'
+x = 4059
+y = 9026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7857'
+x = 4088
+y = 9032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7857'
+x = 4088
+y = 9058
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7857'
+x = 4093
+y = 9081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8488'
+x = 4043
+y = 9065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8488'
+x = 4083
+y = 9057
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8489'
+x = 4032
+y = 9049
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8489'
+x = 4056
+y = 9085
+plane = 0
+direction = 'NONE'

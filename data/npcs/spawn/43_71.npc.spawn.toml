@@ -1,0 +1,192 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2776
+y = 4577
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2777
+y = 4582
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2780
+y = 4592
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2783
+y = 4593
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2785
+y = 4580
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2786
+y = 4578
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2787
+y = 4579
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2802
+y = 4599
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 2812
+y = 4577
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2769
+y = 4593
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2770
+y = 4591
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2774
+y = 4592
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2783
+y = 4591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2785
+y = 4594
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2785
+y = 4598
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.iron_pickaxe'
+x = 2792
+y = 4597
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2800
+y = 4573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2801
+y = 4580
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2802
+y = 4580
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.corpse'
+x = 2807
+y = 4572
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.corpse'
+x = 2810
+y = 4573
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.corpse'
+x = 2811
+y = 4567
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.corpse'
+x = 2813
+y = 4571
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.haze'
+x = 2786
+y = 4571
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.haze'
+x = 2791
+y = 4560
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.haze'
+x = 2792
+y = 4567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.haze'
+x = 2796
+y = 4587
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.haze'
+x = 2798
+y = 4592
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.haze'
+x = 2798
+y = 4596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.haze'
+x = 2802
+y = 4591
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.haze'
+x = 2808
+y = 4597
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.haze'
+x = 2808
+y = 4601
+plane = 0
+direction = 'NORTH'

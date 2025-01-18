@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2787
+y = 3002
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2790
+y = 2997
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2792
+y = 2994
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2794
+y = 3000
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2796
+y = 2993
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.monkey_2848'
+x = 2799
+y = 2996
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.horned_graahk'
+x = 2767
+y = 3005
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.horned_graahk'
+x = 2774
+y = 3002
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.horned_graahk'
+x = 2781
+y = 3001
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2810
+y = 2981
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2810
+y = 2987
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2812
+y = 2999
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2814
+y = 2996
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2765
+y = 2978
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2768
+y = 2980
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2785
+y = 2955
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2786
+y = 2947
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.scorpion_3024'
+x = 2788
+y = 2948
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_forester'
+x = 2764
+y = 2944
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_forester'
+x = 2798
+y = 2944
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_forester_3955'
+x = 2759
+y = 2944
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_forester_3955'
+x = 2792
+y = 2944
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.captain_shanks'
+x = 2763
+y = 2961
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6237'
+x = 2764
+y = 2976
+plane = 0
+direction = 'NONE'

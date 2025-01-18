@@ -1,0 +1,96 @@
+[[spawns]]
+id = 'npc.sir_mordred'
+x = 1695
+y = 4258
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1692
+y = 4252
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1693
+y = 4254
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1699
+y = 4254
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1692
+y = 4261
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1693
+y = 4255
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1696
+y = 4251
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1697
+y = 4257
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.renegade_knight_4321'
+x = 1700
+y = 4260
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_lucan_4342'
+x = 1698
+y = 4256
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_lancelot_4344'
+x = 1694
+y = 4257
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_bedivere_4345'
+x = 1692
+y = 4256
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_tristram_4346'
+x = 1694
+y = 4251
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_pelleas_4347'
+x = 1692
+y = 4258
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_gawain_4348'
+x = 1698
+y = 4257
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_kay_4349'
+x = 1695
+y = 4257
+plane = 0
+direction = 'NONE'

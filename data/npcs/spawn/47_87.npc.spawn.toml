@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.zamorak_warrior'
+x = 3015
+y = 5583
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_warrior'
+x = 3028
+y = 5574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_warrior_7419'
+x = 3015
+y = 5606
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_ranger'
+x = 3011
+y = 5596
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_ranger'
+x = 3045
+y = 5576
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_ranger_7421'
+x = 3031
+y = 5574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_mage'
+x = 3017
+y = 5577
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_mage'
+x = 3035
+y = 5581
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_mage_7423'
+x = 3012
+y = 5578
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3010
+y = 5574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3010
+y = 5604
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3013
+y = 5574
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3014
+y = 5592
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3015
+y = 5572
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3028
+y = 5571
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3032
+y = 5570
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3033
+y = 5573
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cave_lizard'
+x = 3045
+y = 5579
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_crafter'
+x = 3014
+y = 5624
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zamorak_crafter_7427'
+x = 3058
+y = 5579
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.eniola'
+x = 3013
+y = 5625
+plane = 0
+direction = 'NONE'

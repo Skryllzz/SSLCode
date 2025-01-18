@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.slave_9677'
+x = 3697
+y = 9752
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.slave_9678'
+x = 3682
+y = 9772
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.slave_9679'
+x = 3666
+y = 9745
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.slave_9680'
+x = 3667
+y = 9773
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.slave_9681'
+x = 3684
+y = 9749
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.slave_9682'
+x = 3666
+y = 9761
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9683'
+x = 3673
+y = 9776
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9683'
+x = 3679
+y = 9755
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9683'
+x = 3698
+y = 9756
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9684'
+x = 3665
+y = 9755
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vampyre_juvinate_9684'
+x = 3682
+y = 9765
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9822'
+x = 3692
+y = 9764
+plane = 2
+direction = 'EAST'

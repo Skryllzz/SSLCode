@@ -1,0 +1,198 @@
+[[spawns]]
+id = 'npc.chicken'
+x = 2816
+y = 3561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken'
+x = 2819
+y = 3561
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2818
+y = 3559
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 2819
+y = 3562
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rooster'
+x = 2816
+y = 3560
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghommal'
+x = 2877
+y = 3546
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.harrallak_menarous'
+x = 2866
+y = 3546
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gamfred'
+x = 2840
+y = 3541
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ajjat'
+x = 2851
+y = 3553
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.kamfreena'
+x = 2846
+y = 3539
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shanomi'
+x = 2854
+y = 3541
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2463'
+x = 2848
+y = 3551
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2463'
+x = 2866
+y = 3544
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2464'
+x = 2854
+y = 3542
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2464'
+x = 2872
+y = 3552
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2465'
+x = 2855
+y = 3535
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2465'
+x = 2858
+y = 3550
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2466'
+x = 2851
+y = 3540
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2466'
+x = 2862
+y = 3550
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2467'
+x = 2851
+y = 3535
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2467'
+x = 2868
+y = 3552
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2468'
+x = 2842
+y = 3550
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cyclops_2468'
+x = 2870
+y = 3541
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lidio'
+x = 2842
+y = 3551
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.lilly'
+x = 2845
+y = 3553
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.anton'
+x = 2855
+y = 3536
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jade'
+x = 2841
+y = 3543
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sloane'
+x = 2855
+y = 3552
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.tenzing'
+x = 2820
+y = 3556
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.billy'
+x = 2816
+y = 3559
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jimmy'
+x = 2872
+y = 3539
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ref'
+x = 2867
+y = 3556
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ref_6074'
+x = 2867
+y = 3544
+plane = 1
+direction = 'NONE'

@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.fishing_spot_3419'
+x = 2165
+y = 3266
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_3419'
+x = 2165
+y = 3268
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_3419'
+x = 2165
+y = 3286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.floki'
+x = 2161
+y = 3326
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.surma'
+x = 2160
+y = 3326
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.slippers'
+x = 2158
+y = 3325
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,36 @@
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3801
+y = 3754
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3817
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3800
+y = 3752
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3802
+y = 3756
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3806
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3817
+y = 3760
+plane = 0
+direction = 'NONE'

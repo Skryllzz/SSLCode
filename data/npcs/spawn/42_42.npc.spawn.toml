@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.fishing_spot_5234'
+x = 2694
+y = 2706
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird'
+x = 2718
+y = 2726
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.bird'
+x = 2741
+y = 2712
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2696
+y = 2709
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2713
+y = 2697
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.bird_5241'
+x = 2737
+y = 2695
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2716
+y = 2722
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2721
+y = 2729
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2732
+y = 2714
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2738
+y = 2722
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2742
+y = 2704
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2742
+y = 2711
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider_5243'
+x = 2749
+y = 2710
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2716
+y = 2719
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2726
+y = 2712
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2731
+y = 2724
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2740
+y = 2721
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snake_5244'
+x = 2742
+y = 2707
+plane = 0
+direction = 'WEST'

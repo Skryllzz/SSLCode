@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.chief_tess'
+x = 2010
+y = 9007
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 2003
+y = 8981
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 2018
+y = 8993
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 2028
+y = 8971
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 2039
+y = 8971
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 1996
+y = 8985
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 1997
+y = 8967
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 2009
+y = 8995
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 2034
+y = 8972
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2000
+y = 8965
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2002
+y = 8989
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2009
+y = 8977
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2015
+y = 8980
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2019
+y = 8988
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2022
+y = 8973
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2035
+y = 8978
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 2035
+y = 8984
+plane = 1
+direction = 'NONE'

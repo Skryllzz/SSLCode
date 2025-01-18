@@ -1,0 +1,198 @@
+[[spawns]]
+id = 'npc.null_1451'
+x = 2543
+y = 3031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2513
+y = 3026
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2522
+y = 3055
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2523
+y = 3057
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2529
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2539
+y = 3018
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2541
+y = 3016
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2550
+y = 3043
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2550
+y = 3046
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2553
+y = 3047
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2096'
+x = 2510
+y = 3044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2096'
+x = 2520
+y = 3046
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2096'
+x = 2526
+y = 3039
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogre_chieftain'
+x = 2505
+y = 3032
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_chieftain'
+x = 2512
+y = 3022
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_chieftain'
+x = 2518
+y = 3041
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_chieftain'
+x = 2528
+y = 3044
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_guard_4369'
+x = 2549
+y = 3029
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogre_guard_4369'
+x = 2551
+y = 3031
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_guard_4370'
+x = 2505
+y = 3062
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ogre_guard_4370'
+x = 2507
+y = 3062
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_guard_4371'
+x = 2501
+y = 3012
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_guard_4371'
+x = 2503
+y = 3011
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_guard_4372'
+x = 2526
+y = 3018
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_guard_4372'
+x = 2529
+y = 3019
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.city_guard'
+x = 2541
+y = 3029
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.city_guard'
+x = 2541
+y = 3034
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.enclave_guard'
+x = 2507
+y = 3036
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.enclave_guard'
+x = 2507
+y = 3040
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_trader'
+x = 2518
+y = 3035
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_merchant'
+x = 2528
+y = 3048
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_trader_4403'
+x = 2513
+y = 3034
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_trader_4404'
+x = 2525
+y = 3043
+plane = 0
+direction = 'NONE'

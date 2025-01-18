@@ -1,0 +1,48 @@
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1428
+y = 3861
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1432
+y = 3877
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1433
+y = 3853
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1447
+y = 3849
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 1447
+y = 3881
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.toothy'
+x = 1452
+y = 3858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_supervisor'
+x = 1426
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mine_supervisor_7076'
+x = 1442
+y = 3843
+plane = 0
+direction = 'NONE'

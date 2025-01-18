@@ -1,0 +1,24 @@
+[[spawns]]
+id = 'npc.shark'
+x = 1803
+y = 4895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shark_1155'
+x = 1804
+y = 4895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.shark_1156'
+x = 1805
+y = 4895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.auguste_4717'
+x = 1800
+y = 4893
+plane = 0
+direction = 'NONE'

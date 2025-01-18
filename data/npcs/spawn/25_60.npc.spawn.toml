@@ -1,0 +1,60 @@
+[[spawns]]
+id = 'npc.bat'
+x = 1603
+y = 3844
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1615
+y = 3841
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1624
+y = 3853
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1655
+y = 3880
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1612
+y = 3849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1633
+y = 3842
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1633
+y = 3879
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_6824'
+x = 1662
+y = 3870
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lookout'
+x = 1624
+y = 3877
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.trossa'
+x = 1635
+y = 3868
+plane = 0
+direction = 'NONE'

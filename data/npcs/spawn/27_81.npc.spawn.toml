@@ -1,0 +1,90 @@
+[[spawns]]
+id = 'npc.giant_mole'
+x = 1759
+y = 5189
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole'
+x = 1736
+y = 5227
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole'
+x = 1741
+y = 5188
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole'
+x = 1772
+y = 5200
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole'
+x = 1776
+y = 5241
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole_5781'
+x = 1734
+y = 5202
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_mole_5781'
+x = 1746
+y = 5221
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_mole_5781'
+x = 1755
+y = 5199
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_mole_5781'
+x = 1770
+y = 5226
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_mole_5781'
+x = 1783
+y = 5191
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.baby_mole_5782'
+x = 1737
+y = 5209
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole_5782'
+x = 1760
+y = 5215
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole_5782'
+x = 1763
+y = 5196
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole_5782'
+x = 1778
+y = 5232
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_mole_5782'
+x = 1779
+y = 5210
+plane = 0
+direction = 'NONE'

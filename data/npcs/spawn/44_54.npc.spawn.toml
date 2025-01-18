@@ -1,0 +1,156 @@
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2846
+y = 3477
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2847
+y = 3474
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2860
+y = 3492
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf'
+x = 2866
+y = 3498
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf_108'
+x = 2831
+y = 3515
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_wolf_108'
+x = 2833
+y = 3513
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_wolf_108'
+x = 2848
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.white_wolf_108'
+x = 2850
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_wolf_108'
+x = 2854
+y = 3509
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.white_wolf_108'
+x = 2856
+y = 3508
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.big_wolf'
+x = 2840
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_110'
+x = 2836
+y = 3495
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_110'
+x = 2837
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_110'
+x = 2839
+y = 3502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_110'
+x = 2839
+y = 3506
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_110'
+x = 2842
+y = 3504
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wolf_110'
+x = 2844
+y = 3507
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_giant_2086'
+x = 2817
+y = 3514
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_giant_2087'
+x = 2824
+y = 3510
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2847
+y = 3514
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_warrior'
+x = 2850
+y = 3512
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.austri'
+x = 2877
+y = 3483
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vestri'
+x = 2820
+y = 3487
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.vanessa'
+x = 2820
+y = 3463
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6090'
+x = 2847
+y = 3499
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6274'
+x = 2861
+y = 3510
+plane = 0
+direction = 'SOUTH'

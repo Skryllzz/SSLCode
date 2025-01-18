@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.sir_spishyus'
+x = 2488
+y = 4973
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lady_table'
+x = 2458
+y = 4981
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_kuam_ferentse'
+x = 2457
+y = 4966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_tinley'
+x = 2476
+y = 4958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sir_ren_itchood'
+x = 2443
+y = 4956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.miss_cheevers'
+x = 2469
+y = 4941
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ms_hynn_terprett'
+x = 2451
+y = 4939
+plane = 0
+direction = 'NONE'

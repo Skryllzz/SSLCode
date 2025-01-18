@@ -1,0 +1,192 @@
+[[spawns]]
+id = 'npc.head_chef'
+x = 3143
+y = 3444
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 3151
+y = 3414
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.banker_2897'
+x = 3147
+y = 3448
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_2897'
+x = 3187
+y = 3440
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_2897'
+x = 3187
+y = 3444
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_2898'
+x = 3148
+y = 3448
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.banker_2898'
+x = 3187
+y = 3438
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.banker_2898'
+x = 3187
+y = 3442
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.stray_dog_2922'
+x = 3168
+y = 3440
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3173
+y = 3429
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3175
+y = 3423
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3180
+y = 3401
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.guard_3010'
+x = 3175
+y = 3403
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3011'
+x = 3175
+y = 3428
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.guard_3011'
+x = 3175
+y = 3414
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3106'
+x = 3154
+y = 3428
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.man_3108'
+x = 3194
+y = 3396
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.master_smithing_tutor'
+x = 3187
+y = 3423
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3500'
+x = 3151
+y = 3410
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.philop'
+x = 3150
+y = 3407
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.kanel'
+x = 3155
+y = 3406
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.imp_5007'
+x = 3177
+y = 3405
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.apothecary'
+x = 3195
+y = 3404
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.draul_leptoc'
+x = 3161
+y = 3435
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.phillipa'
+x = 3162
+y = 3430
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6268'
+x = 3158
+y = 3425
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6521'
+x = 3187
+y = 3436
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.romily_weaklax'
+x = 3139
+y = 3448
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3183
+y = 3406
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3185
+y = 3440
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_6708'
+x = 3198
+y = 3429
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.banker_8666'
+x = 3187
+y = 3446
+plane = 0
+direction = 'WEST'

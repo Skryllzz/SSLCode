@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.guard_11094'
+x = 1782
+y = 3778
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.head_guard_11097'
+x = 1786
+y = 3780
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.guard_11102'
+x = 1781
+y = 3777
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1746
+y = 3779
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1747
+y = 3790
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1770
+y = 3784
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1777
+y = 3790
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.swarm'
+x = 1761
+y = 3790
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swarm'
+x = 1766
+y = 3777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7469'
+x = 1761
+y = 3796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7469'
+x = 1764
+y = 3796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7469'
+x = 1765
+y = 3796
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7470'
+x = 1747
+y = 3802
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_7470'
+x = 1748
+y = 3802
+plane = 0
+direction = 'NONE'

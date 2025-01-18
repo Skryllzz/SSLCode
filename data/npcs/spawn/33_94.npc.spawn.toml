@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 2126
+y = 6020
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 2122
+y = 6032
+plane = 0
+direction = 'NONE'

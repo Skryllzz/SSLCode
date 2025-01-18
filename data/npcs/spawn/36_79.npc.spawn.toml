@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.giant_lobster_4800'
+x = 2312
+y = 5086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_lobster_4800'
+x = 2314
+y = 5068
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_lobster_4800'
+x = 2327
+y = 5065
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_lobster_4800'
+x = 2327
+y = 5093
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_lobster_4800'
+x = 2334
+y = 5086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_lobster_4800'
+x = 2340
+y = 5076
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_lobster_4800'
+x = 2340
+y = 5108
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sea_slug'
+x = 2351
+y = 5093
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_4805'
+x = 2313
+y = 5103
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_4805'
+x = 2315
+y = 5105
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_4805'
+x = 2316
+y = 5109
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_4805'
+x = 2318
+y = 5104
+plane = 0
+direction = 'NONE'

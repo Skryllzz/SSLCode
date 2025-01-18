@@ -1,0 +1,126 @@
+[[spawns]]
+id = 'npc.ice_troll'
+x = 2775
+y = 10224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll'
+x = 2783
+y = 10199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll'
+x = 2784
+y = 10233
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_649'
+x = 2777
+y = 10224
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_649'
+x = 2784
+y = 10231
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_649'
+x = 2792
+y = 10222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_650'
+x = 2772
+y = 10221
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_650'
+x = 2785
+y = 10201
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_650'
+x = 2787
+y = 10232
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_651'
+x = 2773
+y = 10220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_651'
+x = 2788
+y = 10198
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_651'
+x = 2790
+y = 10220
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_651'
+x = 2800
+y = 10218
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_652'
+x = 2770
+y = 10219
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_652'
+x = 2788
+y = 10230
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ice_troll_652'
+x = 2798
+y = 10216
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_653'
+x = 2788
+y = 10221
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_653'
+x = 2801
+y = 10216
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_654'
+x = 2786
+y = 10199
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_654'
+x = 2790
+y = 10222
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_troll_654'
+x = 2799
+y = 10214
+plane = 0
+direction = 'NONE'

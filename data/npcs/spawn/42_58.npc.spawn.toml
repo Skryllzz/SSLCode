@@ -1,0 +1,234 @@
+[[spawns]]
+id = 'npc.rocks'
+x = 2700
+y = 3718
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2702
+y = 3720
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2704
+y = 3727
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2708
+y = 3719
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2712
+y = 3719
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks'
+x = 2716
+y = 3721
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2694
+y = 3724
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2701
+y = 3728
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2703
+y = 3716
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2705
+y = 3725
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2711
+y = 3715
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2712
+y = 3725
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2715
+y = 3729
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rocks_103'
+x = 2719
+y = 3719
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2707
+y = 3774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2711
+y = 3768
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2712
+y = 3773
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2714
+y = 3770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2715
+y = 3764
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2715
+y = 3766
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2716
+y = 3770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sabretoothed_kebbit'
+x = 2720
+y = 3764
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3904'
+x = 2694
+y = 3752
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3904'
+x = 2697
+y = 3755
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3904'
+x = 2700
+y = 3758
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3904'
+x = 2704
+y = 3760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3904'
+x = 2708
+y = 3760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull_3904'
+x = 2714
+y = 3760
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.olaf_hradson'
+x = 2724
+y = 3729
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2714
+y = 3765
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2716
+y = 3775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2719
+y = 3769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2727
+y = 3772
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2731
+y = 3767
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2733
+y = 3775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2736
+y = 3765
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cerulean_twitch'
+x = 2740
+y = 3770
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.larry_828'
+x = 2707
+y = 3734
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8413'
+x = 2706
+y = 3732
+plane = 0
+direction = 'NONE'

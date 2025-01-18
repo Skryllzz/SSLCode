@@ -1,0 +1,180 @@
+[[spawns]]
+id = 'npc.null_3104'
+x = 2154
+y = 4686
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2154
+y = 4695
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2155
+y = 4708
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2157
+y = 4699
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_3104'
+x = 2161
+y = 4689
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4531'
+x = 2170
+y = 4727
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4560'
+x = 2116
+y = 4732
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2127
+y = 4679
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2132
+y = 4712
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2143
+y = 4675
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2146
+y = 4691
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2149
+y = 4711
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2161
+y = 4720
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat_4562'
+x = 2165
+y = 4692
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2120
+y = 4708
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2121
+y = 4714
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2122
+y = 4695
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2122
+y = 4720
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2123
+y = 4701
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2128
+y = 4719
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2129
+y = 4698
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2129
+y = 4707
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2129
+y = 4725
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2134
+y = 4702
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2136
+y = 4718
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2137
+y = 4725
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2139
+y = 4697
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2141
+y = 4709
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2145
+y = 4703
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_9213'
+x = 2145
+y = 4721
+plane = 1
+direction = 'NONE'

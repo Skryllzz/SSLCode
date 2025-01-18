@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.hazelmere'
+x = 2678
+y = 3086
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2671
+y = 3107
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spider_3019'
+x = 2672
+y = 3109
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2667
+y = 3090
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2669
+y = 3091
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2670
+y = 3087
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2670
+y = 3089
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2672
+y = 3093
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2673
+y = 3085
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2673
+y = 3088
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2673
+y = 3092
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2674
+y = 3096
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2674
+y = 3111
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2677
+y = 3097
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2678
+y = 3084
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2678
+y = 3091
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2680
+y = 3081
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2680
+y = 3090
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2680
+y = 3094
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2680
+y = 3110
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2681
+y = 3086
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2681
+y = 3094
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2681
+y = 3114
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.jungle_spider'
+x = 2683
+y = 3088
+plane = 0
+direction = 'NONE'

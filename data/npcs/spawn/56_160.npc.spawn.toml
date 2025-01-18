@@ -1,0 +1,138 @@
+[[spawns]]
+id = 'npc.weve'
+x = 3597
+y = 10293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3597
+y = 10254
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3602
+y = 10250
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3609
+y = 10251
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.longtailed_wyvern'
+x = 3615
+y = 10249
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3622
+y = 10291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3627
+y = 10288
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3628
+y = 10282
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.taloned_wyvern'
+x = 3634
+y = 10280
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3603
+y = 10273
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3604
+y = 10266
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3611
+y = 10280
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spitting_wyvern'
+x = 3612
+y = 10274
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ancient_wyvern'
+x = 3627
+y = 10246
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ancient_wyvern'
+x = 3632
+y = 10252
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ancient_wyvern'
+x = 3636
+y = 10246
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3596
+y = 10285
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3603
+y = 10295
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3606
+y = 10293
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3629
+y = 10266
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3637
+y = 10265
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3639
+y = 10268
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3640
+y = 10263
+plane = 0
+direction = 'NONE'

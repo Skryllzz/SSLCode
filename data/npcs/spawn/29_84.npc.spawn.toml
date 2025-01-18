@@ -1,0 +1,30 @@
+[[spawns]]
+id = 'npc.egg_launcher'
+x = 1877
+y = 5410
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.major_attack'
+x = 1889
+y = 5401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.major_collect'
+x = 1883
+y = 5401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.major_defend'
+x = 1892
+y = 5401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.major_heal'
+x = 1886
+y = 5401
+plane = 0
+direction = 'NONE'

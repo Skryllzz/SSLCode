@@ -1,0 +1,564 @@
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1485
+y = 9964
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1488
+y = 9950
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1501
+y = 9973
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1510
+y = 9958
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1511
+y = 9939
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1515
+y = 9974
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1481
+y = 9939
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1497
+y = 9950
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1500
+y = 9936
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1500
+y = 9964
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1503
+y = 9971
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1514
+y = 9942
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1521
+y = 9945
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1491
+y = 9932
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1503
+y = 9957
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1516
+y = 9943
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1516
+y = 9971
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8067'
+x = 1524
+y = 9937
+plane = 3
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1492
+y = 9978
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1496
+y = 9932
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1504
+y = 9969
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1510
+y = 9953
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1523
+y = 9946
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1481
+y = 9964
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1493
+y = 9943
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1502
+y = 9943
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1506
+y = 9927
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1506
+y = 9934
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1526
+y = 9934
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1483
+y = 9966
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1491
+y = 9945
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1491
+y = 9971
+plane = 3
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1503
+y = 9943
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8068'
+x = 1523
+y = 9935
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1484
+y = 9973
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1497
+y = 9942
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1500
+y = 9954
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1523
+y = 9962
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1488
+y = 9939
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1494
+y = 9930
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1498
+y = 9979
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1503
+y = 9952
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1520
+y = 9962
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1483
+y = 9963
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1501
+y = 9966
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1501
+y = 9977
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1506
+y = 9950
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_8069'
+x = 1524
+y = 9962
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1496
+y = 9958
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1509
+y = 9945
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1511
+y = 9965
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1512
+y = 9932
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1521
+y = 9960
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1522
+y = 9973
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1486
+y = 9933
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1487
+y = 9962
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1502
+y = 9956
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1515
+y = 9969
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1519
+y = 9955
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1526
+y = 9950
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1483
+y = 9943
+plane = 3
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1504
+y = 9964
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1507
+y = 9937
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8070'
+x = 1524
+y = 9948
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1483
+y = 9961
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1484
+y = 9944
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1496
+y = 9968
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1503
+y = 9948
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1514
+y = 9950
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1515
+y = 9979
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1481
+y = 9950
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1493
+y = 9958
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1505
+y = 9942
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1507
+y = 9978
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1516
+y = 9930
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1520
+y = 9940
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1499
+y = 9951
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1503
+y = 9932
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1506
+y = 9978
+plane = 3
+direction = 'WEST'
+[[spawns]]
+id = 'npc.skeleton_8071'
+x = 1516
+y = 9957
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1481
+y = 9950
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1495
+y = 9947
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1504
+y = 9930
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1511
+y = 9961
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1481
+y = 9945
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1488
+y = 9955
+plane = 2
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1492
+y = 9970
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1502
+y = 9941
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1507
+y = 9966
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1513
+y = 9950
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1519
+y = 9938
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1526
+y = 9960
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1491
+y = 9957
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeleton_8072'
+x = 1516
+y = 9932
+plane = 3
+direction = 'NONE'

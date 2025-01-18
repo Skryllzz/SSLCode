@@ -1,0 +1,42 @@
+[[spawns]]
+id = 'npc.chicken'
+x = 3109
+y = 9569
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.wizard_3257'
+x = 3109
+y = 9558
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern'
+x = 3076
+y = 9578
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_466'
+x = 3078
+y = 9585
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_467'
+x = 3076
+y = 9567
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.skeletal_wyvern_468'
+x = 3076
+y = 9557
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.archmage_sedridor'
+x = 3103
+y = 9571
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.terror_dog'
+x = 3146
+y = 4648
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog'
+x = 3148
+y = 4645
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog'
+x = 3151
+y = 4653
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog'
+x = 3152
+y = 4647
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog_6474'
+x = 3140
+y = 4647
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog_6474'
+x = 3140
+y = 4653
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog_6474'
+x = 3146
+y = 4656
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog_6474'
+x = 3158
+y = 4647
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.terror_dog_6474'
+x = 3158
+y = 4653
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,18 @@
+[[spawns]]
+id = 'npc.null_1322'
+x = 3243
+y = 2813
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3236
+y = 2778
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_24'
+x = 3243
+y = 2812
+plane = 0
+direction = 'EAST'

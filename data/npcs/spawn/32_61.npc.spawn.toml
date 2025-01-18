@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.house'
+x = 2082
+y = 3929
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pauline_polaris'
+x = 2073
+y = 3921
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.melana_moonlander'
+x = 2095
+y = 3906
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.selene'
+x = 2085
+y = 3914
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rimae_sirsalis'
+x = 2104
+y = 3907
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.sirsal_banker'
+x = 2097
+y = 3921
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.sirsal_banker'
+x = 2098
+y = 3921
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.enchanted_broom'
+x = 2087
+y = 3908
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.enchanted_broom_3846'
+x = 2066
+y = 3914
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.enchanted_broom_3847'
+x = 2075
+y = 3905
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bouquet_mac_hyacinth'
+x = 2109
+y = 3920
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cabin_boy'
+x = 2082
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6125'
+x = 2074
+y = 3911
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6126'
+x = 2099
+y = 3921
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7501'
+x = 2073
+y = 3913
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_788'
+x = 2096
+y = 3942
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.suqah_789'
+x = 2108
+y = 3946
+plane = 0
+direction = 'NONE'

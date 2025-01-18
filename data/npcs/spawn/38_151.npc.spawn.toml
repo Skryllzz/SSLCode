@@ -1,0 +1,150 @@
+[[spawns]]
+id = 'npc.zombie'
+x = 2452
+y = 9684
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_28'
+x = 2453
+y = 9680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2468
+y = 9696
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2471
+y = 9693
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2485
+y = 9704
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2488
+y = 9703
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2490
+y = 9698
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.giant_bat'
+x = 2491
+y = 9705
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.zombie_30'
+x = 2455
+y = 9677
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3045'
+x = 2438
+y = 9700
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goblin_3045'
+x = 2439
+y = 9696
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.goblin_3045'
+x = 2441
+y = 9698
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4529'
+x = 2449
+y = 9716
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_4530'
+x = 2479
+y = 9679
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2432
+y = 9724
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2433
+y = 9687
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2434
+y = 9693
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2434
+y = 9721
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2435
+y = 9690
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2436
+y = 9725
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2437
+y = 9688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2437
+y = 9692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2437
+y = 9722
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blessed_spider'
+x = 2440
+y = 9689
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.zombie_49'
+x = 2455
+y = 9680
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,144 @@
+[[spawns]]
+id = 'npc.chicken_10494'
+x = 1252
+y = 3687
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_10495'
+x = 1251
+y = 3689
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_10495'
+x = 1254
+y = 3690
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.chicken_10496'
+x = 1253
+y = 3693
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.chicken_10496'
+x = 1255
+y = 3692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_10497'
+x = 1252
+y = 3692
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gordon'
+x = 1248
+y = 3686
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.sergeant_10505'
+x = 1254
+y = 3680
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc._1172'
+x = 1265
+y = 3688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow'
+x = 1261
+y = 3692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 1257
+y = 3691
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2793'
+x = 1262
+y = 3689
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_2804'
+x = 1250
+y = 3688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_2805'
+x = 1250
+y = 3692
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.grizzly_bear'
+x = 1219
+y = 3679
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1244
+y = 3696
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2855'
+x = 1257
+y = 3688
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bear_cub'
+x = 1216
+y = 3680
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_8524'
+x = 1271
+y = 3707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rod_fishing_spot_8524'
+x = 1273
+y = 3707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8597'
+x = 1238
+y = 3679
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_8599'
+x = 1251
+y = 3681
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.soldier_8599'
+x = 1253
+y = 3678
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ranger_8601'
+x = 1254
+y = 3683
+plane = 0
+direction = 'SOUTH'

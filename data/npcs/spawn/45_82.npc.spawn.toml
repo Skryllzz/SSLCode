@@ -1,0 +1,492 @@
+[[spawns]]
+id = 'npc.commander_zilyana'
+x = 2897
+y = 5269
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2910
+y = 5265
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2915
+y = 5272
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2918
+y = 5282
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2921
+y = 5294
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2881
+y = 5286
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2883
+y = 5308
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2886
+y = 5283
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2888
+y = 5290
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2890
+y = 5304
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2899
+y = 5295
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2902
+y = 5300
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.saradomin_priest'
+x = 2908
+y = 5299
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2913
+y = 5267
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2918
+y = 5286
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2919
+y = 5296
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2920
+y = 5281
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2921
+y = 5290
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2880
+y = 5290
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2880
+y = 5307
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2881
+y = 5284
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2882
+y = 5294
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2883
+y = 5310
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2885
+y = 5305
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2886
+y = 5288
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2886
+y = 5311
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2888
+y = 5281
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2896
+y = 5292
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2897
+y = 5311
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2898
+y = 5311
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2900
+y = 5284
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2904
+y = 5299
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2907
+y = 5290
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_warrior'
+x = 2910
+y = 5296
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2915
+y = 5267
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2919
+y = 5289
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2921
+y = 5285
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2881
+y = 5281
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2883
+y = 5285
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2883
+y = 5297
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2888
+y = 5295
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2888
+y = 5300
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2891
+y = 5287
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2891
+y = 5309
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2896
+y = 5297
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2896
+y = 5303
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_ranger'
+x = 2910
+y = 5299
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2910
+y = 5267
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2916
+y = 5288
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2921
+y = 5277
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2924
+y = 5286
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2881
+y = 5292
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2883
+y = 5303
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2887
+y = 5311
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2890
+y = 5283
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2897
+y = 5287
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2898
+y = 5307
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2903
+y = 5292
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.spiritual_mage'
+x = 2905
+y = 5302
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.knight_of_saradomin'
+x = 2918
+y = 5271
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin'
+x = 2918
+y = 5293
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin'
+x = 2883
+y = 5287
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin'
+x = 2891
+y = 5292
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin'
+x = 2894
+y = 5298
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin'
+x = 2899
+y = 5304
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin_2214'
+x = 2917
+y = 5284
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin_2214'
+x = 2923
+y = 5289
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin_2214'
+x = 2886
+y = 5291
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin_2214'
+x = 2886
+y = 5301
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin_2214'
+x = 2891
+y = 5297
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin_2214'
+x = 2899
+y = 5287
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.knight_of_saradomin_2214'
+x = 2907
+y = 5301
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound_3133'
+x = 2892
+y = 5302
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.werewolf_3135'
+x = 2916
+y = 5269
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.werewolf_3135'
+x = 2891
+y = 5285
+plane = 2
+direction = 'EAST'
+[[spawns]]
+id = 'npc.werewolf_3136'
+x = 2919
+y = 5293
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.werewolf_3136'
+x = 2884
+y = 5295
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.werewolf_3136'
+x = 2909
+y = 5297
+plane = 2
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.feral_vampyre'
+x = 2918
+y = 5280
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.feral_vampyre'
+x = 2922
+y = 5283
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.icefiend'
+x = 2917
+y = 5274
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gorak_3141'
+x = 2911
+y = 5270
+plane = 0
+direction = 'SOUTH'

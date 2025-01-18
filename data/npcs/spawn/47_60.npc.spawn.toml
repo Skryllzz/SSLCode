@@ -1,0 +1,168 @@
+[[spawns]]
+id = 'npc.lesser_demon_2006'
+x = 3017
+y = 3852
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2007'
+x = 3015
+y = 3851
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lesser_demon_2008'
+x = 3014
+y = 3848
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lesser_demon_2018'
+x = 3016
+y = 3845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3046
+y = 3882
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3046
+y = 3884
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3047
+y = 3874
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3047
+y = 3876
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3047
+y = 3890
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3047
+y = 3892
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3049
+y = 3896
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3050
+y = 3871
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3052
+y = 3871
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3052
+y = 3896
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3058
+y = 3897
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3061
+y = 3897
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3067
+y = 3896
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.deadly_red_spider'
+x = 3070
+y = 3896
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3023
+y = 3849
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3029
+y = 3852
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3032
+y = 3851
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3038
+y = 3854
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3042
+y = 3856
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3050
+y = 3849
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3054
+y = 3852
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3057
+y = 3842
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.black_knight_517'
+x = 3058
+y = 3854
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_6113'
+x = 3068
+y = 3858
+plane = 0
+direction = 'NONE'

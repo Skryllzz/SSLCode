@@ -1,0 +1,432 @@
+[[spawns]]
+id = 'npc.butterfly_235'
+x = 2422
+y = 3489
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 2374
+y = 3469
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_236'
+x = 2376
+y = 3466
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.butterfly_237'
+x = 2371
+y = 3460
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.butterfly_237'
+x = 2372
+y = 3456
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_237'
+x = 2422
+y = 3467
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.damwin'
+x = 2417
+y = 3496
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wurbel'
+x = 2395
+y = 3477
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.sarble'
+x = 2417
+y = 3517
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.burkor'
+x = 2420
+y = 3474
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_coach'
+x = 2406
+y = 3498
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gnome_baller'
+x = 2400
+y = 3483
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller'
+x = 2400
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller'
+x = 2400
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller'
+x = 2400
+y = 3489
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller'
+x = 2400
+y = 3491
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller'
+x = 2400
+y = 3493
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3147'
+x = 2396
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3147'
+x = 2396
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3147'
+x = 2396
+y = 3489
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3147'
+x = 2396
+y = 3491
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3151'
+x = 2391
+y = 3484
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3151'
+x = 2391
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3151'
+x = 2391
+y = 3489
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_baller_3151'
+x = 2391
+y = 3492
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_winger'
+x = 2393
+y = 3483
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_winger'
+x = 2393
+y = 3493
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_ball_referee'
+x = 2384
+y = 3488
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.cheerleader'
+x = 2395
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.cheerleader'
+x = 2397
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_4297'
+x = 2370
+y = 3484
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_troop'
+x = 2384
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_troop'
+x = 2388
+y = 3473
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_troop'
+x = 2418
+y = 3474
+plane = 3
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gnome_troop_4974'
+x = 2409
+y = 3507
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_troop_4974'
+x = 2412
+y = 3474
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_child'
+x = 2392
+y = 3475
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_child'
+x = 2394
+y = 3506
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gnome_child'
+x = 2396
+y = 3471
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_child'
+x = 2405
+y = 3499
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_child'
+x = 2416
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6081'
+x = 2409
+y = 3470
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gnome_guard_6081'
+x = 2416
+y = 3466
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6081'
+x = 2420
+y = 3466
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6081'
+x = 2412
+y = 3471
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_guard_6081'
+x = 2418
+y = 3471
+plane = 3
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman'
+x = 2379
+y = 3482
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman'
+x = 2381
+y = 3496
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman'
+x = 2384
+y = 3497
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman'
+x = 2391
+y = 3476
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman'
+x = 2410
+y = 3496
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gnome_woman'
+x = 2421
+y = 3481
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman'
+x = 2397
+y = 3514
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gnome_woman_6087'
+x = 2378
+y = 3482
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman_6087'
+x = 2383
+y = 3496
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman_6087'
+x = 2402
+y = 3507
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman_6087'
+x = 2406
+y = 3476
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.gnome_woman_6087'
+x = 2422
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman_6087'
+x = 2382
+y = 3506
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_woman_6087'
+x = 2418
+y = 3472
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.gnome_6094'
+x = 2417
+y = 3493
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_6094'
+x = 2418
+y = 3495
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_6095'
+x = 2394
+y = 3500
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_6095'
+x = 2417
+y = 3483
+plane = 1
+direction = 'EAST'
+[[spawns]]
+id = 'npc.gnome_6096'
+x = 2400
+y = 3514
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.gnome_6096'
+x = 2418
+y = 3485
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6116'
+x = 2396
+y = 3481
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_6207'
+x = 2368
+y = 3486
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.barman_6532'
+x = 2417
+y = 3498
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7180'
+x = 2390
+y = 3514
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7188'
+x = 2388
+y = 3514
+plane = 1
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_7194'
+x = 2383
+y = 3509
+plane = 1
+direction = 'NONE'

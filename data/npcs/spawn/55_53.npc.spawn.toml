@@ -1,0 +1,174 @@
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3524
+y = 3413
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3530
+y = 3441
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3541
+y = 3410
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3544
+y = 3430
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3563
+y = 3438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blood_blamish_snail'
+x = 3531
+y = 3438
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blood_blamish_snail'
+x = 3558
+y = 3453
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3540
+y = 3430
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bruise_blamish_snail'
+x = 3520
+y = 3407
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.bark_blamish_snail'
+x = 3530
+y = 3398
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.blood_blamish_snail_2650'
+x = 3534
+y = 3428
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ochre_blamish_snail_2651'
+x = 3545
+y = 3440
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3532
+y = 3446
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3537
+y = 3445
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3537
+y = 3451
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3547
+y = 3442
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3549
+y = 3437
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3549
+y = 3449
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3552
+y = 3450
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3554
+y = 3440
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3554
+y = 3453
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3556
+y = 3438
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3558
+y = 3444
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.swamp_lizard'
+x = 3562
+y = 3435
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ghast'
+x = 3523
+y = 3436
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3526
+y = 3398
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3531
+y = 3425
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3548
+y = 3450
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ghast'
+x = 3563
+y = 3444
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,120 @@
+[[spawns]]
+id = 'npc.fishing_spot_10513'
+x = 1970
+y = 5854
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_10513'
+x = 1974
+y = 5853
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 1977
+y = 5887
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 1972
+y = 5867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 1973
+y = 5862
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 1978
+y = 5869
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken'
+x = 1981
+y = 5865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 1977
+y = 5864
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 1981
+y = 5872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.chicken_1174'
+x = 1983
+y = 5860
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 1958
+y = 5887
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 1974
+y = 5868
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1961
+y = 5882
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1980
+y = 5878
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_calf'
+x = 1960
+y = 5875
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2795'
+x = 1956
+y = 5876
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2795'
+x = 1958
+y = 5872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.cow_2795'
+x = 1959
+y = 5879
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1965
+y = 5876
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1972
+y = 5878
+plane = 0
+direction = 'NONE'

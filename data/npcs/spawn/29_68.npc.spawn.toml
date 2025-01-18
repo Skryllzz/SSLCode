@@ -1,0 +1,222 @@
+[[spawns]]
+id = 'npc.wallasalki_5939'
+x = 1882
+y = 4370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wallasalki_5939'
+x = 1884
+y = 4386
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wallasalki_5939'
+x = 1891
+y = 4369
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wallasalki_5939'
+x = 1904
+y = 4374
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.wallasalki_5939'
+x = 1908
+y = 4365
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rock_crab_5940'
+x = 1879
+y = 4375
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rock_crab_5940'
+x = 1889
+y = 4366
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.giant_rock_crab_5940'
+x = 1905
+y = 4361
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1886
+y = 4370
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1887
+y = 4372
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1895
+y = 4362
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1899
+y = 4364
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1859
+y = 4360
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1864
+y = 4365
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1863
+y = 4380
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5942'
+x = 1864
+y = 4383
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1884
+y = 4364
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1884
+y = 4377
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1891
+y = 4360
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1895
+y = 4368
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1901
+y = 4371
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1913
+y = 4367
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1864
+y = 4395
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1864
+y = 4408
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1866
+y = 4401
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1877
+y = 4410
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.dagannoth_5943'
+x = 1888
+y = 4409
+plane = 1
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1882
+y = 4382
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1884
+y = 4389
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1887
+y = 4386
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1887
+y = 4409
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1889
+y = 4394
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1895
+y = 4409
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1898
+y = 4400
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1900
+y = 4410
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1904
+y = 4401
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rock_5945'
+x = 1907
+y = 4407
+plane = 0
+direction = 'SOUTH'

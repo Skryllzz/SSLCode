@@ -1,0 +1,78 @@
+[[spawns]]
+id = 'npc.freaky_forester'
+x = 2599
+y = 4775
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5497'
+x = 2599
+y = 4772
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5497'
+x = 2603
+y = 4774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5497'
+x = 2610
+y = 4774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5498'
+x = 2598
+y = 4777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5498'
+x = 2606
+y = 4778
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5498'
+x = 2608
+y = 4772
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_5499'
+x = 2597
+y = 4779
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_5499'
+x = 2598
+y = 4774
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5499'
+x = 2605
+y = 4777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5501'
+x = 2600
+y = 4777
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5501'
+x = 2603
+y = 4769
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_5501'
+x = 2607
+y = 4775
+plane = 0
+direction = 'NONE'

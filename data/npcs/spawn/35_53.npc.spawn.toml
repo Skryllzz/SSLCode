@@ -1,0 +1,84 @@
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2266
+y = 3411
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2268
+y = 3409
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2269
+y = 3413
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2271
+y = 3411
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2273
+y = 3404
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2275
+y = 3407
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2276
+y = 3401
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2277
+y = 3404
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.carnivorous_chinchompa'
+x = 2279
+y = 3405
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rhoddwr_tan'
+x = 2282
+y = 3445
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.meddwl_ymlaen_llaw'
+x = 2279
+y = 3447
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.lleidr_golau'
+x = 2276
+y = 3451
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.red_panda'
+x = 2285
+y = 3411
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.tide'
+x = 2249
+y = 3448
+plane = 0
+direction = 'SOUTH'

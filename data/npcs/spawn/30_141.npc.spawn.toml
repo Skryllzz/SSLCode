@@ -1,0 +1,72 @@
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 1957
+y = 9037
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 1971
+y = 9045
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior'
+x = 1971
+y = 9073
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 1963
+y = 9077
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 1968
+y = 9040
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_warrior_7990'
+x = 1969
+y = 9066
+plane = 1
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1962
+y = 9044
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1964
+y = 9034
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1965
+y = 9072
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1968
+y = 9080
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1972
+y = 9077
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogress_shaman'
+x = 1975
+y = 9036
+plane = 1
+direction = 'NONE'

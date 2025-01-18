@@ -1,0 +1,252 @@
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3425
+y = 3317
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3427
+y = 3319
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3430
+y = 3291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3434
+y = 3286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3438
+y = 3294
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3443
+y = 3306
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3445
+y = 3286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3451
+y = 3291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail'
+x = 3451
+y = 3309
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3425
+y = 3278
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3426
+y = 3277
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3438
+y = 3312
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3445
+y = 3284
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3447
+y = 3269
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail'
+x = 3452
+y = 3308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bark_blamish_snail'
+x = 3430
+y = 3310
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.bark_blamish_snail'
+x = 3430
+y = 3311
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bark_blamish_snail'
+x = 3439
+y = 3312
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bark_blamish_snail'
+x = 3448
+y = 3268
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bark_blamish_snail'
+x = 3450
+y = 3308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3421
+y = 3291
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3423
+y = 3299
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3426
+y = 3308
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3429
+y = 3299
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3432
+y = 3287
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3437
+y = 3302
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3438
+y = 3290
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3438
+y = 3311
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3447
+y = 3284
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3447
+y = 3286
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3448
+y = 3300
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.myre_blamish_snail_2649'
+x = 3454
+y = 3309
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail_2651'
+x = 3426
+y = 3275
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail_2651'
+x = 3431
+y = 3309
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.ochre_blamish_snail_2651'
+x = 3447
+y = 3267
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ochre_blamish_snail_2651'
+x = 3452
+y = 3307
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2655'
+x = 3437
+y = 3272
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2655'
+x = 3439
+y = 3276
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2655'
+x = 3440
+y = 3271
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2655'
+x = 3440
+y = 3280
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2655'
+x = 3443
+y = 3272
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fishing_spot_2655'
+x = 3445
+y = 3274
+plane = 0
+direction = 'EAST'

@@ -1,0 +1,102 @@
+[[spawns]]
+id = 'npc.bird_10541'
+x = 1941
+y = 5945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bird_10541'
+x = 1954
+y = 5904
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel'
+x = 1935
+y = 5914
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 1954
+y = 5931
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1417'
+x = 1975
+y = 5934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_1418'
+x = 1965
+y = 5896
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1921
+y = 5931
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1947
+y = 5908
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1955
+y = 5949
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1973
+y = 5888
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.butterfly_238'
+x = 1975
+y = 5918
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1960
+y = 5897
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1961
+y = 5901
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1963
+y = 5899
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1969
+y = 5890
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1971
+y = 5895
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1973
+y = 5891
+plane = 0
+direction = 'NONE'

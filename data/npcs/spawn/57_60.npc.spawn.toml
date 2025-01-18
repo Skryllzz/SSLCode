@@ -1,0 +1,294 @@
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3657
+y = 3876
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.crab_1553'
+x = 3700
+y = 3900
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3651
+y = 3884
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3653
+y = 3845
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3657
+y = 3860
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3660
+y = 3893
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3675
+y = 3899
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3692
+y = 3902
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.gull'
+x = 3709
+y = 3902
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3673
+y = 3858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3674
+y = 3878
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3677
+y = 3850
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3678
+y = 3846
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3678
+y = 3867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3679
+y = 3857
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3682
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3685
+y = 3858
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3685
+y = 3867
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3685
+y = 3890
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3689
+y = 3845
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3689
+y = 3857
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3692
+y = 3868
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3693
+y = 3847
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3694
+y = 3853
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_471'
+x = 3696
+y = 3859
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3697
+y = 3864
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3697
+y = 3890
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_471'
+x = 3698
+y = 3846
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_471'
+x = 3703
+y = 3872
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7494'
+x = 3662
+y = 3848
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7498'
+x = 3661
+y = 3849
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.irene'
+x = 3690
+y = 3878
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3656
+y = 3878
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3657
+y = 3872
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3658
+y = 3875
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.fossil_rock'
+x = 3707
+y = 3898
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7823'
+x = 3686
+y = 3883
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7824'
+x = 3692
+y = 3883
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_7825'
+x = 3686
+y = 3884
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7826'
+x = 3686
+y = 3882
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.null_7827'
+x = 3692
+y = 3884
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7828'
+x = 3692
+y = 3882
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_7829'
+x = 3688
+y = 3880
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7830'
+x = 3690
+y = 3880
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_7834'
+x = 3710
+y = 3883
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7835'
+x = 3697
+y = 3876
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_7838'
+x = 3683
+y = 3870
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7839'
+x = 3681
+y = 3865
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.maz'
+x = 3703
+y = 3852
+plane = 0
+direction = 'NORTH'

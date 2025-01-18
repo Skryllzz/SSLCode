@@ -1,0 +1,90 @@
+#inferno bulwark
+[[item]]
+id=28906
+inherit=21018
+name="inferno bulwark"
+placeholderid=28927
+invmodel=52536
+primarymalemodel=52535
+primaryfemalemodel=52535
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+notedid=-1
+zoom=2704
+modelpitch=402
+modelroll=13
+offsetx=0
+offsety=4
+
+#inferno bulwark Placeholder
+[[item]]
+id=28927
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=28906
+invmodel=52536
+
+#god tbow
+[[item]]
+id=28907
+inherit=21018
+name="god twisted bow"
+placeholderid=28928
+invmodel=52539
+primarymalemodel=52540
+primaryfemalemodel=52541
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+notedid=-1
+zoom=2000
+modelpitch=720
+modelroll=1500
+offsetx=-3
+offsety=1
+
+#god twisted bow Placeholder
+[[item]]
+id=28928
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=28907
+invmodel=52539
+
+#vampyire faceguard
+
+[[item]]
+id=28908
+inherit=21018
+name="vampyire faceguard"
+placeholderid=28929
+invmodel=52537
+primarymalemodel=52538
+primaryfemalemodel=52538
+secondarymalemodel=-1
+secondaryfemalemodel=-1
+tertiarymalemodel=-1
+tertiaryfemalemodel=-1
+grandexchange=true
+notedid=-1
+zoom=984
+modelpitch=126
+modelroll=129
+offsetx=-1
+offsety=1
+
+#vampyire faceguard Placeholder
+[[item]]
+id=28929
+inherit=21020
+name="null"
+placeholdertemplate=14401
+placeholderid=28908
+invmodel=52537

@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.wild_dog'
+x = 2694
+y = 9542
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.baby_red_dragon_244'
+x = 2701
+y = 9548
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_246'
+x = 2709
+y = 9545
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.baby_red_dragon_246'
+x = 2720
+y = 9536
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon'
+x = 2712
+y = 9543
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_248'
+x = 2711
+y = 9550
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_249'
+x = 2704
+y = 9546
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_250'
+x = 2704
+y = 9539
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.red_dragon_251'
+x = 2711
+y = 9537
+plane = 0
+direction = 'SOUTH'

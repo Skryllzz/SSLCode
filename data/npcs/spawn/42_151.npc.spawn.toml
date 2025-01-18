@@ -1,0 +1,108 @@
+[[spawns]]
+id = 'npc.hellhound'
+x = 2734
+y = 9683
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 2734
+y = 9688
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 2734
+y = 9693
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 2740
+y = 9688
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 2740
+y = 9698
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 2741
+y = 9678
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 2744
+y = 9683
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hellhound'
+x = 2744
+y = 9691
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2719
+y = 9668
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2719
+y = 9715
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2720
+y = 9702
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2722
+y = 9669
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2723
+y = 9707
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ogre_2095'
+x = 2724
+y = 9713
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 2694
+y = 9687
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 2696
+y = 9689
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 2697
+y = 9693
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.hobgoblin_3289'
+x = 2699
+y = 9688
+plane = 0
+direction = 'NONE'

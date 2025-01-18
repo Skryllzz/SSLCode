@@ -1,0 +1,37 @@
+.classpath
+build/
+data/characters/
+data/backups/
+data/clans/
+data/authenticator/
+data/polls/
+item-images/
+run.bat
+base_image.png
+full_image.png
+dropeditor/
+data/clans.json
+data/models/models.rar
+Model list.txt
+error.log
+/.gradle/
+/gradle/
+/.apt_generated/
+.idea/
+.gradlew
+out/production/
+bin/
+map/produced map image.png
+/zenyte.iml
+/full_image_0.png
+/full_image_1.png
+/full_image_2.png
+/full_image_3.png
+/data/test/
+/data/invitedplayers.json
+/data/inferno completions.json
+\.idea\.wiseGPT\
+/data/cache-211.zip
+/data/cache-original.zip
+/data/cache
+/data/cache-211

@@ -1,0 +1,492 @@
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2838
+y = 3923
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2840
+y = 3912
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2843
+y = 3915
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2844
+y = 3938
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2847
+y = 3948
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2848
+y = 3915
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2848
+y = 3952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2861
+y = 3914
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2869
+y = 3916
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2871
+y = 3957
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mountain_goat_4145'
+x = 2878
+y = 3951
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.snowy_knight'
+x = 2864
+y = 3957
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.snowy_knight'
+x = 2867
+y = 3954
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snowy_knight'
+x = 2870
+y = 3955
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.snowy_knight'
+x = 2874
+y = 3952
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2817
+y = 3935
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2817
+y = 3964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2818
+y = 3955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2818
+y = 3964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2820
+y = 3950
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2822
+y = 3937
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2823
+y = 3930
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2823
+y = 3955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2827
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2828
+y = 3930
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2828
+y = 3947
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2828
+y = 3960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2829
+y = 3960
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2831
+y = 3965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2834
+y = 3948
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2836
+y = 3955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2836
+y = 3964
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2838
+y = 3962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2840
+y = 3956
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2841
+y = 3965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2842
+y = 3958
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2845
+y = 3966
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg'
+x = 2872
+y = 3967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2817
+y = 3937
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2819
+y = 3965
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2821
+y = 3952
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2824
+y = 3939
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2825
+y = 3929
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2828
+y = 3962
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2830
+y = 3947
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2837
+y = 3955
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2837
+y = 3963
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.iceberg_5818'
+x = 2865
+y = 3967
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2848
+y = 3921
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2848
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2850
+y = 3923
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2852
+y = 3921
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.ice_wolf_713'
+x = 2852
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8406'
+x = 2848
+y = 3930
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8408'
+x = 2873
+y = 3936
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8415'
+x = 2872
+y = 3936
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8416'
+x = 2877
+y = 3947
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8417'
+x = 2874
+y = 3934
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2838
+y = 3912
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2845
+y = 3926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2852
+y = 3951
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2857
+y = 3916
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.squirrel_8422'
+x = 2878
+y = 3954
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_8427'
+x = 2871
+y = 3934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8432'
+x = 2878
+y = 3948
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.null_8433'
+x = 2872
+y = 3934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8436'
+x = 2875
+y = 3935
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8437'
+x = 2879
+y = 3946
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8441'
+x = 2868
+y = 3934
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_8443'
+x = 2846
+y = 3934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.pebble'
+x = 2858
+y = 3931
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.goat_poo'
+x = 2876
+y = 3927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.yellow_snow'
+x = 2851
+y = 3933
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8457'
+x = 2871
+y = 3943
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8458'
+x = 2859
+y = 3934
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8461'
+x = 2872
+y = 3944
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8462'
+x = 2869
+y = 3927
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8465'
+x = 2870
+y = 3945
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8466'
+x = 2858
+y = 3936
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8468'
+x = 2865
+y = 3946
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_8469'
+x = 2864
+y = 3945
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.null_8477'
+x = 2871
+y = 3931
+plane = 0
+direction = 'SOUTH'

@@ -1,0 +1,54 @@
+[[spawns]]
+id = 'npc.bat'
+x = 1670
+y = 3797
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.bat'
+x = 1718
+y = 3824
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.okina'
+x = 1712
+y = 3829
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.mofina'
+x = 1692
+y = 3793
+plane = 2
+direction = 'NONE'
+[[spawns]]
+id = 'npc.novice'
+x = 1687
+y = 3784
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.novice'
+x = 1687
+y = 3803
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.novice'
+x = 1709
+y = 3783
+plane = 1
+direction = 'NONE'
+[[spawns]]
+id = 'npc.null_7231'
+x = 1670
+y = 3834
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.null_7375'
+x = 1706
+y = 3799
+plane = 2
+direction = 'NONE'

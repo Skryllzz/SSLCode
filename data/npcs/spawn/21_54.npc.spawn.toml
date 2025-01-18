@@ -1,0 +1,174 @@
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1344
+y = 3492
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1345
+y = 3486
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1346
+y = 3483
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1347
+y = 3492
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1349
+y = 3490
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1350
+y = 3487
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1351
+y = 3496
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1352
+y = 3490
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1353
+y = 3492
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1354
+y = 3488
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1354
+y = 3495
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1355
+y = 3484
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1358
+y = 3490
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1358
+y = 3495
+plane = 0
+direction = 'NORTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1359
+y = 3498
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1360
+y = 3487
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.rat_2854'
+x = 1364
+y = 3485
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.lizardman'
+x = 1381
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1378
+y = 3518
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1381
+y = 3519
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6915'
+x = 1398
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6916'
+x = 1382
+y = 3499
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_6917'
+x = 1396
+y = 3496
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute'
+x = 1385
+y = 3502
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.lizardman_brute_6919'
+x = 1393
+y = 3497
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7521'
+x = 1387
+y = 3503
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7522'
+x = 1381
+y = 3501
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7522'
+x = 1384
+y = 3500
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.soldier_7524'
+x = 1383
+y = 3503
+plane = 0
+direction = 'NONE'

@@ -1,0 +1,12 @@
+[[spawns]]
+id = 'npc.null_6150'
+x = 3191
+y = 2926
+plane = 0
+direction = 'NONE'
+[[spawns]]
+id = 'npc.drew'
+x = 3153
+y = 2911
+plane = 0
+direction = 'NORTH'
