@@ -28,13 +28,13 @@ import static com.zenyte.game.content.skills.magic.spells.teleports.TeleportType
  * @see <a href="https://rune-status.net/members/kris.354/">Rune-Status profile</a>}
  */
 public enum SpellbookTeleport implements TeleportSpell, Teleport {
-    ZENYTE_HOME_TELEPORT(NORMAL, HOME_TELEPORT, 0, new Location(3087, 3490, 0), true) {
+     ZENYTE_HOME_TELEPORT(NORMAL, HOME_TELEPORT, 0, new Location(1757, 3592, 0), true) {
         @Override
         public String getSpellName() {
             return GameConstants.SERVER_NAME.toLowerCase() + " home teleport";
         }
     },
-    ZENYTE_HOME_TELEPORT_INSTANT(NORMAL, HOME_TELEPORT, 0, new Location(3087, 3490, 0), true) {
+    ZENYTE_HOME_TELEPORT_INSTANT(NORMAL, HOME_TELEPORT, 0, new Location(1757, 3592, 0), true) {
         @Override
         public TeleportType getType() {
             return TeleportType.ZENYTE_PORTAL_TELEPORT;
