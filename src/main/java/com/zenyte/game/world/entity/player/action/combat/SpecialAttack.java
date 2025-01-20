@@ -422,7 +422,7 @@ public enum SpecialAttack {
         final int level = currentLevel > maxLevel ? maxLevel : currentLevel;
         player.getSkills().setLevel(Skills.MINING, level + 3);
     }),
-    LUMBER_UP(AttackType.SLASH, new int[]{6739, 13241, 20011, 13242}, 0, MELEE, new Animation(2876), new Graphics(479), (player, combat, target) -> {
+    LUMBER_UP(AttackType.SLASH, new int[]{6739, 13241, 20011, 13242, 25110}, 0, MELEE, new Animation(2876), new Graphics(479), (player, combat, target) -> {
         player.setForceTalk(LUMBER_UP_FORCETALK);
         final int maxLevel = player.getSkills().getLevelForXp(Skills.WOODCUTTING);
         final int currentLevel = player.getSkills().getLevel(Skills.WOODCUTTING);

@@ -17,7 +17,8 @@ public enum AxeDefinitions {
     ADAMANT(1357, 31, 3, 869),
     RUNE(1359, 41, 2, 867),
     GILDED(23279, 41, 2, 8303),
-    DRAGON(6739, 61, -1, 2846) {
+    DRAGON(6739, 61, -1, 2846),
+    ECHO(25110, 1, -1, 8778) {
         public int getCutTime() {
             return Utils.random(1, 2);
         }

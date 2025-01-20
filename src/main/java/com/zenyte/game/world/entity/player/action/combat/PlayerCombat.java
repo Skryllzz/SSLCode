@@ -54,7 +54,7 @@ import java.util.function.LongPredicate;
 import static com.zenyte.game.world.entity.player.action.combat.AmmunitionDefinitions.*;
 
 public abstract class PlayerCombat extends Action {
-    public static final List<Integer> INSTANT_SPEC_WEAPONS = ImmutableList.of(4153, 12848, 20557, 1377, 11920, 12797, 13242, 13243, 13244, 20014, 6739, 13241, 20011, 21028, 21031, 21033, 20849, 21207, 35, 11791, 12904, 11037, 22296);
+    public static final List<Integer> INSTANT_SPEC_WEAPONS = ImmutableList.of(4153, 12848, 20557, 1377, 11920, 12797, 13242, 13243, 13244, 20014, 6739, 25110, 13241, 20011, 21028, 21031, 21033, 20849, 21207, 35, 11791, 12904, 11037, 22296);
     /**
      * Animations which stall when in PvP combat, but do not stall when in PvM combat.
      */
