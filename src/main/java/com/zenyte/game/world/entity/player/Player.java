@@ -304,7 +304,7 @@ public class Player extends Entity {
     private Hunter hunter = new Hunter(this);
     private BlastFurnace blastFurnace = new BlastFurnace(this);
     @Expose
-    private RespawnPoint respawnPoint = RespawnPoint.EDGEVILLE;
+    private RespawnPoint respawnPoint = RespawnPoint.HOSIDIUS;
     private DailyChallengeManager dailyChallengeManager = new DailyChallengeManager(this);
     private transient Optional<GrotesqueGuardiansInstance> grotesqueGuardiansInstance;
     private transient int pid;
@@ -2911,7 +2911,7 @@ public class Player extends Entity {
         }
         if (attributes.get("fixed respawn point teleport") == null) {
             attributes.put("fixed respawn point teleport", true);
-            respawnPoint = RespawnPoint.EDGEVILLE;
+            respawnPoint = RespawnPoint.HOSIDIUS;
         }
         if (isXPDropsWildyOnly()) {
             varManager.sendVar(3504, WildernessArea.isWithinWilderness(getX(), getY()) ? getSkillingXPRate() : 1);
