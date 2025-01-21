@@ -1,138 +1,66 @@
 [[spawns]]
-id = 'npc.jogre'
+id = 'npc.mountain_troll'
 x = 2825
 y = 9516
 plane = 0
-direction = 'NONE'
+direction = 'EAST'
 [[spawns]]
-id = 'npc.jogre'
-x = 2831
-y = 9515
+id = 'npc.mountain.troll'
+x = 2833
+y = 9516
 plane = 0
-direction = 'NONE'
+direction = 'EAST'
 [[spawns]]
-id = 'npc.jogre'
-x = 2834
+id = 'npc.mountain.troll'
+x = 2833
+y = 9494
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain.troll'
+x = 2848
+y = 9482
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain.troll'
+x = 2835
+y = 9501
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain.troll'
+x = 2850
+y = 9519
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain.troll'
+x = 2862
+y = 9525
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain.troll'
+x = 2868
+y = 9511
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain.troll'
+x = 2855
+y = 9502
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.mountain.troll'
+x = 2866
+y = 9495
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.dad'
+x = 2845
 y = 9499
 plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2835
-y = 9526
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2836
-y = 9510
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2838
-y = 9490
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2840
-y = 9518
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2845
-y = 9518
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2848
-y = 9483
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2849
-y = 9517
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2857
-y = 9501
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2857
-y = 9523
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2860
-y = 9517
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2863
-y = 9493
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2864
-y = 9526
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2866
-y = 9512
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2867
-y = 9529
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2841
-y = 9498
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2844
-y = 9501
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2845
-y = 9495
-plane = 0
-direction = 'WEST'
-[[spawns]]
-id = 'npc.jogre'
-x = 2849
-y = 9495
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2852
-y = 9493
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jogre'
-x = 2855
-y = 9491
-plane = 0
-direction = 'NONE'
+direction = 'SOUTH'
