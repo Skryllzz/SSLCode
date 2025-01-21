@@ -964,7 +964,7 @@ public final class GameCommands {
 
                 @Override
                 public Location getDestination() {
-                    return new Location(3209, 3218, 0) ;
+                    return new Location(1757, 3592, 0) ;
                 }
 
                 @Override
