@@ -55,6 +55,7 @@ import com.zenyte.game.world.entity.SoundEffect;
 import com.zenyte.game.world.entity.Toxins.ToxinType;
 import com.zenyte.game.world.entity.masks.*;
 import com.zenyte.game.world.entity.npc.NPC;
+import com.zenyte.game.world.entity.npc.NpcId;
 import com.zenyte.game.world.entity.npc.drop.matrix.NPCDrops;
 import com.zenyte.game.world.entity.player.container.impl.ContainerType;
 import com.zenyte.game.world.entity.player.cutscene.actions.CameraLookAction;
@@ -110,6 +111,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.function.BiConsumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
+import java.lang.reflect.Field;
 
 import static com.zenyte.game.world.entity.player.Emote.GIVE_THANKS_VARP;
 import static com.zenyte.game.world.entity.player.MessageType.GLOBAL_BROADCAST;
@@ -120,6 +122,27 @@ import static com.zenyte.game.world.entity.player.MessageType.GLOBAL_BROADCAST;
 public final class GameCommands {
     private static final Logger log = LoggerFactory.getLogger(GameCommands.class);
     private static final Map<String, Command> COMMANDS = new HashMap<>();
+
+    // Helper method to resolve NPC name by ID
+    private static String resolveNpcNameById(int npcId) {
+        try {
+            // Get all declared fields of the NpcId class
+            Field[] fields = NpcId.class.getDeclaredFields();
+
+            for (Field field : fields) {
+                // Filter for static final int constants
+                if (field.getType() == int.class && java.lang.reflect.Modifier.isStatic(field.getModifiers())) {
+                    // Match the value of the field to the NPC ID
+                    if (field.getInt(null) == npcId) {
+                        return field.getName(); // Return the constant name
+                    }
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null; // Return null if no match is found
+    }
 
     static {
         new Command(Privilege.ADMINISTRATOR, "test", TempCommand::run);
@@ -1698,6 +1721,53 @@ public final class GameCommands {
             p.setAnimation(Animation.STOP);
             p.getAppearance().setNpcId(Math.max(-1, id));
             p.getUpdateFlags().flag(UpdateFlag.APPEARANCE);
+        });
+
+        new Command(Privilege.ADMINISTRATOR, "addnpc", "Spawns an NPC at your location with an optional walk range. Arguments: id [range]", (p, args) -> {
+            if (!Constants.isOwner(p) && !p.inArea("Spawning area")) {
+                p.sendMessage("You can only spawn NPCs within the spawning area. ::spawning to enter.");
+                return;
+            }
+            try {
+                // Parse NPC ID from the command arguments
+                final int id = Integer.parseInt(args[0]);
+
+                // Determine the walking radius, default to 3 if not provided
+                final int radius = args.length > 1 ? Integer.parseInt(args[1]) : 3;
+
+                // Resolve the constant name in NpcId.java
+                String npcName = resolveNpcNameById(id);
+                if (npcName == null) {
+                    p.sendMessage("Unable to find NPC name for ID: " + id);
+                    return;
+                }
+
+                // Convert the name to lowercase with underscores replaced by dots
+                String formattedNpcName = "npc." + npcName.toLowerCase().replace("_", ".");
+
+                // Direction assumed to be a specific value (e.g., "EAST") - change as needed
+                final String direction = "EAST";
+
+                // Print out NPC data in the requested TOML format
+                System.out.println(String.format(
+                        "[[spawns]]\n" +
+                                "id = '%s'\n" +
+                                "x = %d\n" +
+                                "y = %d\n" +
+                                "plane = %d\n" +
+                                "direction = '%s'\n",
+                        formattedNpcName, p.getX(), p.getY(), p.getPlane(), direction
+                ));
+
+                // Spawn the NPC and set its properties
+                World.spawnNPC(id, new Location(p.getLocation()))
+                        .setSpawned(true); // Mark as a "spawned" NPC
+            } catch (NumberFormatException e) {
+                p.sendMessage("Invalid arguments. Usage: ::addnpc <id> [radius]");
+            } catch (Exception e) {
+                e.printStackTrace();
+                p.sendMessage("An error occurred while adding the NPC.");
+            }
         });
         new Command(Privilege.SPAWN_ADMINISTRATOR, "item", "Spawns an item in your inventory. If undefined, amount is set to 1 and charges are set to the default of said item. Arguments: id <Optional>amount <Optional>charges", (p, args) -> {
             final int itemId = Integer.parseInt(args[0]);
