@@ -1,59 +1,60 @@
 [[spawns]]
-id = 'npc.mountain_troll'
+id = 'npc.cave_troll'
 x = 2825
 y = 9516
+
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2833
 y = 9516
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2833
 y = 9494
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2848
 y = 9482
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2835
 y = 9501
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2850
 y = 9519
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2862
 y = 9525
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2868
 y = 9511
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2855
 y = 9502
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.mountain.troll'
+id = 'npc.cave_troll'
 x = 2866
 y = 9495
 plane = 0

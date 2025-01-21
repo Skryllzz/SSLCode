@@ -900,7 +900,7 @@ public final class NpcId
     public static final int THROWER_TROLL_933 = 933;
     public static final int THROWER_TROLL_934 = 934;
     public static final int THROWER_TROLL_935 = 935;
-    public static final int MOUNTAIN_TROLL = 936;
+    public static final int CAVE_TROLL = 936;
     public static final int MOUNTAIN_TROLL_937 = 937;
     public static final int MOUNTAIN_TROLL_938 = 938;
     public static final int MOUNTAIN_TROLL_939 = 939;
