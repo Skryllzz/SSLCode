@@ -317,43 +317,7 @@ y = 3603
 plane = 0
 direction = 'NONE'
 [[spawns]]
-id = 'npc.guard_dog_7209'
-x = 1739
-y = 3600
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.guard_dog_7209'
-x = 1742
-y = 3595
-plane = 0
-direction = 'SOUTH'
-[[spawns]]
-id = 'npc.guard_dog_7209'
-x = 1756
-y = 3619
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.guard_dog_7209'
-x = 1760
-y = 3596
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.guard_dog_7209'
-x = 1765
-y = 3601
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.guard_dog_7209'
-x = 1778
-y = 3597
-plane = 0
-direction = 'NONE'
-[[spawns]]
-id = 'npc.jonathan'
+id = 'npc.aubury_11435'
 x = 1750
 y = 3587
 plane = 0
