@@ -7,6 +7,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public enum InstantMovementObjects {
+    //SSL HOME
+    BEGINNER_DUNGEON_ROCK_ENTRANCE(2584, new Location(1845, 3556, 0), new Location(2830, 9522, 0)),
+    BEGINNER_DUNGEON_EXIT_ENTRANCE(2585, new Location(2830, 9522, 0), new Location(1844, 3556, 0)),
+    //END OF SSL HOME
     TAVERLY_DUNG_STAIRS_WEST_TOP(30190, new Location(2881, 9825, 1), new Location(2883, 9825, 0)),
     TAVERLY_DUNG_STAIRS_WEST_BOTTOM(30189, new Location(2881, 9825, 0), new Location(2880, 9825, 1)),
     MYTHS_GUILD_STATUE(31626, new Location(2456, 2846, 0), new Location(1936, 9009, 1)),
@@ -121,8 +125,6 @@ public enum InstantMovementObjects {
     FALADOR_CASTLE_STAIRS_1_TOP(24078, new Location(2984, 3338, 2), new Location(2984, 3336, 1)),
     FALADOR_CASTLE_STAIRS_1_BOTTOM(24077, new Location(2984, 3337, 1), new Location(2984, 3340, 2)),
     CAMELOT_CASTLE_STAIRWELL_TOP(25604, new Location(2750, 3511, 1), new Location(2750, 3508, 0)),
-    BRIMHAVEN_ROCK_ENTRANCE(2584, new Location(2824, 3118, 0), new Location(2830, 9522, 0)),
-    BRIMHAVEN_HANDHOLDS_EXIT(2585, new Location(2830, 9522, 0), new Location(2825, 3120, 0)),
     BRIMHAVEN_DUNGEON_ENTRANCE(20877, new Location(2743, 3153, 0), new Location(2713, 9564, 0)),
     BRIMHAVEN_DUNGEON_EXIT(20878, new Location(2714, 9564, 0), new Location(2745, 3152, 0)),
     YANILLE_STAIRS_DOWN(16664, new Location(2603, 3078, 0), new Location(2602, 9479, 0)),

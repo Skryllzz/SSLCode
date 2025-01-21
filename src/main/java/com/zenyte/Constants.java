@@ -74,8 +74,8 @@ public class Constants {
 
     // enter lowercase usernames
     public static final String[] owners = new String[]{
-            "lynamator",
-            "doubty"
+            "skryllz",
+            "morks"
     };
 
     static {
