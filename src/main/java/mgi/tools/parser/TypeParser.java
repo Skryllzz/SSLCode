@@ -38,6 +38,7 @@ import mgi.types.draw.sprite.SpriteGroupDefinitions;
 import mgi.types.worldmap.WorldMapDefinitions;
 import mgi.utilities.ByteBuffer;
 import net.lingala.zip4j.ZipFile;
+import net.runelite.api.ObjectID;
 import net.runelite.cache.definitions.loaders.LocationsLoader;
 import net.runelite.cache.definitions.loaders.MapLoaderPre209;
 import net.runelite.cache.definitions.savers.LocationSaver;
@@ -626,6 +627,9 @@ public class TypeParser {
             10, //Mounted max cape
             0, new Location(3096, 3511, 0))));
         }
+        // SSL Home Objects
+        packMapPre209(7223, null, MapUtils.inject(7223, null, new WorldObject(ObjectID.ROCKS_2584, 10, 0, new Location(1845, 3556, 0)))); //Beginner Dungeon Entrance
+        //End of Home Objects
         packMapPre209(13109, null, MapUtils.inject(13109, null, new WorldObject(ObjectId.GNOME_GLIDER, 10, 1, new Location(3322, 3428, 0))));
         packMapPre209(14477, java.nio.file.Files.readAllBytes(Paths.get("assets/map/dmm_tourny/m56_141.dat")), java.nio.file.Files.readAllBytes(Paths.get("assets/map/dmm_tourny/l56_141.dat")));
         packMapPre209(14478, java.nio.file.Files.readAllBytes(Paths.get("assets/map/dmm_tourny/m56_142.dat")), java.nio.file.Files.readAllBytes(Paths.get("assets/map/dmm_tourny/l56_142.dat")));
