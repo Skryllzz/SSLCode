@@ -1743,7 +1743,7 @@ public final class GameCommands {
                 }
 
                 // Convert the name to lowercase with underscores replaced by dots
-                String formattedNpcName = "npc." + npcName.toLowerCase().replace("_", ".");
+                String formattedNpcName = "npc." + npcName.toLowerCase().replace("_", "_");
 
                 // Direction assumed to be a specific value (e.g., "EAST") - change as needed
                 final String direction = "EAST";
