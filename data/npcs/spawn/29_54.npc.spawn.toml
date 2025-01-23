@@ -1,8 +1,42 @@
-
 [[spawns]]
-id = 'npc.null_11108'
-x = 1865
-y = 3460
+id = 'npc.crimson_swift'
+x = 1873
+y = 3505
 plane = 0
-direction = 'NONE'
-
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1878
+y = 3510
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1873
+y = 3509
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1877
+y = 3502
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1871
+y = 3501
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1865
+y = 3501
+plane = 0
+direction = 'SOUTH'
+[[spawns]]
+id = 'npc.crimson_swift'
+x = 1861
+y = 3505
+plane = 0
+direction = 'SOUTH'
