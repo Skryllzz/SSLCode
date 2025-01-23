@@ -170,7 +170,7 @@ public final class Shop {
         bind("Aleck's Hunter Emporium", p -> p.getAchievementDiaries().update(ArdougneDiary.VIEW_ALECKS_HUNTER_EMPORIUM));
         bind("Sarah's Farming Shop", p -> p.getAchievementDiaries().update(FaladorDiary.BROWSE_SARAHS_FARM_SHOP));
         bind("Keldagrim Stonemason", p -> p.getAchievementDiaries().update(FremennikDiary.BROWSE_THE_STONEMASONS_SHOP));
-        bind("Thessalia's Fine Clothes", p -> p.getAchievementDiaries().update(VarrockDiary.BROWSE_THESSELIA_STORE));
+        bind("Thessalia's Fine Clothes", p -> p.getAchievementDiaries().update(VarrockDiary.BROWSE_THESSELIA_STORE)); //Diary Update Steven Mendez
     }
 
     private final String name;
