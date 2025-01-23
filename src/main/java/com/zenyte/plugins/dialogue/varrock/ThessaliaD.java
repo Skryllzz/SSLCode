@@ -36,7 +36,7 @@ public class ThessaliaD extends Dialogue {
             npc("Well, I have a number of fine pieces of clothing on sale<br>or, if you prefer, I can offer you an exclusive, total-<br>clothing makeover?");
             options(TITLE, "Tell me more about this makeover.", "I'd just like to buy some clothes.")
                     .onOptionOne(() -> setKey(15)).onOptionTwo(() -> {
-                        player.openShop("Thessalia's Fine Clothes");//test
+                        player.openShop("Thessalia's Fine Clothes");//testt
                         finish();
                     });
             player(15, "Tell me more about this make-over.");
