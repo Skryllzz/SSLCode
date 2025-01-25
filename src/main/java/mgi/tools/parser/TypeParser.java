@@ -10,7 +10,6 @@ import com.zenyte.game.constants.GameConstants;
 import com.zenyte.game.content.achievementdiary.AchievementDiaries;
 import com.zenyte.game.content.achievementdiary.Diary;
 import com.zenyte.game.content.achievementdiary.DiaryArea;
-import com.zenyte.game.content.treasuretrails.stash.StashUnit;
 import com.zenyte.game.ui.testinterfaces.BountyHunterRewardType;
 import com.zenyte.game.util.Utils;
 import com.zenyte.game.world.entity.Location;
@@ -537,7 +536,88 @@ public class TypeParser {
 
     public static final boolean PACK_ZENYTE_HOME = false;
 
+    public static void packMap(final int id, final byte[] landscape, final byte[] map) {
+        var cache = Game.getCacheMgi();
+        var archive = cache.getArchive(ArchiveType.MAPS);
+        var xteas = XTEALoader.getXTEAs(id);
+        var regionX = id >> 8;
+        var regionY = id & 0xFF;
+
+        var mapGroup = archive.findGroupByName("m" + regionX + "_" + regionY);
+
+        var landGroup = archive.findGroupByName("l" + regionX + "_" + regionY, xteas);
+
+        if (map != null) {
+            if (landGroup != null) {
+                landGroup.findFileByID(0).setData(new ByteBuffer(map));
+            } else {
+                var newLandGroup = new Group(archive.getFreeGroupID(), new mgi.tools.jagcached.cache.File(new ByteBuffer(map)));
+                newLandGroup.setName("l" + regionX + "_" + regionY);
+                archive.addGroup(newLandGroup);
+            }
+        }
+
+        if (landscape != null) {
+            if (mapGroup != null) {
+                mapGroup.findFileByID(0).setData(new ByteBuffer(landscape));
+            } else {
+                var newMapGroup = new Group(archive.getFreeGroupID() + 1, new mgi.tools.jagcached.cache.File(new ByteBuffer(landscape)));
+                newMapGroup.setName("m" + regionX + "_" + regionY);
+                newMapGroup.setXTEA(xteas);
+                archive.addGroup(newMapGroup);
+            }
+        }
+
+    }
+
+
     private static void packMaps() throws IOException {
+
+
+        packMap(6213, java.nio.file.Files.readAllBytes(Paths.get("assets/map/1473.dat")), java.nio.file.Files.readAllBytes(Paths.get("assets/map/1474.dat")));
+
+
+        //How to implement
+/*
+        Collection<WorldObject> homeObjects = Arrays.asList(
+                new WorldObject(NullObjectID.NULL, 10, 0, new Location(3117, 3474, 0)), //Lectern w/ study option at home.
+                new WorldObject(NullObjectID.NULL, 10, 0, new Location(3117, 3481, 0)), //Lectern w/ study option at home.
+                new WorldObject(StashUnit.EDGEVILLE_GENERAL_STORE.getObjectId(), 10, 0, new Location(3079, 3484, 0)), //Map hyperlink for edgeville dungeon.
+                new WorldObject(35008, 10, 3, new Location(3092, 3508, 1)), //Crystal chest
+                new WorldObject(NullObjectID.NULL_14108, 22, 0, new Location(3101, 3487, 0)), //Map icon for portal.
+                new WorldObject(ObjectId.CLOSED_CHEST_172, 10, 2, new Location(3091, 3511, 0)), //Map icon for spiritual tree.
+                new WorldObject(NullObjectID.NULL_7389, 22, 0, new Location(3097, 3503, 0)), //Map icon for emblem trader.
+                new WorldObject(NullObjectID.NULL_7389, 22, 0, new Location(3097, 3488, 0)), //Spiritual fairy ring.
+                new WorldObject(NullObjectID.NULL_673, 22, 0, new Location(3119, 3511, 0)), //Portal
+                new WorldObject(35003, 10, 1, new Location(3096, 3487, 0)), //Box of Restoration
+                new WorldObject(35000, 10, 2, new Location(3095, 3503, 0)), //Wilderness statistics
+                new WorldObject(35001, 10, 0, new Location(3090, 3486, 0)), //pottery wheel icon
+                new WorldObject(ObjectId.WILDERNESS_STATISTICS, 10, 0, new Location(3085, 3509, 0)), //water source icon
+                new WorldObject(NullObjectID.NULL_2774, 22, 0, new Location(3114, 3506, 0)), //anvil icon
+                new WorldObject(NullObjectID.NULL_2771, 22, 0, new Location(3109, 3505, 0)), //furnace icon
+                new WorldObject(NullObjectID.NULL_2743, 22, 0, new Location(3116, 3502, 0)), //Daily board
+                new WorldObject(NullObjectID.NULL_2742, 22, 0, new Location(3113, 3497, 0)), //Magic storage unit
+                new WorldObject(35023, 4, 3, new Location(3085, 3486, 0)), // Easter modifications
+                new WorldObject(35024, 10, 0, new Location(3093, 3511, 0))
+        );
+
+        modernProcess.processMapWithObject(6213,java.nio.file.Files.readAllBytes(Paths.get("assets/map/1474.dat")),
+                java.nio.file.Files.readAllBytes(Paths.get("assets/map/1473.dat")), null, null);
+
+       */
+
+
+        /**
+         *  if you want to inject objects -> {@code parameters(region: int, landscapePath: final byte[], MapUptils.inject(mapPath: final byte[], Predicate<WorldObject>, WorldObject...)
+         *  else
+         *  {@code parameters(region: int, landscapePath: final byte[], mapPath: final byte[])
+         */
+
+        if (PACK_ZENYTE_HOME) {
+            packMap(12342, java.nio.file.Files.readAllBytes(Paths.get("assets/map/home28_l.dat")), MapUtils.inject(java.nio.file.Files.readAllBytes(Paths.get("assets/map/home28_m.dat")), null,
+                    new WorldObject(20132, 22, 0, new Location(3092, 3503, 0))));
+        }
+
         packMapPre209(9261, java.nio.file.Files.readAllBytes(Paths.get("assets/map/island_l_regular.dat")), MapUtils.inject(java.nio.file.Files.readAllBytes(Paths.get("assets/map/island_m_regular.dat")), o -> {
             if (o.getId() == 46087) {
                 o.setId(46089);
@@ -546,87 +626,8 @@ public class TypeParser {
         }));
         packMapPre209(10388, java.nio.file.Files.readAllBytes(Paths.get("assets/map/yanille/328.dat")), java.nio.file.Files.readAllBytes(Paths.get("assets/map/yanille/329.dat")));
         packMapPre209(11567, null, MapUtils.inject(11567, null, new WorldObject(ObjectId.GNOME_GLIDER, 10, 1, new Location(2919, 3054, 0))));
-        packMapPre209(11595, null, MapUtils.inject(11595, null, new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 0, new Location(2931, 4822, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 0, new Location(2896, 4821, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 1, new Location(2900, 4845, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 3, new Location(2920, 4848, 0))));
-        if (PACK_ZENYTE_HOME) {
-            packMapPre209(12342, java.nio.file.Files.readAllBytes(Paths.get("assets/map/home28_l.dat")), MapUtils.inject(java.nio.file.Files.readAllBytes(Paths.get("assets/map/home28_m.dat")), o -> {
-                if (o.getId() == 46087) {
-                    o.setId(46089);
-                } else if (o.getId() == NullObjectID.NULL_11784) {
-                    o.setId(35009);
-                } else if (o.getId() == NullObjectID.NULL_11785) {
-                    o.setId(35010);
-                } else if (o.getId() == ObjectId.SNOW_15617) {
-                    o.setId(46030);
-                }
-                return o.hashInRegion() == new Location(3092, 3487, 0).hashInRegion() || o.hashInRegion() == new Location(3094, 3489, 0).hashInRegion() || o.hashInRegion() == new Location(3095, 3488, 0).hashInRegion() || o.hashInRegion() == new Location(3097, 3488, 0).hashInRegion() || o.hashInRegion() == new Location(3100, 3486, 0).hashInRegion() || o.hashInRegion() == new Location(3127, 3496, 0).hashInRegion();
-            }, // Easter modifications
-            /*|| o.hashInRegion() == new Location(3087, 3470, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3087, 3472, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3086, 3473, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3092, 3469, 0).hashInRegion()
-            
-                                   || o.hashInRegion() == new Location(3091, 3475, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3090, 3475, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3089, 3475, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3088, 3475, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3087, 3475, 0).hashInRegion()
-                                   || o.hashInRegion() == new Location(3087, 3476, 0).hashInRegion()*/
-            //Blocking tile behind combat dummy
-            //Blocking tile behind combat dummy
-            new WorldObject(NullObjectID.NULL, 10, 0, new Location(3117, 3474, 0)), //Lectern w/ study option at home.
-            new WorldObject(NullObjectID.NULL, 10, 0, new Location(3117, 3481, 0)), //Lectern w/ study option at home.
-            new WorldObject(StashUnit.EDGEVILLE_GENERAL_STORE.getObjectId(), 10, 0, new Location(3079, 3484, 0)), //Map hyperlink for edgeville dungeon.
-            new WorldObject(35008, 10, 3, new Location(3092, 3508, 1)), //Crystal chest
-            new WorldObject(NullObjectID.NULL_14108, 22, 0, new Location(3101, 3487, 0)), //Map icon for portal.
-            new WorldObject(ObjectId.CLOSED_CHEST_172, 10, 2, new Location(3091, 3511, 0)), //Map icon for spiritual tree.
-            new WorldObject(NullObjectID.NULL_7389, 22, 0, new Location(3097, 3503, 0)), //Map icon for emblem trader.
-            new WorldObject(NullObjectID.NULL_7389, 22, 0, new Location(3097, 3488, 0)), //Spiritual fairy ring.
-            new WorldObject(NullObjectID.NULL_673, 22, 0, new Location(3119, 3511, 0)), //Portal
-            new WorldObject(35003, 10, 1, new Location(3096, 3487, 0)), //Box of Restoration
-            new WorldObject(35000, 10, 2, new Location(3095, 3503, 0)), //Wilderness statistics
-            new WorldObject(35001, 10, 0, new Location(3090, 3486, 0)), //pottery wheel icon
-            new WorldObject(ObjectId.WILDERNESS_STATISTICS, 10, 0, new Location(3085, 3509, 0)), //water source icon
-            new WorldObject(NullObjectID.NULL_2774, 22, 0, new Location(3114, 3506, 0)), //anvil icon
-            new WorldObject(NullObjectID.NULL_2771, 22, 0, new Location(3109, 3505, 0)), //furnace icon
-            new WorldObject(NullObjectID.NULL_2743, 22, 0, new Location(3116, 3502, 0)), //Daily board
-            new WorldObject(NullObjectID.NULL_2742, 22, 0, new Location(3113, 3497, 0)), //Magic storage unit
-            new WorldObject(35023, 4, 3, new Location(3085, 3486, 0)), // Easter modifications
-            new WorldObject(35024, 10, 0, new Location(3093, 3511, 0)), /*new WorldObject(EasterConstants.WARREN_ENTRANCE, 10, 0, new Location(3089, 3469, 0)),
-                new WorldObject(20132, 22, 0, new Location(3089, 3474, 0)),*/
-            // event mapicon
-            /*new WorldObject(ChristmasConstants.CHRISTMAS_CUPBOARD_ID, 10, 0, ChristmasConstants.homeChristmasCupboardLocation),//Christmas cupboard
-                new WorldObject(1579, 22, 2, 3100, 3487, 0),//Trapdoor
-                new WorldObject(2734, 22, 0, 3095, 3483, 0),//Missing mapicon
-                new WorldObject(2747, 22, 0, 3092, 3485, 0),//Missing mapicon
-                new WorldObject(2771, 22, 1, 3100, 3489, 0),//Missing mapicon
-                new WorldObject(2772, 22, 2, 3102, 3494, 0),//Missing mapicon
-                new WorldObject(2774, 22, 0, 3108, 3497, 0),//Missing mapicon
-                new WorldObject(2742, 22, 0, 3112, 3501, 0),//Missing mapicon
-                new WorldObject(5118, 22, 1, 3113, 3509, 0),//Missing mapicon
-                new WorldObject(23590, 22, 0, 3117, 3516, 0),//Missing mapicon
-                new WorldObject(26301, 22, 3, 3102, 3506, 0),//Missing mapicon
-                new WorldObject(33163, 22, 0, 3098, 3511, 0),//Missing mapicon
-                new WorldObject(2752, 22, 2, 3091, 3509, 0),//Missing mapicon
-                new WorldObject(16458, 22, 0, 3090, 3498, 0),//Missing mapicon
-                new WorldObject(2738, 22, 0, 3086, 3493, 0),//Missing mapicon
-                new WorldObject(2756, 22, 1, 3084, 3507, 0),//Missing mapicon
-                new WorldObject(2758, 22, 1, 3079, 3510, 0),//Missing mapicon
-                new WorldObject(2753, 22, 1, 3078, 3507, 0),//Missing mapicon
-                new WorldObject(2750, 22, 0, 3075, 3502, 0),//Missing mapicon
-                new WorldObject(2766, 22, 0, 3078, 3499, 0),//Missing mapicon
-                new WorldObject(2760, 22, 0, 3077, 3492, 0),//Missing mapicon
-                new WorldObject(2768, 22, 2, 3073, 3491, 0),//Missing mapicon
-                new WorldObject(2735, 22, 0, 3077, 3488, 0),//Missing mapicon
-                new WorldObject(2733, 22, 0, 3082, 3485, 0),//Missing mapicon
+        packMapPre209(11595, null, MapUtils.inject( 11595, null, new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 0, new Location(2931, 4822, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 0, new Location(2896, 4821, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 1, new Location(2900, 4845, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 3, new Location(2920, 4848, 0))));
 
-
-                new WorldObject(20132, 22, 0, new Location(3092, 3503, 0)),//Event map icon*/
-            new //Mounted max cape
-            WorldObject(//Mounted max cape
-            35002, //Mounted max cape
-            10, //Mounted max cape
-            0, new Location(3096, 3511, 0))));
-        }
         // SSL Home Objects
         packMapPre209(7223, null, MapUtils.inject(7223, null, new WorldObject(ObjectID.ROCKS_2584, 10, 0, new Location(1845, 3556, 0)))); //Beginner Dungeon Entrance
         //End of Home Objects
@@ -808,11 +809,11 @@ public class TypeParser {
     public static void packMap(final int id, String landscapeFilePath, String mapFilePath) throws IOException {
         packMap(Game.getCacheMgi(), id, java.nio.file.Files.readAllBytes(Paths.get(landscapeFilePath)), java.nio.file.Files.readAllBytes(Paths.get(mapFilePath)));
     }
-
+/*
     public static void packMap(final int id, final byte[] map, final byte[] landscape) {
         packMap(Game.getCacheMgi(), id, landscape, map);
     }
-
+*/
     public static void packMap(final Cache cache, final int id, final byte[] landscape, final byte[] map) {
         if (!ENABLED_MAP_PACKING) {
             System.out.println("Skipping packing map[" + id + ']');

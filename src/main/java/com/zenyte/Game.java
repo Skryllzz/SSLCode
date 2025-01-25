@@ -22,6 +22,7 @@ public class Game {
     public static ByteBuffer checksumBuffer;
     public static ClientProtDecoder[] decoders = new ClientProtDecoder[256];
     public static int[] crc;
+    public static volatile Cache cache;
 
     public static long getCurrentCycle() {
         return WorldThread.WORLD_CYCLE;
@@ -49,6 +50,11 @@ public class Game {
     public static Cache getCacheMgi() {
         return Game.cacheMgi;
     }
+
+    public static Cache getCache() {
+        return cache;
+    }
+
 
     public static void setCacheMgi(final Cache cacheMgi) {
         Game.cacheMgi = cacheMgi;

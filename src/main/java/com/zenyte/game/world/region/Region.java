@@ -26,6 +26,8 @@ import mgi.tools.jagcached.cache.Group;
 import mgi.types.config.Edenify;
 import mgi.types.config.ObjectDefinitions;
 import mgi.utilities.ByteBuffer;
+import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -64,6 +66,38 @@ public class Region {
     public final int getId() {
         return regionId;
     }
+
+
+    public static final byte[] inject(final byte[] buffer, @Nullable final Predicate<WorldObject> filter, @NotNull final WorldObject... objects) {
+        try {
+            final ByteBuffer landBuffer = new ByteBuffer(buffer);
+            final Collection<WorldObject> mapObjects = MapUtils.decode(landBuffer);
+            mapObjects.removeIf(obj -> {
+                final int mapObjHash = obj.hashCode();
+                final int mapObjSlot = OBJECT_SLOTS[obj.getType()];
+                for (final WorldObject object : mapObjects) {
+                    final int hash = object.hashInRegion();
+                    final int slow = OBJECT_SLOTS[object.getType()];
+                    if (hash == mapObjHash && slow == mapObjSlot) {
+                        return true;
+                    }
+                }
+                return false;
+            });
+            if (filter != null) {
+                mapObjects.removeIf(filter);
+            }
+            mapObjects.addAll(Arrays.asList(objects));
+            final ByteBuffer encoded = MapUtils.encode(mapObjects);
+            final ByteBuffer newBuffer = new ByteBuffer(encoded.getBuffer());
+            return newBuffer.getBuffer();
+        } catch (Exception e) {
+            System.out.printf("%s\n", e.getMessage());
+            throw new RuntimeException(e);
+        }
+    }
+
+
 
     /**
      * @param chunkXInRegion
