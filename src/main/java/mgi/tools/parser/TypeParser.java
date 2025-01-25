@@ -576,6 +576,8 @@ public class TypeParser {
 
         packMap(6213, java.nio.file.Files.readAllBytes(Paths.get("assets/map/1473.dat")), java.nio.file.Files.readAllBytes(Paths.get("assets/map/1474.dat")));
 
+        packMap(5421, java.nio.file.Files.readAllBytes(Paths.get("assets/map/varlamore/5421/2679.dat")), java.nio.file.Files.readAllBytes(Paths.get("assets/map/varlamore/5421/2680.dat")));
+
 
         //How to implement
 /*
