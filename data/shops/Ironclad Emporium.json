@@ -1,0 +1,98 @@
+{
+  "shopUID": 301,
+  "shopName": "Ironclad Emporium",
+  "currency": "COINS",
+  "sellPolicy": "STOCK_ONLY",
+  "items": [
+    {
+      "id": 1203,
+      "amount": 10,
+      "sellPrice": 25,
+      "buyPrice": 50
+    },
+    {
+      "id": 1279,
+      "amount": 10,
+      "sellPrice": 50,
+      "buyPrice": 100
+    },
+    {
+      "id": 1363,
+      "amount": 10,
+      "sellPrice": 91,
+      "buyPrice": 182
+    },
+    {
+      "id": 1153,
+      "amount": 10,
+      "sellPrice": 100,
+      "buyPrice": 200
+    },
+    {
+      "id": 1115,
+      "amount": 10,
+      "sellPrice": 280,
+      "buyPrice": 560
+    },
+    {
+      "id": 1067,
+      "amount": 10,
+      "sellPrice": 140,
+      "buyPrice": 280
+    },
+    {
+      "id": 1081,
+      "amount": 10,
+      "sellPrice": 140,
+      "buyPrice": 280
+    },
+    {
+      "id": 1191,
+      "amount": 10,
+      "sellPrice": 119,
+      "buyPrice": 238
+    },
+    {
+      "id": 1295,
+      "amount": 10,
+      "sellPrice": 250,
+      "buyPrice": 500
+    },
+    {
+      "id": 1424,
+      "amount": 10,
+      "sellPrice": 200,
+      "buyPrice": 400
+    },
+    {
+      "id": 1141,
+      "amount": 10,
+      "sellPrice": 190,
+      "buyPrice": 380
+    },
+    {
+      "id": 1105,
+      "amount": 100,
+      "sellPrice": 375,
+      "buyPrice": 750
+    },
+    {
+      "id": 1069,
+      "amount": 10,
+      "sellPrice": 500,
+      "buyPrice": 1000
+    },
+    {
+      "id": 1083,
+      "amount": 10,
+      "sellPrice": 500,
+      "buyPrice": 1000
+    },
+    {
+      "id": 1177,
+      "amount": 10,
+      "sellPrice": 300,
+      "buyPrice": 600
+    }
+  ]
+}

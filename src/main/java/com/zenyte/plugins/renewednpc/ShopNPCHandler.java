@@ -117,6 +117,7 @@ public enum ShopNPCHandler {
     GENERAL_STORE_CANIFIS("General Store (Canifis)", NpcId.FIDELIO),
     GERRANTS_FISHY_BUSINESS("Gerrant's Fishy Business", NpcId.GERRANT),
     GIANNES_RESTAURANT("Gianne's Restaurant", NpcId.GNOME_WAITER),
+    GORMANS_GOURMET_FOODS("Gorman’s Gourmet Foods", NpcId.GORMAN),
     //TODO: Verify existence + use marks of grace currency
     GRACES_GRACEFUL_CLOTHING("Grace's Graceful Clothing", 5919),
     GRAND_TREE_GROCERIES("Grand Tree Groceries", NpcId.HUDO),
@@ -137,6 +138,7 @@ public enum ShopNPCHandler {
     HICKTONS_ARCHERY_EMPORIUM("Hickton's Archery Emporium", NpcId.HICKTON),
     IANS_WILDERNESS_CAPE_SHOP("Ian's Wilderness Cape Shop", NpcId.IAN),
     IFABAS_GENERAL_STORE("Ifaba's General Store", NpcId.IFABA),
+    IRONCLAD_EMPORIUM("Ironclad Emporium", NpcId.TIMOTHY),
     ISLAND_FISHMONGER("Island Fishmonger", NpcId.FISHMONGER_3688),
     ISLAND_GREENGROCER("Island Greengrocer", NpcId.GREENGROCER),
     //TODO: Quest requirement
@@ -172,7 +174,7 @@ public enum ShopNPCHandler {
     LOGAVA_GRICOLLERS_COOKING_SUPPLIES("Logava Gricoller's Cooking Supplies", NpcId.LOGAVA),
     LOUIES_ARMOURED_LEGS_BAZAAR("Louie's Armoured Legs Bazaar", NpcId.LOUIE_LEGS),
     LOVECRAFTS_TACKLE("Lovecraft's Tackle", NpcId.EZEKIAL_LOVECRAFT),
-    LUMBRIDGE_GENERAL_STORE("Lumbridge General Store", NpcId.SHOP_KEEPER, NpcId.SHOP_ASSISTANT),
+    HOSIDIUS_GENERAL_STORE("Hosidius General Store", NpcId.SHOP_KEEPER),
     LUNDAILS_ARENASIDE_RUNE_SHOP("Lundail's Arena-side Rune Shop", NpcId.LUNDAIL),
     MAGE_ARENA_STAFFS("Mage Arena Staffs", NpcId.CHAMBER_GUARDIAN),
     MAGIC_GUILD_STORE("Magic Guild Store (Mystic Robes)", NpcId.WIZARD_SININA),

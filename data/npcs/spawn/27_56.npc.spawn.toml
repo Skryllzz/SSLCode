@@ -191,7 +191,7 @@ y = 3600
 plane = 0
 direction = 'EAST'
 [[spawns]]
-id = 'npc.horace'
+id = 'npc.shop_keeper'
 x = 1773
 y = 3588
 plane = 0
@@ -320,5 +320,17 @@ direction = 'NONE'
 id = 'npc.aubury_11435'
 x = 1750
 y = 3587
+plane = 0
+direction = 'WEST'
+[[spawns]]
+id = 'npc.gorman'
+x = 1798
+y = 3609
+plane = 0
+direction = 'EAST'
+[[spawns]]
+id = 'npc.timothy'
+x = 1762
+y = 3611
 plane = 0
 direction = 'WEST'

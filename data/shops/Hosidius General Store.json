@@ -1,0 +1,86 @@
+{
+  "shopUID": 155,
+  "shopName": "Hosidius General Store",
+  "currency": "COINS",
+  "sellPolicy": "CAN_SELL",
+  "items": [
+    {
+      "id": 303,
+      "amount": 10,
+      "sellPrice": 10,
+      "buyPrice": 20
+    },
+    {
+      "id": 1351,
+      "amount": 10,
+      "sellPrice": 20,
+      "buyPrice": 40
+    },
+    {
+      "id": 1265,
+      "amount": 10,
+      "sellPrice": 20,
+      "buyPrice": 40
+    },
+    {
+      "id": 1733,
+      "amount": 10,
+      "sellPrice": 1,
+      "buyPrice": 2
+    },
+    {
+      "id": 1734,
+      "amount": 100,
+      "sellPrice": 1,
+      "buyPrice": 2
+    },
+    {
+      "id": 1931,
+      "amount": 10,
+      "sellPrice": 1,
+      "buyPrice": 3
+    },
+    {
+      "id": 1925,
+      "amount": 10,
+      "sellPrice": 2,
+      "buyPrice": 5
+    },
+    {
+      "id": 22660,
+      "amount": 10,
+      "sellPrice": 700,
+      "buyPrice": 1400
+    },
+    {
+      "id": 1935,
+      "amount": 10,
+      "sellPrice": 2,
+      "buyPrice": 4
+    },
+    {
+      "id": 20742,
+      "amount": 10,
+      "sellPrice": 150,
+      "buyPrice": 300
+    },
+    {
+      "id": 1755,
+      "amount": 10,
+      "sellPrice": 1,
+      "buyPrice": 3
+    },
+    {
+      "id": 2347,
+      "amount": 10,
+      "sellPrice": 1,
+      "buyPrice": 3
+    },
+    {
+      "id": 946,
+      "amount": 10,
+      "sellPrice": 7,
+      "buyPrice": 15
+    }
+  ]
+}

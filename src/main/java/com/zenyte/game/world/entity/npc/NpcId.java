@@ -2697,7 +2697,7 @@ public final class NpcId
     public static final int HORVIK = 2882;
     public static final int LOWE = 2883;
     public static final int SHOP_KEEPER_2884 = 2884;
-    public static final int SHOP_ASSISTANT_2885 = 2885;
+    public static final int TIMOTHY = 2885;
     public static final int ASYFF = 2887;
     public static final int SHOP_KEEPER_2888 = 2888;
     public static final int GRUM_2889 = 2889;
@@ -3079,7 +3079,7 @@ public final class NpcId
     public static final int ZOO_KEEPER = 3302;
     public static final int CHUCK = 3303;
     public static final int BARMAN_3304 = 3304;
-    public static final int MASTER_CHEF = 3305;
+    public static final int GORMAN = 3305;
     public static final int HENJA = 3306;
     public static final int COMBAT_INSTRUCTOR = 3307;
     public static final int GIELINOR_GUIDE = 3308;
