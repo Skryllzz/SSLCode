@@ -631,6 +631,7 @@ public class TypeParser {
         packMapPre209(11595, null, MapUtils.inject( 11595, null, new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 0, new Location(2931, 4822, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 0, new Location(2896, 4821, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 1, new Location(2900, 4845, 0)), new WorldObject(ObjectId.BANK_DEPOSIT_BOX_26254, 10, 3, new Location(2920, 4848, 0))));
 
         // SSL Home Objects
+        packMapPre209(6968, null, MapUtils.inject(6968, null, new WorldObject(2734, 22, 0, new Location(1762, 3611, 0)))); //Melle Shop Minimap icon
         packMapPre209(7223, null, MapUtils.inject(7223, null, new WorldObject(ObjectID.ROCKS_2584, 10, 0, new Location(1845, 3556, 0)))); //Beginner Dungeon Entrance
         //End of Home Objects
         packMapPre209(13109, null, MapUtils.inject(13109, null, new WorldObject(ObjectId.GNOME_GLIDER, 10, 1, new Location(3322, 3428, 0))));
