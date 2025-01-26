@@ -15,9 +15,6 @@ public class ShopNPCPlugin extends NPCPlugin {
             if (handler == null) {
                 throw new RuntimeException("Shop handler is null!");
             }
-            if (handler == ShopNPCHandler.WARRENS_GENERAL_STORE) {
-                player.getAchievementDiaries().update(KourendDiary.BROWSE_WARRENWS_GENERAL_STORE);
-            }
             player.openShop(handler.shop);
         });
     }
