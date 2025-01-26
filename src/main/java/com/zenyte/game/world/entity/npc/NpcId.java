@@ -5633,7 +5633,7 @@ public final class NpcId
     public static final int RANGING_GUILD_DOORMAN = 6057;
     public static final int LEATHERWORKER = 6058;
     public static final int ARMOUR_SALESMAN = 6059;
-    public static final int BOW_AND_ARROW_SALESMAN = 6060;
+    public static final int RAPHAEL = 6060;
     public static final int TOWER_ADVISOR = 6061;
     public static final int TOWER_ADVISOR_6062 = 6062;
     public static final int TOWER_ADVISOR_6063 = 6063;

@@ -1,0 +1,68 @@
+{
+  "shopUID": 303,
+  "shopName": "Arrow and Quiver",
+  "currency": "COINS",
+  "sellPolicy": "STOCK_ONLY",
+  "items": [
+    {
+      "id": 841,
+      "amount": 30,
+      "sellPrice": 65,
+      "buyPrice": 130
+    },
+    {
+      "id": 839,
+      "amount": 30,
+      "sellPrice": 100,
+      "buyPrice": 200
+    },
+    {
+      "id": 843,
+      "amount": 20,
+      "sellPrice": 135,
+      "buyPrice": 270
+    },
+    {
+      "id": 882,
+      "amount": 5000,
+      "sellPrice": 1,
+      "buyPrice": 2
+    },
+    {
+      "id": 884,
+      "amount": 5000,
+      "sellPrice": 4,
+      "buyPrice": 8
+    },
+    {
+      "id": 1167,
+      "amount": 30,
+      "sellPrice": 10,
+      "buyPrice": 20
+    },
+    {
+      "id": 1129,
+      "amount": 30,
+      "sellPrice": 20,
+      "buyPrice": 40
+    },
+    {
+      "id": 1169,
+      "amount": 30,
+      "sellPrice": 15,
+      "buyPrice": 30
+    },
+    {
+      "id": 1063,
+      "amount": 30,
+      "sellPrice": 8,
+      "buyPrice": 16
+    },
+    {
+      "id": 1061,
+      "amount": 30,
+      "sellPrice": 40,
+      "buyPrice": 80
+    }
+  ]
+}

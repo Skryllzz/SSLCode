@@ -5,6 +5,7 @@ import it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap;
 
 public enum ShopNPCHandler {
 
+    ARROW_AND_QUIVER("Arrow and Quiver", NpcId.RAPHAEL),
     AUBURY_RUNES_SHOP("Aubury's Rune Shop", NpcId.AUBURY_11435),
     GORMANS_GOURMET_FOODS("Gorman’s Gourmet Foods", NpcId.GORMAN),
     IRONCLAD_EMPORIUM("Ironclad Emporium", NpcId.TIMOTHY),

@@ -197,12 +197,6 @@ y = 3588
 plane = 0
 direction = 'NORTH'
 [[spawns]]
-id = 'npc.vannah'
-x = 1763
-y = 3593
-plane = 0
-direction = 'NORTH'
-[[spawns]]
 id = 'npc.logava'
 x = 1768
 y = 3598
@@ -334,3 +328,9 @@ x = 1762
 y = 3611
 plane = 0
 direction = 'WEST'
+[[spawns]]
+id = 'npc.raphael'
+x = 1779
+y = 3619
+plane = 0
+direction = 'EAST'
