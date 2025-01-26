@@ -17,6 +17,7 @@ public class NPCCombatDefinitions {
     private int hitpoints = 1;
     private int attackSpeed;
     private int slayerLevel;
+    private int slayerExp;
     private int attackDistance;
     private int aggressionDistance;
     private int maximumDistance;
@@ -38,6 +39,7 @@ public class NPCCombatDefinitions {
             defs.hitpoints = other.hitpoints;
             defs.attackSpeed = other.attackSpeed;
             defs.slayerLevel = other.slayerLevel;
+            defs.slayerExp = other.slayerExp;
             defs.attackDistance = other.attackDistance;
             defs.aggressionDistance = other.aggressionDistance;
             defs.maximumDistance = other.maximumDistance;
@@ -242,6 +244,14 @@ public class NPCCombatDefinitions {
 
     public int getSlayerLevel() {
         return this.slayerLevel;
+    }
+
+    public int getSlayerExp() {
+        return slayerExp;
+    }
+
+    public void setSlayerExp(int slayerExp) {
+        this.slayerExp = slayerExp;
     }
 
     public void setSlayerLevel(final int slayerLevel) {

@@ -33,10 +33,7 @@ import com.zenyte.game.world.entity.npc.impl.slayer.superior.SuperiorMonster;
 import com.zenyte.game.world.entity.npc.impl.slayer.superior.SuperiorNPC;
 import com.zenyte.game.world.entity.npc.spawns.NPCSpawn;
 import com.zenyte.game.world.entity.pathfinding.Flags;
-import com.zenyte.game.world.entity.player.MemberRank;
-import com.zenyte.game.world.entity.player.NotificationSettings;
-import com.zenyte.game.world.entity.player.Player;
-import com.zenyte.game.world.entity.player.Setting;
+import com.zenyte.game.world.entity.player.*;
 import com.zenyte.game.world.entity.player.action.combat.CombatType;
 import com.zenyte.game.world.entity.player.action.combat.PlayerCombat;
 import com.zenyte.game.world.entity.player.container.impl.equipment.EquipmentSlot;
@@ -890,7 +887,12 @@ public class NPC extends Entity {
             setAnimation(null);
             if (source != null) {
                 if (source instanceof Player player) {
-                    player.getSlayer().checkAssignment(this);
+                    NPCCombatDefinitions combatDef = NPCCDLoader.get(this.id);
+                    int slayerExp = combatDef != null ? combatDef.getSlayerExp() : 0;
+                    if (slayerExp > 0) {
+                        player.getSkills().addXp(Skills.SLAYER, slayerExp);
+                    }
+
                 }
             }
         } catch (Exception e) {

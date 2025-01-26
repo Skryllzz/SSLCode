@@ -146520,6 +146520,7 @@
     "hitpoints": 60,
     "attackSpeed": 6,
     "slayerLevel": 0,
+    "slayerExp": 1,
     "attackDistance": 4,
     "aggressionDistance": 4,
     "maximumDistance": 16,
