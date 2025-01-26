@@ -69,14 +69,13 @@ public class SpellbookInterface extends Interface {
             }
 
             final DefaultSpell spell = Magic.getSpell(player.getCombatDefinitions().getSpellbook(), spellName, DefaultSpell.class);
-            //The below block prevents flapping on the home teleport spell when multi-clicking it.
+            // The block below prevents flapping on the home teleport in cases of multi-clicking it.
             if (spell != null
                     && spell.getSpellName().toLowerCase().endsWith("home teleport")
-                    && player.getActionManager().getAction() instanceof HomeStructure.HomeTeleportAction
-                    && player.getTemporaryAttributes().get("Current teleport spell") == ((SpellbookTeleport) spell).getDestination()
                     && Objects.equals(player.getTemporaryAttributes().get("Last Spellbook Click Option"), option)) {
-                return;
+                // No return, allow the teleport to proceed again
             }
+
             player.getTemporaryAttributes().put("Last Spellbook Click Option", option);
             if (spell instanceof SpellbookTeleport) {
                 player.getTemporaryAttributes().put("Current teleport spell", ((SpellbookTeleport) spell).getDestination());
@@ -86,7 +85,7 @@ public class SpellbookInterface extends Interface {
             } else {
                 player.stop(Player.StopType.INTERFACES, Player.StopType.WALK, Player.StopType.ROUTE_EVENT);
             }
-            //Exception for vengeance spell as it is a direct combat spell and shouldn't interrupt combat. And thralls.
+            // Exception for the vengeance spell as it is a direct combat spell and shouldn't interrupt combat. Also for thralls.
             if (spell == null || !(spell instanceof Vengeance)) {
                 player.stop(Player.StopType.ACTIONS);
             }
